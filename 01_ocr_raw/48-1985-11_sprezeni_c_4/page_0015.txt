@@ -1,17 +1,17 @@
-# ZDROJ: Spřežení č. 4, rok 1985, strana nezjištěna
+# ZDROJ: Spřežení č. 4, rok 1985, s. 13
 # SOUBOR: 48-1985-11_sprezeni_c_4.pdf
 # PDF_STRANA: 15
-# TISTENA_STRANA: nezjištěna
-# OCR: tesseract-5.3.4 / ces / conf 76.3
+# TISTENA_STRANA: 13
+# OCR: vision (AI dočtení, tesseract conf pod prahem); dolní polovina strany fotografie
 ---
--= 13 =
+- 13 -
+
 příštím roce uskuteční na výroční členské schůzi v Praze v dubnu, další v
-Táboře 7.6, při oblastní speciálce a poslední ns podzim 5.10. v Č.Budějo-
+Táboře 7.6. při oblastní speciálce a poslední na podzim 5.10. v Č.Budějo-
 vicích.
 Na speciálky a bonitace pozvánky dostanete včas, na ostatní výstavy si je
-musíte sehnat sami - např. v inzerátech v česopise PES, |
-:
-i
-da oýb je
-ún- J2NABNSe
-Přejezd Českomoravské vrchoviny foto O.Kupka
+musíte sehnat sami - např. v inzerátech v časopise PES.
+                                                                       [znak klubu K]
+
+[fotografie - spřežení psů se saněmi a skupina lidí v mlžném lesním terénu]
+Přejezd Českomoravské vrchoviny                          foto O.Kupka

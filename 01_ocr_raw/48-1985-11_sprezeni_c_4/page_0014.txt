@@ -1,67 +1,70 @@
-# ZDROJ: Spřežení č. 4, rok 1985, strana nezjištěna
+# ZDROJ: Spřežení č. 4, rok 1985, s. 12
 # SOUBOR: 48-1985-11_sprezeni_c_4.pdf
 # PDF_STRANA: 14
-# TISTENA_STRANA: nezjištěna
-# OCR: tesseract-5.3.4 / ces / conf 83.6
+# TISTENA_STRANA: 12
+# OCR: vision (AI dočtení, tesseract conf pod prahem)
 ---
-č JÓ s
-straně, Nemusí jit u nohy, může jit kousék před námi nebo za námi, ale
-v žádném případě nesmí nu voditku táhnout nebo 86 Vzpouzet.
-Při statickém posuzování postavíme pse do tzv. výstavního postoje,
+- 12 -
+
+straně. Nemusí jít u nohy, může jít kousek před námi nebo za námi, ale
+v žádném případě nesmí na vodítku táhnout nebo se vzpouzet.
+
+    Při statickém posuzování postavíme psa do tzv. výstavního postoje.
 Je to přirozený postoj, při kterém jsou přední nohy postaveny rovnoběžně
-B přesně kolmo k zemi, všechny tlapky směřují dopředu, hlava je vztyčená,
-Pokud pes stojí Špatně, kousek s ním popojdeme a zastavíme - až se postaví
-správně, Je dobře, když je pes náůčen v tomto postoji setrvat bez Jakéhokeo-
-liv přešlepování, Do výstavního postoje psa stavíme kdykoliv si ho rozhodčí
-prohlíží a také nz konci posuzování, když na něj diktuje posudek,
-Pokud bude náš pes ohodnocen jako výborný nebo dokonce zvítězí, budeme
-mít jistě radost, případný výstavní nsuspěch ele neberme tragicky a nenech-
+a přesně kolmo k zemi, všechny tlapky směřují dopředu, hlava je vztyčená.
+Pokud pes stojí špatně, kousek s ním popojdeme a zastavíme - až se postaví
+správně. Je dobře, když je pes naučen v tomto postoji setrvat bez jakéhoke-
+liv přešlapování. Do výstavního postoje psa stavíme kdykoliv si ho rozhodčí
+prohlíží a také na konci posuzování, když na něj diktuje posudek.
+
+    Pokud bude náš pes ohodnocen jako výborný nebo dokonce zvítězí, budeme
+mít jistě radost, případný výstavní neúspěch ale neberme tragicky a nenech-
 me se odradit od dalších výstav. Příště můžeme dopadnout lépe. I když se
 všichni rozhodčí řídí stejným standardem, každý při posuzování přikládá vět-
 ší důležitost něčemu jinému (osrstění, zbarvení, tělesné stavbě, pohybové
-mechunice apod.). Také náš pes může být příště v lepší-kondici a lépe se
-předvádět, proto 69 posudky z různých výstav a od různých rozhodčích mohou
+mechanice apod.). Také náš pes může být příště v lepší kondici a lépe se
+předvádět, proto se posudky z různých výstav a od různých rozhodčích mohou
 lišit. Výstavní posudek je pro nás tím cennější, čím je větší konkurence
 a čím více nedostatků na našem psovi rozhodčí objeví. Sami si totiž větši-
-nou všech chyb ná našem psovi nevšimneme. Tak se nejlépe náuučíme dívat se
-správně a nezaujatě jak na svého psa, tek i na ostatní jedince,
-Dana Kupková
-PŘEDBĚŽNÉ TERMÍNY VÝSTAV V R.86
-16. 3. Praha
-030. 3 Mělník
-26. 4. Hradec Králové
-26. 4“ Ostrava
-27. 4. ústí na
-10. 5. stí nad Labem
-17. 5« Žatec
-24. 5. Domažlice
-25., 5« Litoměřice
-25« 5. Vysoké Mýto
-31.5.=1.6. NITRA
-7. 6. Tábor
-14. 6. Rokycany
-15. 6. Přerov
-21. 6. Kolín
-5647. BRNO
-30. B. Kraslice
-6. 9, Most
-13. 9. Mladá Boleslav
-14. 9. Liberec
-20, 9. Rychnov nad zpěěnou
-20, 9, Kladno —
-28. 9. | Brno . - celostátní opššsšší Bp.:
-5.10. České Budějovice © - národní výst, * obonitace. ČHP
-Pro rok 86 Klub uvažuje o třech speciálních výstavách ČHP A to oblastních
+nou všech chyb na našem psovi nevšimneme. Tak se nejlépe naučíme dívat se
+správně a nezaujatě jak na svého psa, tak i na ostatní jedince.
+
+                                                            Dana Kupková
+
+
+________________________________________________________________________
+
+                      PŘEDBĚŽNÉ TERMÍNY VÝSTAV V R.86
+________________________________________________________________________
+
+
+        16. 3.        Praha
+        30. 3.        Mělník
+        26. 4.        Hradec Králové
+        26. 4.        Ostrava
+        27. 4.        Nymburk
+        10. 5.        Ústí nad Labem
+        17. 5.        Žatec
+        24. 5.        Domažlice
+        25. 5.        Litoměřice                  - oblastní speciální ČHP
+        25. 5.        Vysoké Mýto
+     31.5.-1.6.        NITRA                       - mezinárodní výstava
+         7. 6.        Tábor                       - obl. spec. ČHP + bonitace ČHP
+        14. 6.        Rokycany
+        15. 6.        Přerov
+        21. 6.        Kolín
+        5-6.7.        BRNO                        - mezinárodní výstava
+        30. 8.        Kraslice
+         6. 9.        Most
+        13. 9.        Mladá Boleslav
+        14. 9.        Liberec
+        20. 9.        Rychnov nad Kněžnou
+        20. 9.        Kladno
+        28. 9.        Brno                        - celostátní speciální ČHP
+        5.10.         České Budějovice            - národní výst. + bonitace ČHP
+
+Pro rok 86 Klub uvažuje o třech speciálních výstavách ČHP a to oblastních
 v Litoměřicích 25.5. a Táboře 7.6. a celostátní speciálce se zadáváním ti-
-tulu Klubový vítěz v Brně 28.9,
-Také bonitece se připravují tři, Znovu připomínán, že ti, kteří: budou mít
-bonitaci, nebudou moci po 1.7.86 ani chovat sni krýt. Prvňí bonitace se v
-oblastní apéčiální ČEP
-mezinárodní výstava —*
-obl, spec, ČHP + bonitace ČEP
-mezinárodní výstav —
-m bd K |
-m"
-P
-—,—matdtomií thai mihal.
-K V V-
+tulu Klubový vítěz v Brně 28.9.
+Také bonitace se připravují tři. Znovu připomínám, že ti, kteří nebudou mít
+bonitaci, nebudou moci po 1.7.86 ani chovat ani krýt. První bonitace se v

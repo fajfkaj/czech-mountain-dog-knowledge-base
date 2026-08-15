@@ -1,10 +1,13 @@
-# ZDROJ: Spřežení č. 4, rok 1985, strana nezjištěna
+# ZDROJ: Spřežení č. 4, rok 1985, s. 24
 # SOUBOR: 48-1985-11_sprezeni_c_4.pdf
 # PDF_STRANA: 26
-# TISTENA_STRANA: nezjištěna
-# OCR: tesseract-5.3.4 / ces / conf 21.9
+# TISTENA_STRANA: 24
+# OCR: vision (AI dočtení, tesseract conf pod prahem); strana galerie ČHP, fotografie otočené o 90°, jen popisky psů
 ---
-mozedoy-uogo3i XIAVTXY
-43JA JUZOA0S OHOSTVY
-2
-P-
+- 24 -
+
+[fotografie - dva snímky psa AKLAVIK Třeboň-Kopeček]
+AKLAVIK Třeboň-Kopeček
+
+[fotografie - pes AALBORG Severní vítr]
+AALBORG Severní vítr

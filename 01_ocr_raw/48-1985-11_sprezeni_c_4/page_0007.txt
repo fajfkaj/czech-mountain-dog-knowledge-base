@@ -1,74 +1,56 @@
-# ZDROJ: Spřežení č. 4, rok 1985, strana nezjištěna
+# ZDROJ: Spřežení č. 4, rok 1985, s. 5
 # SOUBOR: 48-1985-11_sprezeni_c_4.pdf
 # PDF_STRANA: 7
-# TISTENA_STRANA: nezjištěna
-# OCR: tesseract-5.3.4 / ces / conf 81.5
+# TISTENA_STRANA: 5
+# OCR: vision (AI dočtení, tesseract conf pod prahem)
 ---
-f
-l
+- 5 -
+
 VÝSTAVY V R.1985
-V letošním roce se uskutečnily tři speciální výstavy ČHP - oblastní v
-„Litoměřicích a Přerově a celostátní v Č.Budějovicích, na ktaré se nejlepší-
-mu psu a feně zadával titul „Klubový vítěz“. Na těchto třech výstavách se
-předvedlo celkem 39 jedinců - 14 psů a 25 fen, Bylo vystaveno 46 posudkůj
-známka „výborná“ byla udělena 20x (43,5%), „velmi dobrá" 23x (50%), „dobrá“
-2x (4,3%) a lx „velmi nadějná“ ve třídě dorostu.
-15 jedinců vybraných Klubem se navíc zúčastnilo speciální výstavy no-
+
+    V letošním roce se uskutečnily tři speciální výstavy ČHP - oblastní v
+Litoměřicích a Přerově a celostátní v Č.Budějovicích, na které se nejlepší-
+mu psu a feně zadával titul „Klubový vítěz". Na těchto třech výstavách se
+předvedlo celkem 39 jedinců - 14 psů a 25 fen. Bylo vystaveno 46 posudků;
+známka „výborná" byla udělena 20x (43,5%), „velmi dobrá" 23x (50%), „dobrá"
+2x (4,3%) a 1x „velmi nadějná" ve třídě dorostu.
+
+    15 jedinců vybraných Klubem se navíc zúčastnilo speciální výstavy no-
 vě tvořených československých plemen v Praze a reprezentovalo tam české
-horské psy mezi pražskými krysaříky, čsl, vlčáky a českými strakatými psy.
-LITOMĚŘICE 1845.85- oblastní výstava ČSCH
-oblastní spociální výstava ČHP
-posuzoval: Josef Syřiště
+horské psy mezi pražskými krysaříky, čsl. vlčáky a českými strakatými psy.
+
+LITOMĚŘICE     18.5.85     oblastní výstava ČSCH
+                           oblastní speciální výstava ČHP
+               posuzoval: Josef Syřiště
+
 třída dorostu - psi
-CAVYK Faranda F3,
-vřená = ps
-GBRLACH Třeboň-Kopeček F3,
-BIG Lužický hvozd F),
-í ých - fe
-ARTANA Kačabka F4,
-ARVICA Kačabka F4,
-ARACAJŮ Kačabka F4,
-třída otevřená - feny
-GUARA Třeboň-Kopeček F3,
-DANGERI Třeboň-Kopeček | F2,
-ADELÍNA od Jankova kopce F3,
-žb,
-žb,
-žb,
-žb,
-žby
-žb,
-čb,
-čb,
-čb,
-M.Motejlek, Bítouchov
-JeMikáska, Vrchlabí
-PoMusil, Medlešice
-P.Heidenreich, Plzeň
-B.Kučerová, Opočno
-I.Králová, Pes p.S.
-J Hruška, Krompach
-P.Janalík, Vrchlabí
-BĚLKA Faranda , žb, PoPospíšilová, Č.Studnice
-AŠABERI Lužícký hvozd F3, žb, M.Šidlík, Vejprty
-ACHIRÁ Lužícký hvozd F3, čb, J.Křelinová, Jablonec
-PŘEBOV © 9.6.85 oblastní výstava ČSCH
-oblastní speciální výstava ČEP
-posuzoval: Ing.Dr«Doc. Vilém Kurz
+CAVYK Faranda                F3, žb, M.Motejlek, Bítouchov         VN 1,VT
+
 třída otevřená - psi
-BACK Lužšický hvozd
-F3, čb, J.Zaťko, Čeladice
-GERLACH Třeboň-Kopeček F3, žb, JoMikáska, Vrchlabí
-„HESSY"“ F3, čb, P.Góécí, Čeladice
-V 1,VT,0V
-VD 2
-VD
-VD
-nedostavila se
-1,VT „OV
-2
-j
-jg11*
-VD
-V 1,VT,0v
-VD 2
+GERLACH Třeboň-Kopeček       F3, žb, J.Mikáska, Vrchlabí           V 1,VT,OV
+BIG Lužický hvozd            F3, žb, P.Musil, Medlešice            VD 2
+
+třída mladých - feny
+ARTANA Kačabka                F4, žb, P.Heidenreich, Plzeň         VD
+ARVICA Kačabka                F4, žb, B.Kučerová, Opočno           VD
+ARACAJÚ Kačabka               F4, žb,                              nedostavila se
+
+třída otevřená - feny
+GUARA Třeboň-Kopeček         F3, čb, I.Králová, Pes p.S.           V 1,VT,OV
+DANGERI Třeboň-Kopeček       F2, čb, J.Hruška, Krompach            V 2
+ADELÍNA od Jankova kopce     F3, čb, P.Janalík, Vrchlabí           V 3
+BĚLKA Faranda                F3, žb, P.Pospíšilová, Č.Studnice     VD
+AŠABERI Lužický hvozd        F3, žb, M.Šidlík, Vejprty             VD
+ACHIRA Lužický hvozd         F3, čb, J.Křelinová, Jablonec         VD
+
+
+PŘEROV         9.6.85      oblastní výstava ČSCH
+                           oblastní speciální výstava ČHP
+               posuzoval: Ing.Dr.Doc. Vilém Kurz
+
+třída otevřená - psi
+BACK Lužický hvozd           F3, čb, J.Zaťko, Čeladice             V 1,VT,OV
+GERLACH Třeboň-Kopeček       F3, žb, J.Mikáska, Vrchlabí           VD 2
+
+třída mladých - feny
+„HESSY"                      F3, čb, F.Géci, Čeladice              VD

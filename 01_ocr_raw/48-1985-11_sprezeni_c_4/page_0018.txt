@@ -1,41 +1,58 @@
-# ZDROJ: Spřežení č. 4, rok 1985, strana nezjištěna
+# ZDROJ: Spřežení č. 4, rok 1985, s. 16
 # SOUBOR: 48-1985-11_sprezeni_c_4.pdf
 # PDF_STRANA: 18
-# TISTENA_STRANA: nezjištěna
-# OCR: tesseract-5.3.4 / ces / conf 84.8
+# TISTENA_STRANA: 16
+# OCR: vision (AI dočtení, tesseract conf pod prahem); dolní polovina strany ručně kreslený pozvánkový plakát s kresbou
 ---
-= 16 =
-nýma očima a 5 rozpaženýma rukama, přivázanýma k tyči jako msta pytláka,
-klopýtal na ostražskou hájovnu, jeme vyjeli také. Osada Ostraš byl cíl prv-
-ního dne našeho ježdění Jiráskovým krajem, Těch 30 km unavilo nejen psy, ale
-i 13 běžců, kteří dog teamy celý den doháněli, Spánek byl tvrdý. Sbor duchů
-vyvražděných obyvatel nedaleké Police, kteří v květnu 1421 ae marně schová-
-vali v okolních skalách před nájezdem křižáků ze Slezká, nikdo neslyšel, Jen
-psi snad vytím odpovídali. ,
-Ráno bylo zářivé, Ostaš byl ještě dlouho vídět, když jeme projeli Buka-
-vicí, Klůčkem, kolem hlavňovských rybníků, kde psům jeme dopřáli zasloužené
-lázně. Minulí jsme Suchý Důl, protáhli se rokličkami ná Slavný. Oberfoř tův
-kříž nám ukázal směr k Machovskému kříži. Behnitá stezka plná klád kolem
-polské hranice nás nakonec dovedla sjezdem až do Lhoty u Kachova, kde končil
-druhý den, tentokrát 25-ti km putování, Na louce u horolezecké chaty jih
-proti severu svedl boj ve fotbalovém meči před zraky čtyřnohých uvázaných
+- 16 -
+
+nýma očima a s rozpaženýma rukama, přivázanýma k tyči jako msta pytláka,
+klopýtal na ostražskou hájovnu, jsme vyjeli také. Osada Ostraš byl cíl prv-
+ního dne našeho ježdění Jiráskovým krajem. Těch 30 km unavilo nejen psy, ale
+i 13 běžců, kteří dog teamy celý den doháněli. Spánek byl tvrdý. Sbor duchů
+vyvražděných obyvatel nedaleké Police, kteří v květnu 1421 se marně schová-
+vali v okolních skalách před nájezdem křižáků ze Slezka, nikdo neslyšel. Jen
+psi snad vytím odpovídali.
+
+    Ráno bylo zářivé. Ostaš byl ještě dlouho vidět, když jsme projeli Buka-
+vicí, Klůčkem, kolem hlavňovských rybníků, kde psům jsme dopřáli zaslouženě
+lázně. Minuli jsme Suchý Důl, protáhli se rokličkami na Slavný. Oberfortův
+kříž nám ukázal směr k Machovskému kříži. Bahnitá stezka plná klád kolem
+polské hranice nás nakonec dovedla sjezdem až do Lhoty u Machova, kde končil
+druhý den, tentokrát 25-ti km putování. Na louce u horolezecké chaty jih
+proti severu svedl boj ve fotbalovém mači před zraky čtyřnohých uvázaných
 diváků. Tribuny nehořely, žluté karty nebyly vytaženy, přátelský duch zví-
-tězill
-Mrazivá noc pokryle spacáky jinovatkou, kterou rozpustil nedělní slunný
-den. Bylo 20.října 1985, Naposled jsme zapřehali. Louky s měkké lesní cesty
-nás asi 15 km vodily kolem hranic na Končinách. Byl čes myslet na návrat
-k tvrdé realitě všedního pracovního dne. Po poledni jeme již terénem poni=
-čené káry nakládali na auta a s přáním dalšího sotkání se rozjeli ke svým
+tězil!
+
+    Mrazivá noc pokryla spacáky jinovatkou, kterou rozpustil nedělní slunný
+den. Bylo 20.října 1985. Naposled jsme zapřahali. Louky a měkké lesní cesty
+nás asi 15 km vodily kolem hranic na Končinách. Byl čas myslet na návrat
+k tvrdé realitě všedního pracovního dne. Po poledni jsme již terénem poni-
+čené káry nakládali na auta a s přáním dalšího setkání se rozjeli ke svým
 domovům.
+
 Dne 31.10.85
 Vypracovali - Hanzlík, Kobr Ivan
-PIUPCESKOH OMK OR SRCH OOSA)
-POŘÁPAK
-VRCH OU
-7.=10,11.1985 v 19 hed,na adrese Zlstorovi,Ylašinka u Dačic
-Ce vzít s sobeu? 9.11.-r0 ornjký
-Spací pytel,obě „průkas,petraviny © bepoda s vy
-DOBROU NÁLADU! : J.Pekerný=Austrálie
-J „Komárek vPinasko
-|
-|
+
+
+________________________________________________________________________
+
+[ručně kreslený plakát]
+
+KLUB ČESKÉHO HORSKÉHO PSA
+                    POŘÁDÁ
+IV. ROČNÍK PŘEJEZDU ČESKOMORAVSKÉ
+                VRCHOVINY
+
+    7.-10.11.1985 v 19 hod, na adrese Elsterovi, Vlažinka u Dačic
+
+[kresba - muž na sáňkách/skútru taženém psy]
+
+Co vzít s sebou?
+Spací pytel, obč.průkaz, potraviny,
+DOBROU NÁLADU!
+
+                                                      9.11.-ve Světlé
+                                                      beseda s diapozitivy
+                                                      J.Pokorný-Austrálie
+                                                      J.Kemárek-Finsko

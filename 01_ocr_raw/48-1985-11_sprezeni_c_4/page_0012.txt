@@ -1,61 +1,71 @@
-# ZDROJ: Spřežení č. 4, rok 1985, strana nezjištěna
+# ZDROJ: Spřežení č. 4, rok 1985, s. 10
 # SOUBOR: 48-1985-11_sprezeni_c_4.pdf
 # PDF_STRANA: 12
-# TISTENA_STRANA: nezjištěna
-# OCR: tesseract-5.3.4 / ces / conf 82.5
+# TISTENA_STRANA: 10
+# OCR: vision (AI dočtení, tesseract conf pod prahem)
 ---
-= M! m
-FORTUNA Třeboň=Kopeček F2, čb (Aklsvik T=k = Anapurna T=K)
-velmi dobrá 2,
-P.Elster, Dačice
-4 letá fena, plášťové vybarvení je né krku přerušeno límcem, i když je sub-
+- 10 -
+
+FORTUNA Třeboň-Kopeček           F2, čb (Aklavik T-K - Anapurna T-K)
+                                  velmi dobrá 2.
+                                  P.Elster, Dačice
+4 letá fena, pláštové vybarvení je na krku přerušeno límcem, i když je sub-
 tilní, odpovídá obrazu feny, lépe se předvádí vůči další konkurenci.
-ANCOHUMA Vlažinka F3, čb (Arurat T-K - Fortune T=K)
-velmi dobrá 3,
-B.Krákora, Chlum
-2 letá fena, ušlechtilá hlava, plášťová čerň je přerušena na línci, stavba
-těla odpovídající, při klusu nepetrná nestebilita v pravé zadní končetině,
+
+ANCOHUMA Vlažinka                F3, čb (Ararat T-K - Fortuna T-K)
+                                  velmi dobrá 3.
+                                  B.Krákora, Chlum
+2 letá fena, ušlechtilá hlava, pláštová čerň je přerušena na límci, stavba
+těla odpovídající, při klusu nepatrná nestabilita v pravé zadní končetině,
 dobře ovladatelná.
-ATACAMA Studená-Javořice F3, žb (Ararat T=K - Dikté T-K)
-velmi dobrá 4s
-J.Říha, Kamenice nslo
-2,5 letá fena, plášťově zbarvená, ostatní vybarvení není čistě bílé, dobře
-plasěsů v celém těle, tlapky zadních končetin více vytočené.
-FURKA Třeboň-Kopeček F2, čb (Aklavik TK = Anapurna Tk)
-velmi dobrá 5. -
-J.Chlum, Vrchlabí
-4,5 letá fena, slabší postevou, melírovená na hrudníku, výrazné tečkování
-na končetinách, chybí Pl vlévo dole, levé oko otěvřenější, takže je vidět
+
+ATACAMA Studená-Javořice         F3, žb (Ararat T-K - Dikté T-K)
+                                  velmi dobrá 4.
+                                  J.Říha, Kamenice n.L.
+2,5 letá fena, pláštově zbarvená, ostatní vybarvení není čisté bílé, dobře
+stavěná v celém těle, tlapky zadních končetin více vytočené.
+
+FURKA Třeboň-Kopeček              F2, čb (Aklavik T-K - Anapurna T-K)
+                                  velmi dobrá 5.
+                                  J.Chlum, Vrchlabí
+4,5 letá fena, slabší postavou, melírovaná na hrudníku, výrazné tečkování
+na končetinách, chybí P1 vlevo dole, levé oko otevřenější, takže je vidět
 spojivka.
-ACOCANGUA Studená-JavořiceF3, čb (Areret T-kK - Dikté TK)
-velmi dobrá 6,
-J.Smejkal, Lipolec
+
+ACOCANQUA Studená-JavořiceF3, čb (Ararat T-K - Dikté T-K)
+                                  velmi dobrá 6.
+                                  J.Smejkal, Lipolec
 3 letá fena, dobře stavěná, plnější v bedrech, i při klusu zůstává nerovná
-páteř, hlave celkem ušlechtilá, lové oko má vidět bělmo, chybí 4 zuby: P2
-levá horní, Pl levá dolní, Pl, P2 pravá dolní, Dobře ovladatelná, absolutně
-klidná,
-HOKKAIDO Třeboň-Kopeček © F3, žb (Bennovis T=K - Dombuj T=K)
-velmi dobrá 7.
-F.Janebu, Rokytno
-3 letá fena, stavbe těla odpovídající, schází Pl vpravo dole, oboustraně
-vychlíplé víčko, je vidět bělmo, světlejší oko, dynamika pohybu dobrá, úěk-
-čí v bederní páteři, při klusu se páteř vyrovnává:
-ALIMACHEBLI Lužický hvozd Pj, žb (Bennevis T-K - Dangeri T=K)
-dobrá
-VoNetolický, Vejprty
-30 měsíční fena, nemá požadované skvrny ná těle ani symetrii na hlavě, chy-
-bí P3 levá horní, P4 levá dolní, P3, P4 pravá dolní, rý: po od-
-povídající, celkem dobře se předvádí,
-AŠABERI Lužický hvozd F3, žb (Bennevis T-K - > ené 1x)
-dobrá
-M.Šidlík, Vejprty
-30 měsíční fena, celkem dobře stavěšk; dynamika pohybu dobrá, nemá skvrny na
-těle ani požadovanou symetrii. na hlavě, světle hnědé oko,
+páteř, hlava celkem ušlechtilá, levé oko má vidět bělmo, chybí 4 zuby: P2
+levá horní, P1 levá dolní, P1, P2 pravá dolní. Dobře ovladatelná, absolutně
+klidná.
+
+HOKKAIDO Třeboň-Kopeček          F3, žb (Bennevis T-K - Dombaj T-K)
+                                  velmi dobrá 7.
+                                  F.Janeba, Rokytno
+3 letá fena, stavba těla odpovídající, schází P1 vpravo dole, oboustranně
+vychlíplé víčko, je vidět bělmo, světlejší oko, dynamika pohybu dobrá, měk-
+čí v bederní páteři, při klusu se páteř vyrovnává.
+
+ALIMACHEELI Lužický hvozd F3, žb (Bennevis T-K - Dangeri T-K)
+                                  dobrá
+                                  V.Netolický, Vejprty
+30 měsíční fena, nemá požadované skvrny na těle ani symetrii na hlavě, chy-
+bí P3 levá horní, P4 levá dolní, P3, P4 pravá dolní, anatomická stavba od-
+povídající, celkem dobře se předvádí.
+
+AŠABERI Lužický hvozd            F3, žb (Bennevis T-K - Dangeri T-K)
+                                  dobrá
+                                  M.Šidlík, Vejprty
+30 měsíční fena, celkem dobře stavěná, dynamika pohybu dobrá, nemá skvrny na
+těle ani požadovanou symetrii na hlavě, světle hnědé oko.
+
 třída vítězů - feny
-GUARA Třeboň-Kopeček F3, čb (Aklavik T=K = Dikté T-K)
-výborná 1., vítěz třídy vítěsů, oblastní víěe,
-Klubový vítěz, nejkrásnější fena výstan
-I .Krélová, Pec p.S. Z5
-3,5 letá fena, dobře vybarvená, tečkování jen na ste oře otavěná
-v těle, výborná dynamika pohybu, , dobrá představitelka svého p D6
-Dana Kupková
+GUARA Třeboň-Kopeček             F3, čb (Aklavik T-K - Dikté T-K)
+                                  výborná 1., vítěz třídy vítězů, oblastní vítěz,
+                                  Klubový vítěz, nejkrásnější fena výstavy
+                                  I.Králová, Pec p.S.
+3,5 letá fena, dobře vybarvená, tečkování jen na končetinách, dobře stavěná
+v těle, výborná dynamika pohybu, dobrá představitelka svého plemene.
+
+                                                            Dana Kupková
