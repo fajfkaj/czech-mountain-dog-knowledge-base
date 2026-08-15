@@ -1,15 +1,19 @@
-# ZDROJ: Spřežení č. 3, rok 1985, strana nezjištěna
+# ZDROJ: Spřežení č. 3, rok 1985, s. 13
 # SOUBOR: 47-1985-05_sprezeni_c_3.pdf
 # PDF_STRANA: 15
-# TISTENA_STRANA: nezjištěna
-# OCR: tesseract-5.3.4 / ces / conf 79.6
+# TISTENA_STRANA: 13
+# OCR: vision (AI dočtení, tesseract conf pod prahem); stránka otočená (tabulka + fotografie skenované na šířku), obsahuje tabulku a fotografii štěňat
 ---
-Í w dosavadních 4 generacích (F).
-jádřen
-4
-,
-Y
-Tab.3. Srovnání počtu štěnat (n) © jejich procentuální v)
-= 13 =
+- 13 -
+
+Tab.3. Srovnání počtu štěňat (n) a jejich procentuální vyjádření v dosavadních 4 generacích (F).
+
+| gene race | počet vrhů | počet štěňat | ♂ n | ♂ % | ♀ n | ♀ % | čb n | čb % | žb n | žb % | np n | np % | b n | b % | ch n | ch % | větší než standard n | větší než standard % | menší než standard n | menší než standard % | mrtvá št. n | mrtvá št. % |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| F1 | 1  | 7   | 4  | 57   | 3  | 43   | 3  | 43   | 4  | 57 | 0  | -   | 0  | -  | 4  | 57 | 0 | - | 0 | - | 0  | -  |
+| F2 | 5  | 34  | 14 | 41   | 20 | 59   | 20 | 59   | 5  | 15 | 2  | 6   | 9  | 26 | 11 | 32 | 2 | 6 | 3 | 9 | 7  | 21 |
+| F3 | 16 | 105 | 52 | 49,5 | 53 | 50,5 | 54 | 53   | 34 | 31 | 10 | 9,5 | 17 | 16 | 43 | 41 | 7 | 7 | 4 | 4 | 24 | 23 |
+| F4 | 5  | 35  | 20 | 57   | 15 | 43   | 22 | 63   | 13 | 37 | 10 | 29  | 0  | -  | 17 | 49 |   |   |   |   | 10 | 29 |
+
+Třítýdenní vrh C chovné stanice FARANDA
 foto O.Kupka
-mřítýdenní vrh C chovné stanice FARANDA
