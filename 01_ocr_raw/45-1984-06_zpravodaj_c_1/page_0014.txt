@@ -1,0 +1,28 @@
+# ZDROJ: Spřežení č. 1, rok 1984, s. 13
+# SOUBOR: 45-1984-06_zpravodaj_c_1.pdf
+# PDF_STRANA: 14
+# TISTENA_STRANA: 13
+# OCR: vision (AI dočtení, tesseract conf pod prahem)
+---
+BÁRA ATACAMA Studené Jamice, 3, J.Říha, Kam.n.Lipou, -žb-, V2
+BLACKRIVER Třeb-Kop, 2, V.Janásová, J.Hradec, -čb-, VD
+
+Třída vítězů - feny
+
+DANGERI Třeboň-Kopeček, 2, J.Hruška, Krompach, -čb-, V2,ČKV
+GUARA Třeboň-Kopeček, 3, I.Králová, Pec p.Sn., -čb-, V1,VT,OV,KV
+
+Nepřišel přihlášený FRED Třeboň-Kopeček.
+
+Vysvětlivky: VD - velmi dobrá, V - výborná, VT - vítěz třídy,
+OV - oblastní vítěz, ČKV - čekatel klubového vítěze, KV - klubový vítěz.
+
+Titul klubového vítěze byl zadán pouze feně, protože nebyl předveden žádný dospělý pes.
+
+[fotografie: GUARA, oblastní a klubová vítězka]
+
+[řada fotografií psů s popisky pod nimi, jména zleva doprava:]
+Albion, Alborg, Aksas, Artison, Ancohuma, Čehooyn, Brena
+Ara, Fudžijama, Fortuna, Furka, Bára, Blackriver, Dangeri
+
+[poznámka k přepisu: jméno feny GUARA je v tabulce psáno rukou nad/přes strojový text, chovatelská stanice "Třeboň-Kopeček" dopsána stejně jako u ostatních řádků — přepsáno jako součást řádku.]

@@ -1,0 +1,7 @@
+# ZDROJ: Spřežení č. 1, rok 1984, strana nezjištěna
+# SOUBOR: 45-1984-06_zpravodaj_c_1.pdf
+# PDF_STRANA: 2
+# TISTENA_STRANA: nezjištěna
+# OCR: vision (AI dočtení, silně degradovaný/vybledlý sken)
+---
+[nečitelné] — stránka je téměř prázdná, viditelný jen velmi slabý, neostrý průsvit textu (pravděpodobně otisk z protilehlé strany), žádné slovo není spolehlivě čitelné.

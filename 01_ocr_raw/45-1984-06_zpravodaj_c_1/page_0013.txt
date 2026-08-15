@@ -1,0 +1,42 @@
+# ZDROJ: Spřežení č. 1, rok 1984, s. 12
+# SOUBOR: 45-1984-06_zpravodaj_c_1.pdf
+# PDF_STRANA: 13
+# TISTENA_STRANA: 12
+# OCR: vision (AI dočtení, tesseract conf pod prahem)
+---
+VÝSTAVA V ČESKÝCH BUDĚJOVICÍCH
+
+15.4.84, za pěkného slunečného dne se konala, tak jako předešlého roku, v areálu výstaviště „Země živitelka" v Českých Budějovicích, celostátní speciální výstava českého horského psa při oblastní výstavě psů plemen ČSCH.
+
+Celkem se na tuto výstavu přihlásilo 215 psů 48 plemen včetně všech rázů. Nejpočetnějším plemenem s 27 jedinci byl pekinéz a hned za ním kolie (26). ČHP s 13 včas přihlášenými jedinci byl pátým nejpočetnějším plemenem. Ve skutečnosti se jich sešlo 15, což je rekord všech výstav. Z nich bylo 11 černobílých a 4 žlutobílí; 4 psi a 11 fen.
+
+Psy posuzoval v prostorném a proskleném pavilonu „R" ing Findejs. Ve velkém kruhu na hladké podlaze, která však, na rozdíl od některých jiných plemen, nedělala našim psům problémy, ing Findejs typické psy podrobně proměřoval, což je jedna z podmínek pro připravované mezinárodní uznání plemene. Poháry pro vítěze třídy se vydávaly ve výstavní kanceláři, která se však špatně hledala. Poháry pro oblastní vítěze se předávaly v amfiteátru výstaviště při přehlídce oblastních vítězů. Všechny ceny byly velice pěkné.
+
+Podle vyjádření ing Findejse byli předvedení psi poměrně jednotní v typu; zvláště se mu líbil charakteristický výraz hlavy všech jedinců. Nejčastěji se vyskytujícím nedostatkem byl měkčí hřbet, a to u 7 z 15 jedinců. Přílišné stočení ocasu předvedlo 5 psů a melírování byli 4. Chudozubý byl pouze jeden. Až na jednu výjimku měli všichni korektní postoj končetin a plný a vydatný krok i klus.
+
+Výstava byla reprezentativní přehlídkou současného chovu. Zvlášť potěšující je, že předvedená 4. generace byla vynikající kvality. Byla to i dobrá propagace plemene a závěrečná přehlídka všech ČHP před pavilonem „Z" vzbudila u diváků velkou pozornost.
+
+A jak jsme dopadli:
+
+jméno psa a chov.stanice, generace, majitel, barva, hodnocení
+Třída mladých - psi
+
+ALBION Vlažinka, 3, L.Chalupa, Sedlejov, -čb-, VD
+ALBORG Severní vítr, 4, P.Hanzlík, J.Hradec, -čb-, V1
+AKSAS od Jankova Kopce, 3, J.Emichel, Č.Důl, -žb-, V2
+ARTISON Severní vítr, 4, P.Kobr, Pec p.Sněž., -žb-, V3
+
+Třída mladých - feny
+
+ANCOHUMA Vlažinka, 3, B.Krákora, Křemže, -čb-, VD
+
+Třída otevřená - feny
+
+ČEHOOYN Třeboň-Kopeček, 2, D.Kupková, Holubov, -žb-, V
+BRENA, 3, O.Máca, Počátky, -čb-, V1
+ARA Faranda, 3, J.Klír, Praha, -čb-, VD
+FUDŽIJAMA Třeb-Kopeček, 2, F.Géci, Čeladice, -čb-, VD
+FORTUNA Třeboň-Kopeček, 2, P.Elster, Dačice, -čb-, V
+FURKA Třeboň-Kopeček, 2, J.Chlum, Vrchlabí, -čb-, V
+
+[poznámka k přepisu: u řádku ALBORG je v tabulce rukou dopsáno "Severní vítr" (název chovatelské stanice) vedle strojového textu — přepsáno jako součást řádku.]

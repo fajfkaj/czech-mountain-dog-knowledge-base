@@ -1,0 +1,50 @@
+# ZDROJ: Spřežení č. 26, rok 1994, s. 14
+# SOUBOR: 73-1994-07_sprezeni_c_26.pdf
+# PDF_STRANA: 20
+# TISTENA_STRANA: 14
+# OCR: vision (AI dočtení, tesseract conf pod prahem)
+---
+SPORT
+
+Musher's klub České asociace sportu se psím spřežením, Klub českého horského psa a sportovní klub Bering Praha
+
+CENTRUM CUP 93
+DUATLON SE PSEM
+
+6.- 7.11.93  Sadská  -  1.den 4km u kola, 2.den 4km běh
+
+[skupina bez pořadových čísel — pravděpodobně samostatná kategorie/třída:]
+  Vavroušková Martina   Brix z Vysokého      velký knírač        10:37  16:01  26:38
+  Horáková Renata        Amok                 sibiřský hasky      10:30  17:16  27:46
+  Kynclová Zuzana         Amika Amko           aljašský malamut    12:56  18:22  31:18
+  Loučková Eva            Holčina Už jedou     ČHP                 14:52  23:31  38:23
+  -  Stáhlíková Johana    Iriána Hörok         sibiřský hasky      15:28    -      -
+  -  Procházková Jarka    Elza Už jedou        ČHP                    -   20:41    -
+
+[druhá skupina, číslovaná 1.-12.:]
+1.  Burda František   Baara Pradědova louka   ČHP                          8:31  12:49  21:20
+2.  Burda František   Bering Zimní sen        ČHP                          9:40  12:50  22:30
+3.  Procházka Vít      Elza Už jedou           ČHP                         9:06  13:38  22:44
+4.  Holub Zdeněk        Eden Už jedou           ČHP                         9:24  14:00  23:24
+5.  Procházka Vít      Blek od Hrčířských luk  ČHP                        10:00  14:28  24:28
+6.  Loučka Radko        Holčina Už jedou        ČHP                         9:35  15:25  25:00
+7.  Horák Jan           Čibi                     sibiřský hasky            10:54  14:18  25:12
+8.  Kyncl Stanislav      Arina u Olafů           aljašský malamut          14:40  14:36  29:16
+9.  Holub Zdeněk        Bára Třináctá míle       ČHP                        11:11  18:18  29:29
+10. Procházka Jan       Aranka Psí půle          ČHP (1.junior)            12:09  18:20  30:29
+11. Loučka Jakub        Dar Faranda              ČHP (2.junior)            12:38  18:33  31:11
+12. Šanovec Jan          Adirondak Stráž n.Než.  ČHP                        13:36  19:55  33:31
+ -  Rašín Ivo            Cyril Už jedou          ČHP                         9:59    -      -
+ -  Horák Jan            Amok                     sibiřský hasky              -   15:40    -
+
+Vít Procházka
+Sadská
+
+[postranní text vlevo, útržek — nedokončená věta, patrně navazuje z předchozí strany:]
+tyto požadavky mohli spolehlivě uspokojit, spíše než doma připravovanou stravu je vhodné použít komerční krmiva speciálně připravená pro rostoucí štěňata. Prodávají se buď v suchém stavu nebo v konzervách. Přitom druhou variantu považujeme za vhodnější, protože je všeobecně lépe vybavena bílkovinami a je lépe stravitelná. Přestože se jedná o kompletní krmiva, v každém případě je nutné doplňovat je přípravky bohatými na vitamíny, kalcium, fosfor a ostatní minerální látky.
+
+[rámeček — novinová zpráva, mimo obsah plemene ČHP:]
+Případ úmyslně zraněného psa šetří policie
+Bystřice pod Hostýnem (do) - Manželé Moravcovi z Bystřice pod Hostýnem jsou přesvědčeni, že jim soused polil jejich osmiletého pudla úmyslně kyselinou. Moravcovi tvrdí, že pudla neměl rád od té doby, co se pes asi před rokem popral s jeho jezevčíkem. Privátní veterinární lékař z Bystřice Libor Kufa, k němuž Moravcovi svého zraněného psa přivedli, řekl, že pes měl na kůži na hřbetě pět popálených míst, velkých asi jako pětikoruna. Černá srst byla na těchto místech odbarvená do rezava. "Poranění způsobila nějaká těkavá látka, pravděpodobně kyselina chlorovodíková," uvedl Kufa. Léčení psa trvalo asi tři týdny a pudlovi v místech popálení zůstanou jizvy.
+Moravcovi útok na svého pudla ohlásili Městskému úřadu v Bystřici pod Hostýnem, který požádal policii, aby případ vyšetřila. Je to poprvé, kdy policie na Kroměřížsku objasňuje případ týrání zvířat.
+Do konce května by mělo být jasné, zda soused na psa opravdu úmyslně kyselinu vylil. Pokud se to prokáže, může mu městský úřad za porušení zákona na ochranu zvířat uložit pokutu až deset tisíc korun.

@@ -1,0 +1,54 @@
+# ZDROJ: Spřežení č. 53, rok 2008, strana nezjištěna
+# SOUBOR: 100-2008_sprezeni_c_53.pdf
+# PDF_STRANA: 10
+# TISTENA_STRANA: nezjištěna
+# OCR: tesseract-5.3.4 / ces / conf 90.1
+---
+Majitel: Pavel Václavík
+- velmi dobrý 2
+dd
+Třída: mezitřída
+Katalog.č. © Jméno
+č.zápisu naroz.
+12 CASPER z Pixáku
+NReg/CHP/1381/06
+22.4.2006
+Otec: Eskym z Láskova
+Matka: Heidi Růžová louka
+Chovatel: Miroslav Kadlec
+Majitel: Jiří Múller
+= velmi dobrý 1
+Třída: otevřená
+Katalog.č. © Jméno
+č.zápisu naroz,
+13 BARNIE Hvězda vysočiny
+NReg/CHP/1376/06
+26.10.2005
+Otec: Alek Větrné stráně
+Matka: Aimi z Velké Suché
+Chovatel: Jana Joselová
+Majitel: Jiří Ječmínek
+- výborný 3
+Katalog.č. © Jméno
+č.zápisu naroz,
+14 BARNABÁŠ Jakubská Hůrka
+NReg/CHP/1370/05/07
+17.7.2005
+Otec: Cenda z Láskova
+Matka: Eurika z Láskova
+Chovatel: Blanka Svobodová
+Majitel: Jaroslav Svoboda
+- výborný 4
+Katalog.č. © Jméno
+č,zápisu naroz.
+15 BENJI Jenčíkův les
+NReg/CHP/1310/03/05
+8.9.2003
+Otec: Jasan Psi už jedou
+Matka: Aida z Pixáku
+Chovatel: Drahuše Nová
+Majitel: Josef Šmat
+- velmi dobrý
+Katalog.č. © Jméno
+č.zápisu naroz.
+16 CAN z Láskova

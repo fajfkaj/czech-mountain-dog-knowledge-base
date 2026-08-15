@@ -1,0 +1,53 @@
+# ZDROJ: Spřežení č. 53, rok 2008, strana nezjištěna
+# SOUBOR: 100-2008_sprezeni_c_53.pdf
+# PDF_STRANA: 11
+# TISTENA_STRANA: nezjištěna
+# OCR: tesseract-5.3.4 / ces / conf 91.3
+---
+NReg/CHP/1233/01/03
+30.7.2001
+Otec: AIf z Řepíku
+Matka: Bonita Řasnický potok
+Chovatel: Lenka Fiedlerová
+Majitel: Lenka Fiedlerová
+- výborný
+Katalog.č. © Jméno
+č.zápisu naroz.
+17 CENDA z Láskova
+NReg/CHP/1235/01/03
+30.7.2001
+Otec: AI z Řepíku
+Matka: Bonita Řasnický potok
+Chovatel: Lenka Fiedlerová
+fajitel: Blanka Svobodová
+výborný
+Katalog.č. © Jméno
+č.zápisu naroz.
+18 FALCO z Láskova
+NReg/CHP/1318/03/05
+13.10.2003
+Otec: Can z Láskova
+Matka: Azra z Láskova
+Chovatel: Lenka Fiedlerová
+Majitel: Tomáš Voříšek
+- výborný
+Katalog.č. © Jméno
+č.zápisu naroz.
+19 FIDO z Láskova
+NReg/CHP/1319/03
+13.10.2003
+Otec: Can z Láskova
+Matka: Azra z Láskova
+Chovatel: Lenka Fiedlerová
+Majitel: Stanislav Janků
+k vyloučen z posuzování ze zdravotních důvodů
+Katalog.č. © Jméno
+č.zápisu naroz.
+20 FIGO z Láskova
+NReg/CHP/1320/03/05
+13.10.2003
+Otec: Can z Láskova
+Matka: Azra z Láskova
+Chovatel: Lenka Fiedlerová
+Majitel: Martina Vořišková
+- výborný

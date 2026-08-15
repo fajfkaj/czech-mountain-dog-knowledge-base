@@ -1,0 +1,14 @@
+# ZDROJ: Spřežení č. 53, rok 2008, strana nezjištěna
+# SOUBOR: 100-2008_sprezeni_c_53.pdf
+# PDF_STRANA: 1
+# TISTENA_STRANA: nezjištěna (titulní strana, bez viditelného čísla)
+# OCR: vision (AI dočtení, tesseract conf pod prahem)
+---
+[logo: kresba psího spřežení se saněmi]                                    č. 53
+
+SPŘEŽENÍ
+
+Klub českého horského psa - 2008
+
+[fotografie: spřežení dvou psů táhnoucích saně se závodníkem, sníh]
+z Polska 2008

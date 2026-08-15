@@ -1,0 +1,53 @@
+# ZDROJ: Spřežení č. 53, rok 2008, strana nezjištěna
+# SOUBOR: 100-2008_sprezeni_c_53.pdf
+# PDF_STRANA: 22
+# TISTENA_STRANA: nezjištěna
+# OCR: tesseract-5.3.4 / ces / conf 91.2
+---
+47.Novotný Jiří Zahrádky u České Lípyl 37 471 OlZahrádky u České L ípy..06
+48.Mazurová Miriam Slatina nad Zdobnicí 27 517 56 Slatina nadZdobnicí..06-07
+49.Trhlíková Alena Palackého132 344 01 Domažlice.................. 06-07
+50.Heinischová Vlasta Dobružská 76 517 01 Solnice
+51.Kubečková Eva Sedlce 34 374 01 Trhové Sviny............. 06
+52.Novák Martin Vesecká 78 511 01 Turnov
+53.Joselovi Jana a Petr Lukavec 174 394 26 Lukavec................. 06-07
+54.Loučka Radko Česká Rybná 561 85 Česká Rybná
+55.Čermáková Miloslava Desná 110 570 01 Litomyšl
+56,Mareš Jiří Česlé Zlatníky 83 435 21 Obrmice....06-07
+57.Slezáková Miroslava Černá voda 179 790 54 Černá Voda ..07
+58.Voříškovi Tomáš a Martina Osek 227 267 62 pošta Komárov......... 06
+59,Kačur Jan Zahradnická 49 412 01 Litoměřice...06
+60.Kopřivová Václava Syčina 9 294 41 Dobrovice......06
+61.Salava Jaroslav V Drahách 568 783 14 Bohunovice -
+62.Pivonková Blanka Havlovice 88 344 01 Domažlice........... 06-07
+63.Šmat Josef Kvapilova 30 350 01 AŠ...............rwrs 06-07
+64.Reslová Jana Brázdimská 1552 250 01 Brandýs nad Labem..06-07
+65.Kubec Miroslav Vyšehrádek 126 391 33 Jistebnice.....06-07
+66.Hýsková Jitka Alešova 20 466 01 Jablonec nad Nisou...06
+67.Říha Jaroslav Těmice 151 394 96 ok. Pelhřimov........... 06
+68.Petirová Alena Brzice 52 552 05 pošta Hořičky
+69.Mikýsek Jiří Lánská 296 250 65 Líbeznice................. 06-07
+70.Čápová Lenka Železniční 171/12 460 01 Liberec.......07
+71.Greško Vladimír Bobrovec 359 032 21 Bobrovec Slovenská rep.
+72.Spourová Jana Mladý Smolivec 56 335 01 pošta Nepomuk....... 07
+73.Jiroušová Lenka Dolní Rokytnice 82 512 44 Rokytnice nad Jizerou
+74.Růžička Petr Výstaviště 1287/19 170 00 Praha 4
+75.Švec Pavel nám. Svobody 12 789 85 Mohelnice.............. 06-07
+76.Valentovi Helena a Radovan Kunvald-Bubnov 283 564 01 Žamberk.......... 06-07-08
+77.Štulcová Jana Cvrčkovice 106 273 41 Brandýsek.............. 06
+78.Formanek Marian Neudorf 610 2135 Neudorf Bie Staatz Austria
+79.Kačer Jiří Jetřichovec 57 395 01 Jetřichovec............. 06
+B0,Charvát Ladislav U větrného mlýna 1647 430 01 Chomutov ............ 06
+81.Hruša Jakub Slavný 30 549 54 Police nad Metují...06-07 -
+82.Škochová Petra Husovo nám. 1553 289 22 Lysá nad Labem.......06-07 $
+83.Václavík Pavel Za humna 252 691 78 Borkovany........... 06-07-08
+84.Kožíšková Hana Myslivna 590 353 01 Marianské Lázně.,.....06
+85.Petera Jan Za sokolovnou 181 252 62 Statenice............... 06-07
+86.Janouškovi Eva a Zdeněk Novoveská 1290 768 61 Bystřice pod Hostínem.. 07-07
+87.Uhliárová Zuzana Kozinova 747 441 01 Podbořany........... 06-07
+88.Javorková Danuše -Pokorný Štůrova 282/13 360 04 Karlovy Vary.......... 07-07.
+89.Nováková Romana Sulice 213 251 68 Kamenice nad Nežárkou.07
+90.Nosek David Staňkov 14 507 82 Pecka..07
+91.Hakl Daniel Formanská 206 149 00 Praha 4.07
+92.Kotěšovec Radek Lesní 215 331 00 Plasy........ 07
+93.Vašina Josef Nitranská Blatnice 468 956 05 Slovenská republika .. 07

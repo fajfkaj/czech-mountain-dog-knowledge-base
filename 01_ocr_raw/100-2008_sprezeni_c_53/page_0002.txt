@@ -1,0 +1,7 @@
+# ZDROJ: Spřežení č. 53, rok 2008, strana nezjištěna
+# SOUBOR: 100-2008_sprezeni_c_53.pdf
+# PDF_STRANA: 2
+# TISTENA_STRANA: nezjištěna
+# OCR: vision (AI dočtení, tesseract conf pod prahem)
+---
+[nečitelné] — stránka je zcela prázdná (vnitřní strana obálky), bez viditelného textu.

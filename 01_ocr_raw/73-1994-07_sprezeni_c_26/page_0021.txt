@@ -1,0 +1,80 @@
+# ZDROJ: Spřežení č. 26, rok 1994, s. 15
+# SOUBOR: 73-1994-07_sprezeni_c_26.pdf
+# PDF_STRANA: 21
+# TISTENA_STRANA: 15
+# OCR: vision (AI dočtení, tesseract conf pod prahem)
+---
+"CENTRUM CUP 93"
+
+- počítá se vždy součet 3 nejvyšších hodnocení
+
+                                    celk
+1. Burda František      ČHP    30  20  25  30  30   90
+2. Procházka Vít         ČHP    19  12  13  24  24   67
+3. Holub Zdeněk           ČHP    12  11  20  10  19   51
+4. Loučka Radko           ČHP    15   8   -  15  15   45
+5. Horák Jan               SH      -   9  16  12  12   40
+6. Kyncl Stanislav         AM      5   6  11   4  10   27
+7. Knotek Zdeněk           kol    24   -   -   -   -   24
+8. Korbelář Pavel          AH      -   -   -  19   -   19
+9. Šperl Martin            NOh     -  17   -   -   -   17
+10. Křivánek Leoš          ČV     10   5   -   -   -   15
+11. Procházka Jan          ČHP     0   -   -   5   9   14
+12. Simbartl Pavel         KMP     -  14   -   -   -   14
+13. Loučka Radko           ČHP     0   -   -   3   8   11
+14. Quaiser Lukáš          NOv     -  10   -   -   -   10
+15. Kubr Václav            AH      -   -   -   9   -    9
+16. Netolický Jiří ml      NOv     9   -   -   -   -    9
+17. Drechsler Tomáš        SH      -   -   -   8   -    8
+18. Kadeřábek Karel        AM      8   -   -   -   -    8
+19. Šanovec Jan            ČHP     -   -   -   -   7    7
+20. Šado Zbyněk            AM      -   -   -   7   -    7
+21. Tománek Vladimír       ČHP     -   7   -   -   -    7
+22. Kořínek Jiří            ČHP     7   -   -   -   -    7
+23. Hokr Hynek             SH      -   -   -   6   -    6
+24. Vlk Tomáš               BdF     6   -   -   -   -    6
+25. Štoček Bohuslav        NOv     -   4   -   -   -    4
+26. Boháč Miloš             ČHP     4   -   -   -   -    4
+27. Vlk Petr                box     3   -   -   -   -    3
+28. Vočadlo František      AM      2   -   -   -   -    2
+29. Netolický Jiří st      NOv     1   -   -   -   -    1
+
+[feny/druhá tabulka:]
+1. Vavroušková Mart.   VK     15  10   -  15  15   45
+2. Horáková Renata     SH      -   6  15   6  10   31
+3. Kynclová Zuzana     AM      -   -  10  10   6   26
+4. Pokorná Martina     NOv    10   -   -   -   -   10
+5. Kopáčková Šárka     AM      6   -   -   -   -    6
+6. Loučková Eva        ČHP     -   -   -   -   3    3
+7. Stáhlíková Johana   SH      -   3   -   -   0    3
+8. Remsová Blanka      BO      0   -   -   3   -    3
+9. Kostková Martina    ČHP     3   -   -   -   -    3
+10. Morisová Alena     kříž    -   2   -   -   -    2
+
+[termínová listina závodů:]
+28.08.  Sadská  triat.se psem   100m plavání + 10km u kola + 5km běh
+18.09.  Praha   bežec a pes     3,66km běh
+02.10.  Praha   duatl.se psem   2km běh + 5,8km u kola + 1km běh
+16/17.10. Sadská cyklista a pes  4km u kola + 4km u kola
+6/7.11.  Sadská  duatl.se psem   4km u kola + 4km běh
+
+Výsledky jen českých horských psů:
+1. Baara Pradědova louka   30  20  25  30  30   90
+2. Eden Už jedou           12  11  20  10  15   47
+3. Elza Už jedou            -   -   -  24  19   43
+4. Holčina Už jedou        15   8   -  15  10   40
+
+[postranní sloupec — rubrika o zdraví psů, autor MVDr. Pavel Hron:]
+Přehřátí
+
+A máme tu první letošní přehřátí u psa. Paní, která šla navštívit svého syna do nemocnice, nechala ve voze své tři psy a opustila je. Původně nechala v autě otevřená okna, která měla opatřena speciální mříží, aby se ani psi nedostali ven, a aby ani cizí člověk nevnikl do vozu. Měla však smůlu. Ve chvíli, kdy chtěla od vozu odejít, objevili se příslušníci (naší slavné) policie. Tento chytrý princip nepochopili a ani si ho nechtěli nechat vysvětlit. Pod pohrůžkou pokuty majitelka musela nakonec okno auta neprodyšně zavřít, a psy tak uvěznit bez jakékoliv šance na přísun čerstvého vzduchu. Teplota pak v autě začala rychle stoupat a za chvilku došlo ke zkáze. Když se paní asi po půlhodině k autu vrátila, zjistila, že jeden z pejsků leží na sedadle v bezvědomí a velmi těžce dýchá. Ihned pochopila, že se přehřál, a začala s jeho oživováním. K tomu, aby se zvíře probudilo, stačila koupel v nejbližší kaluži. Pak s ním zajela rovnou k veterináři. Bohužel i jeho snaha byla marná. Pes příhodu nepřežil.
+
+V letních měsících podobné události nejsou žádnou výjimkou. Snad každý veterinář podobné situace občas zažívá. Majitelé snadno zapomenou, že je jejich zvíře nemůže v extrémních podmínkách vydržet stejný nápor jako oni.
+
+Měli jsme případ, kdy pán přinesl na vyšetření tříměsíční štěňata, která měl uzavřena v jutovém pytli. Než došel do ordinace, klima v pytli se změnilo v něco podobného sauně. Když pak v ordinaci pytel rozvázal, zjistil, že ze čtyř štěňat transport přežilo jen jedno. Alespoň to se naštěstí podařilo zachránit.
+
+Podobný případ se stal majitelce, která přinesla svou kočku na kastraci. Převážela ji v přenosce z koženky s celuloidovými okny. Několik malých otvorů na bocích přenosky nestačilo zajistit dostatečný přísun vzduchu. I toto zvíře se podařilo, i když s obtížemi, zachránit. Kastraci jsme ale museli odložit.
+MVDr. PAVEL HRON
+
+[rámeček:] Při přehřátí organismu dochází ke značnému rozšíření krevních cév a ke zvýšení prostupnosti jejich stěn pro krev. Tím dochází k poklesu krevního tlaku a k nedostatečnému prokrvování jednotlivých orgánů. Šok, který organismus prožívá, navozuje nedostatek kyslíku, čímž dochází k poškození mozku a zvíře rychle ztrácí vědomí. Pokud se vědomí podaří vrátit, ještě zda-
+[text pokračuje na další straně]

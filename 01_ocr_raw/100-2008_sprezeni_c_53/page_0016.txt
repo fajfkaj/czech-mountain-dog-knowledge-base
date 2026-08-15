@@ -1,0 +1,38 @@
+# ZDROJ: Spřežení č. 53, rok 2008, strana nezjištěna
+# SOUBOR: 100-2008_sprezeni_c_53.pdf
+# PDF_STRANA: 16
+# TISTENA_STRANA: nezjištěna
+# OCR: tesseract-5.3.4 / ces / conf 92.4
+---
+Katalog.č. © Jméno
+č.zápisu naroz.
+32 GREJSI z Láskova
+NReg/CHP/1360/04/06
+26.7.2004
+Otec: Nanuk
+Matka: Basty z Láskova
+Chovatel: Lenka Fiedlerová
+Majitel: Lenka Čápová
+- výborná 2, Res. CAC
+Třida: veteránů
+Katalog.č. © Jméno
+č.zápisu naroz.
+34 ARKA Artyčok
+NReg/CHP/1033/77
+8.8.1977
+Otec: Ir Faranda
+Matka: Aurika Růžová louka
+Chovatel: Tomáš Trdla
+Majitel: Hana Kubínová
+- velmi dobrá 2
+Katalog.č. © Jméno
+č.zápisu naroz.
+35 DINA Netolická obora
+NReg/CHP/1065/98/00
+28.3.1998
+Otec: Adan Netolická obora
+Matka: Nora von den Bartl-Buam
+Chovatel: Helena Matějeková
+Majitel: Helena Matějeková
+- výborná 1, Nejlepší veterán
+14

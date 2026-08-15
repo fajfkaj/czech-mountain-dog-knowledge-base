@@ -1,0 +1,18 @@
+# ZDROJ: Spřežení č. 26, rok 1994, strana nezjištěna
+# SOUBOR: 73-1994-07_sprezeni_c_26.pdf
+# PDF_STRANA: 28
+# TISTENA_STRANA: nezjištěna (zadní strana / poštovní štítek, bez čísla)
+# OCR: vision (AI dočtení, tesseract conf pod prahem; text otočený o 90°)
+---
+[převážně prázdná zadní strana, dole poštovní/distribuční štítek:]
+
+Oldřich KUPKA
+391 76 Slapy u Tábora 45
+
+KLUB ČESKÉHO HORSKÉHO PSA
+Č.R. PRAHA
+2
+
+Podávání novinových zásilek povoleno Oblastní správou pošt v Č.Budějovicích, j.zn.: P - 3.520/94 ze dne 7.září 1994
+
+NOVINOVÁ ZÁSILKA

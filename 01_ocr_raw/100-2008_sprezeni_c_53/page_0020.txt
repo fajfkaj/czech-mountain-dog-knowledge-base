@@ -1,0 +1,37 @@
+# ZDROJ: Spřežení č. 53, rok 2008, s. 18
+# SOUBOR: 100-2008_sprezeni_c_53.pdf
+# PDF_STRANA: 20
+# TISTENA_STRANA: 18
+# OCR: vision (AI dočtení, tesseract conf pod prahem; tabulka otočená o 90°)
+---
+Seznam krycích psů - 05/2008
+
+Jmeno_psa | Chovna_stanice | Tetovaci_cislo | Datum_narozeni | Majitel | barva
+DANY | Netolická obora | 1059 | 3.28.98 | Tereza a Delroy Scarlett | žb
+AGBAR | Portmanka | 1094 | 11.23.98 | Jaromír Kladiva | čb
+FROSTY | Od Vandy z hájů | 1117 | 8.13.99 | Vanda Kmochová | žb
+ALEK | Větrné pláně | 1217 | 5.5.01 | Jiří Mikysek | čb
+Argo | Jenčíkův les | 1248 | 2.8.2001 | Šanc Ondřej | čb
+ALF | z Velké suché | 1259 | 5.25.02 | Oldřich Kaňský | čb
+BANJI | Větrné Pláně | 1236 | 7.6.02 | MUDr Jana Joselová | čb
+CENDA | z Láskova | 1235 | 7.30.03 | Blanka Svobodová | žb
+CAN | z Láskova | 1310 | 7.30.03 | MUDr Lenka Fiedlerová | žb
+BENJI | Jenčíkův les | 1308 | 9.8.03 | Josef Šmat | žb
+BADY | Jenčíkův les | 1318 | 8.9.2003 | Blanka Pivoňková | žb
+FALCO | Z Láskova | 1320 | 10.13.03 | Tomáš Voříšek | žb
+FALCO | Z Láskova | 1322 | 10.13.03 | Martina Voříšková | žb
+FLEK | Z Láskova | 1323 | 10.13.03 | Ing. Jan Kačur | žb
+FLIP | Z Láskova | 1335 | 10.13.03 | Kopřivová Václava | žb
+Charlie | Růžová louka | 1337 | 12.4.2004 | Říha Jaroslav | čb
+Cheron | Růžová louka | 1342 | 12.4.2004 | Petra Škochová | čb
+Gary | Netolická obora | 1354 | 8.5.2004 | Charvát Ladislav | žb
+Gaston | Z Láskova | 1355 | 26.7.2004 | Luboš Kyksa | žb
+Guliver | Z Láskova | 1353 | 26.7.2004 | Vamda Kmochová | žb
+Ganek | z Láskova | 1361 | 26.7.2004 | Petr Růřička | žb
+Ikar | Růžová louka | 1370 | 8.4.2005 | Valentovi | čb
+Barnabáš | Jakubská Hůrka | 1372 | 17.7.2005 | Blanka Svobodová | čb
+Berth | Jakubská Hůrka | 1376 | 17.7.2005 | Jan Petera | žb
+Barnie | Hvězda Vysočiny | 1399 | 26.10.2005 | Ječmínek Jiří | čb
+Jeníček | Růžová louka |  | 29.6.2006 | Pavel Václavík | žb
+
+[poznámka k přepisu: v tabulce jsou přes několik řádků (přibližně DANY–ALEK a CENDA–BADY) rukou vedené křivky/škrtnutí přes celý blok jmen — význam není ze skenu jednoznačně určitelný (může jít o označení vyřazených/neaktivních krycích psů nebo o jinou poznámku), nedomýšlím, uvádím jako neuvedeno/nelze jednoznačně určit.]

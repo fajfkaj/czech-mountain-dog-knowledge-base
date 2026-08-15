@@ -1,0 +1,30 @@
+# ZDROJ: Spřežení č. 26, rok 1994, strana nezjištěna
+# SOUBOR: 73-1994-07_sprezeni_c_26.pdf
+# PDF_STRANA: 6
+# TISTENA_STRANA: nezjištěna (volební lístek, bez čísla)
+# OCR: vision (AI dočtení, tesseract conf pod prahem)
+---
+VOLBY - VÝBOR KČHP
+
+Z navržených kandidátů zaškrtněte maximálně 7 lidí:
+
+[ ] Hanzlík Petr - Kard.Řečice
+[ ] Chlad Rudolf - Boží Dar
+[ ] Jirák Jan - Čes.Budějovice
+[ ] Kupka Oldřich - Slapy u Tábora
+[ ] Kupková Dana - Slapy u Tábora
+[ ] Kyncl Martin - Ústí n.Labem
+[ ] Loučka Radko - Královice
+[ ] Loučková Eva - Královice
+[ ] Matějeková Helena - Netolice
+[ ] Pospíšilová Pavla - Hor.Čer.Studnice
+[ ] Procházka Vít - Sadská
+[ ] Rašín Ivo - Kosmonosy
+[ ] Slavatová Jarmila - Praha
+[ ] Šanovec Jan - Dobřichovice
+[ ] Štěpánek Stanislav - Lelekovice
+[ ] Tomek Ivan - Praha
+[ ] Trdla Tomáš - Zásada
+[ ] Vodák Milan - Soběslav
+[ ] Záhorková Anna - Stachy
+[ ] Ženíšek Pavel - Strašín
