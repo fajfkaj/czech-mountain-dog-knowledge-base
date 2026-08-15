@@ -1,19 +1,7 @@
-# ZDROJ: Spřežení č. 6, rok 1986, strana nezjištěna
+# ZDROJ: Spřežení č. 6, rok 1986, s. strana nezjištěna
 # SOUBOR: 50-1986-10_sprezeni_c_6.pdf
 # PDF_STRANA: 2
 # TISTENA_STRANA: nezjištěna
-# OCR: tesseract-5.3.4 / ces / conf 39.7
+# OCR: vision (AI dočtení, tesseract conf pod prahem); prázdná/téměř prázdná strana, jen slabý průsvit textu z rubu listu, nečitelné
 ---
-vy blána Mý >
-vaně -r
-dě
-zda
-„
-w č
-Š 4
-ORL
-4 -5 i
-r sek
-+ M
-js DN
-<
+[nečitelné]

@@ -1,54 +1,59 @@
-# ZDROJ: Spřežení č. 6, rok 1986, strana nezjištěna
+# ZDROJ: Spřežení č. 6, rok 1986, s. 18
 # SOUBOR: 50-1986-10_sprezeni_c_6.pdf
 # PDF_STRANA: 20
-# TISTENA_STRANA: nezjištěna
-# OCR: tesseract-5.3.4 / ces / conf 82.0
+# TISTENA_STRANA: 18
+# OCR: vision (AI dočtení, tesseract conf pod prahem)
 ---
-o
-č 1 =
+- 18 -
+
 PŘÍPRAVA SPORTOVNÍ SEZONY
-Protože v uplynulé sozoně 1985/86 dopadl seriál závodů
+
+Protože v uplynulé sezoně 1985/86 dopadl seriál závodů
 na výbornou a ke všeobecné spokojenosti závodníků, pořadatelů
-1 přihlížejících, bylo na konci zimy domluveno, že na novou
+i přihlížejících, bylo na konci zimy domluveno, že na novou
 sezonu připravíme společně s Klubem chovatelů psů severských
-plemen jednotný seriál závodů pro všechna plemena tažných psů,
-Na 28.8,86 byl J,Klír pozván na schůzku sportovní komíso
-KCHPSP, kde byl ohodnut další spole postup, Byl vypraco=
-ván a na ÚOK Jon gdoslén dopis, v němž jménem obou klubů
-požadujeme od ÚV ČSCH zřízení subkomigo pro dunový sporvto
-Zároven byl určen termín spoločné pohůzky zústupců obou klubů,
-ktorá se pak konala 11.10.86 vo složení IoSíbrt, 4.Kojjl, MeKo=
-pos kočková (KOHPSP) a PoHanzlík, I.Kobr, J.Klír (KC/ŠIP), Za
-OK ČSCH byl delogován Dr.Kocourek který we všule noduutno!!,
-„ „Na achůzce byla sohválena terminová listina zúvodů V ui
-ně 1986/87, bodovací systém pohárové soutěžo, zůvodní rád .-
-bylo dohodnuto, žo sportovní činnost budu prováděna epoleční
-a v Jednotlivých klubech zůstane činnost vně ohovatelská,
-dalším vývojí. Je pak snaha sportovní činnost přesunout
-pod ČSTV, nebot, jak se mohli mmozí přesvěděit, o sport se-
-skutečně jedná, V tomto směru již probíhá jednání v některých
-IJ, kam by se jezdoi měli společně přihlásit a vytvořit tak '
-zpočátku jeden či dva oddíly při TJ ČSTV,
-Jan Klír
-„, VÝCHOVA A VÝCVIK PSA K TAHU
-Požádal jsem některé naše mushery o pár rad pro začátečníky ,
-na téma „výovik štěněte k fašun, Zdď jsou: :
-„„ Ne recese nebo extrém, ale společný hluboký zájem nás od-
-vál z řad „normálních!,
-Zase léto předalo vládu a padsjící listí, krátící se den
-a ohladná mlhavá rána jsou předzvěstí plískanio a dlouhé zí-
-my. Lidé nadávají, vzpomínají ne léto a 1jí horký čaj, aby
-zahnali ohřipku, Já s přáteli jásám a netrpělivě očekávám %o
+plemen jednotný seriál závodů pro všechna plemena tažných psů.
+Na 28.8.86 byl J.Klír pozván na schůzku sportovní komise
+KCHPSP, kde byl dohodnut další společný postup. Byl vypraco-
+ván a na ÚOK ČSCH odeslán dopis, v němž jménem obou klubů
+požadujeme od ÚV ČSCH zřízení subkomise pro saňový sport.
+Zároveň byl určen termín společné schůzky zástupců obou klubů,
+která se pak konala 11.10.86 ve složení I.Síbrt, Z.Kohl, M.Ko-
+lomazníková (KCHPSP) a P.Hanzlík, I.Kobr, J.Klír (KCHČHP). Za
+ÚOK ČSCH byl delegován Dr.Kocourek, který se však nedostavil.
+Na schůzce byla schválena termínová listina závodů v sezo-
+ně 1986/87, bodovací systém pohárové soutěže, závodní řád a
+bylo dohodnuto, že sportovní činnost bude prováděna společně
+a v jednotlivých klubech zůstane činnost hlavně chovatelská.
+V dalším vývoji je pak snaha sportovní činnost přesunout
+pod ČSTV, neboť, jak se mohli mnozí přesvědčit, o sport se
+skutečně jedná. V tomto směru již probíhá jednání v některých
+TJ, kam by se jezdci měli společně přihlásit a vytvořit tak
+zpočátku jeden či dva oddíly při TJ ČSTV.
+                                        Jan Klír
+
+
+VÝCHOVA A VÝCVIK PSA K TAHU
+
+Požádal jsem některé naše mushery o pár rad pro začátečníky
+na téma "výcvik štěněte k tahu". Zde jsou:
+
+Ne recese nebo extrém, ale společný hluboký zájem nás od-
+vál z řad "normálních".
+Zase léto předalo vládu a padající listí, krátící se den
+a chladná mlhavá rána jsou předzvěstí plískanic a dlouhé zi-
+my. Lidé nadávají, vzpomínají na léto a pijí horký čaj, aby
+zahnali chřipku. Já s přáteli jásám a netrpělivě očekávám to
 správné loupnutí v kloubech, kdy počasí se zlepší a začne
 mrznout. Vyhlížím mrak se sněhem a do žil proudí energie spo-
-lečně se psy, přivyklými tahu, :
-Rok od roku se roding takto sposkišeýcm rozrůstá. Z roku
-na rok výkonnostní úroven startuj cích na závodech psích zá=
-přahů neuvěřitelně stoupá« T0, co přad čtyřmi pěti lety plati-
-lo za Špičkový výkon, dnos nestačí na průměr.
-Před několika a Jeem měl možnost při tréninku sledovat
-dva psy, Jednoho od Ště:úte důsledně trénovanóho, ve stáří ne-
-celých dvou let a drujiíno, čtyřletého statného psa, který bě-
-hal občasně a jen v 52Z0NŠ« Ten druhý, před lety, byl zaručeně
-posilou spřežení.Dncí ale nestačil svému mladšímu bratru ani
+lečně se psy, přivyklými tahu.
+Rok od roku se rodina takto "postižených" rozrůstá. Z roku
+na rok výkonnostní úroveň startujících na závodech psích zá-
+přahů neuvěřitelně stoupá. To, co před čtyřmi pěti lety plati-
+lo za špičkový výkon, dnes nestačí na průměr.
+Před několika dny jsem měl možnost při tréninku sledovat
+dva psy. Jednoho od štěněte důsledně trénovaného, ve stáří ne-
+celých dvou let a druhého, čtyřletého statného psa, který bě-
+hal občasně a jen v sezoně. Ten druhý, před lety, byl zaručeně
+posilou spřežení. Dnes ale nestačil svému mladšímu bratru ani
 dva kilometry. Zatímco ten starší končil, ten mladší, od mlá-

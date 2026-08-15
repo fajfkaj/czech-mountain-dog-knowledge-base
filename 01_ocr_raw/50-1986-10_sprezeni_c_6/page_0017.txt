@@ -1,50 +1,62 @@
-# ZDROJ: Spřežení č. 6, rok 1986, strana nezjištěna
+# ZDROJ: Spřežení č. 6, rok 1986, s. 15
 # SOUBOR: 50-1986-10_sprezeni_c_6.pdf
 # PDF_STRANA: 17
-# TISTENA_STRANA: nezjištěna
-# OCR: tesseract-5.3.4 / ces / conf 83.3
+# TISTENA_STRANA: 15
+# OCR: vision (AI dočtení, tesseract conf pod prahem); obsahuje tabulku (termínová listina)
 ---
-= 1Š «
+- 15 -
+
 VETERINÁRNÍ PROHLÍDKA PSA PŘI PORANĚNÍ ČLOVĚKA
-Došlo=li k poranění člověka, je majitel zvířete povinen
-umožnit vyšetření zvířete, zajlstit jeho pozorování po dobu
-5 dnů a jakékoliv onemoonění nebo zm v ohování zvířete ne-
-prodleně oznámit OVZ«
+
+Došlo-li k poranění člověka, je majitel zvířete povinen
+umožnit vyšetření zvířete, zajistit jeho pozorování po dobu
+5 dnů a jakékoliv onemocnění nebo změny v chování zvířete ne-
+prodleně oznámit OVZ.
 K opětovnému vyšetření je majitel povinen předvést zvíře
-S.den po poranění osoby, s výjimkou případů, kdy toto opětov=
-né vyšetření provede veterinární lékař u majitele zvířete,
+5.den po poranění osoby, s výjimkou případů, kdy toto opětov-
+né vyšetření provede veterinární lékař u majitele zvířete.
 Veterinární lékař vystaví při každém vyšetření zvířete
-„Osvědčení o zdravotním stavu zvířete“, které je majitel po-
-vinen přeje: ihned ošetřejícímu lékaři poraněné osoby.
+"Osvědčení o zdravotním stavu zvířete", které je majitel po-
+vinen předat ihned ošetřejícímu lékaři poraněné osoby.
 Vyšetření všech zvířat, která poranila člověka a vystavo-
-vání osvědčení o zdravotním stavu zvířete pro zdrevotniokou
+vání osvědčení o zdravotním stavu zvířete pro zdravotnickou
 službu, jsou bezplatné.
-Za vyšetření nevakoinovaných psů, podléhajících povinnému
-očkování (od 6 měsíců, popš« od 3 měsíců stáři) se majiteli
-účtuje úhrada podle platných předpisů, Totéž se účtuje při
-2.prohlídce pátý den a pes se zdarma očkuje proti vztekliné,
-Zpracováno podle „Mimořádnýoch sdělení a po=
-kynů pro veterinární organizace - VZTEKLINA"
-r.1985 Jindřiška Beranová
-TERMÍNOVÁ LISTINA PŘEJEZDĚ A ZÁVODĚ
-ná 72000 kategorie
-244 = 26.10.86 Adršpach Miroslav Holeček
-podzimní Dvořákova 135
-přejezd Police n.Metují l
-549 54
-25.10.86 Lysá neLabem od 9 hodin
-státodostihozáv.
-závody na suchu
-T. = 9411486 Českomoravská Petr Elster
-vrchovina Havlíčkovo nám.93
-podzinmí Dačice
-přejezd 380 01
-204 = 21.12.86 Peco p.Sněžkou „ Ivan Kobr CBL1
-nebude-li I ,pohárový chata Racek
-sníh, pak závod Peco p,Sněžkou
-104 = 114 1.87 542 21
-23. = 25. 1.87 Krušné hory FranteDolejš |, - SCBA1
-soustředění Rtyně nad |
-pro zače i po- Bílinou čel
-očilé jezdce 417 62
-25.1. + kontrol .závod
+Za vyšetření nevakcinovaných psů, podléhajících povinnému
+očkování (od 6 měsíců, popř. od 3 měsíců stáří) se majiteli
+účtuje úhrada podle platných předpisů. Totéž se účtuje při
+2.prohlídce pátý den a pes se zdarma očkuje proti vzteklině.
+
+                Zpracováno podle "Mimořádných sdělení a po-
+                kynů pro veterinární organizace - VZTEKLINA"
+                r.1985                 Jindřiška Beranová
+
+
+TERMÍNOVÁ LISTINA PŘEJEZDŮ A ZÁVODŮ
+
+                                    přihlášky
+                                    informace                  kategorie
+
+24. - 26.10.86  Adršpach            Miroslav Holeček
+                podzimní            Dvořákova 135
+                přejezd             Police n.Metují
+                                    549 54
+
+25.10.86        Lysá n.Labem        od 9 hodin
+                stát.dostih.záv.
+                závody na suchu
+
+7. - 9.11.86    Českomoravská       Petr Elster
+                vrchovina           Havlíčkovo nám.93
+                podzimní            Dačice
+                přejezd             380 01
+
+20. - 21.12.86  Pec p.Sněžkou       Ivan Kobr                   CBL1
+nebude-li       I.pohárový         chata Racek
+sníh, pak       závod               Pec p.Sněžkou
+10. - 11. 1.87                      542 21
+
+23. - 25. 1.87  Krušné hory         Frant.Dolejš                SCBA1
+                soustředění         Rtyně nad
+                pro zač. i po-        Bílinou č.1
+                kročilé jezdce      417 62
+25.1.           + kontrol.závod

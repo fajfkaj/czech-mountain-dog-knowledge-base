@@ -1,106 +1,70 @@
-# ZDROJ: Spřežení č. 6, rok 1986, strana nezjištěna
+# ZDROJ: Spřežení č. 6, rok 1986, s. 16
 # SOUBOR: 50-1986-10_sprezeni_c_6.pdf
 # PDF_STRANA: 18
-# TISTENA_STRANA: nezjištěna
-# OCR: tesseract-5.3.4 / ces / conf 78.0
+# TISTENA_STRANA: 16
+# OCR: vision (AI dočtení, tesseract conf pod prahem); obsahuje tabulku (termínová listina) a vysvětlivky
 ---
-31.1.
-+
-7 - 8, 2,87
-21. hs 22 2,87
-28424- je 3.87
-134 = 154 3.87
-1. 2.87 -
-= 16 =
-4adov .
-II o pohávový
-zavod
-mistrovské
-přebory
-Jizerské hory
-III pohárový
-závod
-Sv.Kateřina
-u Počátek
-IV pohárový
-Zavod
-Harrachov
-Va pohárový
-závod
-Kokonose
-(Vrohlabí)
-exped.závod
-dvojio =
-memoriál
-Dr .V.Vojtěcha
-Vysvětlivky k termínovoe:
-376 21
-Petr Hanzlík
-Snetanova 648
-Kardašova Řečice
-Stáňa Bogdanová
-Praha 4
-140 00
-Petr Klster
-Havlíčkovo nám.93
-Dačice
-380 01
-Stána Bogdanová
-S,května 35
-Praha 4
-140 00
-Jan Chlum
-Tklacovská 350
-Vrohlabí
-543 01
-CBL1
-SCBA02
-CBL1
-SCBA02
-kategorie:
-NS OPWar
-3 = skandinávská: pulka se zátěží (celkový ná=
-klad činí 20kg 1pes, 40kg 2psi, 55
-pole je=lí ve spřežení
-celková váha o 5kg) +
-tří
-fena, redukuje se
-jedy + lyžař
-lyžeř a pes (1 pes + lyžař
-spřežení 23 psi
-spřežení 3=5 psů
-spřežení 5=7 psů
-spřež nad
-jednokolový závod
-psů
-dvoukolový závod ,
-pozn.: se třemi psy uchu jet G nebo B, ale u dvoukolového zá=
-vodu riskuji v B, že
-mohu již do 2.kola se dvěma zb
-B = A, A „+ 0) a jsem dis
-dobně
-když se v 1.kole zraní
-jícími Aastouněů Čpem
-lifikován.
-Závody v Peci pod úu'žkou, Zadověz Sv.Kateřině se pojedou sys=
-témem: 1,den = lyžař s pes (L)
-2eden - Bpřožuw.í (C,
-"Na závodech v Jizovský
-4
-(+ 3
-wyb
-zh horách a Harrachově bude na
-1.den = 1,kolo ný
-2,den “ 2.Kkolo (S,G;,B,A,0
-Jednotlivé kategorie budou vy
-ina
-psány pouz
-pořadu
-e při účasti nejméně
-k bude doporučeno redukovat počet psů we
-3 vodníků, jí
-spřežení a zúčastnit 79 nejbližší nižší kategorie,
-Pohárové závody (T,-V .)
-Do celkového hodnoa ní se započítávají každému 4 závody 8 zj
-lepším výsledkem z j (u kategorie lyžař a pes se započítávaj
-všechny j závody); boduje se v kategoriích LOB, Za 1.místo
+- 16 -
+
+31.1.- 1. 2.87  Zadov               Petr Hanzlík                CBL1
+                II.pohárový         Smetanova 648
+                závod               Kardašova Řečice
+                + mistrovské        378 21
+                přebory
+
+7. - 8. 2.87    Jizerské hory       Stáňa Bogdanová             SCBA02
+                III.pohárový        5.května 35
+                závod               Praha 4
+                                    140 00
+
+21. - 22. 2.87  Sv.Kateřina         Petr Elster                 CBL1
+                u Počátek           Havlíčkovo nám.93
+                IV.pohárový         Dačice
+                závod               380 01
+
+28.2.- 1. 3.87  Harrachov           Stáňa Bogdanová             SCBA02
+                V.pohárový          5.května 35
+                závod               Praha 4
+                                    140 00
+
+13. - 15. 3.87  Krkonoše            Jan Chlum
+                (Vrchlabí)          Tkalcovská 350
+                exped.závod         Vrchlabí
+                dvojic -            543 01
+                memoriál
+                Dr.V.Vojtěcha
+
+Vysvětlivky k termínovce:
+
+kategorie:      S - skandinávská: pulka se zátěží (celkový ná-
+                    klad činí 20kg 1pes, 40kg 2psi, 55kg tři
+                    psi; je-li ve spřežení fena, redukuje se
+                    celková váha o 5kg) + 1-3 psi + lyžař
+                L - lyžař a pes (1 pes + lyžař)
+                C - spřežení 2-3 psi
+                B - spřežení 3-5 psů
+                A - spřežení 5-7 psů
+                O - spřežení nad 7 psů
+                1 - jednokolový závod
+                2 - dvoukolový závod
+
+pozn.: se třemi psy mohu jet C nebo B, ale u dvoukolového zá-
+       vodu riskuji v B, že když se mi v 1.kole zraní pes, ne-
+       mohu již do 2.kola se dvěma zbývajícími nastoupit (po-
+       dobně B - A, A - O) a jsem diskvalifikován.
+
+Závody v Peci pod Sněžkou, Zadově, Sv.Kateřině se pojedou sys-
+témem: 1.den - lyžař a pes (L)
+       2.den - spřežení (C,B)
+Na závodech v Jizerských horách a Harrachově bude na pořadu
+       1.den - 1.kolo (S,C,B,A,O)
+       2.den - 2.kolo (S,C,B,A,O)
+Jednotlivé kategorie budou vypsány pouze při účasti nejméně
+3 závodníků, jinak bude doporučeno redukovat počet psů ve
+spřežení a zúčastnit se nejbližší nižší kategorie.
+
+Pohárové závody (I.-V.)
+
+Do celkového hodnocení se započítávají každému 4 závody s nej-
+lepším výsledkem z 5 (u kategorie lyžař a pes se započítávají
+všechny 3 závody); boduje se v kategoriích LCB. Za 1.místo

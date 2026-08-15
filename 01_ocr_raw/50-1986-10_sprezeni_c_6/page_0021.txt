@@ -1,63 +1,66 @@
-# ZDROJ: Spřežení č. 6, rok 1986, strana nezjištěna
+# ZDROJ: Spřežení č. 6, rok 1986, s. 19
 # SOUBOR: 50-1986-10_sprezeni_c_6.pdf
 # PDF_STRANA: 21
-# TISTENA_STRANA: nezjištěna
-# OCR: tesseract-5.3.4 / ces / conf 83.4
+# TISTENA_STRANA: 19
+# OCR: vision (AI dočtení, tesseract conf pod prahem)
 ---
-= 19 «
-dí nepřetržitě trónovaný, pokoašaval v nezměněném tempu ještě
+- 19 -
+
+dí nepřetržitě trénovaný, pokračoval v nezměněném tempu ještě
 deset. Bylo mně jasné, že ten čtyřletý, i přes snahu majitele,
-ten rozdíl nikdy nedoženeo
-Ten delší úvod píši záměrně, Jednak rozšířený zájem o ten=
-to nový sport a pak stoupající výkonnostní úzovahe de důraz
-na výovik a trén psa. V tomto číslo „Spřežení= vlástně vol=
+ten rozdíl nikdy nedožene.
+Ten delší úvod píši záměrně. Jednak rozšířený zájem o ten-
+to nový sport a pak stoupající výkonnostní úroveň, klade důraz
+na výcvik a trénink psa. V tomto čísle -Spřežení- vlastně vol-
 ně navazuji na článek v čísle minulém, uveřejněný pod názvem
-„Výohova a výovik štěněte",
-K tréninku by mělo přístupovat starší štěně alespon s ob-
-stojnou ovladatelností, Základní povely -sedni, lehni a při=
+"Výchova a výcvik štěněte".
+
+K tréninku by mělo přistupovat starší štěně alespoň s ob-
+stojnou ovladatelností. Základní povely -sedni, lehni a při-
 volání- musíme rozšířit o povel VPŘED.
-Se psem na vodítku si Zaběhneme nebo na kole objedeme
-několikakilometrový okruh s SARS" oatérkou asi 3x., Pes tedy
-napříště nebloudí a trasu zná, Poté psovi nasadíme postroj pro
-zápřeah „vedlo sebe", spojíme se s ním lanlcem »skijering na au=
-chu= a dáme povel VPÝŘED, Pes neohápavě civí a lehá sl vám k
-noze. Když po nmohé slovo vpřed ete a vyáěňoný pes lazí
+Se psem na vodítku si zaběhneme nebo na kole objedeme
+několikakilometrový okruh s denní přestávkou asi 3x. Pes tedy
+napříště nebloudí a trasu zná. Poté psovi nasadíme postroj pro
+zápřah "vedle sebe", spojíme se s ním lankem -skijöring na su-
+chu- a dáme povel VPŘED. Pes nechápavě civí a lehá si vám k
+noze. Když po mnohé slovo vpřed zařvete a vyděšený pes leží
 dál, tentokrát na zádech, nebalte to, ani se neozbrojujte.
-Vezměte vrbový pronbí do jedné ruky a psa za ocas druhou
-zdvihněbe, Zavelte VPŘED a psa proutkem poté švihněte přes za=
-dek, Je to vlastně Pavlovův refex. Pes hlavou dolů začne již
-po druhém švihnutí hrabat předně nohema a ani ho nenapadne
-si lehat, Chce zoufale pryč. No a o to nám jde. Psa šýpvstíne
-a dáme pozor, aby nás nesrazil, Jsme totiž na jednom če
-Když pes polevuje nebo náhle hledá útočlátě pod hranloí dřeva,
-fintu s ocasem v jedné a proutkem v druhé ruoe zopakujeme., Ve
-psíčkovi tak brzy navodíme domnění, že ho Winás1otujene. Dě=
-láme vše pro t0, sbypňon js v tom utvrdili, i když opak ja
+Vezměte vrbový proutek do jedné ruky a psa za ocas druhou
+zdvihněte. Zavelte VPŘED a psa proutkem poté švihněte přes za-
+dek. Je to vlastně Pavlovův refex. Pes hlavou dolů začne již
+po druhém švihnutí hrabat předníma nohama a ani ho nenapadne
+si lehat. Chce zoufale pryč. No a o to nám jde. Psa vypustíme
+a dáme pozor, aby nás nesrazil. Jsme totiž na jednom laně.
+Když pes polevuje nebo náhle hledá útočiště pod hranicí dřeva,
+fintu s ocasem v jedné a proutkem v druhé ruce zopakujeme. Ve
+psíčkovi tak brzy navodíme domnění, že ho pronásledujeme. Dě-
+láme vše pro to, abychom jej v tom utvrdili, i když opak je
 pravdou. Pes zná trat a blíže k cíli zrychluje. No a na to my
-již dávno nemáme. Jsme všek homo sapiens a to nás staví do vý-
-hody »
-Zvládli jsme povel „vpřed", Pes ale musí dokázat zatočit
-doleva A doprava: Začínáme tedy měnit tréninkovou trasu, kte=
-rou pes nezná a na rozcestí nepravidelně odbočujeme. Vždy tek
-18 —- 15 m předem zopakujeme povel -Hoo0- doleva nebo »Džíí-
-doprava (psáno foneticky). i
-V první fázi psa zatáčkou prosmýkáme. V druhé pes znejití
-a začne kličkovat, To již máme vyhráno, protože reáguje« Vždy,
-když uhne tak, jek potřebujeme, psa poohválímes V třetí fázi
-pes zatáčí na povels
-Jistě uznáte, že, teoreticky Je to prostés
-Můžeme proto pokračovat a obohatit repertoár o povel POMALU,
-p: zahodíme proutek, opakujeme povel, lanko přitahujeme a brz=
-Me vt
+již dávno nemáme. Jsme však homo sapiens a to nás staví do vý-
+hody.
+Zvládli jsme povel "vpřed". Pes ale musí dokázat zatočit
+doleva a doprava. Začínáme tedy měnit tréninkovou trasu, kte-
+rou pes nezná a na rozcestí nepravidelně odbočujeme. Vždy tak
+10 - 15 m předem zopakujeme povel -Hóo- doleva nebo -Džíí-
+doprava (psáno foneticky).
+V první fázi psa zatáčkou prosmýkáme. V druhé pes znejistí
+a začne kličkovat. To již máme vyhráno, protože reaguje. Vždy,
+když uhne tak, jak potřebujeme, psa pochválíme. V třetí fázi
+pes zatáčí na povel.
+Jistě uznáte, že teoreticky je to prosté.
+Můžeme proto pokračovat a obohatit repertoár o povel POMALU.
+To zahodíme proutek, opakujeme povel, lanko přitahujeme a brz-
+díme.
 Zbývá povel poslední z důležitých a to je STŮJ. Je možné
-si pomocí stahovacím obojkem a vodítkame eme naovičovat
-i za pochodu při noze psovoda,
-Nikdy nedělejte tu chybu, aby jste psa za sebou lákali!
-Ani nr pán psa nedožene k takov výkonu, jako že živý ho
-dostihne«
-Trénink jěě graduje od kondičních běhů k cílevědomému vý-
+si pomoci stahovacím obojkem a vodítkem. Můžeme nacvičovat
+i za pochodu při noze psovoda.
+
+Nikdy nedělejte tu chybu, abyste psa za sebou lákali!
+Ani mrtvý pán psa nedožene k takovému výkonu, jako že živý ho
+dostihne.
+Trénink psa graduje od kondičních běhů k cílevědomému vý-
 konu. Doporučuji trénink dělit na posilování a rychlost. Při
-posilování nes tahá pneumatiku, vozík apod, Ryohlost naoviču=
-jeme tak, ža peg běží volně před kolem nebo motorkou (autem)
-a tempo se stupňuje. Dobře připravený pes pro skijering je i
-platnou pomocí pro oalý dog team, Zvyknout psa práci ve spřežení
+posilování pes tahá pneumatiku, vozík apod. Rychlost nacviču-
+jeme tak, že pes běží volně před kolem nebo motorkou (autem)
+a tempo se stupňuje. Dobře připravený pes pro skijöring je i
+platnou pomocí pro celý dog team. Zvyknout psa práci ve spřežení

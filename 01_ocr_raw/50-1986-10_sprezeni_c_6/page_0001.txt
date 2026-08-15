@@ -1,46 +1,32 @@
-# ZDROJ: Spřežení č. 6, rok 1986, strana nezjištěna
+# ZDROJ: Spřežení č. 6, rok 1986, s. strana nezjištěna
 # SOUBOR: 50-1986-10_sprezeni_c_6.pdf
 # PDF_STRANA: 1
 # TISTENA_STRANA: nezjištěna
-# OCR: tesseract-5.3.4 / ces / conf 70.2
+# OCR: vision (AI dočtení, tesseract conf pod prahem); titulní strana s ilustrací a fotografií
 ---
-/= p)
-pe ny
-it = 4
-se osě $ o:
-o. EN O00m ČSCH
+ČSCH
+
 SPŘEŽENÍ
-Klub chovatelů „českého horského | sa
-—————————— — —————————— —— —————
-č.6 říjen 1986
-Seznam členů KCHČHP k 1.10.1986
-Nové chovné stanice
-Plán chovu na příští rok
-Selekce štěňat v r.87
-1
-2
-2
-3
-. A
-Bonitace v Praze 12.10.86 „4
-Bonitace v budoucnu č
-9
-1
-4
-5
-5
-Celostátní ry výstevé Brno = Žebětín
-Výživa feny a
-jospaky nad nku oo) NÍ
-Veterinární prohlídka psa při poranění —
-mů =
-člověka 1
-Termínová listina přejezdů a závodů 1
-Licence Jezdoů 17
-l zrhoby sportovní sezony 18
-Výchova a výcvik psa k tahu 18
-Kde to vlastně u psa vězí? 22
-n
-—— ——
-——— — — m:
-(Be
+
+Klub chovatelů českého horského psa
+
+č.6                                                    říjen 1986
+
+Seznam členů KCHČHP k 1.10.1986                                    1
+Nové chovné stanice                                                2
+Vrhy 86 k 18.10.86                                                 2
+Plán chovu na příští rok                                           3
+Selekce štěňat v r.87                                              4
+
+Bonitace v Praze 12.10.86                                          4
+Bonitace v budoucnu                                                5
+Celostátní klubová výstava Brno - Žebětín                          6
+Výživa feny a štěňat                                               9
+Rozpaky nad bernardýnem                                            11
+!!!                                                                14
+Veterinární prohlídka psa při poranění člověka                     15
+Termínová listina přejezdů a závodů                                15
+Licence jezdců                                                     17
+Příprava sportovní sezony                                          18
+Výchova a výcvik psa k tahu                                        18
+Kde to vlastně u psa vězí?                                         22

@@ -1,49 +1,57 @@
-# ZDROJ: Spřežení č. 6, rok 1986, strana nezjištěna
+# ZDROJ: Spřežení č. 6, rok 1986, s. 17
 # SOUBOR: 50-1986-10_sprezeni_c_6.pdf
 # PDF_STRANA: 19
-# TISTENA_STRANA: nezjištěna
-# OCR: tesseract-5.3.4 / ces / conf 79.5
+# TISTENA_STRANA: 17
+# OCR: vision (AI dočtení, tesseract conf pod prahem)
 ---
-= 17 =
-8 bedly 2.místo 5 bodů, 3. = 4, 4. = 3, 5. - 2 a za 6,místo
-1 ods
-Nejlepě 864 Sozon
-SěLtají ae body pro jednotlivé puy, zZíuskunó na pohúrovýoh zá-
-vodech. Pro lepší zhodnocení individuálního výonu se body z
-rape lyžuř a bes násobí koeficientom 2, body ze spřežení
-koefloientem 1,
+- 17 -
+
+8 bodů, 2.místo 5 bodů, 3. - 4, 4. - 3, 5. - 2 a za 6.místo
+1 bod.
+
+Nejlepší pes sezony
+
+Sčítají se body pro jednotlivé psy, získané na pohárových zá-
+vodech. Pro lepší zhodnocení individuálního výkonu se body z
+kategorie lyžař a pes násobí koeficientem 2, body ze spřežení
+koeficientem 1.
+
 Přihlášky
-Závodníci si napíší na adresy pojnashenů jednotlivých závodů
-o propozice «. vyplněnou přihlášku pošlou zpět tak, aby ji po-
-= ít te obdržal. nejdéle |4 dní před ! znak 5 jat
-Závodů se mohou Zůč84 pe pouze s průkazy původu, 3 plate
-ným očkováním u vetěriná prohlídkou (jako na výsižvy);
-všech plemen zapsaných vw Hlavní plemenné knize ČSCH,
-Jan Kkití
+
+Závodníci si napíší na adresy pořadatelů jednotlivých závodů
+o propozice - vyplněnou přihlášku pošlou zpět tak, aby ji po-
+řadatel obdržel nejdéle 14 dní před ! závody.
+Závodů se mohou zúčastnit psi pouze s průkazy původu, s plat-
+ným očkováním a veterinární prohlídkou (jako na výstavy),
+všech plemen zapsaných v Hlavní plemenné knize ČSCH.
+                                        Jan Klír
+
+
 LICENCE JEZDCŮ
-Vyo letošní ročník se všichni jezdoi mohou zúčastnit všech zá-
+
+Pro letošní ročník se všichni jezdci mohou zúčastnit všech zá-
 vodů uvedených v termínové listině, s výjimkou Harrachova, kde
 se očekává kvalitní zahraniční účast. V Harrachově se tedy bu-
-dou moci zúčestnit pouze Jezdci s jezdockou licencí, kterou
-bude možné získat na všech závodech před Harrachovem,
-V lgtošní vezoně zígká licenci ten, kdo při závodě projede
-trat bez závučných incidentů a prokáže tuk vodle sohopnodti
-Ďídit spřežení i dostatečnou fyzickou kondiol psů, Vosdnoo
+dou moci zúčastnit pouze jezdci s jezdeckou licencí, kterou
+bude možné získat na všech závodech před Harrachovem.
+V letošní sezoně získá licenci ten, kdo při závodě projede
+trat bez závažných incidentů a prokáže tak vedle schopnosti
+řídit spřežení i dostatečnou fyzickou kondici psů. V jednom
 týmu může licenci získat více jezdců, ale do poháru může bodo-
-vat pouze každý za sebe. Výjimku Lze povolit pouze va druhém
-kole dvoukolovýoh závodů, kdy za zraněného nebo onemocnělého -
-pap a nastoupit náhradník, aniž by jezdec ztratil body
-do po o
-Lloence může být odebrána při opakování závažného incidentu, ,
-jinak pises po dobu akti činnosti jezdce,
-V příštímh letech budou vypisovány oblastní závody, jimiž. mu=
-sí projít všlohni začínající Jozdol a získat tam licenci. Li-
-oence bude pul nutná pro pohárové, Aékady kde se pole jezdoů
-rozdělí zřejmý do dvou výkonnostních tříd. Na závody u mozi-
-národní účastí se bude pak vyžadovat 1,VT,
+vat pouze každý za sebe. Výjimku lze povolit pouze ve druhém
+kole dvoukolových závodů, kdy za zraněného nebo onemocnělého
+jezdce může nastoupit náhradník, aniž by jezdec ztratil body
+do poháru.
+Licence může být odebrána při opakování závažného incidentu,
+jinak platí po dobu aktivní činnosti jezdce.
+V příštích letech budou vypisovány oblastní závody, jimiž mu-
+sí projít všichni začínající jezdci a získat tam licenci. Li-
+cence bude pak nutná pro pohárové závody, kde se pole jezdců
+rozdělí zřejmě do dvou výkonnostních tříd. Na závody s mezi-
+národní účastí se bude pak vyžadovat 1.VT.
 O licencích bude rozhodovat tříčlenná komise, v níž nesmí
-být nikdo z jezdců. v +
-Záv probíhají podla řádu ESDRA (očekává se vydání nového
-S dro pýni úpravami), který bude doplněn o dodatky pro pod=
-mínky ČSSRo
-Jan Klír
+být nikdo z jezdců.
+Závody probíhají podle řádu ESDRA (očekává se vydání nového
+s drobnými úpravami), který bude doplněn o dodatky pro pod-
+mínky ČSSR.
+                                        Jan Klír
