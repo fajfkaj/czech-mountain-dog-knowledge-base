@@ -13,6 +13,8 @@
 
 Z 56 historických čísel klubového zpravodaje **Spřežení** (1984–2008, naskenovaná PDF bez textové vrstvy) vytvořit **strukturovanou, prohledávatelnou a plně citovatelnou znalostní databázi** o tréninku, výživě, výchově, vedení spřežení, chovu, chovných podmínkách a genetice Českého horského psa. Databáze musí umožnit řetězec **dohledat → pochopit → porovnat → vyhodnotit → aplikovat**: u každého poznatku musí být zjistitelný přesný zdroj (číslo, rok, strana, autor, článek), typ informace (fakt × zkušenost × názor × pravidlo × hypotéza) a míra důvěryhodnosti.
 
+Součástí zadání je i **samostatné zmapování stop po existujících uložených datech** (zdravotní a genetické testy, DNA vzorky, veterinární vyšetření, rodokmenová evidence, výsledkové archivy) — co archiv zmiňuje, že bylo kdy testováno či evidováno, a **kde to má být uloženo**. Viz `KAT11` v 2.4.1.
+
 Nejde o shrnutí časopisů. Jde o **archivní výzkumný proces s přísnými anti-halucinačními pravidly**, jehož vedlejším produktem je trvale znovupoužitelný textový archiv (OCR po stránkách), takže se 56 PDF už nikdy nemusí procházet znovu.
 
 **Rozhodovací otázka (kvalitativní, ne numerická):** Dá se z degradovaných skenů 1984–2008 vytěžit databáze, která na namátkové kontrole Fajfkou obstojí — tj. citace sedí na skutečný zdroj, žádný poznatek není vymyšlený a žádná podstatná informace ze zkontrolovaných stránek nechybí?
@@ -107,6 +109,7 @@ Povinný enum `Kategorie` (přesně tyto kódy):
 | `KAT8` | Péče o fenu/matku a reprodukce |
 | `KAT9` | Podmínky zařazení do chovu (vývoj pravidel) |
 | `KAT10` | Genetika |
+| `KAT11` | **Odkazy na existující uložená data** (viz 2.4.1) |
 | `KAT0` | Ostatní archivní obsah (organizační, výsledky závodů, dopisy, zprávy z klubu) |
 
 `KAT1` má povinnou podkategorii (enum `Podkategorie`):
@@ -120,6 +123,30 @@ Povinný enum `Kategorie` (přesně tyto kódy):
 | `1E` | Běh / canicross |
 | `1F` | Triatlon / kombinovaný trénink |
 | `1G` | Obecná kondiční příprava (vytrvalost, síla, rychlost, koordinace, technika, regenerace, mimosezónní příprava, přechod sezón) |
+
+#### 2.4.1 KAT11 — Odkazy na existující uložená data (Fajfkův doplněk 2026-08-15)
+
+Samostatná kategorie, **ne podkategorie KAT10** — odkazy na uložená data jsou cross-cutting (týkají se genetiky, zdraví, rodokmenů i výsledků závodů), takže by se do genetiky nevešly čistě.
+
+**Co se sbírá:** každá zmínka v archivu o tom, že **existují nějaká data z dřívějšího testování / evidence**, a **kde jsou uložena**. Typicky formulace jako „výsledky testů jsou uloženy u…", „DNA vzorky archivovány v…", „zdravotní karty vede…", „rodokmenová evidence je u klubu / u pana X", „výsledkové listiny závodů archivuje…".
+
+Povinný enum `Podkategorie` pro KAT11:
+
+| Kód | Druh dat |
+|---|---|
+| `11A` | Zdravotní testy a veterinární vyšetření (dysplazie, oči, srdce…) |
+| `11B` | Genetické testy / DNA vzorky / laboratorní rozbory |
+| `11C` | Rodokmenová a plemenná evidence, chovatelské knihy |
+| `11D` | Výsledkové archivy závodů a zkoušek |
+| `11E` | Jiná evidence (fotoarchiv, korespondence, měření, statistiky vrhů) |
+
+**Dvě povinná pole navíc** (viz 2.5) — `Data_druh` a `Data_ulozeno_kde`.
+
+**Anti-halucinační pravidlo má tady zvýšenou váhu.** Zapisuje se přesně to, co zdroj uvádí, a nic víc:
+- Zdroj říká, že data existují, ale neuvádí kde → `Data_ulozeno_kde` = `neuvedeno / nelze jednoznačně určit`.
+- Zdroj uvádí místo uložení jen částečně („u chovatelské komise") → zapsat doslova tak, jak je to uvedeno, nedoplňovat jméno konkrétní osoby.
+- **Nikdy neodhadovat**, kde by data „asi" mohla být, ani to nedovozovat z jiného čísla zpravodaje. Odvozený závěr napříč čísly je legitimní jen jako samostatný záznam s `Uroven` = `C` a prefixem `SYNTÉZA: `.
+- Záznam KAT11 přebraný přímo ze zdroje má vždy `Uroven` = `A` a `Typ_informace` = `odkaz na uložená data`.
 
 U ostatních kategorií je `Podkategorie` volný text (např. `štěně 8–12 týdnů`, `krmení před výkonem`, `inbreeding`) nebo `neuvedeno / nelze jednoznačně určit`. Jeden poznatek může být relevantní pro víc kategorií — pak se **duplikuje jako samostatný záznam** s jiným `Kategorie` a stejným `Zdroj` (křížové propojení řeší pole `Souvisi_s`).
 
@@ -143,7 +170,7 @@ Povinná pole (všechna, žádné se nevynechává; když hodnota není zjistite
 | `Strana` | string | tištěné číslo, jinak `pdf-str. N` |
 | `Autor` | string | jméno, nebo `neuvedeno / nelze jednoznačně určit` |
 | `Clanek` | string | název článku, nebo `neuvedeno / nelze jednoznačně určit` |
-| `Typ_informace` | enum | `historický fakt` / `zkušenost chovatele` / `názor` / `metodika` / `pravidlo` / `genetické tvrzení` / `výsledek` / `hypotéza` / `interpretace` |
+| `Typ_informace` | enum | `historický fakt` / `zkušenost chovatele` / `názor` / `metodika` / `pravidlo` / `genetické tvrzení` / `výsledek` / `hypotéza` / `interpretace` / `odkaz na uložená data` |
 | `Uroven` | enum | `A` / `B` / `C` / `D` (viz 2.3) |
 | `Duveryhodnost` | enum | `VYSOKÁ` / `STŘEDNÍ` / `NÍZKÁ` / `NEJISTÁ` (definice viz 2.6) |
 | `Priorita` | enum | `A` (velmi důležité) / `B` (důležité) / `C` (doplňkové) / `D` (jen archivní) |
@@ -152,6 +179,13 @@ Povinná pole (všechna, žádné se nevynechává; když hodnota není zjistite
 | `Souvisi_s` | list[string] | ID jiných poznatků (stejný pes / chovatel / metoda / téma), může být prázdný list |
 | `Davka` | int | číslo dávky 1–8 (viz 2.9) |
 | `Ocr_zdroj` | string | relativní cesta k OCR stránce, ze které poznatek pochází, např. `01_ocr_raw/56-1989-11_sprezeni_c_12/page_0007.txt`; u syntézy víc cest oddělených `; ` |
+
+**Dvě podmíněně povinná pole** — vyplňují se **pouze** u `Kategorie` = `KAT11`, u ostatních kategorií se v JSONL vynechávají (v xlsx zůstanou prázdné buňky):
+
+| Pole | Typ | Pravidlo |
+|---|---|---|
+| `Data_druh` | string | co přesně za data zdroj zmiňuje, doslova podle zdroje (např. `rentgenové snímky kyčlí`, `krevní vzorky pro DNA`, `výsledkové listiny závodů 1992–1995`) |
+| `Data_ulozeno_kde` | string | kde jsou uložena — klubový archiv / konkrétní laboratoř / veterinární pracoviště / jméno osoby / chovatelská stanice. Když zdroj místo neuvádí: `neuvedeno / nelze jednoznačně určit` |
 
 `Ocr_zdroj` je klíčové pole pro automatickou kontrolu proti halucinaci (test T4/T5) — bez něj se záznam neuznává.
 
@@ -278,6 +312,7 @@ Do `03_vystupy/`, přesně tato jména, žádná jiná:
 - **TOP 50 nejzajímavějších poznatků** (bod 34) → poslední kapitola `04_EXECUTIVE_SUMMARY.docx`, sloupce: poznatek, proč zajímavý, zdroj, historický význam, využití dnes, důvěryhodnost, co ověřit.
 - **Frekvenční/statistické vyhodnocení** (bod 33) → samostatný list `Statistika` v `02_DATABAZE_POZNATKU.xlsx` (četnost témat a metod po obdobích) + odstavec s výslovným upozorněním, že četnost není důkaz účinnosti.
 - **Profily psů a spřežení** (body 22–23) → samostatný list `Psi` v `02_DATABAZE_POZNATKU.xlsx`.
+- **Odkazy na existující uložená data** (KAT11, Fajfkův doplněk) → **obojí**: (a) samostatný list `Ulozena_data` v `02_DATABAZE_POZNATKU.xlsx` — prostý filtr `Kategorie == "KAT11"` nad master databází, sloupce `ID`, `Podkategorie`, `Data_druh`, `Data_ulozeno_kde`, `Poznatek`, `Zdroj`, `Rok`, `Autor`, `Duveryhodnost`; (b) samostatná závěrečná kapitola **„Existující uložená data — co archiv zmiňuje a kde to má být"** v `07_GENETIKA_A_CHOV.docx`, členěná podle podkategorií `11A`–`11E`, s výslovným oddělením „místo uložení uvedeno" × „místo uložení neuvedeno". Když se v archivu nenajde žádná zmínka, kapitola i list přesto vzniknou s větou, že archiv žádnou takovou zmínku neobsahuje — absence je platné zjištění, nedoplňuje se domněnkou.
 - **Závěrečná analýza — 16 otázek** (bod 40) → předposlední kapitola `04_EXECUTIVE_SUMMARY.docx`, každá otázka zodpovězená explicitně a samostatně; když zdroje neumožňují odpověď, doslova `neuvedeno / nelze jednoznačně určit` a čím to je.
 
 ### 2.12 Struktura `04_EXECUTIVE_SUMMARY.docx` (bod 28, pořadí závazné)
@@ -398,7 +433,7 @@ Povinné pokrytí, případ po případu:
 - **T3 — confidence a práh:** na syntetickém TSV výstupu ověřit výpočet průměru (ignoruje `conf = -1` a prázdná slova), správné vyhodnocení `>= 85.0` vs `< 85.0` a guard „méně než 5 slov → vždy needs_vision".
 - **T4 — referenční integrita databáze (anti-halucinace):** pro každý záznam v `poznatky.jsonl` musí platit, že (a) `Cislo`+`Rok` odpovídá existující položce inventáře, (b) soubor uvedený v `Ocr_zdroj` na disku existuje, (c) `Strana` odpovídá hlavičce toho OCR souboru. Jakákoli neshoda = FAIL se seznamem vadných ID.
 - **T5 — ověření doslovných citací (anti-halucinace):** každý úsek `Poznatek` uzavřený v `„...“` se musí objevit v textu odpovídajícího OCR souboru. Porovnání po normalizaci (lowercase, sloučení bílých znaků, odstranění dělení slov na konci řádku, odstranění `[nečitelné]`), tolerance `difflib.SequenceMatcher.ratio() >= 0.85` (OCR chybovost). Pod prahem = FAIL se seznamem ID.
-- **T6 — validace schématu:** záznam bez některého povinného pole, s hodnotou mimo enum (`Kategorie`, `Typ_informace`, `Uroven`, `Duveryhodnost`, `Priorita`), s `KAT1` bez podkategorie `1A`–`1G`, nebo s `Uroven` C/D bez prefixu `SYNTÉZA: ` → odmítnut při zápisu.
+- **T6 — validace schématu:** záznam bez některého povinného pole, s hodnotou mimo enum (`Kategorie`, `Typ_informace`, `Uroven`, `Duveryhodnost`, `Priorita`), s `KAT1` bez podkategorie `1A`–`1G`, s `KAT11` bez podkategorie `11A`–`11E` nebo bez polí `Data_druh`/`Data_ulozeno_kde`, nebo s `Uroven` C/D bez prefixu `SYNTÉZA: ` → odmítnut při zápisu. Zároveň: `Data_*` pole u záznamu, který není `KAT11`, je také chyba.
 - **T7 — formát citace:** validátor přijme přesně tři varianty z 2.2 a odmítne čtvrtou (např. chybějící `rok`, anglické uvozovky, `s.` bez čísla).
 - **T8 — append-only:** dvojí zápis do `poznatky.jsonl` nikdy neztratí dřívější řádky; volání s existujícím `ID` je odmítnuto (duplicita ID).
 - **T9 — fail-safe:** poškozený PDF (0 bajtů) a stránka, jejíž render selže, nezastaví běh — vznikne WARNING v logu, položka v inventáři s `chyba:` a běh pokračuje dalším souborem.
@@ -417,7 +452,7 @@ Povinné pokrytí, případ po případu:
 | **1** | Setup prostředí (apt tesseract+ces, pip balíčky), `config.yaml`, `paths.py`, `inventar.py`. Vygenerovat kompletní inventář 56 souborů + časovou osu + mezery. | Testy T1, T2 zelené + **Fajfka schválí inventář** (počty stran, roky, čísla sedí) a **rozhodne Otevřený bod O1** |
 | **2** | OCR pipeline (`ocr.py`) postavená a spuštěná na **vzorku 3 čísel**: `45-1984-06` (nejstarší), `73-1994-07` (střed), `100-2008` (nejnovější). Vision dočtení flagged stránek vzorku. | Testy T3, T9, T10, T11 zelené + **Fajfka ručně zkontroluje OCR výstup vzorku proti skenu** (čitelnost, sloupce nerozházené, `[nečitelné]` použito poctivě). Zároveň se změří **podíl flagged stránek** → **rozhodnutí Otevřeného bodu O2** |
 | **3** | OCR celého archivu (zbylých 53 souborů), soubor po souboru, s disk guardem. Následně 3b: vision dočtení všech flagged stránek, pak smazání `_vision/`. | Všech 56 souborů má `meta.json`; žádná stránka nezůstala ve stavu `tesseract-low`; disk v pořádku; krátký report (počet stran, podíl vision, problémové soubory) **Fajfkovi na vědomí** |
-| **4** | Extrakce po dávkách 1–8, **sekvenčně** (§2.9). Subagent na dávku čte OCR text dávky a appenduje do `poznatky.jsonl`, `zdroje.jsonl`, `psi.jsonl`. | **Po dávce 1 STOP** — testy T4–T8 zelené nad výstupem dávky 1 + **Fajfka namátkově zkontroluje ~10 záznamů proti zdroji** (citace sedí, nic vymyšleného, nic podstatného nechybí). Teprve pak dávky 2–8. Po dávce 8 znovu T4–T8 nad celou databází. |
+| **4** | Extrakce po dávkách 1–8, **sekvenčně** (§2.9). Subagent na dávku čte OCR text dávky a appenduje do `poznatky.jsonl`, `zdroje.jsonl`, `psi.jsonl`. **V zadání každého dávkového subagenta musí být výslovně i úkol KAT11** — projít dávku i s otázkou „zmiňuje tenhle text existenci uložených dat z dřívějšího testování / evidence, a uvádí kde jsou?" (§2.4.1); je to snadno přehlédnutelné, protože takové zmínky bývají jednou větou uvnitř jiného článku. | **Po dávce 1 STOP** — testy T4–T8 zelené nad výstupem dávky 1 + **Fajfka namátkově zkontroluje ~10 záznamů proti zdroji** (citace sedí, nic vymyšleného, nic podstatného nechybí). Teprve pak dávky 2–8. Po dávce 8 znovu T4–T8 nad celou databází. |
 | **5** | 5a: skriptem `01_ARCHIVNI_INVENTAR.xlsx`, `02_DATABAZE_POZNATKU.xlsx`, `10_INDEX_ZDROJU.xlsx`. 5b: syntéza — `rozpory.jsonl`, `teze.jsonl`, pak 7 docx dokumentů, **jeden subagent na dokument, sekvenčně**, každý zapíše soubor na disk před spuštěním dalšího. | T12 zelený; všech 10 souborů existuje se jmény dle 2.11; **Fajfka přečte `04_EXECUTIVE_SUMMARY.docx` a `05_PRAKTICKA_APLIKACE.docx`** |
 | **6** | Finální review s Fajfkou — kontrola konzistence, oprava nálezů, commit, zápis do memory. | **Rozhodovací kritérium § 6 splněno** = projekt uzavřen jako hotový, fáze 2 (`Nové/`) čeká na samostatný pokyn |
 
@@ -437,8 +472,9 @@ Kritérium je **kvalitativní**, ne numerické — nejde o obchodní strategii, 
 2. **Automatické kontroly čisté.** Testy T4 (referenční integrita) a T5 (ověření doslovných citací) prochází nad **celou** databází bez FAILu.
 3. **Žádná ztráta podstatné informace.** Fajfka vybere **2 celé stránky** ze zdroje a porovná je s OCR textem a s tím, co se z nich dostalo do databáze — na stránce nesmí zůstat nepovšimnutá podstatná chovatelská/tréninková informace. Drobné organizační zprávy (`KAT0`) nevadí.
 4. **Rozlišení úrovní drží.** V namátkové kontrole není žádný záznam s `Uroven` = `A`, který je ve skutečnosti interpretace nebo doporučení implementera.
-5. **Složka `Nové/` je netknutá.** V žádném výstupu, logu ani `Zdroj` poli se neobjeví soubor z `Nové/`.
-6. Všech 10 výstupních souborů existuje pod přesnými jmény z 2.11 a otevřou se bez chyby.
+5. **U KAT11 žádný odhad místa uložení.** V namátkové kontrole neexistuje záznam, kde by `Data_ulozeno_kde` obsahovalo místo, které zdroj neuvádí. Tolerance: 0.
+6. **Složka `Nové/` je netknutá.** V žádném výstupu, logu ani `Zdroj` poli se neobjeví soubor z `Nové/`.
+7. Všech 10 výstupních souborů existuje pod přesnými jmény z 2.11 a otevřou se bez chyby.
 
 **Když kritérium nevyjde:** nepřepisovat mlčky. Sepsat analýzu (co selhalo, na kolika záznamech, proč) a předložit Fajfkovi novou iteraci spec ke schválení. Legitimní výsledky jsou i **zúžení scope na čitelnější ročníky** nebo **snížení ambice u konkrétní kategorie** (např. genetika, pokud v archivu prostě není dost materiálu) — negativní zjištění je platné zjištění a zapisuje se, nikdy se nenahrazuje domyšleným obsahem.
 
@@ -451,6 +487,8 @@ Kritérium je **kvalitativní**, ne numerické — nejde o obchodní strategii, 
 | **O1 — 56 souborů, ne 55: co se 3 nestandardními dokumenty** (`68-1992-11_sprezeni_special.pdf`, `71-1993-04_sprezeni_special.pdf`, `63-1992-01_chovatelsky_zapisni_rad.pdf`) | (A) zahrnout všechny 3 do plné analýzy — zápisní řád je přímý primární zdroj ke `KAT9` (podmínky zařazení do chovu), zvláštní čísla bývají tematická; cena: nutná zvláštní citační varianta (řešeno v 2.2). (B) zpracovat jen 53 řadových čísel, zbytek jen do inventáře; jednodušší, ale přijdeme o nejlepší zdroj ke `KAT9`. | **(A) zahrnout všechny 3**, označit v inventáři polem `Typ_dokumentu` | Gate fáze 1 |
 | **O2 — co když je pod prahem 85 % příliš mnoho stránek** | Vzorek ve fázi 2 změří podíl flagged. Pokud vyjde **> 40 %**, hybrid přestává být „levný" a je třeba rozhodnout: (A) přijmout náklad a dočíst všechno visionem (nejvyšší kvalita, nejdražší), (B) snížit práh na 75 % a smířit se s vyšší chybovostí u části textu, (C) zkusit lepší preprocessing (vyšší dpi, `--psm 1`, binarizace) a přeměřit, (D) zúžit scope na čitelnější ročníky. | **(C) nejdřív přeměřit s lepším preprocessingem, pak rozhodnout mezi (A) a (B)** — a rozhodnout podle skutečného čísla, ne odhadem | Fázi 3 (OCR celého archivu) |
 
+| **O3 — jak široce brát KAT11 (odkazy na uložená data)** | (A) sbírat všech 5 podkategorií `11A`–`11E` včetně výsledkových archivů závodů — úplné, ale `11D` může být objemné a méně cenné (zmínky o výsledkových listinách bývají v každém čísle). (B) sbírat jen `11A`–`11C` (zdraví, DNA, rodokmeny) — přesně to, co Fajfka jmenoval jako motivaci, ale přijdeme o dohledatelnost historických výsledků. | **(A) sbírat vše**, ale `11D` a `11E` označovat `Priorita` = `C`, aby to nezaplevelilo hlavní výstup; filtr podle priority je v xlsx triviální | Fázi 4 (lze rozhodnout až na gate dávky 1, kdy bude vidět, kolik toho `11D` reálně je) |
+
 Otevřený bod **NIKDY nerozhoduje implementer.** Fáze, kterou blokuje, nesmí začít před Fajfkovým rozhodnutím.
 
 ---
@@ -459,6 +497,7 @@ Otevřený bod **NIKDY nerozhoduje implementer.** Fáze, kterou blokuje, nesmí 
 
 - **Fáze 2 — porovnání historické × nové (`Nové/`, 2009–2025, 30 souborů).** Samostatná spec, až na výslovný pokyn. Až přijde, platí bod 42 master promptu: **NE nový souhrn**, ale srovnání s vyhodnocením `POTVRZENO / ČÁSTEČNĚ POTVRZENO / VYVRÁCENO / AKTUALIZOVÁNO / NOVÉ POZNATKY / STÁLE NEJISTÉ`. Podklad k tomu vzniká už teď: kapitola „TEZE K OVĚŘENÍ V NOVÝCH ZPRAVODAJÍCH" v `09_ROZPORY_A_NEOVERENE_TEZE.docx` + `teze.jsonl`.
 - **Duplicitní soubor `111-2014_sprezeni_c_11 2.pdf` v `Nové/`** — jen evidováno v memory, neřeší se, do fáze 1 nepatří. (Pozor: podle `feedback_graphify_numbered_files` nejsou „ 2" soubory z graphify duplikáty; tenhle konkrétní ale duplikát je — nemazat, jen vyřešit ve fázi 2.)
+- **Fyzické dohledání nalezených dat** (obvolat laboratoře, klubový archiv, jmenované osoby a zjistit, jestli data z KAT11 ještě existují). Spec jen **zmapuje, co archiv o uložených datech tvrdí**; ověřování v reálném světě je samostatný úkol pro Fajfku a přirozený vstup do fáze 2.
 - **Vyhledávací UI / integrace do HUBu** nad hotovou databází — možné pokračování, samostatné zadání. Teď stačí xlsx + JSONL.
 - **Vektorové/sémantické vyhledávání nad OCR archivem** (embeddings, graphify import) — odloženo; `01_ocr_raw/` je k tomu připravený, ale není součástí tohoto zadání.
 - **Modernizace doporučení podle současné veterinární literatury** — vědomě mimo scope, archiv se nesmí kontaminovat moderními zdroji (bod 35).
