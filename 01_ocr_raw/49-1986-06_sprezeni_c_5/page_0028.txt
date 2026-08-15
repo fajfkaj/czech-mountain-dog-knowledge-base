@@ -1,137 +1,93 @@
-# ZDROJ: Spřežení č. 5, rok 1986, strana nezjištěna
+# ZDROJ: Spřežení č. 5, rok 1986, s. 26
 # SOUBOR: 49-1986-06_sprezeni_c_5.pdf
 # PDF_STRANA: 28
-# TISTENA_STRANA: nezjištěna
-# OCR: tesseract-5.3.4 / ces / conf 29.8
+# TISTENA_STRANA: 26
+# OCR: vision (AI dočtení, tesseract conf pod prahem); sken otočen o 90°, komplexní vícesloupcová tabulka výsledků závodů
 ---
-ZA (mueTew) Axsey fY=1 48913 "= 18JEJY WY+dH
-gp:Gi:t BwTy "33140Aef=Puepnyc Enbue303y ÝEXULZETA UJOUUTEG d
-£2:20:1 exge>ex NÍeJEJY "epUEJEJ EUEJPA) ÚexgEJEX EUEJJY d
-8£:2G ý=| 4381489 "(IW Z ExselY "=1 eXUNJ "dox*yueC po uejdy "JEJ XÁMEJ dk)
-09:54 1Wwag nu3 “xia. ON
-2:9% PZOAY Kx3rZN] 943v "EpueJej euTgEJ "ENGEJEX JEPEJY dHý
-L2:0% *ý*gej Uny=ueTy JEA ueJi) "4tge1 Auogrey /X=1 xoueg /doytyuer po SEsMy dHý
-02: 8£ Moeg feaxy “eTOjag "ExOČUBUY TX904 KS
-10:86 *ZELA Uvoyjredg “ZETA 2uejg “ZETA UOfgTy "X-L BUNIJ04 dk
-T575e5 99"20"60
-02:02:2 PC:60:1.— 94011 ť ,
-8U:86'1 Ly:2g 1€:Gb dHo S unT43 EG:L0:T $AOTPDIH
-Cpitě*i 1:19 20:0+ dk + 4a3sTj *£ 96:10*T Jog]
-94611 0G:1$ 96:16 dnů + Xprzvey +2 to:t0:t.| Yogsyl
-99:8: T Bz:8£ 02:0 dk £ JD * bz: SS , 8YBud
-(49yYSM + UBS + nsd G - £) PUBAOJIUTI = - TJOFS jE L£:16 040%)
-ob:61:2 Z£:90:1 80*č0:1 Wc Kepna *9 o losonnu: 92s
-B2:82+1 BO'Lt 02:14 HS G zfarog *G ON C1:60:T A939 197*4H
-£0:92:1 £0:+t 00:2+ Mb jaloux "E 90:8G | Blepnis
-M 'g1:1 11:66 61:2£ HS 4 Wgrs *2 CE:9G eAETUSF
-(Bus + 3ueS + DSd C — £) PUBAOJIULI — U7T- 1 8 s11055183 £S:24 | OZ0UOMJY
-92:2) JogP |
-Bt:í0:2 16:£0:1 12:66 4K I Buej *£ 12:24 eyeJd
-z1:891 86:6 p1:86 ny I yjuJogz *Ž OT:2+ | OzOVoxJ
-66:21 14:24 8£:0t dHý I Jgox *I rak eUBUd
-- WZI7- TBI5Y so
-(noymad s) PYSAPUTPVEXS 1088) 82:0% 2191
-a51U9s
-EG:2G:1— 8ULr | 6:S4 BS T PMOTRU9 C r mola
-Lb:L2:1 20:39 1b:6£ W z BJagweS *Z 62:86 218g
-SEz*4[e3 ofoy*ip — Ojox*i Sot LE 937200
-me 661 821704“
-(udysmu + 3UBS + 15d 2 = I) JUpEDIPŽ > - T1059)E An 7m JÉ
-9e*z0*(z e *22
-sad € JezAT 98"20“80
-uoga4
-EAETYIC
-4OgB|
-TGETUDJA
-AO[ 8 150Ud
-eyčUd
-*zaus*d Jd
-oukjy
-931780
-exgejex níe>EJY
-EpueJE4 EVEUP9J
-Jel Ja3T3
-epueJej EULGEJ
-Ky9T1n z exseTy
-*y*yuer po uejJy
-X=1 exunj
-40
-X- 1EJEJY
-X- 910
-*ZeTA UJOJMTEG
-Byg83ey BUBJJY
-X=| U5ETU99
-eXUTZETA OTJJog
-eyge7ey JeSeJy
-*y*gej uny=ueTy
-epveJej NÁMEJ
-*ZBTA UJOYJL9G
-ENUTZETA META
-pzoay“ zn 94JY
-epuesej UBJTÍ
-EMUTZETA UOTGTY
-*y*xUB PO SESNY
-Y=| EUNIUO
-exa*gej 3uogrey
-*doy=uoga41 »eue9
-W9TIA J9P9 1427
-JS BZ190
-U>TAPTO zydny
-ueČ WTYJ
-*peTA X9z90
-ver JETY
-UBAJ 490)
-+44 $(9100
-Jjad 491803
-BA| PAOJaUCOH
-eueg paoxdny
-"W PAOJaPaTYEZ
-€A3 PAOXZNOT
-BA| PAOXTPSJBH
-ver 9 (P3JEK
-AETSOJEC BYTY
-*p kod
-*A J9p9 14282
-*4e( JSTUTA
-Jy ez1/8
-YJTYPTO Pydny
-J9SD, PYSENTIN
-AE TSOJE, US 10%
-uf JJ
-TeJey suoul og
-oxpey £x2n01
-j9soČ. Texfowc
-*pz tezewe7
-*peTA X9YDOd
-AE [DBA EMUDY
-Jasof 493513
-TYr“ T9Y3TW3
-Jý8d 491512
-J18d MTIZVEH
-UBA| 490%
-*6
-"8
-"4
-"6
-"6
-"v
-*£
-"z
-*T
-*61
-"81
-"11
-*9T
-*6r
-*„T
-st
-*2T
-*1n
-*0r
-*6
-"8
-*
-"ý
-"©
-*y
-“*
+SVATÁ KATEŘINA U POČÁTEK                                          08.02.86
+
+Účastníci (jméno - pes - místo):
+1. Kobr Ivan - Ganek Třebon-Kop. - Krkonoše
+2. Hanzlík Petr - Aalborg Lab.řeka - K.Řečice
+3. Elster Petr - Fortuna T-K - Dačice
+4. Emichel Jiří - Aksas od Jank.k. - Krkonoše
+5. Elster Josef - Albion Vlažinka - Dačice
+6. Kůrka Václav - Ciran Faranda - Krkonoše
+7. Pechek Vlad. - Afré Luž.hvozd - Vlásenice
+8. Zamazal Zd. - Blanc Vlažinka - Telč
+9. Nálepa Libor - Breithorn Vlaž. - Dačice
+10. Hais Petr - Hindukůš Třebon-Kopeček - Praha
+11. Elster Petr - Akay - Krkonoše
+12. Sládek Stanislav - Fortuna Třebon-Kopeček - Praha
+13. Loučka Radko - Fred Třebon-Kopeček - Tábor
+14. Mikáska Josef - Cavyk Faranda - Krkonoše
+15. Smejkal Josef - Gerlach Třebon-Kopeček - Tábor
+16. Říha Jaroslav - Breithorn Vlažinka - Jihlava
+17. Zamazal Zdeněk - Atacama Studená-Javořice - Studená
+18. Koten Jaroslav - Blanc Vlažinka - Třeboň
+19. Maršálek Jan - Berrio Vlažinka - Krkonoše
+   Gerlach T-K - Tábor
+   Artana Kačabka - Tábor
+   Balmhorn Vlaž. - Jihlava
+   Diktě T-K - Studená
+   Ararat T-K - Třeboň
+   Jork - H.Cerekev
+   Furka T-K - Kamenice
+   Artan od Jank.k. - Krkonoše
+
+Maršálková Iva - Alaska z Milety - Krkonoše
+Loučková Eva - Cabina Faranda - Praha
+Zachlederová M. - Eiger T-K - Třeboň
+Kupková Dana - Cedrana Faranda - Tábor
+Hepnerová Iva - Aracajú Kačabka - H.Králové
+
+09.02.86  spřežení:
+
+Fortuna T-K, Albion Vlaž, Breithorn Vlaž.                                     ČHP
+Rocki, Anarjoka, Betola, Akea, Bert                                           SH
+Aksas od Jank.kop, Ganek T-K, Aalborg Lab.ř., Ciran Far, Alam-Kuh Lab.ř.       ČHP
+Aragac Kačabka, Cabina Faranda, Alma                                          ČHP
+Dix, Enu, Bert                                                                NO
+Cavyk Far, Artan od Jank.kop, Furka T-K, Gerlach T-K                          ČHP
+Artana Kačabka, Cedrana Faranda, Aracajú Kačabka                              AM
+Balmhorn Vlažinka, Acocanqua Studená-Javořice, Alma                          ČHP
+Ararat T-K, Eiger T-K; Hasky (malamut)                                        ČHP
+
+Účastníci (jméno - obec):
+1. Elster Petr - Dačice
+2. Dolejš Frant. - Rtyně
+3. Kobr Ivan - Pec p.Sněž.
+4. Klír Jan - Praha
+5. Ježek Vlad. - Prostějov
+6. Chlum Jan - Vrchlabí
+7. Kupka Oldřich - Tábor
+8. Bříza Jiří - Jihlava
+9. Zachleder Vilém - Třeboň
+
+
+ZÁVODY PSÍCH SPŘEŽENÍ O HARRACHOVSKÝ POHÁR                    22. a 23.02.86
+
+Kategorie C - 7 km - základní (1-2 psi + saně+musher)                1.kolo | 2.kolo | celk.čas
+1. Hamann       (2 SH)
+2. Šembera      (2 AM)
+3. Greplová     (1 SH)
+
+Kategorie S - 12 km - skandinávská (s pulkou)
+1. Kobr         (1 ČHP)
+2. Zborník      (1 AM)
+3. Lang         (1 ČHP)
+
+Kategorie B I - 12 km - limitovaná (3-5 psů + saně + musher)
+1. Broscher     (4 SH)                                                35:12 | 38:58 | 1:15:16
+2. Sibrt        (4 SH)                                                37:19 | 39:11 | 1:16:30
+3. Krejčí       (4 AM)                                                42:00 | 44:03 | 1:26:03
+4. Pečená       (4 SH)                                                38:42 | 48:26 | 1:27:08
+5. Dolejš       (5 SH)                                                41:20 | 47:08 | 1:28:28
+6. Buday        (3 AM)                                                1:05:08 | 1:08:32 | 2:03:18
+
+Kategorie B II - 12 km - limitovaná (3-5 psů + saně + musher)
+1. Klír         (3 ČHP)                                               40:20 | 38:28 | 1:18:48
+2. Hanzlík      (4 ČHP)                                               37:56 | 41:50 | 1:19:46
+3. Elster       (4 ČHP)                                               40:02 | 41:41 | 1:21:43
+4. Chlum        (5 ČHP)                                               45:31 | 52:47 | 1:38:18
+5. Souček       (3 SČ)                                                1:10:46 | 1:09:34 | 2:20:20

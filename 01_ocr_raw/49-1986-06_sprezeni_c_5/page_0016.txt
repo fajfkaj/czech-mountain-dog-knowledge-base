@@ -1,53 +1,71 @@
-# ZDROJ: Spřežení č. 5, rok 1986, strana nezjištěna
+# ZDROJ: Spřežení č. 5, rok 1986, s. 14
 # SOUBOR: 49-1986-06_sprezeni_c_5.pdf
 # PDF_STRANA: 16
-# TISTENA_STRANA: nezjištěna
-# OCR: tesseract-5.3.4 / ces / conf 82.4
+# TISTENA_STRANA: 14
+# OCR: vision (AI dočtení, tesseract conf pod prahem)
 ---
-m ie
 DOMBAJ T-K, žb (J.Cvrček, Pěčín)
-x BERRIO Vlažínka, čb  (dat.krytí 20.3.86)
-BREVENT Vlažinka, čb (M.Holeček, Police n.Met,)
-x ALAM-KUH Lab.řeka, žb  (dat.krytí 26.4.85)
-ARCONA Kačabka, čb (J.Zmátlo, Police n,Met,)
-x AKSAS od Jank.kopce, žb
-FURKA T=K, čb (J.Chlum, Vrchlabí)
-x AALBCAG Lab.řeka, čb
-ARTANA Kačabka, žb (P.Heidenreich, Plzen)
-x AKELA Lab.řeka, čb
-AŠABERÍ Luž.hvozd, žb (M,Šidlík, Vejprty)
-x CÍRAN Faranda, žb
-CÁCORA Faranda, žb (0.a D.Kupkovi, Slapy u TA)
-x AALBORG Lab.řeka (dat.krytí 23=2545.86)
-ARVICA Kačabka, žb (9.Kučerová, Mokré)
-x ARTISON Sev,vítr, žb
+    x BERRIO Vlažinka, čb (dat.krytí 29.3.86)
+
+BREVENT Vlažinka, čb (M.Holeček, Police n.Met.)
+    x ALAM-KUH Lab.řeka, žb (dat.krytí 26.4.86)
+
+ARCONA Kačabka, čb (J.Zmátlo, Police n.Met.)
+    x AKSAS od Jank.kopce, žb
+
+FURKA T-K, čb (J.Chlum, Vrchlabí)
+    x AALBORG Lab.řeka, čb
+
+ARTANA Kačabka, žb (P.Heidenreich, Plzeň)
+    x AKELA Lab.řeka, čb
+
+AŠABERI Luž.hvozd, žb (M.Šidlík, Vejprty)
+    x CIRAN Faranda, žb
+
+CÁCORA Faranda, žb (O.a D.Kupkovi, Slapy u TA)
+    x AALBORG Lab.řeka (dat.krytí 23-25.5.86)
+
+ARVICA Kačabka, žb (B.Kučerová, Mokré)
+    x ARTISON Sev.vítr, žb
+
 ADELINA od Jank.kopce, čb (P.Janalík, Vrchlabí)
-x CAVYK Faranda, žb
+    x CAVYK Faranda, žb
+
 ANDY od Jank.kopce, žb (Petr Kobr, Pec p.Sněžkou)
-x ALAM=KUH Lab.řeka, žb
-GUARA T=K, čb (I,Králová, Pec p.Sněžkou)
-x ARAGAC Kačabka, čb
-Dana Kupková
-por„chovu
+    x ALAM-KUH Lab.řeka, žb
+
+GUARA T-K, čb (I.Králová, Pec p.Sněžkou)
+    x ARAGAC Kačabka, čb
+
+                                        Dana Kupková
+                                        por.chovu
+
+
 BONITACE V KUŘÍ U ŘÍČAN 26.4.86
-V rámci výroční členské schůze se uskutečnila v pořadí už 3.bonitace ČHP, Bonitač-
+
+V rámci výroční členské schůze se uskutečnila v pořadí už 3.bonitace ČHP. Bonitač-
 ní komise pracovala ve složení: MUDr Miroslav Bechyně CSc, RNDr Jiří Komárek CSc, Dana
-Kupková, Posoudila za celý den všech 32 přihlášených jedinců, 12 psů a 20 fen. Na hlad-
+Kupková. Posoudila za celý den všech 32 přihlášených jedinců, 12 psů a 20 fen. Na hlad-
 kém průběhu bonitace měli zásluhu i naši členové, kteří pod vedením H.Langa pomáhali
 při vážení a měření psů. Všichni předvedení psi byli uznáni jako chovní. V průměru byli
-oproti fenám mnohem kvalitnější, Z dvaceti fen byla chovnost přiznána l7ti. 3 feny ne-
-byly pro vážné vady připuštěny do chovu,
-Posuzoválo se podle nově upravěných bonitačních listů, re loňským byl. R karet.
-bodovací systém tak, aby výsledky mohly být zakodovány do speciálních děrovacích karet.
-Kromě bodového hodnocení jednotlivých znaků se zároven provádí popis psa pomo
-lů značkovacího klíče, které jsou rozepsány na zadní straně boniačního Jůstu
-Bodovací systém: znak odpovídá standardu © O bodů M1:
-menší vada 1 bod .
-větší vada 2 body
-Jelikož jednotlivé znaky nemají stejnou váhu, není pro přísný: (em noří
-chovnosti rozhodující celkový součet s 4 : z
-V současné době nejsou do chovu připouštění jetinsi s vě vadami typ
-chrupu, pigmentaci oka a obnažených sliznic. S rostoucí
-to kriteria každým rokem zpřísnovat. pdnýanlí Ka:
-Nakonec bych ráda poděkovala manž .Loučkovým, kteří nám ah st.C
-ci a Klírům s H.Langem, kteří jim pomohli s přípravou. pz:
+oproti fenám mnohem kvalitnější. Z dvaceti fen byla chovnost přiznána 17ti. 3 feny ne-
+byly pro vážné vady připuštěny do chovu.
+
+Posuzovalo se podle nově upravených bonitačních listů. Oproti loňským byl pozměněn
+bodovací systém tak, aby výsledky mohly být zakódovány do speciálních děrovacích karet.
+Kromě bodového hodnocení jednotlivých znaků se zároveň provádí popis psa pomocí symbo-
+lů značkovacího klíče, které jsou rozepsány na zadní straně bonitačního listu.
+
+Bodovací systém: znak odpovídá standardu    0 bodů
+                 menší vada                 1 bod
+                 větší vada                 2 body
+
+Jelikož jednotlivé znaky nemají stejnou váhu, není pro přiznání (nebo nepřiznání)
+chovnosti rozhodující celkový součet bodů.
+
+V současné době nejsou do chovu připouštěni jedinci s vážnými vadami typu, skusu,
+chrupu, pigmentaci oka a obnažených sliznic. S rostoucí chovnou základnou se budou ta-
+to kriteria každým rokem zpřísňovat.
+
+Nakonec bych ráda poděkovala manž.Loučkovým, kteří nám poskytli místo pro bonita-
+ci a Klírům s H.Langem, kteří jim pomohli s přípravou.

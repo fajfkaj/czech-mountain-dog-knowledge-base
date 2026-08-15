@@ -1,48 +1,90 @@
-# ZDROJ: Spřežení č. 5, rok 1986, strana nezjištěna
+# ZDROJ: Spřežení č. 5, rok 1986, s. 25
 # SOUBOR: 49-1986-06_sprezeni_c_5.pdf
 # PDF_STRANA: 27
-# TISTENA_STRANA: nezjištěna
-# OCR: tesseract-5.3.4 / ces / conf 32.1
+# TISTENA_STRANA: 25
+# OCR: vision (AI dočtení, tesseract conf pod prahem); sken otočen o 90°, komplexní vícesloupcová tabulka výsledků závodů - přiřazení jmen k časům dle pozice ve sloupci, drobná rizika chyby ve spárování
 ---
-z NNN NSS S ŠÍ ŠĎ, opo o
-dh) | Sz:£0:2 X=1 Je9r3
-"XL U2ETU9Y x- jeueJy — USTIA JaPaTUYJEZ *e
-dH) | 66:Zb'T. | Jej e403P) "Jef eUTgE) "JB EREJY = ( JIL "L
-dk) | L2:86:T TA OTadeg “[-S eueBJy /AY"] dUJy — TA X9UDBJ *9
-My | Oz:LE:T edly *G
-dH) | £0:GE:T "[IW Z eyse(y “4"ge1 eTaMy
-"y=1 Bxunj *y*P PO UBJvy "JBY NÁMEJ — VEF UNTUJ "4
-HS | 60:82:1 eT0)9g "eoyy yaeg "ryo0y exofueuy = s(aT0g *£
-dH) | €2:61:1T "ELA uJoujtaJg *[A uorgTy “TA
-dH3 Gp“Lz:$1:1 *4"gej uny=weTy "Jej ueJT) "4*gej Buog Me[g "X=1 zOANPUTH "= EUNIJOS — Jjad J31ST3 "Z
--Tey "-1 Meueg "x* po sesMy - JAIC Tay3rw3 *g dM) lo:t *4"ge1 Uny=eTy “Je4 ueJT) "087
-dHý S1"01:t0:T "TIM Z eysefy “X=| UJETUD9 "y=] Auogrey “y*r po sesyy “=| Moue9 - UBA| 4JoX *T
-By4nj "4*(C po UBJy "JEJ MÁABI — WBC uNTYJ "G KTUSME ag-10*
-HS 2G“LE:00:T e1019g esxy $ 98"10"21
-o. *y3eg * py0oy kg rraznýh P go sforog *+ .
-HS S160*96:0 | EweJEjy EXUNWy Od "OBurg — UBA| 14gIS *£ T2VOXOpou exge>ey 3eRevy - 3 eydny *Cz
-dH) GL494:96:0 424 eJO3p) /JE4 EUIGEJ "zey DEŘEJY = UPC JJTY "Z S R:r re - Ka
-dk) 06“0£:2G:0 "TA UJoujroJg "Y=1 SOXNPUTH TA mw 66:1 J83S X9818 = *y J91YJeMUTOTY *C2
-uorgTty "IA SueTg "X eUN3J04 — Jjod J9)ST3 "T 2 LE:1 yeuG - yaznoc *22
-WUTUEMI g9*[0*1z 96:1 EpuEJE J EU = ver JTTX "IZ
-GE:1 epueJEJj BUTGEJ —- BAJ PAOXINO *02
-62:1 Kj9[IN Z Byse[Y = ver y9[PgJey *61
-Uzvoxopsu M9>8doy-UOGA4| UEIUII — Jad 490% *BT pě:1 BxUTZB[A OTuueg - | AESOJEP U310Y *8T
-112uoxopou adoy eAÓyuer po sesMy = Jar TOY3Tw3 */T t2:1 BYUTZETA 3UBTG — | 9U9p7 TEZEWEZ "/I
-16*0£:GC:1 epueJej BULGE) - || €AJ PAOXDNOT *9T OZ:T | 9D1y0A8[-PuopniS eueejy - | AETSOJEC BUTY *9T
-16466:L1:1| 93T40AEC-Pu9pnyS EuedeJy — | AE[SOJEC BYTY *CI z1:81:1 EXUTZETA UJOUJIaJY —- | Jasop jeyfauc *GI
-16“$6:10:1 ex84 Tjngej uny=aeTy —- — TaJey suoulaj *$T 81:1 Mapadoy=uogo4| UDETJ39 - | j9S0f PYSENIM *$T
-11“90:G0:1 Kja[tw z eysejy - uef M9TPSJEW "CT Lu1 epueJEj MÁME) - oxpey ex2no1 *£T
-££“10:90:1 Byge>ey JEReJy - uef JTDY *ZI W:1 X9)adoy=W0G94| Po44 — AE[STULIS MAPRIS *2T
-G2"10:£0:1 M970doy-U0ga | MouBY — [9AEY 4g0Y *TI 9:21:1 X99doy=UOG9 4] EUNIJOJ — Jjdd J91ST3 *TI
-1E“Cp: 10:1 pzony Áx3TZMI 9J4Y — | IBAEJ NOYSD 20T Hv žt:1 Kexy - Jj8d STEH *01
-£8“64:00: 1 EXUTZETA UOIGITY - —— JaSOC 493513 *6 OT:T | X9Jadoy=uoga4| snynpuTy - Jogr) edarPN *6
-my 94“L2:00:1 Keyy = E10 AXSAOJTA *B 9:60: pzoAy fY3TZ0) $J4V —  UJMIPETA X9us8d *B
-19“$2:00:T epueJEj YÁMEJ — oxpey EX2no1 */ 60:1 exe J)ngej yny=WeTy = | Todex suoulay */
-£6"6G:6G:0 | Aeadoy-UOGOY| SPANPUTH - —— dOgr) Bd9TPW "9 lo:1 eXULZETA UOTGIY - | JaSOC Jajst3 *9
-16"1£:66:0 eXurze[A 3ue[G - | Mgu9p7 TEZEWEZ *G 90:1 ExaJ rjngej Huogrey - Jjad METZUEH 26
-O4“92:8G:0 Maz9doy-U0ga | euN1404 - Jjád 491813 *$ G2:£0:1 JVIA Juuenas Buesejy = T9AEJ JGOX "4
-£C“61:96:0 ex9, Jingej Buogiey - Jj8d ATIZUEH *£ fo:T epueJej UBJT) — AE[IRA eY4ny *C
-80"40:9G:G eYUTZETA UJOYJTOJA = | JTWTPETA XaUd8 *Z 66:0 Ma2adoy-UOGOY| M9UEI — UBA| JA0Y *2
-Gz"G1:£6:0 epueJej ULUTI — AETIPA BXJDY *T 86:0 axloy BAOXUBC PO SESNY — 1410 Toyorw3 *I
-TU3TPIS ga*1002 | HSS) TATSAOJISTA - JAEBNÉ U AODEŽ HUTIOITYS 99*10"11 NZ9US
+PEC POD SNĚŽKOU
+
+Účastníci (jméno - pes):
+1. Emichel Jiří - Aksas od Jankova kopce
+2. Kobr Ivan - Ganek Třebon-Kopeček
+3. Kůrka Václav - Ciran Faranda
+4. Kobr Pavel - Atacama Severní vítr
+5. Hanzlík Petr - Aalborg Labutí řeka
+6. Elster Josef - Albion Vlažinka
+7. Rejhons Karel - Alam-Kuh Labutí řeka
+8. Pechek Vladimír - Afré Lužický hvozd
+9. Nálepa Libor - Hindukůš Třebon-Kopeček
+10. Hais Petr - Akay
+11. Elster Petr - Fortuna Třebon-Kopeček
+12. Sládek Stanislav - Fred Třebon-Kopeček
+13. Loučka Radko - Cavyk Faranda
+14. Mikáska Josef - Gerlach Třebon-Kopeček
+15. Smejkal Josef - Breithorn Vlažinka
+16. Říha Jaroslav - Atacama Studená-Javořice
+17. Zamazal Zdeněk - Blanc Vlažinka
+18. Koten Jaroslav - Berrio Vlažinka
+19. Maršálek Jan - Alaska z Milety
+20. Loučková Eva - Cabina Faranda
+21. Klír Jan - Ara Faranda
+22. Souček - Drak
+23. Kleinwachter R. - Black Star
+24. Kupková Dana - Cácora Faranda
+25. Kupka Oldřich - Aragac Kačabka
+
+11.01.86  lyžař a pes - skijöring (časy, v pořadí odpovídajícím seznamu výše):
+0:58 / 0:59 / 1:03 / 1:03:25 / 1:06 / 1:07 / 1:09 / 1:09:6 / 1:10 / 1:12 (SČ) /
+1:12:6 / 1:14 / 1:17 / 1:18 / 1:18:12 / 1:20 / 1:21 / 1:24 / 1:28 / 1:35 /
+1:36 / 1:37 (AM) / 1:39 / nedokončil
+
+12.01.86  mushing:
+1. Kobr Ivan - Ganek T-K, Aksas od J.k, Aalborg Lab.ř.                    1:19:23  ČHP
+2. Elster Petr - Fortuna Třebon T-K, Hindukůš T-K, Blanc Vlaž. Vl,
+   Albion Vlaž.                                                          1:28:05  SH
+3. Dolejš František - Anaryoka, Rocki, Back, Akea, Betola                 1:35:03  ČHP
+4. Chlum Jan - Cavyk Far, Artan od J.k, Furka T-K, Akela Lab.ř.           1:37:20  AM
+5. Řípa                                                                   1:38:27  ČHP
+6. Pechek Oldřich - Afré L.hv, Atacama S-J, Berrio Far, Cácora Far        1:42:39  ČHP
+7. Klír J - Aragac Kač, Cabina Far, Ararat T-K,
+8. Zachleder Vilém - Ararat T-K, Gerlach T-K                              2:13:25  ČHP
+
+
+ZADOV NA ŠUMAVĚ - MISTROVSTVÍ ČSSR
+
+Účastníci (jméno - pes):
+1. Kůrka Václav - Aksas od Jankova kopce
+2. Pechek Vladimír - Ganek Třebon-Kopeček
+3. Hanzlík Petr - Ciran Faranda
+4. Elster Petr - Atacama Severní vítr
+5. Zamazal Zdeněk - Fortuna Třebon-Kopeček
+6. Nálepa Libor - Blanc Vlažinka
+7. Loučka Radko - Hindukůš Třebon-Kopeček
+8. Vitovský Ota - Cavyk Faranda
+9. Elster Josef - Akay
+10. Pechek Pavel - Albion Vlažinka
+11. Kobr Pavel - Afré Lužický hvozd
+12. Klír Jan - Ganek Třebon-Kopeček
+13. Maršálek Jan - Alaska z Milety
+14. Rejhons Karel - Alam-Kuh Labutí řeka
+15. Říha Jaroslav - Atacama Studená-Javořice
+16. Loučková Eva - Cabina Faranda
+17. Emichel Jiří - Aksas od Jankova kopce
+18. Kobr Petr - Gerlach Třebon-Kopeček
+
+20.01.86  skijöring (časy, v pořadí odpovídajícím seznamu výše):
+0:53:15,25 / 0:56:04,08 / 0:56:19,33 / 0:58:28,40 / 0:59:31,51 / 0:59:59,93 /
+1:00:24,41 / 1:00:27,46 (AM) / 1:00:49,83 / 1:01:43,31 / 1:03:01,25 / 1:05:01,33 /
+1:05:06,11 / 1:07:54,91 / 1:17:59,91 / 1:35:30,51 / nedokončil / nedokončil
+
+21.01.86  mushing:
+1. Elster Petr - Fortuna T-K, Blanc Vl, Albion Vl, Hindukůš T-K,
+   Breithorn Vl.                                                          0:52:30,50  ČHP
+2. Klír Jan - Aksas od J.k, Aragac Kač, Cácora Far, Atacama                0:56:46,75  ČHP
+3. Sibrt Ivan - Bingo, Popow, Amurka, Atacama, Back,                       0:58:09,15  SH
+4. Dolejš František - Anaryoka, Rocki, Back,
+   Akea, Betola                                                           1:00:37,52  SH
+5. Chlum Jan - Cavyk Far, Artan od J.k, Furka
+   T-K, Gerlach T-K, Alaska z Mil.                                        1:04:10,15  ČHP
+6. Emichel Jiří - Aksas od J.k, Ganek T-K, Aal-
+   borg Lab.ř., Alam-Kuh Lab.ř.                                          1:14:27,45  ČHP

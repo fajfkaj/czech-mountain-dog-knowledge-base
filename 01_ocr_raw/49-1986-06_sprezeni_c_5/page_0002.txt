@@ -1,9 +1,11 @@
-# ZDROJ: Spřežení č. 5, rok 1986, strana nezjištěna
+# ZDROJ: Spřežení č. 5, rok 1986, s. strana nezjištěna
 # SOUBOR: 49-1986-06_sprezeni_c_5.pdf
 # PDF_STRANA: 2
 # TISTENA_STRANA: nezjištěna
-# OCR: tesseract-5.3.4 / ces / conf 41.2
+# OCR: vision (AI dočtení, tesseract conf pod prahem); celostránková fotografie, sken otočen o 90°
 ---
-EE 2 =.
-1
-EXRJOH* j*4d NATUJJE Z 030)
+[fotografie: pes ležící na zemi, portrét]
+
+LEIF - zakladatel ČHP
+
+foto z archivu př.F.Horáka

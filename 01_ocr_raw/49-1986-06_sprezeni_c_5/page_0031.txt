@@ -1,8 +1,13 @@
-# ZDROJ: Spřežení č. 5, rok 1986, strana nezjištěna
+# ZDROJ: Spřežení č. 5, rok 1986, s. strana nezjištěna
 # SOUBOR: 49-1986-06_sprezeni_c_5.pdf
 # PDF_STRANA: 31
 # TISTENA_STRANA: nezjištěna
-# OCR: tesseract-5.3.4 / ces / conf 36.5
+# OCR: vision (AI dočtení, tesseract conf pod prahem); celostránková fotografie, sken otočen o 90°
 ---
-ex94 rjngej JuogTey epueJEj UEJTI EXUTZETA UJOUJIDUS
-ex,noj*y 030) 9861“T*02 +- AOpe7
+[fotografie: spřežení tří psů táhnoucích saně s číslem, psovod v pozadí]
+
+Zadov - 20.1.1986
+
+Breithorn Vlažinka          Ciran Faranda          Aalborg Labutí řeka
+
+                                                              foto R.Loučka

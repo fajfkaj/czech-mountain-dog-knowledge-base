@@ -1,38 +1,61 @@
-# ZDROJ: Spřežení č. 5, rok 1986, strana nezjištěna
+# ZDROJ: Spřežení č. 5, rok 1986, s. 27
 # SOUBOR: 49-1986-06_sprezeni_c_5.pdf
 # PDF_STRANA: 29
-# TISTENA_STRANA: nezjištěna
-# OCR: tesseract-5.3.4 / ces / conf 30.9
+# TISTENA_STRANA: 27
+# OCR: vision (AI dočtení, tesseract conf pod prahem); sken otočen o 90°, komplexní vícesloupcová tabulka výsledků závodů
 ---
-+21-
-BYE[OX EAOJEJ "K19TIW Z "ed Jinge "exgezey “23doy BAOXUBP Po "aja
-JuJemag o31J0mer=Puopnys *pzoay KX2Fzn) "exurzera “epueJej *ya)adoy=uoga |
-MEJAO Kyoomou — ON
-Ren < vana - ne
-ysny fXsyrgis -
-Inweteu fysse(Te - my. FUd5TT Kyje bí Pa svá ě-
-* po. 1*UZOJ Ápog £ OjsTu *$
-Kpog + Ojstu *£
-ppog < O3spu *2
-ppog L O3sjw *1 | Ju920Upou $A0pog
-ř “ Z a dk) opeu J9YD88UT9 TX i
-ov o EE K
-- - - - Wy: ODEPORTA PAE DPOg $ž | UBAJ Jgoy"feu -L NINV9
-HS WBA| 14915 npog $Z | ABIIPA Exupy"(eu epueJej NY4JI "Z
-. “ a - TF243SÁA pPog 92 | Jlad JejsTg*(es X- VNNIBOJ "T
-! JA 87749 BurJo(Tys + Burysnu « 550 j3TgU0yXAT5U
-"9 SBzto "6,401 9 0 36 u cy, MNO já a ns
-Dpog ZT ozrIuB4j (9100
-"6 RITE 76 00:1 +4 EZ 79 LL P sry pPog zL uea| Jg0x "2
-a pPog 61 Spad J91ST3 "T
-"p 9M0T 92 660 SG, CZ C M01 promna uosr) SUTISN
-UT1JEA TDUÁY DPOAEZ NOAP az Oznod - x
-"< 0pot.  *+ 0:1. *C 662. ++ SUL :
-« vw DD Pyro o same Jyte TOy3rw *£
-: i i Š Í Jjad XITZVEH Exage Asogrey died NJIZUEH *Z
-Y=| xoue9 UEAJ 490% *T
-"E dot. "T 9500 "L MET "T 2206 dř Šs de WTITTE
-$e7“y197 | edeje“||j | edejo“ji | edeje“|
-BUTJ9JEY"AS "MOpEZ "BJ !DPOABZ 97 DPOG jeznos
-9861 03 OJČ HSS) JEUOd
-906T "£D "51 = *$T
+LEDOVÁ JÍZDA - MEMORIÁL DR VÁCLAVA VOJTĚCHA                    14. - 16.03.1986
+
+                                  I.etapa    II.etapa   III.etapa  celk.čas
+Elster Petr / Elster Josef       5:27  1.   1:44  1.   0:56  1.   8:07   1.
+Kobr Ivan / Hanzlík Petr         5:32  2.   1:47  2.   0:56  1.   8:15   2.
+Chlum Jan / Kyncl Martin         7:15  4.   2:19  3.   1:06  4.   10:40  3.
+Fisch Vladimír / Řípa Martin     7:04  3.   2:43  5.   0:59  2.   10:46  4.
+Klír Jan / Loučka Radko          7:47  6.   2:37  4.   1:00  3.   11:24  5.
+Kobr Petr / Sládek Stanislav     7:32  5.   3:09  6.   1:44  5.   12:25  6.
+Bříza Jiří / Vystrčil Jaroslav   (ČHP)       -           -          -
+Sibrt Ivan / Zborník Vladimír    (SH/AM)     -           -          -
+Souček Josef / Kleinwachter Radek (SČ/ČHP)   -           -          -
+
+
+POHÁR ČSSR PRO ROK 1986
+
+součet bodů ze závodů: Pec, Zadov, Sv.Kateřina
+
+skijöring:
+1. Kobr Ivan - Kůrka Václav                            12 bodů  x
+2. Hanzlík Petr - Ciran Faranda                         12 bodů
+3. Aalborg Lab.řeka                                     11 bodů
+4. Emichel Jiří - Aksas od Jank.k.                      10 bodů
+x - pouze ze dvou závodů
+
+mushing:
+1. Elster Petr                                          19 bodů
+2. Kobr Ivan - Dolejš František                         12 bodů, 12 bodů (SH)
+3. Klír Jan                                              8 bodů
+
+nejvýkonnější pes - mushing + skijöring:
+1. FORTUNA T-K, maj.Elster Petr                         26 bodů
+2. CIRAN Faranda, maj.Kůrka Václav                      24 bodů
+   GANEK T-K, maj.Kobr Ivan                              24 bodů
+   BREITHORN Vlaž., maj.Hanzlík Petr                     24 bodů
+3. AALBORG Lab.řeka, maj.Hanzlík Petr                    23 bodů
+
+Bodové hodnocení:
+1. místo   7 bodů
+2. místo   5 bodů
+3. místo   4 body
+4. místo   3 body
+5. místo   2 body
+6. místo   1 bod
+
+Pozn.red:
+
+zkratky plemen: AM - aljašský malamut
+                SH - sibiřský husky
+                SČ - slovenský čuvač
+                NO - německý ovčák
+
+dále byly různě zkráceny názvy těchto chovných stanic:
+Třeboň-Kopeček, Faranda, Vlažinka, Lužický hvozd, Studená-Javořice, Severní
+vítr, od Jankova kopce, Kačabka, Labutí řeka, z Milety, Bačova koliba

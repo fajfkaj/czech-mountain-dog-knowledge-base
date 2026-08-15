@@ -1,7 +1,11 @@
-# ZDROJ: Spřežení č. 5, rok 1986, strana nezjištěna
+# ZDROJ: Spřežení č. 5, rok 1986, s. strana nezjištěna
 # SOUBOR: 49-1986-06_sprezeni_c_5.pdf
 # PDF_STRANA: 12
 # TISTENA_STRANA: nezjištěna
-# OCR: tesseract-5.3.4 / ces / conf 38.0
+# OCR: vision (AI dočtení, tesseract conf pod prahem); celostránková fotografie, sken otočen o 90°
 ---
-unTYJ URf 030,
+[fotografie: dvě štěňata krátce po narození, každé označeno symbolem ♂ (samec)]
+
+Štěňata z vrhu č.35 krátce po narození.
+
+foto Jan Chlum

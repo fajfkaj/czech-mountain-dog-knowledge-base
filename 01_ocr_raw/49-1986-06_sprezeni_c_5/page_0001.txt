@@ -1,36 +1,36 @@
-# ZDROJ: Spřežení č. 5, rok 1986, strana nezjištěna
+# ZDROJ: Spřežení č. 5, rok 1986, s. strana nezjištěna
 # SOUBOR: 49-1986-06_sprezeni_c_5.pdf
 # PDF_STRANA: 1
 # TISTENA_STRANA: nezjištěna
-# OCR: tesseract-5.3.4 / ces / conf 73.2
+# OCR: vision (AI dočtení, tesseract conf pod prahem)
 ---
-4
-j MC- ČSCH
-SPREZENÍ
+ČSCH
+
+SPŘEŽENÍ
+
 Klub chovatelů českého horského psa
-č.5 červen 1986
-va pyštvde so Ěidsk wo VEV u VDO VVAKONE C: s
-AdzSÝ V? prostá taábé v OSAŠ KOLA OO A doháAVOAÁ K bt Uuapuzc“
-Cabina Faranda
-Cácora Faranda
-Jan Klír Aragac Kačabka
-Zadov - Mistrovství Č5SR 86 foto R.Loučka
-OBS AH: Zápis z výroční členské schůze KCHČHP l
-. Nový výbor a revizní komise 2
-DÍlČÍ plemenná kniha ČHP 3
-Nové chovné stanice 7
-Přehled vrhů za r.1985 7
-Stav chovu k 26.5.86 13
-13
-14
-18
-Vystavené krycí listy v r.1986 (do 26.5.86)
-Bonitace v Kuří u Říčan 26.4.86
-Chovatelská administrativa
-Výchova a výtvik štěněte 21
-Parvovirová infekce psů 22
-Sportovní činnost v r.85/86 23
-Klondyke 28
-Zapřahání psa a postroj 30
-Chovatelská a sportovní komise, kontroloři vrhu 31
-Galerie ČHP : 32
+
+č.5                                                    červen 1986
+
+[fotografie: muž se saněmi a dvěma psy v postrojích na sněhu]
+
+Jan Klír                    Cabina Faranda           Aragac Kačabka
+                             Cácora Faranda
+Zadov - Mistrovství ČSSR 86                            foto R.Loučka
+
+OBSAH:  Zápis z výroční členské schůze KCHČHP                    1
+        Nový výbor a revizní komise                              2
+        Dílčí plemenná kniha ČHP                                 3
+        Nové chovné stanice                                      7
+        Přehled vrhů za r.1985                                   7
+        Stav chovu k 26.5.86                                    13
+        Vystavené krycí listy v r.1986 (do 26.5.86)              13
+        Bonitace v Kuří u Říčan 26.4.86                          14
+        Chovatelská administrativa                               18
+        Výchova a výcvik štěněte                                 21
+        Parvovirová infekce psů                                  22
+        Sportovní činnost v r.85/86                              23
+        Klondyke                                                 28
+        Zapřahání psa a postroj                                  30
+        Chovatelská a sportovní komise, kontroloři vrhu          31
+        Galerie ČHP                                               32

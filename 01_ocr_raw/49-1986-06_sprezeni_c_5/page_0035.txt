@@ -1,6 +1,9 @@
-# ZDROJ: Spřežení č. 5, rok 1986, strana nezjištěna
+# ZDROJ: Spřežení č. 5, rok 1986, s. strana nezjištěna
 # SOUBOR: 49-1986-06_sprezeni_c_5.pdf
 # PDF_STRANA: 35
 # TISTENA_STRANA: nezjištěna
-# OCR: tesseract-5.3.4 / ces / conf 0.0
+# OCR: vision (AI dočtení, tesseract conf pod prahem); dvě celostránkové fotografie, bez viditelného textu/popisku (patrně součást Galerie ČHP)
 ---
+[fotografie: pes v postoji zboku, na vodítku, v přírodním terénu]
+
+[fotografie: pes v postoji zboku vedle osoby, v exteriéru]

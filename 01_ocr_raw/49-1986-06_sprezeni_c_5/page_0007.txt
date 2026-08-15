@@ -1,51 +1,61 @@
-# ZDROJ: Spřežení č. 5, rok 1986, strana nezjištěna
+# ZDROJ: Spřežení č. 5, rok 1986, s. 5
 # SOUBOR: 49-1986-06_sprezeni_c_5.pdf
 # PDF_STRANA: 7
-# TISTENA_STRANA: nezjištěna
-# OCR: tesseract-5.3.4 / ces / conf 79.8
+# TISTENA_STRANA: 5
+# OCR: vision (AI dočtení, tesseract conf pod prahem); tabulka - dílčí plemenná kniha
 ---
--5-
-VLAŽINKA 10.07.1983
-Petr Elster, Dačice 93/1 A
-Ararat Třebon=Kopeček Fortuna Třebon=Kopeček
-reg. 2/11, žb reg, 23/81, čb
-48 ALBION čb 49 ARA čb
-50 AXA čb
-SEVERN TR 02.05.1983
-Dr Vít Egan Valdov 19, am 2 Jablonné v Podještědí
-Ganek Třebon=Kopeček Alka Faranda
-reg 25/17, žb reg. 13/81, čb
-S51 AALBORG čb 54. ATACAMA žb
-52 ALAK žb 55  AGUJA čb
-53. ARTISON žb
-0D JANKOVA KOPCE 26.07.1983
-Jan Chlum, Tkalcovská 350, 543 01 Vrchlabí :
-Ganek Třebon=Kopeček Furka Třebon=Kopeček
-reg. 25/17, žb reg. 24/81, čb
-56  ALDAN čb 60 ADELINA čb
-57 AKSAS žb 61 ANDY žb
-58 ARTAN čb
-59. ARTIK žb
-FARÁNDA 30.11.1983
-Dana Kupková, Holubov 242, 382 03 Křemže 5
-Eiger Třeboň=Kopeček Čehooyn Třeboň=Kopeček
-reg. 19/81, žb reg. 11/79/81, žb
-62 BAJKA žb
-63 BĚLKA žb
-64 BORKA žb
-'ŘICE 26.04.1984
-Jaroslav Vinkler, 378 56 Studené 24 :
-Ararat bo Dikté Třebon=Kopeček
-reg. 2/11, ž reg. 17/81/82, čb
-65 BEZDĚZ čb 68 BALTRA čb
-66 BLIZZARD čb 69 BORAM čb
-67 AROCKEN žb
-KAČABKA 17.07.1984
-Jan Klír, Selská 1108/9a, 102 00 Praha 10 = Hostivař
-Artison Severní vítr Ara Faranda
-reg. 53/83, žb reg. 15/81, čb
-70 ARAGAC čb 71 ARACAŮ žb
-T2  ARAGUAIA čb
-73. ARCONA čb
-74. ARTANA žb
-75. ARVICA žb
+VLAŽINKA                                               10.07.1983
+Petr Elster, Dačice 93/I
+Ararat Třeboň-Kopeček                   Fortuna Třeboň-Kopeček
+reg. 2/77, žb                           reg. 23/81, čb
+
+48  ALBION     čb         49  ARA        čb
+                          50  AXA        čb
+
+SEVERNÍ VÍTR                                           02.05.1983
+Dr Vít Švancara, Valdov 19, 471 25 Jablonné v Podještědí
+Ganek Třeboň-Kopeček                    Alka Faranda
+reg. 25/77, žb                          reg. 13/81, čb
+
+51  AALBORG    čb         54  ATACAMA    žb
+52  ALAK       žb         55  AGUJA      čb
+53  ARTISON    žb
+
+OD JANKOVA KOPCE                                       26.07.1983
+Jan Chlum, Tkalcovská 350, 543 01 Vrchlabí
+Ganek Třeboň-Kopeček                    Furka Třeboň-Kopeček
+reg. 25/77, žb                          reg. 24/81, čb
+
+56  ALDAN      čb         60  ADELINA    čb
+57  AKSAS      žb         61  ANDY       žb
+58  ARTAN      čb
+59  ARTIK      žb
+
+FARANDA                                                30.11.1983
+Dana Kupková, Holubov 242, 382 03 Křemže
+Eiger Třeboň-Kopeček                    Čehooyn Třeboň-Kopeček
+reg. 19/81, žb                          reg. 11/79/81, žb
+
+                          62  BAJKA      žb
+                          63  BĚLKA      žb
+                          64  BORKA      žb
+
+STUDENÁ-JAVOŘICE                                       26.04.1984
+Jaroslav Vinkler, 378 56 Studená 24
+Ararat Třeboň-Kopeček                   Dikté Třeboň-Kopeček
+reg. 2/77, žb                           reg. 17/81/82, čb
+
+65  BEZDĚZ     čb         68  BALTRA     čb
+66  BLIZZARD   čb         69  BORAH      čb
+67  BROCKEN    žb
+
+KAČABKA                                                17.07.1984
+Jan Klír, Selská 1108/9a, 102 00 Praha 10 - Hostivař
+Artison Severní vítr                    Ara Faranda
+reg. 53/83, žb                          reg. 15/81, čb
+
+70  ARAGAC     čb         71  ARACAJÚ    žb
+                          72  ARAGUAIA   čb
+                          73  ARCONA     čb
+                          74  ARTANA     žb
+                          75  ARVICA     žb
