@@ -1,0 +1,25 @@
+zdroj_koren: /root/Uploads          # ASCII kořen, adresář se hledá přes os.walk (§2.14)
+zdroj_filtr: Zpravodaj               # ASCII substring pro nalezení archivu
+vylouceno: [Nov]                     # tvrdé vyloučení podadresáře s novějšími čísly (§1)
+projekt: /root/chp-znalostni-databaze
+
+ocr:
+  dpi: 300
+  dpi_vision: 200
+  jazyk: ces
+  psm: 3
+  conf_threshold: 85.0
+  min_slov_na_strance: 5
+
+disk:
+  guard_gb: 1.5
+
+davky:
+  1: [45, 46, 47, 48, 49, 50, 51]
+  2: [52, 53, 54, 55, 56, 57, 58]
+  3: [59, 60, 61, 62, 63, 64, 65]
+  4: [66, 67, 68, 69, 70, 71, 72]
+  5: [73, 74, 75, 76, 77, 78, 79]
+  6: [80, 81, 82, 83, 84, 85, 86]
+  7: [87, 88, 89, 90, 91, 92, 93]
+  8: [94, 95, 96, 97, 98, 99, 100]

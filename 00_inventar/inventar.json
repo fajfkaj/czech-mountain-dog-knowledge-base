@@ -1,0 +1,790 @@
+{
+  "Inventar": [
+    {
+      "Nazev_souboru": "45-1984-06_zpravodaj_c_1.pdf",
+      "Prefix": 45,
+      "Cislo_zpravodaje": "1",
+      "Rok": 1984,
+      "Mesic": 6,
+      "Pocet_stran": 18,
+      "Dostupnost_textu": "skenované",
+      "Nutnost_OCR": "ano",
+      "Problemy_s_kvalitou": "neuvedeno / nelze jednoznačně určit",
+      "Typ_dokumentu": "řadové číslo"
+    },
+    {
+      "Nazev_souboru": "46-1984-12_zpravodaj_c_2.pdf",
+      "Prefix": 46,
+      "Cislo_zpravodaje": "2",
+      "Rok": 1984,
+      "Mesic": 12,
+      "Pocet_stran": 17,
+      "Dostupnost_textu": "skenované",
+      "Nutnost_OCR": "ano",
+      "Problemy_s_kvalitou": "neuvedeno / nelze jednoznačně určit",
+      "Typ_dokumentu": "řadové číslo"
+    },
+    {
+      "Nazev_souboru": "47-1985-05_sprezeni_c_3.pdf",
+      "Prefix": 47,
+      "Cislo_zpravodaje": "3",
+      "Rok": 1985,
+      "Mesic": 5,
+      "Pocet_stran": 24,
+      "Dostupnost_textu": "skenované",
+      "Nutnost_OCR": "ano",
+      "Problemy_s_kvalitou": "neuvedeno / nelze jednoznačně určit",
+      "Typ_dokumentu": "řadové číslo"
+    },
+    {
+      "Nazev_souboru": "48-1985-11_sprezeni_c_4.pdf",
+      "Prefix": 48,
+      "Cislo_zpravodaje": "4",
+      "Rok": 1985,
+      "Mesic": 11,
+      "Pocet_stran": 27,
+      "Dostupnost_textu": "skenované",
+      "Nutnost_OCR": "ano",
+      "Problemy_s_kvalitou": "neuvedeno / nelze jednoznačně určit",
+      "Typ_dokumentu": "řadové číslo"
+    },
+    {
+      "Nazev_souboru": "49-1986-06_sprezeni_c_5.pdf",
+      "Prefix": 49,
+      "Cislo_zpravodaje": "5",
+      "Rok": 1986,
+      "Mesic": 6,
+      "Pocet_stran": 36,
+      "Dostupnost_textu": "skenované",
+      "Nutnost_OCR": "ano",
+      "Problemy_s_kvalitou": "neuvedeno / nelze jednoznačně určit",
+      "Typ_dokumentu": "řadové číslo"
+    },
+    {
+      "Nazev_souboru": "50-1986-10_sprezeni_c_6.pdf",
+      "Prefix": 50,
+      "Cislo_zpravodaje": "6",
+      "Rok": 1986,
+      "Mesic": 10,
+      "Pocet_stran": 26,
+      "Dostupnost_textu": "skenované",
+      "Nutnost_OCR": "ano",
+      "Problemy_s_kvalitou": "neuvedeno / nelze jednoznačně určit",
+      "Typ_dokumentu": "řadové číslo"
+    },
+    {
+      "Nazev_souboru": "51-1987-06_sprezeni_c_7.pdf",
+      "Prefix": 51,
+      "Cislo_zpravodaje": "7",
+      "Rok": 1987,
+      "Mesic": 6,
+      "Pocet_stran": 40,
+      "Dostupnost_textu": "skenované",
+      "Nutnost_OCR": "ano",
+      "Problemy_s_kvalitou": "neuvedeno / nelze jednoznačně určit",
+      "Typ_dokumentu": "řadové číslo"
+    },
+    {
+      "Nazev_souboru": "52-1987-11_sprezeni_c_8.pdf",
+      "Prefix": 52,
+      "Cislo_zpravodaje": "8",
+      "Rok": 1987,
+      "Mesic": 11,
+      "Pocet_stran": 40,
+      "Dostupnost_textu": "skenované",
+      "Nutnost_OCR": "ano",
+      "Problemy_s_kvalitou": "neuvedeno / nelze jednoznačně určit",
+      "Typ_dokumentu": "řadové číslo"
+    },
+    {
+      "Nazev_souboru": "53-1988-04_sprezeni_c_9.pdf",
+      "Prefix": 53,
+      "Cislo_zpravodaje": "9",
+      "Rok": 1988,
+      "Mesic": 4,
+      "Pocet_stran": 44,
+      "Dostupnost_textu": "skenované",
+      "Nutnost_OCR": "ano",
+      "Problemy_s_kvalitou": "neuvedeno / nelze jednoznačně určit",
+      "Typ_dokumentu": "řadové číslo"
+    },
+    {
+      "Nazev_souboru": "54-1988-08_sprezeni_c_10.pdf",
+      "Prefix": 54,
+      "Cislo_zpravodaje": "10",
+      "Rok": 1988,
+      "Mesic": 8,
+      "Pocet_stran": 39,
+      "Dostupnost_textu": "skenované",
+      "Nutnost_OCR": "ano",
+      "Problemy_s_kvalitou": "neuvedeno / nelze jednoznačně určit",
+      "Typ_dokumentu": "řadové číslo"
+    },
+    {
+      "Nazev_souboru": "55-1989-05_sprezeni_c_11.pdf",
+      "Prefix": 55,
+      "Cislo_zpravodaje": "11",
+      "Rok": 1989,
+      "Mesic": 5,
+      "Pocet_stran": 43,
+      "Dostupnost_textu": "skenované",
+      "Nutnost_OCR": "ano",
+      "Problemy_s_kvalitou": "neuvedeno / nelze jednoznačně určit",
+      "Typ_dokumentu": "řadové číslo"
+    },
+    {
+      "Nazev_souboru": "56-1989-11_sprezeni_c_12.pdf",
+      "Prefix": 56,
+      "Cislo_zpravodaje": "12",
+      "Rok": 1989,
+      "Mesic": 11,
+      "Pocet_stran": 40,
+      "Dostupnost_textu": "skenované",
+      "Nutnost_OCR": "ano",
+      "Problemy_s_kvalitou": "neuvedeno / nelze jednoznačně určit",
+      "Typ_dokumentu": "řadové číslo"
+    },
+    {
+      "Nazev_souboru": "57-1990-06_sprezeni_c_13.pdf",
+      "Prefix": 57,
+      "Cislo_zpravodaje": "13",
+      "Rok": 1990,
+      "Mesic": 6,
+      "Pocet_stran": 35,
+      "Dostupnost_textu": "skenované",
+      "Nutnost_OCR": "ano",
+      "Problemy_s_kvalitou": "neuvedeno / nelze jednoznačně určit",
+      "Typ_dokumentu": "řadové číslo"
+    },
+    {
+      "Nazev_souboru": "58-1990-10_sprezeni_c_14.pdf",
+      "Prefix": 58,
+      "Cislo_zpravodaje": "14",
+      "Rok": 1990,
+      "Mesic": 10,
+      "Pocet_stran": 28,
+      "Dostupnost_textu": "skenované",
+      "Nutnost_OCR": "ano",
+      "Problemy_s_kvalitou": "neuvedeno / nelze jednoznačně určit",
+      "Typ_dokumentu": "řadové číslo"
+    },
+    {
+      "Nazev_souboru": "59-1991-01_sprezeni_c_15.pdf",
+      "Prefix": 59,
+      "Cislo_zpravodaje": "15",
+      "Rok": 1991,
+      "Mesic": 1,
+      "Pocet_stran": 8,
+      "Dostupnost_textu": "skenované",
+      "Nutnost_OCR": "ano",
+      "Problemy_s_kvalitou": "neuvedeno / nelze jednoznačně určit",
+      "Typ_dokumentu": "řadové číslo"
+    },
+    {
+      "Nazev_souboru": "60-1991-05_sprezeni_c_16.pdf",
+      "Prefix": 60,
+      "Cislo_zpravodaje": "16",
+      "Rok": 1991,
+      "Mesic": 5,
+      "Pocet_stran": 11,
+      "Dostupnost_textu": "skenované",
+      "Nutnost_OCR": "ano",
+      "Problemy_s_kvalitou": "neuvedeno / nelze jednoznačně určit",
+      "Typ_dokumentu": "řadové číslo"
+    },
+    {
+      "Nazev_souboru": "61-1991-09_sprezeni_c_17.pdf",
+      "Prefix": 61,
+      "Cislo_zpravodaje": "17",
+      "Rok": 1991,
+      "Mesic": 9,
+      "Pocet_stran": 15,
+      "Dostupnost_textu": "skenované",
+      "Nutnost_OCR": "ano",
+      "Problemy_s_kvalitou": "neuvedeno / nelze jednoznačně určit",
+      "Typ_dokumentu": "řadové číslo"
+    },
+    {
+      "Nazev_souboru": "62-1991-11_sprezeni_c_18.pdf",
+      "Prefix": 62,
+      "Cislo_zpravodaje": "18",
+      "Rok": 1991,
+      "Mesic": 11,
+      "Pocet_stran": 9,
+      "Dostupnost_textu": "skenované",
+      "Nutnost_OCR": "ano",
+      "Problemy_s_kvalitou": "neuvedeno / nelze jednoznačně určit",
+      "Typ_dokumentu": "řadové číslo"
+    },
+    {
+      "Nazev_souboru": "63-1992-01_chovatelsky_zapisni_rad.pdf",
+      "Prefix": 63,
+      "Cislo_zpravodaje": "Chovatelský a zápisní řád (1992-01)",
+      "Rok": 1992,
+      "Mesic": 1,
+      "Pocet_stran": 12,
+      "Dostupnost_textu": "skenované",
+      "Nutnost_OCR": "ano",
+      "Problemy_s_kvalitou": "neuvedeno / nelze jednoznačně určit",
+      "Typ_dokumentu": "chovatelský a zápisní řád"
+    },
+    {
+      "Nazev_souboru": "64-1992-01_sprezeni_c_19.pdf",
+      "Prefix": 64,
+      "Cislo_zpravodaje": "19",
+      "Rok": 1992,
+      "Mesic": 1,
+      "Pocet_stran": 15,
+      "Dostupnost_textu": "skenované",
+      "Nutnost_OCR": "ano",
+      "Problemy_s_kvalitou": "neuvedeno / nelze jednoznačně určit",
+      "Typ_dokumentu": "řadové číslo"
+    },
+    {
+      "Nazev_souboru": "65-1992-05_sprezeni_c_20.pdf",
+      "Prefix": 65,
+      "Cislo_zpravodaje": "20",
+      "Rok": 1992,
+      "Mesic": 5,
+      "Pocet_stran": 13,
+      "Dostupnost_textu": "skenované",
+      "Nutnost_OCR": "ano",
+      "Problemy_s_kvalitou": "neuvedeno / nelze jednoznačně určit",
+      "Typ_dokumentu": "řadové číslo"
+    },
+    {
+      "Nazev_souboru": "66-1992-07_sprezeni_c_21.pdf",
+      "Prefix": 66,
+      "Cislo_zpravodaje": "21",
+      "Rok": 1992,
+      "Mesic": 7,
+      "Pocet_stran": 20,
+      "Dostupnost_textu": "skenované",
+      "Nutnost_OCR": "ano",
+      "Problemy_s_kvalitou": "neuvedeno / nelze jednoznačně určit",
+      "Typ_dokumentu": "řadové číslo"
+    },
+    {
+      "Nazev_souboru": "67-1992-09_sprezeni_c_22.pdf",
+      "Prefix": 67,
+      "Cislo_zpravodaje": "22",
+      "Rok": 1992,
+      "Mesic": 9,
+      "Pocet_stran": 17,
+      "Dostupnost_textu": "skenované",
+      "Nutnost_OCR": "ano",
+      "Problemy_s_kvalitou": "neuvedeno / nelze jednoznačně určit",
+      "Typ_dokumentu": "řadové číslo"
+    },
+    {
+      "Nazev_souboru": "68-1992-11_sprezeni_special.pdf",
+      "Prefix": 68,
+      "Cislo_zpravodaje": "zvláštní (1992-11)",
+      "Rok": 1992,
+      "Mesic": 11,
+      "Pocet_stran": 51,
+      "Dostupnost_textu": "skenované",
+      "Nutnost_OCR": "ano",
+      "Problemy_s_kvalitou": "neuvedeno / nelze jednoznačně určit",
+      "Typ_dokumentu": "zvláštní číslo"
+    },
+    {
+      "Nazev_souboru": "69-1992-12_sprezeni_c_23.pdf",
+      "Prefix": 69,
+      "Cislo_zpravodaje": "23",
+      "Rok": 1992,
+      "Mesic": 12,
+      "Pocet_stran": 19,
+      "Dostupnost_textu": "skenované",
+      "Nutnost_OCR": "ano",
+      "Problemy_s_kvalitou": "neuvedeno / nelze jednoznačně určit",
+      "Typ_dokumentu": "řadové číslo"
+    },
+    {
+      "Nazev_souboru": "70-1993-03_sprezeni_c_24.pdf",
+      "Prefix": 70,
+      "Cislo_zpravodaje": "24",
+      "Rok": 1993,
+      "Mesic": 3,
+      "Pocet_stran": 15,
+      "Dostupnost_textu": "skenované",
+      "Nutnost_OCR": "ano",
+      "Problemy_s_kvalitou": "neuvedeno / nelze jednoznačně určit",
+      "Typ_dokumentu": "řadové číslo"
+    },
+    {
+      "Nazev_souboru": "71-1993-04_sprezeni_special.pdf",
+      "Prefix": 71,
+      "Cislo_zpravodaje": "zvláštní (1993-04)",
+      "Rok": 1993,
+      "Mesic": 4,
+      "Pocet_stran": 56,
+      "Dostupnost_textu": "skenované",
+      "Nutnost_OCR": "ano",
+      "Problemy_s_kvalitou": "neuvedeno / nelze jednoznačně určit",
+      "Typ_dokumentu": "zvláštní číslo"
+    },
+    {
+      "Nazev_souboru": "72-1993-10_sprezeni_c_25.pdf",
+      "Prefix": 72,
+      "Cislo_zpravodaje": "25",
+      "Rok": 1993,
+      "Mesic": 10,
+      "Pocet_stran": 24,
+      "Dostupnost_textu": "skenované",
+      "Nutnost_OCR": "ano",
+      "Problemy_s_kvalitou": "neuvedeno / nelze jednoznačně určit",
+      "Typ_dokumentu": "řadové číslo"
+    },
+    {
+      "Nazev_souboru": "73-1994-07_sprezeni_c_26.pdf",
+      "Prefix": 73,
+      "Cislo_zpravodaje": "26",
+      "Rok": 1994,
+      "Mesic": 7,
+      "Pocet_stran": 28,
+      "Dostupnost_textu": "skenované",
+      "Nutnost_OCR": "ano",
+      "Problemy_s_kvalitou": "neuvedeno / nelze jednoznačně určit",
+      "Typ_dokumentu": "řadové číslo"
+    },
+    {
+      "Nazev_souboru": "74-1994-10_sprezeni_c_27.pdf",
+      "Prefix": 74,
+      "Cislo_zpravodaje": "27",
+      "Rok": 1994,
+      "Mesic": 10,
+      "Pocet_stran": 28,
+      "Dostupnost_textu": "skenované",
+      "Nutnost_OCR": "ano",
+      "Problemy_s_kvalitou": "neuvedeno / nelze jednoznačně určit",
+      "Typ_dokumentu": "řadové číslo"
+    },
+    {
+      "Nazev_souboru": "75-1995-03_sprezeni_c_28.pdf",
+      "Prefix": 75,
+      "Cislo_zpravodaje": "28",
+      "Rok": 1995,
+      "Mesic": 3,
+      "Pocet_stran": 31,
+      "Dostupnost_textu": "skenované",
+      "Nutnost_OCR": "ano",
+      "Problemy_s_kvalitou": "neuvedeno / nelze jednoznačně určit",
+      "Typ_dokumentu": "řadové číslo"
+    },
+    {
+      "Nazev_souboru": "76-1995-05_sprezeni_c_29.pdf",
+      "Prefix": 76,
+      "Cislo_zpravodaje": "29",
+      "Rok": 1995,
+      "Mesic": 5,
+      "Pocet_stran": 54,
+      "Dostupnost_textu": "skenované",
+      "Nutnost_OCR": "ano",
+      "Problemy_s_kvalitou": "neuvedeno / nelze jednoznačně určit",
+      "Typ_dokumentu": "řadové číslo"
+    },
+    {
+      "Nazev_souboru": "77-1995-06_sprezeni_c_30.pdf",
+      "Prefix": 77,
+      "Cislo_zpravodaje": "30",
+      "Rok": 1995,
+      "Mesic": 6,
+      "Pocet_stran": 26,
+      "Dostupnost_textu": "skenované",
+      "Nutnost_OCR": "ano",
+      "Problemy_s_kvalitou": "neuvedeno / nelze jednoznačně určit",
+      "Typ_dokumentu": "řadové číslo"
+    },
+    {
+      "Nazev_souboru": "78-1995-09_sprezeni_c_31.pdf",
+      "Prefix": 78,
+      "Cislo_zpravodaje": "31",
+      "Rok": 1995,
+      "Mesic": 9,
+      "Pocet_stran": 30,
+      "Dostupnost_textu": "skenované",
+      "Nutnost_OCR": "ano",
+      "Problemy_s_kvalitou": "neuvedeno / nelze jednoznačně určit",
+      "Typ_dokumentu": "řadové číslo"
+    },
+    {
+      "Nazev_souboru": "79-1996-01_sprezeni_c_32.pdf",
+      "Prefix": 79,
+      "Cislo_zpravodaje": "32",
+      "Rok": 1996,
+      "Mesic": 1,
+      "Pocet_stran": 37,
+      "Dostupnost_textu": "skenované",
+      "Nutnost_OCR": "ano",
+      "Problemy_s_kvalitou": "neuvedeno / nelze jednoznačně určit",
+      "Typ_dokumentu": "řadové číslo"
+    },
+    {
+      "Nazev_souboru": "80-1996-01_sprezeni_c_33.pdf",
+      "Prefix": 80,
+      "Cislo_zpravodaje": "33",
+      "Rok": 1996,
+      "Mesic": 1,
+      "Pocet_stran": 36,
+      "Dostupnost_textu": "skenované",
+      "Nutnost_OCR": "ano",
+      "Problemy_s_kvalitou": "neuvedeno / nelze jednoznačně určit",
+      "Typ_dokumentu": "řadové číslo"
+    },
+    {
+      "Nazev_souboru": "81-1996-12_sprezeni_c_34.pdf",
+      "Prefix": 81,
+      "Cislo_zpravodaje": "34",
+      "Rok": 1996,
+      "Mesic": 12,
+      "Pocet_stran": 54,
+      "Dostupnost_textu": "skenované",
+      "Nutnost_OCR": "ano",
+      "Problemy_s_kvalitou": "neuvedeno / nelze jednoznačně určit",
+      "Typ_dokumentu": "řadové číslo"
+    },
+    {
+      "Nazev_souboru": "82-1997-06_sprezeni_c_35.pdf",
+      "Prefix": 82,
+      "Cislo_zpravodaje": "35",
+      "Rok": 1997,
+      "Mesic": 6,
+      "Pocet_stran": 40,
+      "Dostupnost_textu": "skenované",
+      "Nutnost_OCR": "ano",
+      "Problemy_s_kvalitou": "neuvedeno / nelze jednoznačně určit",
+      "Typ_dokumentu": "řadové číslo"
+    },
+    {
+      "Nazev_souboru": "83-1997-09_sprezeni_c_36.pdf",
+      "Prefix": 83,
+      "Cislo_zpravodaje": "36",
+      "Rok": 1997,
+      "Mesic": 9,
+      "Pocet_stran": 26,
+      "Dostupnost_textu": "skenované",
+      "Nutnost_OCR": "ano",
+      "Problemy_s_kvalitou": "neuvedeno / nelze jednoznačně určit",
+      "Typ_dokumentu": "řadové číslo"
+    },
+    {
+      "Nazev_souboru": "84-1997-11_sprezeni_c_37.pdf",
+      "Prefix": 84,
+      "Cislo_zpravodaje": "37",
+      "Rok": 1997,
+      "Mesic": 11,
+      "Pocet_stran": 34,
+      "Dostupnost_textu": "skenované",
+      "Nutnost_OCR": "ano",
+      "Problemy_s_kvalitou": "neuvedeno / nelze jednoznačně určit",
+      "Typ_dokumentu": "řadové číslo"
+    },
+    {
+      "Nazev_souboru": "85-1998-05_sprezeni_c_38.pdf",
+      "Prefix": 85,
+      "Cislo_zpravodaje": "38",
+      "Rok": 1998,
+      "Mesic": 5,
+      "Pocet_stran": 34,
+      "Dostupnost_textu": "skenované",
+      "Nutnost_OCR": "ano",
+      "Problemy_s_kvalitou": "neuvedeno / nelze jednoznačně určit",
+      "Typ_dokumentu": "řadové číslo"
+    },
+    {
+      "Nazev_souboru": "86-1998-08_sprezeni_c_39.pdf",
+      "Prefix": 86,
+      "Cislo_zpravodaje": "39",
+      "Rok": 1998,
+      "Mesic": 8,
+      "Pocet_stran": 42,
+      "Dostupnost_textu": "skenované",
+      "Nutnost_OCR": "ano",
+      "Problemy_s_kvalitou": "neuvedeno / nelze jednoznačně určit",
+      "Typ_dokumentu": "řadové číslo"
+    },
+    {
+      "Nazev_souboru": "87-1998-11_sprezeni_c_40.pdf",
+      "Prefix": 87,
+      "Cislo_zpravodaje": "40",
+      "Rok": 1998,
+      "Mesic": 11,
+      "Pocet_stran": 37,
+      "Dostupnost_textu": "skenované",
+      "Nutnost_OCR": "ano",
+      "Problemy_s_kvalitou": "neuvedeno / nelze jednoznačně určit",
+      "Typ_dokumentu": "řadové číslo"
+    },
+    {
+      "Nazev_souboru": "88-1999_sprezeni_c_41.pdf",
+      "Prefix": 88,
+      "Cislo_zpravodaje": "41",
+      "Rok": 1999,
+      "Mesic": "neuvedeno / nelze jednoznačně určit",
+      "Pocet_stran": 28,
+      "Dostupnost_textu": "skenované",
+      "Nutnost_OCR": "ano",
+      "Problemy_s_kvalitou": "neuvedeno / nelze jednoznačně určit",
+      "Typ_dokumentu": "řadové číslo"
+    },
+    {
+      "Nazev_souboru": "89-1999_sprezeni_c_42.pdf",
+      "Prefix": 89,
+      "Cislo_zpravodaje": "42",
+      "Rok": 1999,
+      "Mesic": "neuvedeno / nelze jednoznačně určit",
+      "Pocet_stran": 36,
+      "Dostupnost_textu": "skenované",
+      "Nutnost_OCR": "ano",
+      "Problemy_s_kvalitou": "neuvedeno / nelze jednoznačně určit",
+      "Typ_dokumentu": "řadové číslo"
+    },
+    {
+      "Nazev_souboru": "90-1999_sprezeni_c_43.pdf",
+      "Prefix": 90,
+      "Cislo_zpravodaje": "43",
+      "Rok": 1999,
+      "Mesic": "neuvedeno / nelze jednoznačně určit",
+      "Pocet_stran": 29,
+      "Dostupnost_textu": "skenované",
+      "Nutnost_OCR": "ano",
+      "Problemy_s_kvalitou": "neuvedeno / nelze jednoznačně určit",
+      "Typ_dokumentu": "řadové číslo"
+    },
+    {
+      "Nazev_souboru": "91-2001_sprezeni_c_44.pdf",
+      "Prefix": 91,
+      "Cislo_zpravodaje": "44",
+      "Rok": 2001,
+      "Mesic": "neuvedeno / nelze jednoznačně určit",
+      "Pocet_stran": 37,
+      "Dostupnost_textu": "skenované",
+      "Nutnost_OCR": "ano",
+      "Problemy_s_kvalitou": "neuvedeno / nelze jednoznačně určit",
+      "Typ_dokumentu": "řadové číslo"
+    },
+    {
+      "Nazev_souboru": "92-2001_sprezeni_c_45.pdf",
+      "Prefix": 92,
+      "Cislo_zpravodaje": "45",
+      "Rok": 2001,
+      "Mesic": "neuvedeno / nelze jednoznačně určit",
+      "Pocet_stran": 33,
+      "Dostupnost_textu": "skenované",
+      "Nutnost_OCR": "ano",
+      "Problemy_s_kvalitou": "neuvedeno / nelze jednoznačně určit",
+      "Typ_dokumentu": "řadové číslo"
+    },
+    {
+      "Nazev_souboru": "93-2001_sprezeni_c_46.pdf",
+      "Prefix": 93,
+      "Cislo_zpravodaje": "46",
+      "Rok": 2001,
+      "Mesic": "neuvedeno / nelze jednoznačně určit",
+      "Pocet_stran": 26,
+      "Dostupnost_textu": "skenované",
+      "Nutnost_OCR": "ano",
+      "Problemy_s_kvalitou": "neuvedeno / nelze jednoznačně určit",
+      "Typ_dokumentu": "řadové číslo"
+    },
+    {
+      "Nazev_souboru": "94-2002_sprezeni_c_47.pdf",
+      "Prefix": 94,
+      "Cislo_zpravodaje": "47",
+      "Rok": 2002,
+      "Mesic": "neuvedeno / nelze jednoznačně určit",
+      "Pocet_stran": 38,
+      "Dostupnost_textu": "skenované",
+      "Nutnost_OCR": "ano",
+      "Problemy_s_kvalitou": "neuvedeno / nelze jednoznačně určit",
+      "Typ_dokumentu": "řadové číslo"
+    },
+    {
+      "Nazev_souboru": "95-2003_sprezeni_c_48.pdf",
+      "Prefix": 95,
+      "Cislo_zpravodaje": "48",
+      "Rok": 2003,
+      "Mesic": "neuvedeno / nelze jednoznačně určit",
+      "Pocet_stran": 25,
+      "Dostupnost_textu": "skenované",
+      "Nutnost_OCR": "ano",
+      "Problemy_s_kvalitou": "neuvedeno / nelze jednoznačně určit",
+      "Typ_dokumentu": "řadové číslo"
+    },
+    {
+      "Nazev_souboru": "96-2004_sprezeni_c_49.pdf",
+      "Prefix": 96,
+      "Cislo_zpravodaje": "49",
+      "Rok": 2004,
+      "Mesic": "neuvedeno / nelze jednoznačně určit",
+      "Pocet_stran": 17,
+      "Dostupnost_textu": "skenované",
+      "Nutnost_OCR": "ano",
+      "Problemy_s_kvalitou": "neuvedeno / nelze jednoznačně určit",
+      "Typ_dokumentu": "řadové číslo"
+    },
+    {
+      "Nazev_souboru": "97-2005_sprezeni_c_50.pdf",
+      "Prefix": 97,
+      "Cislo_zpravodaje": "50",
+      "Rok": 2005,
+      "Mesic": "neuvedeno / nelze jednoznačně určit",
+      "Pocet_stran": 41,
+      "Dostupnost_textu": "skenované",
+      "Nutnost_OCR": "ano",
+      "Problemy_s_kvalitou": "neuvedeno / nelze jednoznačně určit",
+      "Typ_dokumentu": "řadové číslo"
+    },
+    {
+      "Nazev_souboru": "98-2006_sprezeni_c_51.pdf",
+      "Prefix": 98,
+      "Cislo_zpravodaje": "51",
+      "Rok": 2006,
+      "Mesic": "neuvedeno / nelze jednoznačně určit",
+      "Pocet_stran": 32,
+      "Dostupnost_textu": "skenované",
+      "Nutnost_OCR": "ano",
+      "Problemy_s_kvalitou": "neuvedeno / nelze jednoznačně určit",
+      "Typ_dokumentu": "řadové číslo"
+    },
+    {
+      "Nazev_souboru": "99-2006_sprezeni_c_52.pdf",
+      "Prefix": 99,
+      "Cislo_zpravodaje": "52",
+      "Rok": 2006,
+      "Mesic": "neuvedeno / nelze jednoznačně určit",
+      "Pocet_stran": 52,
+      "Dostupnost_textu": "skenované",
+      "Nutnost_OCR": "ano",
+      "Problemy_s_kvalitou": "neuvedeno / nelze jednoznačně určit",
+      "Typ_dokumentu": "řadové číslo"
+    },
+    {
+      "Nazev_souboru": "100-2008_sprezeni_c_53.pdf",
+      "Prefix": 100,
+      "Cislo_zpravodaje": "53",
+      "Rok": 2008,
+      "Mesic": "neuvedeno / nelze jednoznačně určit",
+      "Pocet_stran": 42,
+      "Dostupnost_textu": "skenované",
+      "Nutnost_OCR": "ano",
+      "Problemy_s_kvalitou": "neuvedeno / nelze jednoznačně určit",
+      "Typ_dokumentu": "řadové číslo"
+    }
+  ],
+  "Casova_osa": {
+    "1984": [
+      "1",
+      "2"
+    ],
+    "1985": [
+      "3",
+      "4"
+    ],
+    "1986": [
+      "5",
+      "6"
+    ],
+    "1987": [
+      "7",
+      "8"
+    ],
+    "1988": [
+      "10",
+      "9"
+    ],
+    "1989": [
+      "11",
+      "12"
+    ],
+    "1990": [
+      "13",
+      "14"
+    ],
+    "1991": [
+      "15",
+      "16",
+      "17",
+      "18"
+    ],
+    "1992": [
+      "19",
+      "20",
+      "21",
+      "22",
+      "23",
+      "Chovatelský a zápisní řád (1992-01)",
+      "zvláštní (1992-11)"
+    ],
+    "1993": [
+      "24",
+      "25",
+      "zvláštní (1993-04)"
+    ],
+    "1994": [
+      "26",
+      "27"
+    ],
+    "1995": [
+      "28",
+      "29",
+      "30",
+      "31"
+    ],
+    "1996": [
+      "32",
+      "33",
+      "34"
+    ],
+    "1997": [
+      "35",
+      "36",
+      "37"
+    ],
+    "1998": [
+      "38",
+      "39",
+      "40"
+    ],
+    "1999": [
+      "41",
+      "42",
+      "43"
+    ],
+    "2001": [
+      "44",
+      "45",
+      "46"
+    ],
+    "2002": [
+      "47"
+    ],
+    "2003": [
+      "48"
+    ],
+    "2004": [
+      "49"
+    ],
+    "2005": [
+      "50"
+    ],
+    "2006": [
+      "51",
+      "52"
+    ],
+    "2008": [
+      "53"
+    ]
+  },
+  "Mezery": [
+    {
+      "Rok": 2000,
+      "Poznamka": "chybí číslo v archivu pro tento rok — mezera v datech, ne domněnka o neexistenci čísla"
+    },
+    {
+      "Rok": 2007,
+      "Poznamka": "chybí číslo v archivu pro tento rok — mezera v datech, ne domněnka o neexistenci čísla"
+    }
+  ]
+}
