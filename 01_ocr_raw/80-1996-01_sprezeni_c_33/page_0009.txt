@@ -1,0 +1,48 @@
+# ZDROJ: Spřežení č. 33, rok 1996, strana nezjištěna
+# SOUBOR: 80-1996-01_sprezeni_c_33.pdf
+# PDF_STRANA: 9
+# TISTENA_STRANA: nezjištěna
+# OCR: tesseract-5.3.4 / ces / conf 86.3
+---
+- 7 =
+MOUNT MCKINKEY 26.10.1995 9/1 F8
+Marcela Strnadová, Bavlnářská 537, 513 01 Semily
+REG.608/92 Bad na Salabce, žb, F7
+REG.665/92 Alka z Dubových pasek, žb, F7
+N Reg./CHP
+f 914  AFRODITÉ žb
+f 915  AIMY žb
+f 916  ALEXA žb
+f 917 | ANDROMÉDA žb
+f 918 ANDY žb
+f 919. AVY žb
+OD LENOCHA 24.12.1995 7/0 F8
+Hedvika Zimmernannová, Lutherova 496, 463 34 Hrádek n.Nisou
+REG.496/90 Huňáč Faranda, žb, F7
+REG.869/93 A-Tera, žb, F5
+N Reg./CHP
+p '920 ALF žb f 923 AFRA žb
+p 921 ASKO žb f£f 924. AIKA žb
+p 922 ARIBALDI žb
+OD LENOCHA 06.02.1996 9/0 F8
+Hedvika Zimmernannová, Lutherova 496, 463 34 Hrádek n.Nisou
+REG.572/91 Cimbál od Nevěřícího Tomáše, žb, F7
+REG.868/93 A-Orka, žb, F5
+N Reg./CHP ;
+p. 925  BARTY žb f 928 BÁRA žb
+p. 926.  BJORG žb f 929. BERBL žb
+p 927. BRYAN žb
+OD ŽELECHOVSKÉ STUDÁNKY 21.01.1996 6/0 F10
+Milan Bydžovský, 512 02 Košťálov 183
+REG.768/93 Dárek od Fika, žb, F9
+REG.718/93 Ajka u Roubířských skal, čb, F9
+N Reg. /CHP
+p 930 ALF b T 932. AGARA b
+p 931. ARON žb f 933. ALKA žb
+f 934. ARKA žb
+f 935. ASTA b
+936-946 = 5 psů + 6 fen, ale čí a od koho plemenná kniha neví ...,
+ale ČHP by to být neměl
+OD VANDY Z HÁJŮ 11.04.1996 5/1 F9
+Vanda Kmochová, Pod vrchem 20, 405 05 Děčín 20
+4

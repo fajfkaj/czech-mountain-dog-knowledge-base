@@ -1,0 +1,51 @@
+# ZDROJ: Spřežení č. 16, rok 1991, strana nezjištěna
+# SOUBOR: 60-1991-05_sprezeni_c_16.pdf
+# PDF_STRANA: 5
+# TISTENA_STRANA: nezjištěna
+# OCR: tesseract-5.3.4 / ces / conf 85.9
+---
+feny - třída vítězů
+ATHI ze Lhoty, reg.237/87, Jaroslav Konečný, Krélíky
+DÁJA Faranda, reg.114/86, D+O.Kupkovi, Slapy u Tábora
+Soutěž NEJKRÁSNĚJŠÍ PÁR
+-NW
+„VT,CAC
+<<
+1 BENJAMIN Velká závěj Jindřich Vandes
+> GITA Faranda
+2 ADAN Netolická obora Helena + Josef Matějekovi
+*  ATHÉNA Hradecký lev
+3 BIRT ze Lhoty : Jaroslav Konečný
+*  ATHI ze Lhoty
+Soutěž NEJLEPŠÍ PLEMENÍK
+1. DAR Faranda a jeho potomci: Elza Už jedou, Farka Už jedou, Atol Žlutá trojka
+Soutěž NEJLEPŠÍ CHOVNÁ STANICE
+1. FARANDA = odchovy: Dája, Dar, Gita, Evězda = Dana Kupková
+2., UŽ JEDOU - odchovy: Farka, Elza, Cerka - Eva Loučková
+Vysvětlivky zkratek k výstavě:
+VN — velmi nadějný VD —- velmi dobrý
+N |- nadějný D |- dobrý
+VT - vítěz třídy CAC - čekatel šampiona ČSFR
+V =- výborný KV —- klubový vítěz
+BONITACE —- 26.5.91 - Královice
+ď ERGO Ovědada, reg.403/89; V+J.Šenovi, Česká Lípa - chovný
+čb, 60cm, Jjkg; menší než standard, ucho složené, vybočený loket
+d ERIX Ovědada, reg.404/89; Ivan Polák, Huť - chovný
+čb, 59cm, Jjlkg; menší než standerd, mírně delší, rozbíhavý postoj LZ,
+plášť, ojedinělé tečky
+9 EIRA Ovědada, reg.405/89; AoMatoušek, Provodín, Jestřebí = chovná
+žb, 59em, 30kg; mírně delší, užší lebka, ucho složené, vybočený loket
+9 EKRIS Ovědada, reg.406/89; M.Kostková, Čes.Budějovice - chovná
+žb, 58,5cm, 32,5kg; srst mírně zkadeřená
+9 FANY Faranda, reg.320/88; Jan Šanovec, Dobřichovice - chovná
+žb, 62,5om, 32kg; plášť, melír, srst mírně zkadeřená
+dď FIN Faranda, reg.318/88; Jindřich Vandas, Nečín - chovný
+žb, 64,5cm, 32kg; melír, srst více zkadeřená
+d" ANDY Jahodovka, reg.423/89; Karel Palička, Karclinka - chovný
+žb, 61.5cm, J37kg; plášt, LZ vybočuje
+9 AJKA Jeahodovka, reg.425/89; Jan Kašpar, Boží Dar - chovná
+čb, 59cm; světlejší oko, měkký hřbet, plášť, ojedinělé tečky
+o" EDEN Už jedou, reég.414/69; Zdeněk Holub, Práha 5 - chovný
+žb, 64cm, 38kg; -m
+ELZA Už jedou, reg.419/89; Vít Procházka, Sadská -= chovná
+žb, 62cm, 32kg; ucho krátké složené, prohnutý hřbet, srst mírně zkadeřená

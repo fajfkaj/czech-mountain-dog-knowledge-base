@@ -1,0 +1,48 @@
+# ZDROJ: Spřežení č. 33, rok 1996, strana nezjištěna
+# SOUBOR: 80-1996-01_sprezeni_c_33.pdf
+# PDF_STRANA: 19
+# TISTENA_STRANA: nezjištěna
+# OCR: tesseract-5.3.4 / ces / conf 87.8
+---
+- 1 =
+BM POPRAD - Mistrovství Slovenska 06/07.01.96
+kategorie Skj 7900 m
+1. Kuvik Michal 19:44,3 20:49,1 40:33,4
+2. Burda František ČR 20:56,5 2L:11,0 42:07,5
+16. Kerecman Martin 45:54,3 37:50,9 1:23:45,2
+kategorie A
+1. Polák Miroslav ČR A 16.43,8 17:08,5 33:52,3
+5. Harvan Marek A1 31:10,0 26:05,0 57:15,0
+kategorie B
+1. Krejčí Jiří ČR B 19:16,6 19:08,7 38:25,3
+2. Sedláček Vít ČR B1 21:01,2 20:57,1 41:58,3
+11. Kováč Radovan B1 2TlY 28:11,3 55:29,0
+kategorie C
+1. Váňová Jana ČR c 19:08,3 19:13,1 38:21,4
+5. Kmochová Vanda ČR C2/ČHP | 21:41,9 22:29,9 44:11,8
+30. Holub Zdeněk ČR C2/ČHP | 36:44,7 37:32,0 1:14:16,7
+v této kategorii jel: 1 dva poláci a jeden maďar
+BM KOMÁŘÍ VÍŽKA - Krušnohorský pohár 20/21.01.96
+třída C 7600 m
+1. Váňová Jana c 4AH 15:48 15:52 31:40
+4. Nešněrová Dagmar C1 4SH 18:16 18:14 36:30
+5. Kmochová Vanda c2 4ČHP 18:29 19:10 37:39
+14. Cempírek Ivan v 3AM 36:21 36:59 73:20
+třída Skj 11900 m km/h
+1. Procházka Vít BO 31:06 31:07 62:13 23,0
+4. Hanzlík Petr ČHP 35:20 35:45 71:05 2,1
+6. Kyncl Martin ČHP 37:32 36:56 74:28.. U
+7. Procházka Jan ČHP 37:41 40:51 78:32 1,2
+8. Montag Cerd SH 48:00 NF
+M MOVÉ MĚSTO NA MORAVĚ - OMR ČR 03/04.02.96
+třída C
+1. Váňová Jana c 4xAH 18:08,00 16:45,80 34:53,80
+5., Nešněrová Dagmar C1 4xSH 20:25,50 19:04,50 39:30,00
+9. Kmochová Vanda c2 4xČHP  21:33,10 20:02,40 41:35,50
+37. Vodák MIlan c2 2XČHP  41:24,50 44:36,30. 1:26:00,80
+39. Humpolíček Pavel c2 2xAM 45:25,80 41:34,40 1:27:00,20
+třída B
+1. Krupička Petr ml. B 6xAH 25:19,50 24:43,00 50:02,50
+2. Pečený Roman B1 6xSH 29:17,00 26:54,70 56:11,70
+6. Brož Ladislav B2 6xAM 33:45,50 31:22,20 1:05:07,70
+12. Lacinová Jiřina B2 5xAM 49:11,20 52:26,90 1:41:38,10

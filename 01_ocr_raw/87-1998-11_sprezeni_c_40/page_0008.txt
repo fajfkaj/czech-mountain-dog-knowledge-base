@@ -1,0 +1,60 @@
+# ZDROJ: Spřežení č. 40, rok 1998, strana nezjištěna
+# SOUBOR: 87-1998-11_sprezeni_c_40.pdf
+# PDF_STRANA: 8
+# TISTENA_STRANA: nezjištěna
+# OCR: tesseract-5.3.4 / ces / conf 92.2
+---
+N Reg./CHP p 1069 CYRDA žb
+f 1070 CILKA žb
+OD VANDY Z HÁJŮ 15. 6. 1998
+Vanda Kmochová, Pod vrchem 20, 405 05 Děčín 20
+REG. 450/90 Bard Netolická obora, žb, F7
+REG. 734/93 Aila od Vandy z Hájů, žb, F8
+N Reg./CHP ť 1071 DENISA žb
+OD VANDY Z HÁJŮ 15. 6. 1998
+Vanda Kmochová, Pod vrchem 20, 405 05 Děčín 20
+REG. 704/93 Atak z Hradního ochozu, čb, F6
+REG. 736/93 Andy od Vandy z Hájů, čb, F8
+N Reg./CHP p 1073 EDIBERT čb
+f 1074 ELIES čb
+PŘÍTEL Z HOR 16. 7. 1998
+Silvie Smetková, Slovenská 4282, 760 01 Zlín
+REG. 829/94 Atrek Ribalbo, žb, F9
+REG. 876/95 Alfa Věčný student, čb, F10
+N Reg./CHP p 1075 ADROS čb
+p 1076 ALDA žb
+p 1077 ALF čb
+f 1078 ÁJA žb
+PŘEŠTICKÁ LUKA 2. 8. 1998
+František Kónig, Husova 983, 334 01 Přeštice
+REG. 397/89 Atol Žlutá trojka, žb, F7
+REG. 893/95 Akina Přeštická luka, žb, F8
+N Reg./CHP p 1079 CAR žb
+p 1080 CID žb
+p 1081 CIPI žb
+p 1082 CLIF žb
+p 1083 CODY žb
+f 1084 CASEY žb
+Z LÁSKOVA 15. 7. 1998
+Lenka Fiedlerová, V. Klementa 1237, 293 01 Mladá Boleslav
+REG. 962/96 AIf z Řepíku, žb, F9
+P REG. 19/97 Meggy
+N Reg./CHP f 1085 AZRA žb
+BETTY OD ZELENÉ KAŠNY 27. 7. 1998
+Stanislav Pfeifer, Jaselská 300, 293 01 Mladá Boleslav
+REG. 962/96 AIf z Řepíku, žb, F9
+P REG. 13/92 Betty, žb
+N Reg./CHP f 1086 AIMI žb
+f 1087 ARA žb
+3/1
+3/0
+6/1
+9/0
+7/6
+4/2
+F9
+F9
+FI
+F9
+F10
+FIO

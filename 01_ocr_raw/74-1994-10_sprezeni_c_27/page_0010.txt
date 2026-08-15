@@ -1,0 +1,101 @@
+# ZDROJ: Spřežení č. 27, rok 1994, strana nezjištěna
+# SOUBOR: 74-1994-10_sprezeni_c_27.pdf
+# PDF_STRANA: 10
+# TISTENA_STRANA: nezjištěna
+# OCR: tesseract-5.3.4 / ces / conf 89.7
+---
+PŘEHLED CHOVNÝCH STANIC:
+ČESKÝ HORSKÝ PES
+CHOVNÁ STANICE - počet vrhů/počet zapsaných štěňat
+X-ččč/p-u
+| I—uhynulo před zapsáním
+počet nahlášených štěňat k zápisu
+číslo zápisu prvního štěněte ve vrhu
+písmeno, od kterého začínají jména štěňat ve vrhu
+AMUNDSEN - 3/10
+A-500/2-1,B-561/6,C-680/3
+Zdeněk Reichl, Raškov 141, 789 64 Bohdíkov
+BAČOVA KOLIBA - 2/6
+A-A81/3,B-174/3
+František Géci, 951 03 Čeladice 11
+BLANSKÝ LES - 1/3
+A-266/3
+„ Bedřich Krákora, Chlum 132, 382 03 Křemže
+BOŽIDARSKÉ RAŠELINIŠTĚ - 2/8
+A-409/3,B-688/5
+Martin Záboj, Přem.Otakara 6, 351 01 Cheb
+BUBLAVSKÉ VODOPÁDY - 4/13
+A-498/2,B-544/5-1,C-648/3-1,D-805/5
+„ | Aranka Červená, 357 22 Bublava 502
+ČEJIVA - 1/6
+A-748/6
+„| Jitka Čechurová, K jatkám 166, 388 01 Blatná
+ČESKOHORSKÁ KRÁSA - 2/13
+A-467/8,B-599/5
+Pavel Dietrich, Englišova 48, 746 01 Opava
+DO NEZNÁMA - 1/5
+A-373/5
+Ivan Filipčuk,
+„„ 79057 Bernartice u Javorníka 116
+ĎÁBELSKÝ-Á - 1/5
+A-585/7-2
+Pavla Ženíšková, Lazna 118, 341 65 Strašín
+FARANDA - 11/58
+A-12/4,B-62/3,C-81/6,D-111/4,R-204/7,
+F-317/6,G-323/6,H-493/5, Ch-551/5,1-625/7,
+J-779/5
+Dana Kupková, 391 76 Slapy u Tábora 45
+FIFANKA - 1/5
+A-280/5
+Tomáš Zámostný, Radvanovice 73,
+512 62 Karlovice u Turnova
+HAVLBROD - 1/3
+A-592/3
+Jan Kubík, 582 61 Česká Bělá 267
+HRADECKÝ LEV - 1/6
+A-153/6
+Hynek Lang, Zahradní 289, 547 01 Náchod
+HUMPOLECKÝ DVŮR - 1/5
+A-380/5
+Emil Semrád, Dvorská 1344, 396 01 Humpolec
+JAHODOVKA - 4/6
+A-423/3,B-604/1,C-671/2-1,D-795/2-1
+Jan Kašpar, 362 62 Boží Dar
+JASNÁ ZÁŘE - 2/8
+A-257/2,B-367/6
+Jiří Skrbek, Pipice 7, 513 01 Semily
+JIHOZÁPADNÍ - 1/1
+A-502/2-1
+Viktor Mráček, Nový Dvůr 67, 384 72 Zdíkov
+JINDŘICHOVSKÁ PLÁŇ - 1/1
+A-820/1
+Ladislav Kubata, Jindřichov 30, 351 11 Třebeň
+KAČABKA - 1/6
+A-70/6
+Jan Klír, Selská 38/14, 102 00 Praha 10
+KRAKONOŠOVA STEZKA - 1/3
+A-582/3
+Jan Honců, Mrklov 8, 512 37 Benecko
+LABUTÍ ŘEKA - 5/18
+A-87/5,B-105/6,C-259/2,D-261/1,E-475/4
+Jaroslav Říha, Pod vodojemem 587,
+„ 394 70 Kamenice nad Lipou
+LAŽANSKÉ ÚDOLÍ - 1/2
+A-567/2
+Miloslav Vrba, Defurovy Lažany 70,
+341 52 Chanovice
+LEDENICKÁ CESTA - 2/8
+A-738/5-1,B-832/4
+Martina Kostková, Ledenická 112, 37006 Č.Buděj.
+LUŽICKÝ HVOZD - 2/8
+A-34/5,B-39/3
+Jan Hruška, 471 57 Krompach 58
+MALHAN
+Věra Tvrzová, Brixiho 29, 162 00 Praha 6
+MODRÝ POTOK - 3/8
+A-146/2,B-160/4,C-244/2
+Helena Nebeská, Bílá Labuť 15,
+542 22 Pec pod Sněžkou
+NA LOUPEŽNÍKU - 3/17
+A-455/7,B-511/4,C-632/6
+Miroslav Redlich, 351 22 Krásná 255

@@ -1,0 +1,14 @@
+# ZDROJ: Spřežení č. 2, rok 1984, strana nezjištěna
+# SOUBOR: 46-1984-12_zpravodaj_c_2.pdf
+# PDF_STRANA: 3
+# TISTENA_STRANA: nezjištěna
+# OCR: vision (AI dočtení, tesseract conf 73.6 pod prahem; novoroční přání PF 1985 - fotografie psího spřežení s krátkým textem a rukou psanou poznámkou)
+---
+PF 1985
+
+KLUB
+ČESKÉHO HORSKÉHO PSA
+
+[nečitelné] 21.12.1984
+
+foto M.Haas

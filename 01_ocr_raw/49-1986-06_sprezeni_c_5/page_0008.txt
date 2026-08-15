@@ -1,0 +1,44 @@
+# ZDROJ: Spřežení č. 5, rok 1986, strana nezjištěna
+# SOUBOR: 49-1986-06_sprezeni_c_5.pdf
+# PDF_STRANA: 8
+# TISTENA_STRANA: nezjištěna
+# OCR: tesseract-5.3.4 / ces / conf 76.9
+---
+ši 5
+VLAŽINKA 16.08.1984
+Petr Elster, 380.01 Dačice 93/1 : :
+Ganek Třebon=Kopeček Fortuna Třebon=Kopeček
+reg. 25/82, žb reg. 23/81, čb
+| 76 BERRIO čb 79. BÁLMHORN čb
+| 77 BLANC čb 80 BREVENT čb
+| 78 BREITHORN čb
+|
+BAČOVA KOL IBA 02.10.1964
+František Géci, 951 03 tee | * K
+Hindukůš Třebon-Kopeček Fudži jana goa
+rego 30/82, čb : reg. 2
+A81 AHUCKLEBERRY čb — AB2 AHAIDÉ čb
+A83 AHESSY čb
+FARANDA 10.09.1984
+Dana Kupková, 391 76 Slapy u Tábora 45 é
+Ganek Třebon=Kopeček Čehooyn Třeboň=Kopeček
+reg. 25/82, žb reg. 11/19/81, žb
+81 ČAVYK žb 83 CABINA žb
+82 (CIRAN žb 84 CÁCORA žb
+85 C žb
+86 CÍNIE žb
+LABUTÍ ŘEKA 19.11.1984
+Jaroslav Říha, Pod vodojemem 587, 394 70 Kamenice nad Lipou.
+Aalborg Severní vítr Atacama Studená- Javořice
+reg. 51/83, čb reg. 47/83, žb
+87 AALBORG čb 91 ASKŮ čb
+88 AKELA čb
+89 AKLAVIK žb
+90. ALAM=KUH - žb
+SEVERNÍ VÍTR 12.07.1984
+Dr Vít Švancara, Valdov 19, 471.25 Jablonné v Podještědí
+Atlas Studená-Javořice Alka Faranda
+reg. 43/83, čb reg. 13/81, čb
+92 BARON žb
+93 BELL čb
+94 BONY čb

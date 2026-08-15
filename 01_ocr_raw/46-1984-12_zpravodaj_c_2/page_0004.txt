@@ -1,0 +1,53 @@
+# ZDROJ: Spřežení č. 2, rok 1984, strana nezjištěna
+# SOUBOR: 46-1984-12_zpravodaj_c_2.pdf
+# PDF_STRANA: 4
+# TISTENA_STRANA: nezjištěna
+# OCR: tesseract-5.3.4 / ces / conf 89.3
+---
+DĚDIČNOST ZBARVENÍ SRSTI ČESKÉHO HORSKÉHO PSA
+Snem každého chovatele je, aby ze všech jím odchovaných štěnat vyrost-
+li pouze ideální představitelé plemene. Dědičnost je ale na štěstí věc tak
+složitá, že toho nikdy nikdo nedosáhne. I když by někdo koupil nejkrásnější
+fenu a psa toho kterého plemene, nemá úspěch zaručen, Může se stát, že ani
+jeden potomek z tohoto spojení nedosáhne kvalit svých rodičů, Na druhé stra-
+ně i z průměrných rodičů se může narodit vynikající jedinec, Právě proto je
+asi chovatelství tek zajímavé a přitažlivé, Neznamená to ale, že náhodným
+připařováním dosáhneme stejně dobrých výsledků jako promyšlenou řízenou
+plemenitbou, Jednoznačně se to projeví při větším počtu vrhů nebo v dalších
+generacích,
+Zbarvení je pouze jeden z mnoha znaků, které jsou určeny standartem
+a které na psovi hodnotíme. I zbarvení -bychom ale měli brát v úvahu pří
+sestavování chovných párů, A k-tomu by měl napomoci i tento článek,
+Dědičnost zbarvení srsti je oproti dědičnosti jiných znaků relativně
+nejjednodušší a proto také nejlépe prozkoumaná, Bylo objeveno deset lokusů
+= míst uložení genů na chromozomu, které podmiňují zbarvení. Tyto lokusy
+se mezinárodně označují A, B, C, D, E, G, M, P, S, T. Na jednotlivých lo-
+kusech jsou vlohy psány pod sebou tak, jak to odpovídá jejích vzájemné nad-
+řazenosti a podřazenosti = nahoře je vloha nadřazená všem ostatním, druhá
+Je podřazená nrvní ale nadřezená dalším „.. „ poslední podřazená všem nad
+sebou.
+Pro zbarvení ČHP jsou nejdůležitější tyto:
+A AS = čemá barva srstí
+aš = žlutá barva srsti
+(u jiných plemen ještě a" - divoké zbarvení - vlk;
+-= dvojí zbarvení - dobrman)
+B B o- čemyý pígment - černý nos, pysky
+(bD - hnědý pigment - hnědý nos, pysky)
+C C o- syté zbarvení žlutých ploch u žlutobílých
+och - zředění žluté bervy -= žlutá je velmí světlá
+ců“ —- celkově bílé zbarvení ale s tmavým nosem a očima
+c ©- albinismus - bílé srst, růžový nos, bleděmodré oči
+(ovšem modré zbarvení očí může být způsobeno i jinou zcela ne=
+závislou dominentní vlohou)
+S S o - zbarveno je celé tělo
+s“ —- „irské zbarvení",(pláštové) - bílý límec, nohy, konec ocasu,
+příp, je zbarvene ještě větší plocha těla
+sP? - pravý strakoš - así 50% plochy těla je zbarveno (1/3 až 2/3)
+s“ —- nejméně skvrn - je zbarveno méně než 20% plochy těla (včetně
+hlavy)
+T
+T |- tečkování bílých ploch
+t = bílé plochy čístě bílé, bez teček
+Na každém lokusu chromozomu jsou přítomny dvě vlohy - jedna pochází
+od otce, jedna od matky. Na vzhledu jedince se ale projeví pouze ta vloha,
+která je nadřazená (dominantní) nad druhou podřazenou (recesivní) vlohou.

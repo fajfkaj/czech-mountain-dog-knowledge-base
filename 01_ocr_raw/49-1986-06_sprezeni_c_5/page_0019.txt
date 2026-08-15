@@ -1,0 +1,62 @@
+# ZDROJ: Spřežení č. 5, rok 1986, strana nezjištěna
+# SOUBOR: 49-1986-06_sprezeni_c_5.pdf
+# PDF_STRANA: 19
+# TISTENA_STRANA: nezjištěna
+# OCR: tesseract-5.3.4 / ces / conf 85.9
+---
+BALTRA Studená-Javořice, reg 68/84, čb, 67,8 cm, 43 kg chovná
+Ararat Třebon-Kopeček - Dikté Třeboň=Kopeček
+ch: JoVinkler; m: Ota Křinecký, J.Hradec
+2 body: typ - nesprávný pohlavní výraz - 1, rozměry = 1
+BĚLKA Faranda, reg 63/83, " 65,5 6m, 33 kg chovná
+Eiger Třebon=Kopeček - Čehovyn Třeboň=Kopeček
+ch: DoKupková; m: Pavla Pospíšilová, H.Černá Studnice
+8 bodů: typ = málo typická = 1, harmonie - 1, povaha agresivní - 1, hlava, uši -
+nerovná nosní partie, krátké uši - 1, oči více otevřené - 1 srst zkadeře-
+ná - 2, zbarvení = méně skvrn, tečkování, menší asymetrie hlavy - I
+(krátký krk)
+BREVENT Vlažinka, reg 90/84, čb, 61,5 cm, 36 kg - chovná
+Ganek Třebon=Kopeček - Fortuna Třeboň=Kopeček
+ch: P„Elster; m: Miroslav Holeček, Police noMetují
+2 body: chrup = chybí Pl vpravo dole - 1, pigmentace pysků -1
+CABINA Faranca, reg 83/84, že 59 cm, 34 kg chovná
+Ganek Třebon=Kopeček - Čehooyn Třebon=Kopeček
+ch: DoKupková; m: Eva Loučková, Kralovice
+4 body: krk - lalok - i, hlava lymfatická - 1, 'chrup - chybí P] vpravo nahoře - l,
+zbarvení - tečkování - 1
+CÁCORA Faranda, reg 84/84, žb, 61,5 cm, 33 kg chovná
+Ganek Třeboň=Kopeček —- Čehooyn TRoEo -A běček
+ch: D.Kupková; m: Oldřich a Dana Kupkovi, Slapy u Tábora
+Z body: zbarvení - tečkování - l, chůze = akce předních končetin - 1
+CEDRANA Faranda, reg 85/84, žb, 61,5 cm, 33 kg chovná
+Ganek Třebon=Kopeček - Čehooyn. Třebon=Kopeček
+ch: DoKupková; m: Antoním Jehlička, Jánská
+8 bodů: hlava lymfatická, uši dlouhé, nízko nasazené - 1, hřbet prohnutý = 2,
+ohraničení skvrn - 1, zbarvení plášťové, tečkování - 2, přední končetiny -
+otevřené tlapky - 2
+DOMBAJ Třeboň=Kopeček, reg 18/81, žb, 58,3 cm, 45 kg chovná
+Apurimac Tře ček - Asko Třebon=Kopeček
+ch; KCHHP; m: Josef Cvrček, Malý Pěčín
+T bodů: mohutnost - 1, hlava lymfatická = 1, chrup = chybí Pl vlevo nahoře, Pl do-
+le oboustranně - 2, zbarvení - žlutá příliš světlá - 1, pigmentace pysků,
+srsti - 2
+ACAVATE Studená=Javořice, reg 45/83, čb, 55,5 cm, 35 kg nechovná
+Ararat Třebon=Kopeček - Dikté Třebon=Kopeček .
+ch: JoVinkler; m: František Marek, Dačice .
+19 bodů: typ - 1, mohutnost slabá = 1, rozměry = 1, harmonie - 1, povaha bázlivá
+« l, hlava = l, chrup - chybí Pl, P4 vpravo dole, P4 vlevo dole - 2,
+ocas = 1, zbarvení plášťové, tečkování - 2, pigmentace pysků - 2, přední
+končetiny sbíhavý postoj - l, postoj zadních končetin kravský - 2, chůze
+= 1, klus = 1, krátký krk = 1
+ACHIRA Lužický hvozd, reg 38/83, čb, 63,5 cn, 4 nechovná
+Bennevis Třebon=Kopeček - Dangeri Třebon=Kopeček
+ch: JoHruška; m: Jitka Křelinová, Jablonec n.Nisou
+7 bodů: oči světlé, ektropium - 1, chrup = chybí P3 nahoře oboustranně, Pl, P2,
+P3, P4 dole oboustranně - 2, zbarvení = menší plocha skvrn, tečkování - l
+zadní končetiny - l, chůze = 1, klus -1
+BALMHORN Vlažinka, reg 79/84, čb, 60 cm, 26 kg nechovná
+Ganek Třebon=Kopeček - Fortuna Třebon=Kopeček
+ch: PoElster; m: Jiří Bříza, Horní Kosov
+6 bodů: chrup = chybí II nahoře oboustranně, I1, 12 vlevo dole - 2, skus - před-
+kus - 2, přední končetiny otevřené tlapky - 1, zbarvení plášťové - 1
+(lehká hlava, vysoko nasazený ocas)

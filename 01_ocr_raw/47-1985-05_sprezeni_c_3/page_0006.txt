@@ -1,0 +1,63 @@
+# ZDROJ: Spřežení č. 3, rok 1985, strana nezjištěna
+# SOUBOR: 47-1985-05_sprezeni_c_3.pdf
+# PDF_STRANA: 6
+# TISTENA_STRANA: nezjištěna
+# OCR: tesseract-5.3.4 / ces / conf 88.1
+---
+že tvoří tzv. melírování, které může být zaměňováno za tzv. zbarvení roán, chlup
+bílý a pigmentovaný. Tečky jsou toho zbarvení, jaké psu přísluší dle jeho genetic-
+kého založení pro zbarvení arsti. Buč jsou jedné barvy nebo mohou být v oblasti
+černého pigmentu (u black and tan zvířat) černé a v oblasti žlutých odznaků žlu-
+té. Toto tečkování vytváří přítomost dominantního genu T, přičemž jeho recesiv-
+ní alela ponechává bílé plochy čisté.
+Tím byla popsána celá škála možností výskytu nepigmentovaných ploch na těle
+psa, od výskytu malých bílých znaků na prsou až po takřka bílé jedince, kde pig-
+ment je jen v oku 8 ná nosu.
+U některých jinak cele pigmentovaných plemen vlastnících dominantní gen S,
+jsou malé bílé znaky přípustné, u jiných plemen jscu nositelé těchto znaků z cho-
+vu vyřazování. Jelikož výskyt bílých znaků malého rozsahu je do určité míry ne-
+kontrolovatelný (je možnost jeho výskytu všude), je vylučování z chovu nositelů
+těchto malých znaků často ztrátou jiných dobrých znaků nebo vlastností jedince
+pro chov.
+Jeou však ustálená plemena se zbarvením, kde se takřka pravidelně vyskytuje
+tzv. irské zbarvení - bílý límec, bílé spodní části končetin, bílá špička ocasu,
+příp. i lysina na hlavě. Toto zbarvení je možné do určité míry ustálit a označu-
+jeme tento zjev genetickým znakem si, Tento gen je do určíté míry recesivní vůči
+genu S, pro cele pigmentované jedince. Viz. Collie, boston terrier spod.
+Pokračujicí výskyt větších bílých ploch, kdy tyto tvoří více jak 20% a méně
+než 80% povrchu těla psa, pak mluvíme © tzv. pravé strakatosti. Pravá strakatost
+pas (viz mnoho plemen jako forhound, forterrier apod.) je podmiňováns genem st,
+který je recesívní vůčí S, ale nelze tvrdit, že gen S je plně dominantní nad ge-
+nem sP. V potomstvu jedinců S x sP se někdy vyskytují i jedinci s bílými znaky,
+většinou ns prsou A to v různám rozešhu, le nikoliv jedinci s! nebo sb. Když
+však je pigmentované plochy máně než 20%, ozněču jeme takové jedince ze tzv.
+extrémní strakáče a*, kteří se v chovu projevují jeko recesivní vůči všem ostat-
+ním (S, s*, sP). To všek neznamená, že pří spojení dvou heterozygotů Se“ x Se“
+nevznikne možnost výskytu jak jedinců 8, tak i jedinců si, sk i s“. Takže nako-
+nec můžeme stanovit, i když ne úplnou, epistázy (hypostázi) všech zúčastněných
+wenu pro různý rozsah pigmentace povrchu těla pes takto: S (neúplné čomínantn:
+nád s“, sř, e*), s* (neúplně domínantní nád ať 8 a“, ale bez schopnosti vytvářet
+jedince S, sP (neúplně dominantní náč s“) rovněž bez schopnosti vytvářet jedince
+i, 8 nakonec s"“, který je recesívní vůči všem předešlým. Lze ovšem připomenout,
+že selekcí plus variant (jedinců) tzn. víče pígmentovaných nebo méně pigmentovs-=
+ných (minus jedinců), je možná ovlivňovat výskyt rozsahu pigmentace u potomků
+obojím směrem - je možné vytvářet jedince s větším rozsehem pigmentoverých ploch
+nebo obráceně. To je známý zjev z chovů strakátých psů.
+Nebylo by správné nezmínit se o příkladech strakatosti způsobené „vyblednu-
+tím" skvrn za přítomosti různých „zřečujících“ genů u různých bílých plemen psů
+jako např. u špiců, slovenských čuvačů a jim podob. Důkazem © tor, že se v mo-
+he přípačech jedná o přítomnost genu pro strakatost u těchto plemen je, že když
+získají gen pro sytost (např. C) od druhého partnera, získá se potomstvo i stra-
+katé (viz český horský pes). Podobně je to u seslyham terrierů, kdy povolené
+skvrny na hlavě (s“) „vyblednou“ přítomostí genu G a jíných.
+Jako výjímku z normální strakstosti lze označit dvě tzv, skvrnitá (strakaté |
+plemens a to dogu harlekýna a dalmtína. U dogy je způsobena skyrnitost příto-
+mostí dominantního genu WM (merle) £ u dalmatinů součinností genů e" a T (pro
+tečkování - viz výše). I když jsou opticky vlastně strakatí, nepatří do skupiny
+výše popsaných strakatých plemen.
+Je ještě popisován vliv genu W (pro bílé zbarvení) přítomného u bílých
+bullterrierů, kdy takový jedinec spojený s pravým strakáčen (sP) dává všechny
+potomky bílé až na pignemtované hlavy nebo části hlav.
+Strakaté plemena jsou rozšířená po celém světě, je to oblíbené zbarvení
+u mnohe plemen psů,
+František Horák

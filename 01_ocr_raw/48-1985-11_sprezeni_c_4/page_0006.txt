@@ -1,0 +1,54 @@
+# ZDROJ: Spřežení č. 4, rok 1985, strana nezjištěna
+# SOUBOR: 48-1985-11_sprezeni_c_4.pdf
+# PDF_STRANA: 6
+# TISTENA_STRANA: nezjištěna
+# OCR: tesseract-5.3.4 / ces / conf 88.1
+---
+-4 =
+FORTUNA Třeboň=Kopeček, nar. 30.7.81, reg 23/81, čb
+hodnocení: 62 bodů (6x 3) = vyhovující
+chovná (krýt dobře vybarveným psem neplášťového typu, robustnější pos-
+tavy, přísná selekce štěňat)
+maj. P.Elster, Havlíčkovo nám.93/I, 380 01 Dačice
+FUDŽIJAMA Třeboň-Kopeček, nar. 30.7.81, reg 21/81, čb
+hodnocení: 47 bodů (lx 5) -= vyhovující
+chovná (povolen ještě jeden vrh, krýt dokonale vybarveným psem bez
+náznaku melíru a bez teček, u vrhu selekce nemelírovaných štěňat)
+maj. F.Góéci, 951 03 Čeladice 11
+FURKA Třeboň-Kopeček, nar. 30.7.81, reg 24/B1, čb
+hodnocení: 54 bodů (2x 4, 4x 3) - vyhovující
+chovná (krýt pouze plnochrupým psem bez teček a melíru)
+maj. J.Chlum, Tkalcovská 350, 543 01 Vrchlabí s.
+GUARA Třeboň-Kopeček, nar. 8.3.82, reg 28/82, čb
+hodnocení: 49 bodů (1lx 3) - průměrná
+chovná (krýt slabším, dobře vyberveným psem bez melíru s nadbytečných
+teček)
+maj. I.Králová, chate Mileta 152, V.Úpa, 542 22 Pec peS.
+HOKKAIDO Třeboň=Kopeček, nar. 28.7.82, reg 32/82, žb
+hodnocení: 53 bodů (lx 5, lx 4, 2x 3) =- vyhovující
+chovná (povolen 1 pokusný vrh s plnochrupým a sytě pigmentovaným psem)
+maj. F.Janeba, Hokytno 57, 592 31 NoMěsto na Mor.
+psi:
+AKSAS od Jankova kopce, nar. 26.7.83, reg 57/83, žb
+hodnocení: 52 bodů (2x 3) - vyhovující
+chovný (krýt jen dobře vybarvené nemelírovaná a netečkované feny)
+maj. J.Emichel, Náchodská bouda, 543 44 Č.Důl
+ARAGAC Kačabka, nar. 17.7.84, reg 70/84, čb
+hodnocení: 49 bodů (2x 3) = vyhovující
+chovný (nekrýt příliš pigmentované feny)
+maj. JUDr.J.Teryngel, U plynárny 71, 141 00 Praha 4
+ARTISON Severní vítr, nar. 2.5.83, reg 53/83, žb
+hodnocení: 43 body - ideální
+chovný
+maj. P.Kobr, chata Racek 235, 542 21 Pec pob. >
+BACK Lužický hvozd, nar. 15.1.84, reg 39/84, čb
+hodnocení: 47 bodů (lx 3) = průměrný
+chovný ( t menší feny)
+maj. JeZatko, 951 03 Čeladice 65
+FRED Třeboň-Kopeček, nar. 30.7.81, reg 20/81, čb
+hodnocení: 61 bodů (lx 5) - vyhovující
+chovný (krýt jen dobře vybarvené feny)
+maj. S.Sládek, Bratrská 110/I, 377 01 J,Hradec
+Pozn: při bonitaci v Přerově nebyla dokončene bonitace psa GERLACH Třeboň-
+-Kopeček, reg 26/82, kterou je třebs tedy dokončit, -rcl
+Dr Jiří Komárek

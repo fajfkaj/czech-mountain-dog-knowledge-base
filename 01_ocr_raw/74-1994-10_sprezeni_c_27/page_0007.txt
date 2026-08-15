@@ -1,0 +1,34 @@
+# ZDROJ: Spřežení č. 27, rok 1994, strana nezjištěna
+# SOUBOR: 74-1994-10_sprezeni_c_27.pdf
+# PDF_STRANA: 7
+# TISTENA_STRANA: nezjištěna
+# OCR: tesseract-5.3.4 / ces / conf 77.5
+---
+Přehled čerpání | finančních prostředků klub  ČHP za období
+1.1.-15.10, 199
+hotovost pokladny 11.258,50 Kč
+zůstatek na účtu 25.094,79 Kč
+celkem .....«.«+.++««.« 36.353,29 Kč
+14.887,90 Kč
+Výdaje od 1.1. do 15.10.1994
+(E 0 9000 S 0 M 0 000 AC ACN 6 MD SD S O STY PD 0 SY 7 SVÉ O 0) 0 0 0
+vedení účtu u banky 512,-- Kč
+poplatky svazu /členství, pr.původu atd./
+h 3.125,-- Kč
+poháry na klubovou výstavu v Táboře
+1.160,-- Kč
+odměna pro D.Kupkovou za zpracování pr.původu /20,-Kč za ks/
+1.660,-- Kč
+dotace na akce pořádané členy klubu
+400,-- Kč
+cestovné na výborové schůze
+1.336,-= Kč
+míry na bonitace psů 1.130,-- Kč
+dotace pro p.Motejlka za odchov kříženců
+3.021,-- Kč
+režie klubu ČHP /poštovné, kopírování, obálky, pozvánky atd./
+10.766,-- Kč
+výdaje celkem ...... 23.110,-- Kč
+zůstatek v pokladně: hotovost 9.101,60 Kč
+účet 19.029,59 Kč
+CELKEM 28.131,19 Kč ke dni 15.10.1994

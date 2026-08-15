@@ -1,0 +1,64 @@
+# ZDROJ: Spřežení č. 5, rok 1986, strana nezjištěna
+# SOUBOR: 49-1986-06_sprezeni_c_5.pdf
+# PDF_STRANA: 17
+# TISTENA_STRANA: nezjištěna
+# OCR: tesseract-5.3.4 / ces / conf 86.9
+---
+-15 =
+AALBORG Labutí čeka, reg 87/84, čb, 65 cm, 37 ka chovný
+Aal Severní vítr - Atacama Studená-Javořice
+ch: JeŘíha; m: Petr Hanzlík, Kardašova Řečice
+1 bod: klus - Il
+AKELA Labutí řeka; reg 88/84, čb, 63 cm, 44 kg chovný
+omg Severní vítr - Atacama Studená=Javořice
+ch: JaŘíha; m: Robert Čech, Strážné
+4 body: zbarvení plášťové - 2, chůze - 1, klus - 1
+AKLAVIK Labutí řeka, reg 89/84, žb, 64,5 cm, 3 kg chovný
+Aal Severní vítr - Atacama Studená= Javořice
+ch: JeŘíha; m: Ivan Veselič, Teolice
+3 body: povaha agresivní - 1, skus nepravidelný = 1, klus - 1
+(hlava mírně lymfatická)
+ALAM=KUH Labutí řeka, reg 90/84, žb, 64,5 cm, 37,5 kg chovný
+Aal Severní vítr - Atacama Studená-Javoř ice
+ch: JeŘíha; m: Karel Rejhons, Černý Důl
+0 bodů
+ATLAS Studená=Javočice, reg 43/83, čb, 69 cm, 39 kg
+Ararat Třebon-Kopeček - Dikté Třebon=Kopeček
+ch: JoVinkler; m: Vít Švancara, Valdov
+3 body: zbarvení - tečkování, menší plocha skvrn - 2, pigmentace pysků - 1
+(kratší uši, úzký hrudník)
+BARON Severní vítr, reg 12/84, žb, 69,5 cm, 34 kg chovný
+Atlas Studená=Javořice - Alka Faranda
+ch; V.Švancara; m: Horváth, Rychnov
+3 body: zbarvení plášťové, tečkování = 2, ohraničení skvrn - l
+BELL Severní vítr, reg 93/84, čb, 64,5 cm, 37 kg chovný
+Atlas Studená-Javořice - Alka Faranda
+ch: V.Švancara; m: Josef Křivánek, Bohosudov
+1 bod: zbarvení - tečkování - 1
+BERRIO Vlažinka, reg 76/84, čb, 60 cm, 30 kg
+Ganek Třebon=Kopeček - Fortuna Třebon=Kopeček
+ch: P.Elster; m: Jaroslav Koten, Čenkov
+2 body: mohutnost - málo mohutný - 1, pigmentace pysků - 1
+(příliš výrazný stop, slabé tečkování)
+BIG Lužický hvozd, reg 40/84, žb, 65,5 cm, 36 kg chovný
+Aklavik Třebon=Kopeček - Dangeri Třebon=Kopeček ;
+ch: JeBruška; m: Pavel Musil, Meďlešice
+4 body: oči - ektropíkum = 1, chrup - chybí Pl, P4 vlevo dole — 2, zbarvení - malá
+plocha skvrn = 1
+chovný
+chovný
+CAVYK Faranda, reg 81/84, žb 68,5 cm, 40 kg chovný
+Ganek Třebon-Kopeček - Čehooyn Třebon=Kopeček
+ch: D,Kupková; m: Miroslav Motejlek, Bítouchov
+2 body: hlava lymfatická - 1, zbarvení = tečkování - 1
+chovný
+CIRAN Faranda, reg 82/84, žb, 63,5 cm, 31,5 kg
+Ganek Třebon=Kopeček - Čehooyn Třebon=Kopeček
+ch: D.Kupková; m: Václav Kůrka, Černý Důl
+1 bod: zbervení - tečkování - 1
+EIGER Třebon=Kopeček, reg 19/81, žb, 66 cm , chovný
+Aklavik Třebon-Kopeček = Čogolisa Třebon-Kopeček
+ch: KCHČHP; m: Vilém Zachleder, Třebon
+9 bodů: mohutnost = velmi mohutný - 1, hřbet prohnutý - 1, hrudník příliš hluboký
+= 1, srst zkadeřená - 1, zadní končetiny - 1, postoj zadních končetin
+kravský = 2, chůze = 1, klus - vpředu široký, vzadu úzký - 1

@@ -1,0 +1,7 @@
+# ZDROJ: Spřežení č. 2, rok 1984, strana nezjištěna
+# SOUBOR: 46-1984-12_zpravodaj_c_2.pdf
+# PDF_STRANA: 2
+# TISTENA_STRANA: nezjištěna
+# OCR: vision (AI dočtení, tesseract conf 38.3 pod prahem; prázdná strana - jen skvrny od skenu, bez tištěného textu)
+---
+[prázdná strana]

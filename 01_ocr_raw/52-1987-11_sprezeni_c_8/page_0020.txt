@@ -1,0 +1,13 @@
+# ZDROJ: Spřežení č. 8, rok 1987, strana nezjištěna
+# SOUBOR: 52-1987-11_sprezeni_c_8.pdf
+# PDF_STRANA: 20
+# TISTENA_STRANA: nezjištěna
+# OCR: tesseract-5.3.4 / ces / conf 80.2
+---
+Obr.č. 2 « Zápřah psů wedlo sobe (GANG-HITCH)
+LEADER
+„centrální fanko
+pomocné (krční) lanko
+postroj pro
+zápřah psů
+vodle sebe

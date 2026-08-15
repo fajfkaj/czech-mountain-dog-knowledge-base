@@ -1,0 +1,26 @@
+# ZDROJ: Spřežení č. 2, rok 1984, strana nezjištěna
+# SOUBOR: 46-1984-12_zpravodaj_c_2.pdf
+# PDF_STRANA: 1
+# TISTENA_STRANA: nezjištěna
+# OCR: vision (AI dočtení, tesseract conf 70.5 pod prahem; titulní strana - logo, nadpis, fotografie s popiskem, obsah čísla)
+---
+ČSCH
+
+ZPRAVODAJ
+
+Klubu chovatelů českého horského psa
+
+č.2                                          prosinec 1984
+
+foto V.Švancara
+
+OBSAH:
+Dědičnost zbarvení srsti českého horského psa
+Umíte spočítat zuby svému psovi?
+Půjde český horský pes do NDR?   Vědí o nás?
+Termíny výstav v r.1985
+Proposice na přebory tažných psů  (I.mistrovství ČSSR)
+
+Iditarod Trail Race Route
+III.ročník přejezdu Českomoravské vrchoviny
+Ohlasy čtenářů

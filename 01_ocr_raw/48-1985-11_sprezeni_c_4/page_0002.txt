@@ -1,0 +1,6 @@
+# ZDROJ: Spřežení č. 4, rok 1985, strana nezjištěna
+# SOUBOR: 48-1985-11_sprezeni_c_4.pdf
+# PDF_STRANA: 2
+# TISTENA_STRANA: nezjištěna
+# OCR: tesseract-5.3.4 / ces / conf 0.0
+---

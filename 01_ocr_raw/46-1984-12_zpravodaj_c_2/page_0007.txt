@@ -1,0 +1,57 @@
+# ZDROJ: Spřežení č. 2, rok 1984, s. 5
+# SOUBOR: 46-1984-12_zpravodaj_c_2.pdf
+# PDF_STRANA: 7
+# TISTENA_STRANA: 5
+# OCR: vision (AI dočtení, tesseract conf 84.6 pod prahem; dokončení článku o dědičnosti zbarvení + nový článek o chrupu psa s anatomickými nákresy chrupu a skusu)
+---
+vené plochy těla se započítávají pouze tyto sytě černé skvrny. Do zbarve-
+né plochy se samozřejmě započítává i zbarvená hlava.
+
+Také si je třeba uvědomit, že rozepsané štěpné poměry platí až při
+statisticky průkazném počtu štěňat. V konkrétním vrhu se tedy nemusí obje-
+vit všechny teoreticky odvozené typy zbarvení, nemůže tam však být žádné
+jiné navíc.
+
+V dalších číslech pokračování: tečkování bílých ploch
+                                sytost žlutého zbarvení
+                                pálení žlutých jedinců
+
+                                                        Dana Kupková
+
+
+--------------------------------------------------------------------
+                    UMÍTE SPOČÍTAT ZUBY SVÉMU PSOVI?
+--------------------------------------------------------------------
+
+    Chrup dospělého psa se skládá ze 42 zubů, v mléčném chrupu štěňat je
+28 zubů. Zubní vzorec dospělého psa je
+
+                              3   1   4   2
+                              3   1   4   3
+
+což znamená, že v každé polovině obou čelistí jsou 3 řezáky, 1 špičák
+a 4 zuby třenovní (premoláry). V polovině dolní čelisti jsou 3 stoličky
+(moláry) a v horní čelisti 2 stoličky. První stolička M1 v dolní čelisti
+a premolár P4 v horní čelisti sousedící se stoličkou jsou zvlášť mohutně
+vyvinuty a říká se jim trháky.
+
+    Zuby se číslují a označují takto: Řezáky se číslují od středu čelisti
+ke špičáku jako I1 (klíšťky), I2 (středáky), I3 (krajáky). Špičák se ozna-
+čuje C. Premoláry se nejčastěji číslují odpředu dozadu jako P1, P2, P3, P4,
+takže se špičákem sousedí P1 a se stoličkou P4. Moláry (stoličky) se čís-
+lují odpředu dozadu jako M1, M2, M3. V některé kynologické literatuře se
+
+[diagram: nákres chrupu psa - horní a dolní čelist s očíslovanými zuby (C, I, P, H)]
+horní čelist
+dolní čelist
+
+Skus:
+[diagram: čtyři nákresy skusu čelistí]
+nůžkový    kleštový    podkus    předkus
+
+[diagram: nákres dolní čelisti se zuby označenými M, P, C, I]
+dolní čelist
+
+Chrup psa:
+I - řezáky (incisivi)   C - špičáky (canini)   P - třenáky (premoláry)
+M - stoličky (moláry)

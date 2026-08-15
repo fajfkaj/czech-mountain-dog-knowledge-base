@@ -1,0 +1,58 @@
+# ZDROJ: Spřežení č. 21, rok 1992, strana nezjištěna
+# SOUBOR: 66-1992-07_sprezeni_c_21.pdf
+# PDF_STRANA: 14
+# TISTENA_STRANA: nezjištěna
+# OCR: tesseract-5.3.4 / ces / conf 88.8
+---
+- 11-
+'
+BARD Netolická obora, 450/90 - velmi dobrý
+Arekus Sněžník - Athéna Hradecký lev
+Martin Kyncl, Ustí nad Labem
+- chybí Pl oboustranně dole, levá zadní vytočená
+CYRIL Už jedou, 277/83 - velmi dobrý
+Artison Severní vítr - Cabina Faranda
+Ivo Rašín, Mnichovo Hradiště
+- levý loket vytočený, vytočená levá zacní končetina
+ADIRONDAK Stráž nad Nežárkou, 167/86 - velmi dobrý
+derrio z Vlažinky - Asko Labutí řeka
+Jan Sanovec, Dobřichovice
+- těžší hlava, otevřené koutky tlamy, měkčí nadprstí, uvolněné lokty, vyto-
+čená levá zadní
+ARIX Blanský les, 266/88 - velmi dobrý
+Eiger Třeboň-Kopeček - Axa z Vlažinky
+Miroslav Kajan, Třeboň
+- chybí oboustranně P4 dole, háček na ocase, náznak tečkování, nejistá povaha
+ANDY Bublavské vodopády, 493/90 - dobrý
+Arekus Sněžník - Alfa Zlatá trubka
+Aranka Červená, Bublava
+- volné lokty, uvolněná kolena, vytočené zadní tlapky
+psi - třída vítězů
+DAR Faranda, 112/36 - výborný 1.
+Aalborg Labutí řeka - Cácora řaranda vítěz třídy
+Radko Loučka, Královice C.A.C.
+Klubový vítěz
+8ROK Údolí Kačáku, 214/87 - výborný 2.
+dig Lužický hvozd - Cedrana Faranda Rez C.A.C.
+Ivan Konečný, Jihlava
+- otevřené koutky tlamy
+feny - třída mladých
+BELA Bublavské vodopády, 547/91 - výborná 1.
+Arekus Sněžník - Alfa Zlatá trubka vítěz třídy
+Pavel Buršík, Třebuz
+CHÁJA  Faranda, 554/91 - výborná 2.
+Arekus Sněžník - Dája řaranda
+Milan Vodák, Soběslav
+- poněkud více přestavěná
+GINA Už jedou, 527/91 - výborná 3.
+Dar Faranda - Cabina faranda
+Vojta Pekárek, Praha
+- poněkud těžší hlava, mírně uvolněné vezy
+CHAJDA  Faranda, 555/91 - velmi doorá 4.
+Arekus Sněžník - Dája Faranca
+Dr WolfganG Zorner, Ulrichsoerg, Rakousko
+- nepravidelný skus
+ASKA od Prosetické stráně, 542/91 - velmi dobrá
+dell Severní vítr - Ada z Podkrkonošské samoty
+Jitka Čechurová, Blatná
+- uvolněné vazy, bílá barva není Čistá

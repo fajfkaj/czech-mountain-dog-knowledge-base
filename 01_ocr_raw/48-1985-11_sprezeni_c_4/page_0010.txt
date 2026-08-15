@@ -1,0 +1,58 @@
+# ZDROJ: Spřežení č. 4, rok 1985, strana nezjištěna
+# SOUBOR: 48-1985-11_sprezeni_c_4.pdf
+# PDF_STRANA: 10
+# TISTENA_STRANA: nezjištěna
+# OCR: tesseract-5.3.4 / ces / conf 86.3
+---
+-8 -
+CAVYK Faranda F3, žb (Ganek T-K — Čehooyn T-k)
+velmi dobrý 5.
+M.Motejlek, Bítouchov
+13 měsíční pes, poněkud vyšší postavy, poněkud kratší v trupu, výrazně dlou-
+hé ucho na pěkně utvářené hlavě, poněkud otevřenější hnědé oko, nosní partie
+perfektní s mírně vyjádřeným stopem, hrudník vpředu méně klenutý, páteř je
+rovná, strmější zadní končetiny, dynamika zadních končetin neurovnaná, Na
+základní žlutobílé barvě je tmavé pálení a tečkování,
+BERRIO Vlažínka F3, čb (Ganek T-K = Fortuna T-K)
+velmi dobrý 6.
+J.Koten, Čenkov
+14 měsíční pes, dobře vybarvený, výborný pigment, struktura srsti poněkud
+chudší, lebka lehčího typu s výraznějším stopem, nepatrně měkčí tlapy před-
+ních končetin, hrudník dostatečně hluboký ale poněkud užší, bederní krajína
+chudá, hřbet mírně pronesený, ani při pohybu se nevyrovnává, ocas správně na-
+sazen, levý přední loket vybočený, zadní končetiny strmější a postaveny ze-
+široka. Výrazně měkčí povaba, není však agresivní,
+třída otevřená = psi
+ABTISON Severní vítr F4, žb (Ganek T-K - Alka Faranda)
+"© výborný 1., vítěz třídy otevřené, oblastní vítěz,
+Klubový vítěz
+P.Kobr, Pec p.5.
+2 letý pes, dobře vybarvený, dobře stavěný v celém těle, výborná dynamika
+pohybu. Ideální představitel svého plemene, dobře ovladatelný,
+BACK Lušický hvozd F3, čb (Aklavik T-K - Dangeri T-K)
+výborný 2.
+J.Zaťko, Čeladice
+22 měsíční pes, ušlechtilá hlava, světlejší- oko, tečkování na hrudníku a
+končetinách, dobře stavěn v celém těle. Pes je ostřejší, není však vyloženě
+agresivní při posuzování,
+AKSAS od Jankova kopce F3, žb (Ganek T-K - Furka T=K)
+výborný 3.
+J.Émichel, Č.Důl
+2 letý pes, výborně vybarvený, ušlechtilá hlava, dobře stavěný v celém tě-
+le, až na nepartně měkčí levou tlapku, páteř není ideálně rovná, ani při bě-
+hu se nevyrovnává. Pes je dobře ovladatelný.
+ALBION Vlažinka F3;, čb (Arárat T-K - Fortuna TAY
+velmi dobrý 4
+L.Chalupa, Sedlejov
+3 letý pes, dobře vybarvený, tečkování na končetinách a hrudníku, schází P2
+vlevo dole, celkem dobře stavěný, obvod hrudníku je menší, zaúhlení končetin
+odpovídající, levá zadní lehce vytočená, temperament odpovídající, dobře
+ovladatelný, '
+OBRLACH Třeboň-Kopeček ©- nedostavil se
+třída vítězů - psi
+FRED Třeboň-Kopeček F2, čb (Aklavik T-K - Anapurna T=K)
+výborný 1., vítěs třídy vítězů "©
+S.Sládek, J Hradec
+4 letý pes, ušlechtilá hlava, učho není ideálně přitaženo k lebce, chybí Pl
+vpravo dole, vyniká hrudník, překrásně stavěné končetiny, úynantke pohybu
+dobrá, pes je ovladatelný.

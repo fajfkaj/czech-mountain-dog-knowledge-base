@@ -1,0 +1,55 @@
+# ZDROJ: Spřežení č. 4, rok 1985, strana nezjištěna
+# SOUBOR: 48-1985-11_sprezeni_c_4.pdf
+# PDF_STRANA: 5
+# TISTENA_STRANA: nezjištěna
+# OCR: tesseract-5.3.4 / ces / conf 87.7
+---
+bodovacím systémemi
+40 - 50 bodů | (bez známky 3) - ideální
+-= 60 bodů © (nejvýše lx 3) - průměrný
+- 80 bodů | (nejvýše 1x 5) - vyhovující
+= 120 bodů = nevyhovující
+s vylučující vadou (víz standard) - vyloučený
+Jedinci, kteří získají nejvýše 80 bodů, mohou být uznáni jako chovní. Není
+to však automatické. Pří stanovení chovnosti je nutno navíc přihlédnout k zá-
+važnosti některých vad, k jejich opakování v chovu a k dřívějším zkušenostem.
+Úplný bonitační řád ČHP bude zveřejněn v některém z příštích čísel „Spřežení"
+po jeho definitivním schválení.
+V následujícím seznamu jsou uvedeni jen psi a feny, kterým byla přizná-
+na chovnost na bonitacích v Přerově 9.6.89 a v Č.Budějovicích 13.10.85, buď
+bez výhrad nebo s určitým omezením,
+feny:
+ADELÍNA od Jankova kopce, nar. 26.7.83, reg 60/83, čb
+hodnocení: 43 body - ideální :
+chovná (bez výhrad)
+maj. P.Janalík, Valteřická 1065, 543 01 Vrchlabí
+ANCOHUMA Vlašinka, nar. 11.7.83, reg 50/83, čb
+hodnocení: 54 bodů (4x 3) = vyhovující
+chovná (doporučení: krýt vyšším psem bez pláště)
+maje B.Krákora, Chlum 132, 382 03 Křemže
+ARACAJŮ Kačabka, nar. 17.7.84, reg 71/84, žb
+hodnocení: 51 bodů (1x 3) - průměrná
+chovná (bez výhrad)
+maj H Lang, Pod kopcem 403, 503 41 H.Králové 7
+ARTANA Kačabka, ner. 17.7.B4, reg 74/84, žb
+hodnocení: 53 bodů (4x 3) -= vyhovující
+chovná (krýt dobře vybarvenými psy) 8
+maj. PoHeidenreich, OPV 27/A, 320 02 Plzen-Bory
+AŠABERI Lužický hvozd, nar. 1.4.83, reg 35/83, žb
+hodnocení: 68 bodů (2x 4, 5x 3) - vyhovující
+chovná (povolen 1 pokusný vrh s plnochrupým, dobře pigmentovaným psem
+pokud možno plášťového typu, přísná selekce štěnat)
+maj. M.Šidlík, Horská 1261, 431 91 Vejprty
+ATACAMÁ Studená-Javořice, nar. 17.3.83, reg 83/85, čb
+hodnocení: 57 bodů (5x 3) -= vyhovující
+chovná paže dobře vybarvenými psy bez melíru 4 nadbytečných teček)
+maj. JeŘíha, Pod vodojemem 587, 394 70 Kamenice n.L«
+BESSY Lužický hvožd, nar. 151.84, reg 41/84, čb
+hodnocení: 47 bodů - ideální
+chovná
+maj. J.Halama, Horova 1101, 790 00 Jeseník
+BORKA Faranda, nar..30.11.83, reg 64/83, žb
+hodnocení: 48 bodů (1x 5) - vyhovující
+chovná (krýt pouze čistě vybarvenými psy bez melíru 8 přebytečných te-
+ček)
+maj. J.Krejčířová, 788 05 Libina 214

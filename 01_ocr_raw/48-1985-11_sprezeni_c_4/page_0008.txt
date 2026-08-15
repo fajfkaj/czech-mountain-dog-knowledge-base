@@ -1,0 +1,53 @@
+# ZDROJ: Spřežení č. 4, rok 1985, strana nezjištěna
+# SOUBOR: 48-1985-11_sprezeni_c_4.pdf
+# PDF_STRANA: 8
+# TISTENA_STRANA: nezjištěna
+# OCR: tesseract-5.3.4 / ces / conf 84.3
+---
+řída ots -
+BESSI Lužický hyvozd F3, čb, JoHulama, Jeseník V 1,VT,OV
+BORKA Faranda F3, žb, Jo.Krejčířová, Libina VD
+FUDŽIJAMA Třeboň-Kopeček F2, čb, F-oGóci, Čeladice VD
+ADELÍNA od Jankova kopce nedostavila se
+PRAHA 12.10.85 | speciální výstave nově šlechtěných čsl. plemen
+posuzoval: Ing Jean Findeje
+Výstava byla umístěna v prostoru Holešovícké tržnice. V jednom pavilonu
+byli kromě dosud neužnaných čel. plemen i delmatini, buldoci, buldočci a mop-
+si, kteří tam měli svou klubovou speciálku. Před pavilonem od časného rána
+stála nekonečná fronta pražanů, Uvnitř bylo nabito. Mnoho lidí se sajímalo “
+o naše plemeno, odpovídali jsme na spoustu dotazů, Psy si fotografovali ama-
+téři i profesionálové z řad novinářů, Akce byla výbornou propagací plemene,
+ale značně náročná jak pro psy, tak pro vystavovatele, A to většina z nich
+jela druhý den ještě na výstavu do Č.Budějovic.
+Všechna nově tvořená čsl, plemena, kromě čsl, vlčáka, posuzoval Ing
+Findeje. Čípsi přišli na řadu až jako poslední, i když v rozpisu na tabuli
+v kruhu bylo uvedeno jiné pořadí. Posuzování v ostatních kruzích v tu dobu
+už končilo, připravovaly se závěrečné soutěže a přehlídky. Vzhledem k časo=
+vé tísni pak po dlouhém čekání proběhlo hodnocení ČHP velice rychle, Snad
+proto se stalo, že Ing Findejs u čtyř posuzovaných jedinců přehlédl chybějí-
+cí zub. (Albion, Cabina, Brevent, Furka)
+třída mladých - psí
+AALBORG Labutí řeka F4, čb, P.Hanzlík, K.Řečice V 1,VT
+ALAM=KUCH Labutí řeka F4, žb, K.Rejhons, Č.Dů) v2
+ARAGAC Kačabka F4, čb, J.Teryngel, Praha Vv3
+ČIRAN Faranda F3, žb, V.Kůrka, Č.Důl VD 4
+ČAVYK Faranda F3, žb, M,Motejlek, Bítouchov VD 5
+BERRIO Vlažinka F3, čb, J.Koten, Čenkov VD 6
+: |
+křída otovřená - psi :
+ARTISON Severní vítr F4, žb, PoKobr, Pec p.$. V 2,wT |
+GERLACH Třeboň-Kopeček F3, žb, JoMikáska, Vrchlabí v2 |
+AKSAS od Jankova kopce F3, žb, J.Emichel, Č.Důl v3
+ALBION Vlažinka F3, čb, L.Chalupa, Sedlejov VD 4 |
+třída mladých - feny “"
+CÁCORA Faranda F3, žb, Kupkovi, Slapy u TA V 1,VT
+CABINA Faranda F3, žb, E.Loučková, Kuří v 2
+BREVÉNT Vlažinke F$i, čb, M.Holeček, Police n.l. Vv3
+řída otevř -£
+GUARA Třeboň-Kopeček F3, čb, I.Králová, Pec p.S. V 1,VT
+FORTUNA Třebon-Kopeček F2, čb, P.Eleter, Dačice v2
+FURKA Třebon=Kopaček F2, čb, J.Chlum, Vrohlabí v39
+AGAMA Faranda nedostavila se
+BALTRA Studená-Javořice nedostavila se
+Vysvětlivky: VN - velmi nadějný, V - výborný, VD - velmi dobrý, D = dobrý,
+VT - vítěz třídy, OV = oblastní vítěz

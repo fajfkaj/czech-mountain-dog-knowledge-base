@@ -1,0 +1,86 @@
+# ZDROJ: Spřežení č. 27, rok 1994, strana nezjištěna
+# SOUBOR: 74-1994-10_sprezeni_c_27.pdf
+# PDF_STRANA: 3
+# TISTENA_STRANA: nezjištěna
+# OCR: tesseract-5.3.4 / ces / conf 84.6
+---
+Oficiální
+Termínový kalendář 1994-1995
+ČESKÉ ZÁVODY na kárách - sprint
+B,- 9.10.
+29,- 30.10,
+5,- 6.11.
+12,- 13.11.
+19,- 20.11,
+26,- 27.11.
+3,- 4.12.
+10,- 11.12.
+SADSKÁ
+LEDENICE
+KONÁŘÍ VÍŽKA
+L.Pečená, Tlustovousy 3, 250 82 Úvaly, tel. 02/9971294
+K.Petroušek, A.Kříže 30, 370 06 České Budějovice, 038/879165
+J Křivánek, Revoluční 48, 417 43 Unčín, 047/5263247
+J.Mikáska ml, Horská 242, 543 02 Vrchlabí IV., 0438/21374
+Vít Hřebíček, Nedakonice 428, 687 38 okr.Uh.Hradiště
+M.Stejskal, 503 12 Všestary 64
+J,Souček, Žirecká Podstráň 49, Dvůr Králové n.l., 0437/4918
+M.Mikolášek, 394 61 Božejov 171
+V.Heller, Švabinského 553, 344 01 Domažlice, 0189/5407
+Š.Lacko, Škvořetice 1, 387 32 Sedlice
+R.Bláha, Na úhoru 9, 318 03 Plzeň
+ČESKÉ ZÁVODY na sněhu, pohárové - sprint
+9- 11. Za
+11.- 12. Ja
+18,- 19. 2
+©
+KOMÁŘÍ VÍŽKA
+VRCHLABÍ
+POHORSKÁ VES
+KOMÁŘÍ VÍŽKA Náhr.
+POHOŘANY
+EDUARD U JÁCHYNOVA
+DĚČÍNSKÝ SNĚŽNÍK ČR
+HARRACHOV OMR
+MOLDAVA
+TŘI STUDNÉ
+print ESDRA
+print FISTC
+KONÁŘÍ VÍŽKA
+KONÁŘÍ VÍŽKA
+PŘEBUZ
+<
+UX MI M 0 dj. K3 Ka K já Ko BG S GS K3 ŠÍ
+POHORSKÁ VES
+JIZERSKÉ HORY - Jizerka
+JESENÍKY - RAMZOVÁ
+SYŘENOV MR
+DOMAŽLICE
+D PISTC
+3x30km LEDOVÁ JÍZDA - Žacléř
+100kn DOMAŽLICE 100KM
+čist. NORDWALD
+J Křivánek, Revoluční 48, 417 43 Unčín, 047/5263247
+J.Mikáska ml, Horská 242, 543 02 Vrchlabí IV., 0438/21374
+J.Ochozka, Česká 52, 370 01 České Budějovice, 038/33979
+J Křivánek, Revoluční 48, 417 43 Unčín, 047/5263247
+I.zdráhalová, Pohořany 32, Olomouc, 772 00
+D.Šindelářová, Nádražní 286, 363 01 Ostrov n.Ohří
+D.Nešněrová, U křížku 28, PBOX 7, Děčín XX.
+H.Sommerová, 512 46 Harrachov 226, 0432/929193
+F.Dolejš, 417 62 Rtyně n.B. 1, 0417/96758
+V.Fousek, Tři studně 10, 592 04 Fryšava
+FRANCIE, SERRE CHEVALIERE
+ITALIE, AURONZO
+J Křivánek, Revoluční 48, 417 43 Unčín, 047/5263247
+J.Křivánek, Revoluční 48, 417 43 Unčín, 047/5263247
+L.Smolík, B.Smetany 1755, 358 01 Kraslice
+J.0Ochozka, Česká 52, 370 01 České Budějovice, 038/33979
+J.Šatava, V aleji 44, 466 01 Jablonec n.N.
+ZDiblík, Hrdinů 292, 790 55 Vidnava, 0645/67124
+J.Beneš, Čelakovského 82, 506 01 Jičín, 0433/21126
+V.Heller, Švabinského 553, 344 01 Domažlice, 0189/5407
+NEMECKO, SCHONECK
+J.Souček, Žirecká Podstráň 49, Dvůr Králové n.L., 0437/4918
+V.Heller, Švabinského 553, 344 01 Domažlice, 0189/5407
+Peter Prinnz, 3970 Lautebach 23, Austria, 0043/28583354

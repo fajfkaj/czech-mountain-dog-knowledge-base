@@ -1,0 +1,50 @@
+# ZDROJ: Spřežení č. 33, rok 1996, strana nezjištěna
+# SOUBOR: 80-1996-01_sprezeni_c_33.pdf
+# PDF_STRANA: 7
+# TISTENA_STRANA: nezjištěna
+# OCR: tesseract-5.3.4 / ces / conf 86.8
+---
+.
+VĚČNÝ STUDENT 12.05.1995 5/0 F10
+Leona Doseldová, Pražská 83, 500 02 Hradec Králové
+REG.703/93 Aram z Hradního ochozu, čb, F6
+REG.695/92 Ailin z Vodáckého hnízda, žb, F9
+N Reg./CHP
+p 873. ALBERT čb £ 874. AGA čb
+E 875 AJA čb
+f 876 ALFA čb
+POLEDNÍK 13.05.1995 2/0 F9
+Jaroslav Čumpelík, 543 61 Kunčice nad Labem 108
+REG.198/87 Blesk Už jedou, žb, F5
+REG.517/91 Arana Zemanex, žb, F8
+N Reg./CHP
+1 877. EDINA žb
+f 878. EDITA žb
+OD HAJNÝHO 24.05.1995 6/0 F10
+Pavel Heřman, Bystrá nad Jizerou 33, 512 05 Háje nad Jiz.
+REG.768/93 Dárek od Fíka, žb, F9
+REG.356/89 Ariel od Fíka, žb, F7
+N Reg./CHP
+p 879 CAR žb f£ 881 CARIE žb
+p. 880 CZECH žb f 882  CERKA žb
+f 883 CINDY žb
+f 884 | COURALKA žb
+VERA-LIBIŠ 04.06.1995 9/1 F9
+Rudolf Šrámek, Kojetická 979, 277 11 Neratovice
+REG.506/91 Bey Údolí Duhového potoka, čb, F8
+REG.362/89 | Asja Údolí Duhového potoka, čb, F6
+N Reg./CHP
+p 885 BACK čb f 888. BAARA žb
+p 886 BAD čb f 889 BRITA čb
+p 887 BOB žb
+PŘEŠTICKÁ LUKA 05.06.1995 7/0 F8
+p
+p
+p
+František Kónig, Husova 983, 334 01 Přešice
+REG.329/88 Alakanuk Pátý dráp, žb, F7
+REG.568/91 Ange Lažanské údolí, žb, F7
+N Reg./CHP
+890  ALBODIE žb : £ 893. AKINA žb
+891 ALBY žb f 894 ANGIE žb
+892  ARNY žb

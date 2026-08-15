@@ -1,0 +1,59 @@
+# ZDROJ: Spřežení č. 21, rok 1992, strana nezjištěna
+# SOUBOR: 66-1992-07_sprezeni_c_21.pdf
+# PDF_STRANA: 15
+# TISTENA_STRANA: nezjištěna
+# OCR: tesseract-5.3.4 / ces / conf 91.4
+---
+s: 2
+ALBA Lažanské údolí, 567/91 - velmi dobrá
+Arekus Sněžník - Alka Blanský les
+Miloslav Straka, Ždár nad Sázavou
+- chybí P3 vlevo nahoře, uvolněný hřbet, otevřená srst
+ANGE Lažanské údolí, 568/91 - velmi dobrá
+Arekus Sněžník - Alka Blanský les
+Milan Ševčík, Defurovy Lažany
+- chybí P3 vpravo dole, uvolněné vazy
+CÁCORA od Nevěřícího Tomáše, 576/91 - dobrá
+Boras Pradědova louka - Arvika Stráž nad Nežárkou
+Vanda a Petr Kmochovi, Děčín á
+- plášt bez límce, jinak bez vady
+feny - třída otevřená
+ALIMA na Loupežníku, 459/90 - výborná 1.
+Arekus Sněžník - Etna Faranda vítěz třídy
+Aranka Červená, Bublava C.A.C.
+Klubový vítěz
+BETTY Údolí Duhového potoka, 510/91 - výborná 2.
+Blesk Jasná záře - Ditké od Jankova kopce
+Andrea Samková, Hodkovice n.M.
+FARKA Už jedou, 489/90 - výborná 3.
+Dar Faranda - Cabina Faranda
+Thomas Gut, Frauenau, SRN
+HVĚZDA Faranda, 497/90 - výborná 4.
+Arekus Sněžník - Cácora Faranda
+Rudolf Klein, Julbach, Rakousko
+BESSY Údolí duhového potoka, 509/91 - výborná
+Bles Jasná záře - Ditke od Jankova kopce
+Jiří Kosař, Záchlumí
+ALKA  Humpolecký dvůr, 382/89 - výborná
+Benjamin Velká závěj - Eda Faranda
+Růžena Petáková, Třeboň
+- chybí PL vpravo dole
+GÁBINA Faranda, 324/88 - výborná
+Alam-Kuh Labutí řeka - Dája Faranda
+Martina Kostková, České Budějovice
+EKRIS  Ovědada, 406/89 - výborná
+Dry Severní vítr - Adhara od Bublajícího potůčku
+Martina Kostková, České Budějovice
+- hrubší konstituce
+ASJA Údolí Duhového potoka, 362/89 - výborná
+Akela Labutí řeka - Ditke od Jankova kopce
+Rudolf Šrámek, Neratovice
+- zkadeřená srst na zádi
+AIMI Údolí duhového potoka, 360/89 - velmi dobrá
+Akela Labutí řeka - Ditke od Jankova kopce
+Ivo Rašín, Mnichovo Hradiště
+- hrubší konstituce
+ARNIKA od Fíka, 357/89 - velmi dobrá
+Akela na Mělích - Ela Faranda
+Jaroslav Růžička, Loužnice
+- hrubá konstituce, samčí výraz

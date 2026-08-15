@@ -1,0 +1,110 @@
+# ZDROJ: Spřežení č. 16, rok 1991, strana nezjištěna
+# SOUBOR: 60-1991-05_sprezeni_c_16.pdf
+# PDF_STRANA: 4
+# TISTENA_STRANA: nezjištěna
+# OCR: tesseract-5.3.4 / ces / conf 85.4
+---
+CYRIL Už jedou, reg.277/88, Ivo Rašín, Mnich. Hradiště
+AGBAR z Panského ostrova, reg.399/89, Pavel Votrubec, M.Skála
+AREKUS Sněžník, reg.251/88, Miroslav Redlich, Krásná
+EDEN Už jedou, reg«414/89, Zdeněk Holub, Praha
+BENNY z Milety, reg«150/86, Ing Zdeněk Reichl, Bohdíkov
+ERIX Ovědada, reg.404/89, Ivan Polák,
+ERGO Ovědada, reg.403/89, V+J.Šenovi,
+Hut
+Čes.lípe
+ATERNAT Bo ňeznáma, reg.375/89, Silvie Fuksová, Mikulovice
+ATOL Žlutá trojka, reg.397/89, Viktoria Katynska,
+Žilina
+ANDY Jahodovka, reg.423/89, Karel Palička, Karolínke
+ADIRONDAK Stráž nad Nežárkou, reg.167/86, Jan Šanovec, Dobřichove
+BENJAMIN Velká závěj, reg.126/86, Jindřich Vandas, Nečín
+FIN Faranda, reg.318/88, Jindřich Vandas, Nečín
+CAJK Už jedou, reg.274/88, Ivan dy év Bernartice u Javorníka
+obáňová, Strmilov
+BARRY Velká závěj, reg.125/86, Hana
+psi - třída vítězů
+9k DAR Faranda, reg.112/86, Radko Loučka, Královice
+BROK Údolí Kačáku, reg.2l14/87, Ivan Konečný, Jihlava
+feny - třída dorostu
+ALFA z Deštivého kopce, reg.491/90, Libor Kožíšek, Oves.Kladruby
+HVĚZDA Faranda, reg.497/90, Rudolf Klein, Rakousko
+FÁMA Už jedou, reg.488/90, Jan
+ovec, Dobřichovice
+AJA Českohorská krása, reg.469/90, Zuzana Filipčuková, Jeseník
+FARKA Už jedou, reg.489/90, Thomas Gut, SRN
+feny - třída mladých
+ALIMA na Loupežníku, reg.459/90, Aranka Červená
+BELINDA od Nevěřícího Tomáše, reg.448/90, Vlad.
+AIBARA Zimní sen, reg.439/90, Josef Šulc, Sobotka
+ATIMA na Loupežníku, reg.461/90, Pavel Kvapil, Krásná
+BAITA Netolická obora, reg.452/90, Jiří Novotný, Čes.Lípa
+feny - třída otevřená
+Bublava
+Žalud, Podlásky
+ALKA od Čertovy zdi, reg.366/89, Josef Erb, Osečná
+AJKA od
+Čertovy zdí, reg.365/89, Josef Erb, Osečná
+ATHÉNA Hradecký lev, reg.158/86, H+J.Matějekovi, Netolice
+AINY Údolí Duhového potoka, reg.360/89, Ivo Rašín, MnicheHradiště
+FANY Farenda, reg.320/88, Zbyšek Poláček, Uhříněves
+AJKA Jahodovka, reg.425/89, Jan Kašpar, Boží Dar
+ADANA Podcesný mlýn, reg.119/86, Jindřich Vavříček, Staré Hamry
+ETNA Faranda, reg.209/87, Miroslav Redlich, Krásná
+AJASKÍMA Pátý dráp, reg.331/88, David Harvan, Plzeň
+AMAIPÓ
+Do neznáma, reg.376/89, Zdeněk Reichl, Bohdíkov
+APOLA od Fíka, reg.355/89, Jan Jirák, Čes.Budějovice
+EKRIS Ovědada,“reg.406/89, Martina Kostková, Čes Budějovice
+(ALKA Humpolecký dvůr, reg.382/89, Růžena Petáková, Hrachoviště
+GALINA Faranda, reg.325/88, Miloslav Straka, Žd
+ASTA Údolí Kačáku, reg.173/86, Pavla Ženíšková, Strašín
+Poledník, reg.352/89, Stanislav Jebavý, Nový Dům
+9k GITA Faranda, reg.327/88, Jindřich Vandas, Nečín
+CERKA Už jedou, reg.279/88, Jan Kubík,
+Čes.Bělá
+ár nad Sázavou
+EIRA Ovědada, reg.405/89, Antonín Matoušek, Provodín
+ARNIKA od Fíka, reg.357/89, Jaroslav Růžička, Loužnice
+ELA Faranda, reg.207/87, Marcela Růžičková, Loužnice
+ELZA Už jedou, reg.419/89, Vít Procházka, Sadské
+ELITA Už jedou, reg.416/89, Miroslav Zelenský, Pavlica
+Le
+Sa <<<<ggt++W
+nedostavil se
+monorchid
+Y 2,
+VD
+nedostavil se
+1,VT,CAC
+sdj““g“3gs8
+V 1,VT,CAC,KV
+nedostavil se
+N
+nedostavila se
+VN
+VN
+nedostavila
+nedostavila
+D
+VD +
+V 1,VT
+86
+se
+VD
+V
+V 4.
+nedostavila
+V
+VD
+VD
+VD
+nedostavila se
+nedostavila se
+86
+„VT,CAC,KV
+WH
+.*
+hm
+.
+nedostavila se

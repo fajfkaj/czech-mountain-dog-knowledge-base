@@ -1,0 +1,46 @@
+# ZDROJ: Spřežení č. 33, rok 1996, strana nezjištěna
+# SOUBOR: 80-1996-01_sprezeni_c_33.pdf
+# PDF_STRANA: 8
+# TISTENA_STRANA: nezjištěna
+# OCR: tesseract-5.3.4 / ces / conf 84.8
+---
+OD MUCHMŮRKY 29.05.1995 7/4 F8
+Milan Vodák, U Vápenky 546/III, 392 01 Soběslav
+REG.710/93 Can z Podkrkonošské samoty, žb, F7
+REG.554/91 Chája Faranda, žb, F7
+N Reg. /CHP
+p 895  BERT žb -0000100K
+Z VODÁCKÉHO HNÍZDA — 10.06.1995 8/4 F9
+Jiří Kosař, Smetanovo nábř.334, 517 54 Vamberk
+REG.414/89 Eden Už jedou, žb, F7
+REG.509/91 Bessy Údolí Duhového potoka, žb, F8
+N Reg./CHP
+f B96 BARA žb
+£ B97 | BESY žb
+f 898 BETA žb
+RIBALBO 18.07.1995 5/0 F9
+Adam Sedláček, Žárovice 68, 798 03 Plumlov
+REG.703/93 Aram z Hradního ochozu, čb, F6
+REG.670/92 Bornea Zimní sen, čb, F8
+N Reg./CHP
+p 899 | BARROW čb f 901  BALTA čb -V,CAJC
+p. 900. BERGEN čb f£ 902 úhyn čb
+Ě 903  BORAMA čb -V
+RŮŽOVÁ LOUKA 25.07.1995 7/0 F8
+Oldřich Kaňský, 561 22 Ostrov u Lanškrouna 59
+REG.204/87 Elán Faranda, žb, F6
+REG.663/92 Aida z Dubových pasek, žb, F7
+N Reg./CHP
+p 904. BACUL žb f 909. BEKI žb
+p 905 BACK žb f 910  BESSY žb
+p 906 © BEETHOVEN žb
+p 907. BENJI žb
+p 908.  BIRT žb
+Z VLAŽINKY 26.07.1995 4/0 F8
+Petr Elster, Havlíčkovo nám.93, 380 01 Dačice
+REG.703/93 Aram z Hradního ochozu, čb, F6
+REG.476,/90 Eleonora Labutí řeka, čb, F7
+N Reg. /CHP
+p A1
+ELTON čb f 912 ELSA čb
+f 913. ETNA čb

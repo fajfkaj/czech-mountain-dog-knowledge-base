@@ -1,0 +1,50 @@
+# ZDROJ: Spřežení č. 5, rok 1986, strana nezjištěna
+# SOUBOR: 49-1986-06_sprezeni_c_5.pdf
+# PDF_STRANA: 6
+# TISTENA_STRANA: nezjištěna
+# OCR: tesseract-5.3.4 / ces / conf 79.8
+---
+TŘEBOŇ-KOPEČEK 30.07.1981
+KCHČHP, Jan Pokorěý, 4 nám.Míru 138/1, J.Hradec
+Aklavik Třeboň=Kopeček Anapurna Třebon-Kopeček
+reg. 1/T1, čb reg. 6/71, čb
+20 FRED čb 21. FUDŽIJAMA čb
+22 FLORA čb
+23 FORTUNA čb
+24 FURKA čb
+TŘEBOŇ-KOPEČEK 08.03.1982
+KCHČHP, Jan Pokorný sb 138/1, J.Hradec
+Aklavik Třeboňn=K Dikté Třeboň=Kopeček
+reg. 1/77, čb reg. 17/81, čb
+25 GANEK žb 28. GUARA čb
+26 GERLACH žb
+27. GUAPI žb
+TŘEBOŇ=koPEČEK 28.07.1982
+KCHČHP, Jan Pokorný, námoMíru 138/1, J.Hradec
+Bennevis Třebon=Kopeček Domba j řeborneišl
+reg. 7/18, čb reg. 18/81,
+29 HELGELANO žb 31. HIMALÁJA čb
+30. HINDUKŮŠ čb 32 HOKKAIDO žb
+33. HUASKARÁN čb
+LUŽICKÝ HVOZD 01.04.1983
+Jan Hruška, 471 57 Krompach 58 :
+Bennevis Třebon=Kopeček Dangeri Třebon=Kopeček
+reg. 7/18, čb reg. 16/81, čb
+34 ALEK 35 AŠABERI žb
+36. ALIMACHERLI žb
+37 AFRÉ čb
+38 ACHIRA čb
+LUŽICKÝ HVOZD 15.01.1984
+Jan Hruška, 471 57 Krompach 58 .
+Aklavik Třebon=Kopeček Dangeri Třebon=Kopeček
+reg. 1/T1, čb reg. 16/81,
+39 BACK čb 41 BESSÍ čb
+40 BIG žb
+STUDENÁ- JAVOŘI CE 17.03.1963
+Jaroslav Vinkler, 378 56 Studená 24 >
+Ararat Třebon=Kopeček Dikté Třebon=Kopeček
+reg. 2/T1, žb reg. 17/81, čb
+42 ALTAJ žb 44 ACOCANOUA čb
+43 ATLAS čb 45. AČAVATE čb
+46 ALASKA čb
+47. ATACAMA žb

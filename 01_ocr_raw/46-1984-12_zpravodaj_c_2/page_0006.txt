@@ -1,0 +1,65 @@
+# ZDROJ: Spřežení č. 2, rok 1984, s. 4
+# SOUBOR: 46-1984-12_zpravodaj_c_2.pdf
+# PDF_STRANA: 6
+# TISTENA_STRANA: 4
+# OCR: vision (AI dočtení, tesseract conf 82.5 pod prahem; pokračování genetických křížových tabulek, superskripty přepsány jako sP apod., grafické ikony zbarvení nahrazeny [symbol], zakroužkované položky v tabulce označeny závorkou)
+---
+spojení         sPsW [symbol]  x  sPsW [symbol]
+--------------------------------------------
+sPsP [symbol]   sPsW [symbol]   sWsP [symbol]   (sWsW [symbol])   nedostatečně zbarvený
+                                                                    jedinec
+
+Pouze pokud by byl jeden z takto ideálně zbarvených rodičů homozygot sPsP,
+byla by všechna štěňata zbarvena ideálně. Zda je ideálně zbarvený jedinec
+homozygot sPsP nejprůkazněji poznáme, pokud ho spojíme s nedostatečně
+zbarveným partnerem - všichni potomci z tohoto spojení by byli co do plo-
+chy skvrn ideální:
+
+spojení         sPsP [symbol]  x  sWsW [symbol]
+--------------------------------------------
+sPsW [symbol]   sPsW [symbol]   sPsW [symbol]   sPsW [symbol]
+
+Mohli bychom si myslet, že když k feně s malým rozsahem skvrn vybereme psa
+pláštově zbarveného, dostaneme průměr - štěňata s ideální 50% plochou skvrn.
+Ale není to tak. Je jen velmi malá pravděpodobnost, že taková štěňata ve
+vrhu budou. (Záleží na genetickém založení jedince s irským zbarvením -
+zda se tam taková štěňata vůbec objeví):
+
+spojení         sWsW [symbol]  x  sisi [symbol]
+--------------------------------------------
+sWsi [symbol]   sWsi [symbol]   sWsi [symbol]   sWsi [symbol]
+
+spojení         sWsW [symbol]  x  sisW [symbol]
+--------------------------------------------
+sWsi [symbol]   sWsW [symbol]   sWsi [symbol]   sWsW [symbol]
+
+spojení         sWsW [symbol]  x  sisP [symbol]
+--------------------------------------------
+sWsi [symbol]   (sWsP [symbol])   sWsi [symbol]   (sWsP [symbol])   pouze zakroužkovaní jedinci
+                                                                      budou ideálně zbarveni (pra-
+                                                                      vý strakáč)
+
+K málo zbarveným jedincům je nejlépe vybírat partnery s ideálním rozsahem
+skvrn. Také pro jedince s příliš velkým rozsahem zbarvené plochy se jako
+partneři nejlépe hodí psi s přibližně 50% zbarvené plochy těla.
+
+Při spojení dvou jedinců s nadměrně velkým rozsahem zbarvené plochy
+mohou vzniknout i potomci ideálně zbarvení i nedostatečně zbarvení. Zále-
+ží na genetickém vybavení rodičů, které může být různé (sisi, sisP nebo
+sisW). Kombinací je v tomto případě více, zkuste si to rozepsat. Lépe je
+ale i k takto zbarveným psům vybírat ideálně zbarvené partnery, pravděpo-
+dobnost správného zbarvení u štěňat je potom vyšší.
+
+Někdy jsme na vážkách, k jakému typu zbarvení - si, sP nebo sW pozo-
+rovaného jedince zařadit. Můžeme si to odvodit z jeho potomků. Při více
+vrzích s různými partnery můžeme i určit, zda je tento pes ve zkoumaném
+znaku homozygot sPsP nebo heterozygot sPsW a i určit, zda jedinec s pří-
+liš velkým rozsahem zbarvené plochy je genetického založení sisi, sisP
+nebo sisW. (Např. Ganek Třeboň-Kopeček je pravděpodobně sisP).
+Zkuste si to odvodit u svého psa nebo feny.
+
+Při posuzování plochy skvrn se musíme řídit tím, jak rozložení skvrn
+vypadalo u malého štěněte. U žlutobílých, v případě tečkování bílých ploch,
+se tečky mohou spojit a vytvořit novou falešnou skvrnu. Je také třeba si
+uvědomit, že i velmi tmavě melírovaná černobílá fena, pokud má jen jednu
+malou sytě černě zbarvenou skvrnu, je zbarvena nedostatečně - sW. Do zbar-

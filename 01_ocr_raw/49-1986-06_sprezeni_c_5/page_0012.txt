@@ -1,0 +1,7 @@
+# ZDROJ: Spřežení č. 5, rok 1986, strana nezjištěna
+# SOUBOR: 49-1986-06_sprezeni_c_5.pdf
+# PDF_STRANA: 12
+# TISTENA_STRANA: nezjištěna
+# OCR: tesseract-5.3.4 / ces / conf 38.0
+---
+unTYJ URf 030,

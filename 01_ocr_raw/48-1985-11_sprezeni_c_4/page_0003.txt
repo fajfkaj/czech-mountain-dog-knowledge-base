@@ -1,0 +1,107 @@
+# ZDROJ: Spřežení č. 4, rok 1985, strana nezjištěna
+# SOUBOR: 48-1985-11_sprezeni_c_4.pdf
+# PDF_STRANA: 3
+# TISTENA_STRANA: nezjištěna
+# OCR: tesseract-5.3.4 / ces / conf 86.4
+---
+SEZNAM ČLENŮ KCHČHP K 31.10.85
+O OÚ
+Bříza Jiří, Horní Kosov 150, Jihlava ;
+Čech Zobert, Friesovy boudy, Strážné 91, 543 52 Trutnov
+- Čumpelík Jaroslav, 543 61 Kunčice nad Labem 108
+- Drábek Jaroslav, Plavsko 95, 378 02 Stráž n,Než.
+Eleter Petr, Havlíčkovo nám.93/I, 380 01 Dačice
+klster Josef, Havlíčkovo nám.93/I, 380 01 Dačice
+Filipčuk Ivan, 790 57 Bernartice u Javorníka 116, o.Šumperk
+Čéci František, 951 03 Čeladice 11, oNitra
+Halama Jaroslav, Horova 1101, 790 00 Jeseník
+Hanzlík Petr, Smetanova 648, 378 21 Kardašova Řečice
+Heidenreich Petr, Osvobopol.vězňů 27/A, 320 02 Plzeň-Bory
+Hruškovi Jan a Věra, 471 57 Krompach 58
+Chlum Jan, Tkalcovská 350, 543 01 Vrchlebí
+Janeba František, Rokytno 57, 592 31 Nové Město na Moravě
+Jehlička Antonín, Jánská 91, 267 12 Loděnice
+Klír Jan,Ing, Selská 1108/9a, 102 00 Presha 10
+Klírová Marie, Selská 1108/94, 102 00 Praha 10
+Kobr Ivan, Chate Racek, 542 21 Pec pod Sněžkou
+Komárek Jiří,RNDr,CSc, Svobody 1011, 379 01 Třeboň
+Korda Pavel, Voletiny 69, 541 03 Trutnov
+Koten Jaroslav, Čenkov u Malšic 23, 391 75 Malšice
+Krákora Bedřich, Chlum 132, 382 03 Křemže
+Králová Irma, chata Miletá 152, Velká Úpa, 542 22 Pec p»Sněžkou
+Krejčířová Jana, Libina 214, 788 05 Šumperk
+Křelinová Jitka,Ing, Na Čihadle 4, 466 01 Jablonec n.Nisou
+Křinecký Ota, Miřiovského 292 II, 377 01 Jindřichův Hradec
+Kučerová Blanka, Mokré 87, 517 73 Opočno
+Kupka Oldřích, 391 76 Slapy u Tábora 45
+Kupková Dana, 391 76 Slapy u Tábora 45
+Kůrka Václav, Pražská bouda, 543 44 Černý Důl
+Lang Hynek, Pod kopcem 403, 503 41 Hradec Králové
+Loučková Eva, U mlýna 2, 251 01 Říčany-Kuří
+Marek František, Kapetova 41/III, 380 01 Dačice
+Masojídek Jiří,RNDr,CSc, Hliník 831, 379 01 Třeboň II
+Mikáska Josef, Horská 242, 543 02 Vrchlabí
+Motejlek Miroslav, Bítouchov 89, 513 01 Semily
+Musíl Pavel, 538 31 Medlešice 118
+Nebeská Helena, chata Bílá labuť 15, 542 21 Pec p.Sněžkou
+Pechek Pavel, Lipárky 531, 394 64 Počátky
+Pokorný Jan,RNDr,CSc, námeMíru 138/I, 377 01 J.Hradec
+Pospíšilová Pavla, H.Černá Studnice 122, 468 27 Nová Ves n.Nisou
+Rejhons Karel, Pražská bouda, 543 44 Černý Důl
+Říha Jaroslav, Pod vodojemem 587, 394 70 Kamenice nad Lipou
+Sedloň Martin, Nejedlého 52/II, 377 01 J.Hradec
+Sládek Stanislav, Bratrská 110/II, 377 01 J Hradec
+Šidlík Milan, Horská 1261, 431 94 Vejprty IV.
+Švancara Vít,MUDr, Valdov 19, 471 25 Jablonné v Podještědí
+Vinkler Jaroslav, Studená 24, 378 56
+Teryngel Jiří,JUDr, U plynárny 71, 141 00 FPreha 4
+Zamazal Zdeněk, Špitální 160, 588 56 Telč
+Zaťko Jozef, 951 03 Čeladice 65, o.Nitra
+Zmátlo Josef, Ke strážnici 182, 549 54 Police noMetují
+Zachleder Vilém, 9.května 150, 379 01 Třeboň
+čb-fena
+čb=pes
+žb=fena
+čb+fena
+čb=+fena
+čb=f 2x
+čb-fena
+čb=pes
+žb=+fena
+čb-fena
+čb=p+f
+žb=fens
+žb=fena
+čb=fena
+žb=pes
+čb-fena
+čb=pes
+čb=fena
+čb=fena
+žb-fena
+čb=-fena
+čb-fenas
+žb=fena
+žb-fena
+žt=pes
+žb=fena
+žb=fena
+čb=fens
+čb-fena
+žb=pes
+žb-pes
+žb=pes
+žb-fena
+žb=pes
+žb-fena
+žb=pes
+žb=fenu
+čb-fena
+čb=pes
+čb-fena
+čb=p+f
+čb-fena
+čb=pos
+čb-pes
+čb=fena
+žb-pes

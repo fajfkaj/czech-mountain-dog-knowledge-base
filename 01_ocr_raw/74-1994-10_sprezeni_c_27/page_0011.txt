@@ -1,0 +1,121 @@
+# ZDROJ: Spřežení č. 27, rok 1994, strana nezjištěna
+# SOUBOR: 74-1994-10_sprezeni_c_27.pdf
+# PDF_STRANA: 11
+# TISTENA_STRANA: nezjištěna
+# OCR: tesseract-5.3.4 / ces / conf 89.3
+---
+NA MĚLÍCH - 4/13
+A-184/5,B-220/3,C-309/3,D-696/2
+Blanka Kučerová, Mokré 5, 517 73 Opočno
+NA SALABCE - 3/10
+A-531/2,8-608/3,C-743/5
+Ivo Rašín, Pod koupalištěm 712,
+293 06 Kosmonosy
+NA SKÁCELCE - 1/3
+A-762/4-1 ;
+Martin Čechota, chata Svadlenka,
+512 45 Rokytnice nad Jizerou
+NETOLICKÁ OBORA - 3/9
+A-336/3,B-450/5,C-613/3-2
+Helena Matějeková, Hornická 659,
+384 11 Netolice
+0D BELONY - 2/3
+A-421/2,B-598/1
+Pavel Svoboda, Kostelní 567, 468 51 Smržovka
+0D BUBLAJÍCÍHO POTŮČKU - 1/1
+A-100/1
+Pavel Janalík, J.Hrubího 1065,
+„543 01 Vrchlabí
+0D ČERTOVY ZDI - 1/4
+A-363/4
+Josef Erb, 463 52 Osečná 163
+0D FÍKA - 5/14
+A-353/5-1,B-605/3-2,C-673/2-1,D-766/7-4,
+E-797/5
+Jaroslav + Marcela Růžičkovi,
+458 23 Loužnice 39
+0D FOJTOVICKÝCH PLÁNÍ - 1/2
+A-462/2
+Jiří Novák, Havlíčkova 386,
+417 42 Krupka - Bohosudov
+0D HAJNÝHO - 2/6
+A-533/4,B-686/2
+Pavel Heřman, Bystrá nad Jizerou 33,
+512 05 Háje nad Jizerou
+0D HRČÍŘSKÝCH LUK - 2/5
+A-101/1,B-142/4
+Petr Kobr, ch.Kancelářské stroje,
+542 22 Velká Úpa 109
+OD JANKOVA KOPCE - 5/18
+A-56/6,B-97/3,C-164/3,D-224/2,E-345/4
+Jan Chlum, kpt.Nálepky 1231,
+543 01 Vrchlabí
+0D MUCHOMŮRKY - 1/2
+A-784/2
+Milan Vodák, U Vápenky 546/III,
+392 01 Soběslav
+0D NEVĚŘÍCÍHO TOMÁŠE - 3/16
+A-378/2,B-442/8,C-569/9-3
+Karel Fiala, 417 32 Cínovec 256
+0D PROSETICKÉ STRÁNĚ - 1/7
+A-537/7
+Dr Jaroslav Mazák, Na Červeném vrchu 2982,
+415 01 Teplice
+0D SUCHÉHO BUKU - 1/4
+A-821/4
+Jan Drbohlav, Víska 10, 463 31 Nová Ves
+OD VANDY Z HÁJE - 1/7
+A-731/7
+Vanda Kmochová, Pod Vrchem 20,
+405 05 Děčín 20
+0D ZEJHRALU - 1/4
+A-262/4
+Jiří Miller, Tyršova 106, 378 56 Studená
+ONDRÁŠEK JANOVICE - 1/4
+A-479/4
+Ivoš Lichna, 739 02 Janovice 461
+ORLICKÝ MEDVĚD - 1/6
+A-339/6
+Pavel Kaška, Rudé armády 504,
+„ 517 61 Rokytnice v Orlických horách
+OVĚDADA - 6/24
+A-241/3,B-289/2,0-291/4,D-390/2,E-400/9-1,
+F-556/5
+Oldřich Valášek, Sportovní 180,
+543 03 Vrchlabí
+PATNÁCTÝ POLEDNÍK - 1/3
+A-139/3
+Ota Křinecký, Buzulucká 405/II,
+377 01 Jindřichův Hradec
+PÁTÝ DRÁP - 1/3
+A-329/3
+„ Petr Heidenreich, Písek 2, 330 35 Líšťany
+PEŘEJE - 1/4
+A-392/4
+Petra Nováková, Zhořelecká 9, 460 01 Liberec
+PODCESNÝ MLÝN - 1/8
+A-115/6
+Josef Cvrček, Malý Pěčín 34, 380 01 Dačice
+POLEDNÍK - 4/13
+A-95/2,B-349/4-2,C-773/6-2,D-838/5
+Jaroslav Čumpelík, 543 61 Kunčice n.Lab, 108
+PRADĚDOVA LOUKA - 3/10
+A-189/5,B-253/4,C-412/2-1
+Jaroslav Halama, Havlíčkova 56,
+„ 790 70 Javorník
+PSÍ PŮLE - 2/17
+A-638/10-1,B-754/8
+Vít Procházka, U Růží 866, 289 12 Sadská
+RIBALBO - 1/5
+A-827/5
+Adam Sedláček, Žárovice 68, 798 03 Plumlov
+RŮŽOVÁ LOUKA - 1/4
+A-816/4
+Oldřich Kaňský, 561 22 Ostrov u Lanškr. 59
+SEVERNÍ NEBE - 1/1
+A-426/2-1
+Slavomil Dolenský, chata Vébrovka,
+542 21 Pec pod Sněžkou
+SEVERNÍ ÚDOLÍ 1/3
+A-246/3 ,
+Alena Šelongová, 739 55 Řeka

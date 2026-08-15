@@ -1,0 +1,64 @@
+# ZDROJ: Spřežení č. 5, rok 1986, strana nezjištěna
+# SOUBOR: 49-1986-06_sprezeni_c_5.pdf
+# PDF_STRANA: 18
+# TISTENA_STRANA: nezjištěna
+# OCR: tesseract-5.3.4 / ces / conf 85.6
+---
+-16 =
+AGANA Faranda, reg 12/8i, žb, 66 cm, 39 kg- chovné
+Aklavik Třebon=Kopeček - Čehooyn Třebon=Kopeček
+ch: D.Kupková; m: Jaroslav Čumpelík, Kunčice n.L.
+5 bodů: mohutnost —- velmi mohutná - 1, tělesné rozměry - 1, chrup - chybí Pl vpra-
+vo dole - l, zbarvení - menší plocha skvrn, tečkování = 1, klus - 1
+AGUJA Severní vítr, reg 55/83, čb, 61,5 cm, 43,8 kg chovná
+Ganek Třebon=Kopeček - Alka Faranda
+ch: VoŠvancara; m: Pavel Korda, Voletiny .
+5 bodů: mohutnost - velmi mohutná - 1, povaha agresivní - 2, zbarvení pláštové,
+tečkování - 2
+ALASKA z Milety, řeg 7, žb, 57 cm, 29 kg chovná
+Fred Třebon=Kopeček - Guara Třebon=Kopeček
+ch: I.Králová; m: Jan Maršálek, Valteřice
+6 bodů: konstituce slabá - 1, ocas příliš stočený -= 2, zbarvení - malá plocha
+skyrr, tečkování - 1, přední končetiny - vybočené lokty - 1, chůze - 1
+ALKA Faranda, reg 13/81, čb, 61 cm, 29 kg : chovná
+Aklavik Třebon=Kopeček = Čehooyn Třebon=Kopeček
+ch: D,Kupková; m: Vít Švancara, Valdov
+3 body: zbarvení - tečkování - 1, přední končetiny - vybočené lokty - 1, zadní
+končetiny - otevřené tlapky - l
+ANDY od Jankova kopce, reg 61/83, žb, 56 cm, 32 kg chovná
+Ganek Třebon=Kopeček - Furka Třebon=Kopeček .
+ch: J.Chlum; m: Petr Kobr, Pec p.Sněžkou
+4 body: typ - málo typická - 1, harmonie - 1, ocas krátký - 1, zbarvení = tečko-
+vání - 1
+(příliš hluboký hrudník, nízké končetiny)
+ARCONA Kačabka, reg 73/84, čb, 62 cm, 33 kg chovná
+Artison Severní vítr = Ara Faranda
+ch: JsKlír; m; Josef Zmátlo, Police n.Metují
+5 bodů: srst zkadeřená - 1, zadní končetiny = 1, postoj zadních končetin rozbíha=
+vý = 1, chůze - 1, klus - 1
+(volnější lokty)
+ARVICA Kačabka, reg 75/84, žb, 66 cm, 35 kg Chovná
+Artison Severní vítr — Ara Faranda
+ch: JeKlír; m: Blanka Kučerová, Mokré
+7 bodů: typ - nesprávný pohlavní výraz - 1, mohutnost = velmi mohutná = 1, chrup
+= chybí P3 nahoře oboustranně = 2, chůze = l, srst zkadeřená = 1, hlava
+lymfatická - 1
+(nejistá povaha, mírně prohnutý hřbet, menší plocha skvrn)
+ASKO Labutí řeka, reg 91/84, čb, 61,5 cm, 37 kg chovná
+Aalborg Severní vítr - Atacama Studená-Javořice
+ch: JeRíha; m: Jaroslav Drábek, Plavsko
+4 body: byr?: s ed hřbet —- 1, chrup - chybí P2 dole oboustranně - 2, zbarvení
+pláštové - 1 : '
+ASLAUG z Milety, reg 7, čb, 66 cm, 44 kg chovná
+Fred Třebon=Kopeček - Guara Třebon-Kopeček
+ch: IeKrálová; m: František Černý
+4 body: mohutnost - velmi mohutná - 1, rozměry - 1, povaha bázlivá = 1, chrup -
+chybí P3 vpravo nahoře - 1
+(mírně zkadeřená srst, kondice žírná)
+ATACAMA Severní vítr, reg 54/83, žb, 58,5-cm, 32 kg chovná
+Ganek Třebon-Kopeček - Alka Faranda
+ch: V,Švancara; m: Helena Nebeská, Pec p.Sněžkou
+5 bodů: hřbet prohnutý — 1, srst zkadeřená - 1, zbarvení plášťové, téčkování - 1,
+přední končetiny = 1, klus - 1
+(hlava mírně lymfatická)
+e'

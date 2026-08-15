@@ -1,0 +1,9 @@
+# ZDROJ: Spřežení č. 40, rok 1998, strana nezjištěna
+# SOUBOR: 87-1998-11_sprezeni_c_40.pdf
+# PDF_STRANA: 1
+# TISTENA_STRANA: nezjištěna
+# OCR: tesseract-5.3.4 / ces / conf 75.1
+---
+© Klub českého horského psa - 1998
+č
+1898

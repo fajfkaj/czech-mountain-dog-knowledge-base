@@ -1,0 +1,18 @@
+# ZDROJ: Spřežení č. 2, rok 1984, strana nezjištěna
+# SOUBOR: 46-1984-12_zpravodaj_c_2.pdf
+# PDF_STRANA: 12
+# TISTENA_STRANA: nezjištěna
+# OCR: vision (AI dočtení, tesseract conf 28.2 pod prahem; celostránková ručně kreslená mapa "Iditarod Trail Race Route" s logem Yukon Dog Mushers Assoc., bez souvislého textu - jen místopisné popisky)
+---
+[diagram: ručně kreslená mapa trasy závodu psích spřežení]
+
+YUKON DOG MUSHERS ASSOC.
+[kresba psa se saněmi]
+
+IDITAROD TRAIL RACE ROUTE
+
+Místopisné popisky na mapě (přibližně od severozápadu k jihovýchodu):
+NOME, SOLOMON, WHITE MOUNTAIN, ELIM, KOYUK, SHAKTOONK, KALTAG, OLD WOMAN,
+UNALAKLEET, NULATO, GALENA, RUBY, YUKON RIVER, PLACERVILLE, MCGRATH,
+BIG RIVER ROAD HOUSE, ROHN ROAD HOUSE, RAINY PASS, SKWENTHA, KNIK,
+SUSITHA, ANCHORAGE

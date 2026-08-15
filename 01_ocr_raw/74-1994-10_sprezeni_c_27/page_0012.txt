@@ -1,0 +1,123 @@
+# ZDROJ: Spřežení č. 27, rok 1994, strana nezjištěna
+# SOUBOR: 74-1994-10_sprezeni_c_27.pdf
+# PDF_STRANA: 12
+# TISTENA_STRANA: nezjištěna
+# OCR: tesseract-5.3.4 / ces / conf 88.6
+---
+SEVERNÍ VÍTR - 6/12
+A-51/5,B-92/3,C-159/1,D-219/1,8-301/1,F-389/1
+Dr Vít Švancara, Valdov 19,
+471 25 Jablonné v Podještědí
+SNĚHOVÁ ZÁVĚJ - 4/23
+A-579/4,B-616/9-1,C-720/6-1,D-810/6
+Jam Šanovec, Březová 671, 252 29 Dobřichovice
+SNĚŽNÍK - 2/8
+A-249/4,B-385/4
+Josef Polanský, nám,Osvobození 359,
+788 32 St.Město p.Sněžníkem
+STRAČÍ HNÍZDO
+Miloslav Straka, Wonkova 4, 591 01 Žďár n.$.
+STRÁŽ NAD NEŽÁRKOU - 1/4
+A-167/4
+Jaroslav Drábek, Plavsko 95, 378 02 Stráž n.N.
+STUDENÁ-JAVOŘICE - 1/11
+A-42/6,B-65/5
+Jaroslav Vinkler, 378 56 Studená 24
+TŘEBOŇ-KOPEČEK - 8/30
+A-1/6,B-7/2,C-9/3,D-16/4,E-19/1,F-20/5,
+G-25/4,H-29/5
+KCHČHP - Jan Pokorný, nám.Míru 138/1,
+377 01 Jirdřichův Hradec
+TŘINÁCTÁ MÍLE - 2/7
+A-549/2,B-675/5
+Jindřich Vandas, 262 13 Nečín 76
+U ROUBÍŘSKÝCH SKAL - 1/4
+A-715/5-1
+Antonín Samek, Mánesova 567,
+463 42 Hodkovice nad Mohelkou
+ÚDOLÍ DUHOVÉHO POTOKA - 2/12
+A-358/5,B-504/7
+Jindřich Skrbek, Chuchelna 294, 513 01 Semily
+ÚDOLÍ KAČÁKU - 2/11
+A-171/3,B-211/8
+Antonín Jehlička, Jánská 91, 267 12 Loděnice
+ÚDOLÍ KAMARÁDŮ - 3/4
+A-332/4,B-437/1,C-659/3
+Jaromír Dobrý, R.S, U Jakuba, Vidžín,
+330 40 Úterý
+Už JEDOU - 9/51
+A-130/5,B-197/7,C-274/6,D-307/2,E-414/7-2,
+P-483/8,G-523/8,4-651/8-2,1-786/4
+Eva Loučková, U svodnice 105, Královice,
+104 00 Praha 10
+VELKÁ ZÁVĚJ - 3/10
+A-102/3,B-125/5,C-708/2
+Pavla Pospíšilová, Horní Černá Studnice 122,
+468 21 Bratříkov
+VERA LIBIŠ - 1/5
+A-698/5
+Rudolf Šrámek, Kojetická 979,
+277 11 Neratovice
+VON HINTERSCHLAG - 3/10
+A-683/3,B-726/5,C-825/2
+Rudolf Klein, Hinterschlag 5,
+A-4162 Julbach, Rakousko
+-= 10 =
+Z AND -1/1
+A-611/2-l
+Jan Jirák, Jižní 53, 370 01 Čes.Budějovice
+Z DEŠTIVÉHO KOPCE - 1/2
+A-491/2
+Pavel Bičík, Lhota 34, 513 01 Semily
+2 DUBOVÝCH PASEK - 1/4
+A-662/5-1
+Josef Strakoš, Slemeno 28, 543 74 Dol.Kalná
+Z HRADNÍHO OCHOZU - 1/5
+A-703/5
+Vlastimil Rúčka, Komenského 33,
+373 33 Nové Hrady
+Z KRKONOŠ - 2/9
+A-238/3,B-431/6
+Jan Maršálek, Valteřice 174,
+512 36 Horní Branná
+Z MILETY -2/7
+A-123/2,B-148/5
+Irma Králová, Velká Úpa 16,
+542 22 Pec pod Sněžkou
+Z PANSKÉHO OSTROVA - 1/1
+A-399/1
+Jan Holas, 468 31 Malá Skála 25
+Z PODKRKONOŠSKÉ SAMOTY - 4/19
+A-295/6,B-464/3,C-710/5,D-790/5
+Radko Kleinwáchter, Hvězda 23,
+544 56 Hřibojedy
+z ÚDOLÍ BĚSů - 1/3
+A-595/3
+Jaroslav Konečný, Dol.Morava,
+bufet U Marcelky, 561 69 Králíky
+Z ÚDOLÍ VOŠMENDY - 1/3
+A-802/3
+Miroslav Motejlek, Bítouchov 89,
+513 01 Semily
+Z VLAŽINKY - 4/19
+A-48/3,B-76/5,C-226/6,D-269/5
+Petr Elster, 380 01 Dačice 93/II
+Z VODÁCKÉHO HNÍZDA - 1/3
+A-693/3
+„ Jiří Kosař, 561 86 Záchlumí 113
+Z ZARY
+Zdeněk Čech, nám.J,Fučíka 119, 542 01 Žacléř
+ZBLOUDILEC - 2/5
+A-135/4,B-223/1
+Miroslav Holeček, Dvořákova 135,
+„549 54 Police nad Metují
+ZDĚŘINA - 3/14
+A-177/1,B-194/3,C-285/4
+Josef Zmátlo, Ke strážnici 182,
+549 54 Police nad Metují
+ZE LHOTY - 2/11
+A-232/6,B-302/5 :
+Josef Hepnar, Lhota 238, 549 43 Červ. Kostelec
+ZEMANEX - 1/8
+A-515/8
+Vlastimil Zeman, 512 03 Libštát 97

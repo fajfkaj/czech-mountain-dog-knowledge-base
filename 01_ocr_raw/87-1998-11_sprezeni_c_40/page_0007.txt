@@ -1,0 +1,49 @@
+# ZDROJ: Spřežení č. 40, rok 1998, strana nezjištěna
+# SOUBOR: 87-1998-11_sprezeni_c_40.pdf
+# PDF_STRANA: 7
+# TISTENA_STRANA: nezjištěna
+# OCR: tesseract-5.3.4 / ces / conf 91.3
+---
+©. Dílčí plemenná kniha ČHP © ©
+PSI UŽ JEDOU CS 6. 3. 1998 4" F9
+Eva Loučková, U svodnice 105, 104 00 Praha 10
+REG. 668/92 Bering Zimní sen, čb, F8
+REG. 657/92 Holčina Už jedou, žb, F7
+N Reg./CHP p 1050 JASAN čb
+f 1051 JARA čb
+f 1052 JUTA žb
+U POSLEDNÍ BOUDY 15. 3. 1998 5/1 FIO
+Anna Vybíralová, 789 82 Moravičany 12
+REG. 829/94 Atrek Ribalbo, žb, F9
+REG. 778/93 Cora Poledník, žb, F9
+N Reg./CHP p 1053 BEN žb
+p 1054 BOJAR žb
+f 1055 BÁRA žb
+f 1056 BELA žb
+BOSOPÁJA 13. 3. 1998 1/0 F10
+Pavel Šubrt, Smržov 17, 503 03 Smiřice
+REG. 697/92 Dan na Mělích,žb, F7
+REG. 830/94 Adelai Ribalbo, čb, F9
+N Reg./CHP P 1057 ART čb
+NETOLICKÁ OBORA 28. 3. 1998 7/0 F9
+Helena Matějková, Na Horánku 697, 384 11 Netolice
+REG.336/88 Adan Netolická obora, žb, F7
+REG. 864/95 Nora von den Bartl-Buam, žb F8
+N Reg./CHP p 1059 DANNY žb
+p 1060 DARK žb
+p 1061 DERON žb
+P 1062 DIKK žb
+f 1063 DAYA žb
+f 1064 DEINA žb
+f 1065 DINA žb
+Z PIXÁKU 28. 4. 1998 4/1 F9
+Miroslav Kadlec, Hostin 12, 227 32 Byšice
+REG. 731/93 Agar pd Vandy z Hájů, čb, F8
+REG. 817/94 Aida Růžová louka, F8
+N Reg./CHP f 1066 AIDA čb
+f 1067 ANDY čb
+f 1068 ARNIKA čb
+OD SUCHÉHO BUKU 22. 4. 1998 4/1 F9
+Jan Drbohlav, Víska 10, 463 31 Nová Ves u Chrastavy
+w4C | REG. 469/90 Huňáč Faranda, žb, F7
+REG. 516/91 Aika Zemanex, žb, F8

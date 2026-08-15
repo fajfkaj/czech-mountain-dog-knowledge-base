@@ -1,0 +1,91 @@
+# ZDROJ: Spřežení č. 27, rok 1994, strana nezjištěna
+# SOUBOR: 74-1994-10_sprezeni_c_27.pdf
+# PDF_STRANA: 9
+# TISTENA_STRANA: nezjištěna
+# OCR: tesseract-5.3.4 / ces / conf 79.4
+---
+p 813 DIXI čb
+£ 9314 DOLLY čb
+£ 815 DORA žb
+RůŽOVÁ LOUKA 02.08.1994. 7/1. PB
+Oldřich Kaňský,
+561 22 Ostrov u Lanškrouna 59
+REG.303/88 | Birt ze Lhoty, čb, F6
+REG.663/92 | Aida z Dubových pasek, žb, F7
+CMKU/CHP REG
+p 816 ALF čb
+f 817 AIDA čb
+£ 318 ATRIA čb
+£ 319 AURIKA čb
+JINDŘICHOVSKÁ PLÁŇ 21.06.94 3/2 PB
+Ladislav Kubata,
+Jindřichov 30, 351 11 Třebeň
+REG,251/88 | Arekus Sněžník, žb,Fó6
+REG.411/89 | Arge Božidarské rašeliniště,
+žb, F7
+CMKU/CHP REG
+p 320. AKBAR žb
+0D SUCHÉHO BUKU 08.08.1994. 5/1. F9
+Jan Drbohlav, Víska 10, 463 31 Nová Ves
+REG.496/90 | Huňáč Faranda, žb, F7
+REG.516/91 | Aika Zemanex, žb, FG
+CMKJ/CHP REG
+p. B21 ANDY žb
+p. 322 ARON žb
+f 823 ANKA žb
+£ 824 ADÉLA žb
+VON HINTERSCHLAG 08.08.1994. 4/2 P8
+Rudolf Klein,
+Hinterschlag 5, A-4162 Julbach, Rakousko
+REG.369/09 | Blesk Jasná záře, žb, F7
+REG.497/90 Hvězda Faranda, žb, F7
+CMKU/CHP REG
+p. B25 CHALY žb
+£ 826 CITY žb
+RIBALBO
+14.08.94 7/0 m
+Adam Sedláček,
+Zárovice 68, 798 03 Plunlov
+REG,519/9] | Alan Zemanex, žb, F7
+REG.670/92 | Bornea Zimní sen, čb, F8
+CMKU/CHP REG
+p 827 ADEN žb
+p 828 AILUK o
+p 829 ATREK žb
+f£ 830 ADELAI čb
+£ 831 ARICA žb
+LEDENICKÁ CESTA
+23.08.94 8/0 FB
+Martina Kostková, ;
+Ledenická 112, 370 06 České Budějovice
+REG,374/89 | Akatam Do neznáma, čb, F7
+REG.324/88 | Gábina Faranda, žb, F7
+CHKU/CHP REG
+p 832 BOBEŠ čb
+p 833 BOBUL čb
+£ 834 BOŽENKA čb
+£ 835 BERTA čb
+ZIMNÍ SEN 16.08.94 40 BB
+Jarmila Slavatová,
+Selská 10, 102 00 Praha 10
+REG,414/99 | Eden Už jedou, žb,F?
+REG,255/98 © Baara Pradědova louka, čb, F6
+CMKU/CHP REG
+p
+p
+POLEDNÍK
+836
+837
+CÉZAR čb
+CYR čb
+23:08:94 5/0 F
+Jaroslav Čumpelík,
+543 61 Kunčice nad Labem 108
+REG.198/87 | Blesk Už jedou, žb,F5
+REG.517/91 | Arana Zemanex, žb, F8
+CMKU/CH?P REG
+p 838 DICK žb
+p 839 DOYLE žb
+£ 840. DÁŠEŇKA žb
+£ 841 DEISY žb
+£ 842 DORA žb

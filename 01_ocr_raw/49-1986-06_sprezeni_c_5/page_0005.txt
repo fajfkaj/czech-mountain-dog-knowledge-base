@@ -1,0 +1,46 @@
+# ZDROJ: Spřežení č. 5, rok 1986, strana nezjištěna
+# SOUBOR: 49-1986-06_sprezeni_c_5.pdf
+# PDF_STRANA: 5
+# TISTENA_STRANA: nezjištěna
+# OCR: tesseract-5.3.4 / ces / conf 77.1
+---
+3
+DÍLČÍ PLEMENNÁ KNIHA ČESKÝCH HORSKÝCH PSŮ
+TŘEBOŇ-KOPEČEK 12.08.1977
+KCHČHP, RNDr Jan Pokorný, CSc, nám.Míru 138/1, Jindřichův Hradec
+Leif Galka Vajgarské vrchy
+čb bílá
+1 AKLAVIK čb 5 ASKŮ čb -
+2 ARARAT žb 6 ANAPURNA čb
+3. ALAN=KUH žb
+4 APURIMAC žb
+TŘEBOŇ-KOPEČEK 14.07.1978
+KCHČHP, Jan Pokorný, nám.Míru 138/I, JeHradec :
+Leif Asko Třebon=Kopeček
+čb T6G« 5/T1, čb
+7 BEN-NEVIS čb 8 BLACK-RIVER čb
+TŘEBOŇ=KOPEČEK 10.10.1979
+KCHČHP, Jan Pokorný, nám.Míru 138/1, JeHradec 3
+Ararat Třebon=Kopeček Anapurna Třebon=Kopeček
+reg. 2/T1, žb reg. 6/TI, čb
+9 ČocoRi čb 10 ISA žb
+11 ČEHOOVN žb
+FARANDA 16.06.1981
+Dana Kupková, Holubov 242, 382 03 Křemže ž
+Aklavik Třebon=Kopeček Čehooyn Třeboň=Kopeček
+12 AGAMA žb
+13 ALKA čb
+14. AMEJVA žb
+15 ARA čb
+TŘEBOŇ-KOPEČEK 19.01.1961
+KCHČHP, Jan Pokorný, nám,Míru 138/1, JeHradec | h
+Apurimac Třebon=Kopeček Asko Třebon=Kopeček
+reg. 4/11, žb reg. 5/T1, čb
+16 RI čb
+17. DIKT čb
+18. DOMBAJ žb
+TŘEBOŇ-KOPEČEK 19.05.1981
+KCHČHP, Jan Pokorný, nám.Míru 138/1, J.Hradec .
+Aklavik Třeboň=Kopeček Čogolisa Třebon=Kopeček
+rego VT, čb rego 10/79, žb
+19. EIGER žb

@@ -1,0 +1,6 @@
+# ZDROJ: Spřežení č. 16, rok 1991, strana nezjištěna
+# SOUBOR: 60-1991-05_sprezeni_c_16.pdf
+# PDF_STRANA: 8
+# TISTENA_STRANA: nezjištěna
+# OCR: tesseract-5.3.4 / ces / conf 0.0
+---

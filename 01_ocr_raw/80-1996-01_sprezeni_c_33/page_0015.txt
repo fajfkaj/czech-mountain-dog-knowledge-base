@@ -1,0 +1,59 @@
+# ZDROJ: Spřežení č. 33, rok 1996, strana nezjištěna
+# SOUBOR: 80-1996-01_sprezeni_c_33.pdf
+# PDF_STRANA: 15
+# TISTENA_STRANA: nezjištěna
+# OCR: tesseract-5.3.4 / ces / conf 90.4
+---
+= 13 =
+ANGIE Přeštická luka, * 05.06.95 - výborná 3.
+Alakanuk Pátý dráp - Ance Lažanské údolí
+ch: František Kónig, m: Marie Kaňská, Ostrov 59, 561 22 Ostrov u Lanškrouna
+Dobrý rámec na dolní hranici standardu, typická hlava, dobře nesené ucho dobrá velikost, tmavé oko, dobrý
+pigment, plnochrupá, silný krk, dobrá fronta, prostorný hrudník, korektní končetiny, poměrně dobrá kresba,
+barva bílohnědá
+ALFA Věčný student, * 12.05.95 - výborná
+Aram z Hradního ochozu - Ailin z Vodáckého hnízda
+ch; Leona Dosedlová, m: Silie Smetková, Slovenská 4282, 760 Ů1 Zlín
+Dobrý rámec, typická hlava, tmavohnědé oko, levé ucho níže nesené, plnochrupé, dobrý pigment, silný krk,
+pevný hřbet, dobrý ocas, prostorný hrudník, silné stavěné končetiny, dobrá kresba, špinavá podsada
+BALTA Ribalbo, * 18.07.95 = velmi dobrá
+Aram z Hradního ochozu - Bornea Zimní sen
+ch: Adam Sedláček, m: Libor Macháček, Rudolfova 7:2, 724 (0 Ostrava - Stará Bělá
+Dobrý rámec, typická hlava, tmavé oko, dobře nesené ucho, dobrá velikost, plnochrupá, silná krk, dobrá
+fronta, pevný hřbet, přední končetiny v pohybu mírně vytočené tlapky, debrá struktura srsti, barva
+černobílá velká neoddělená plotna
+AGA Věčný student, * 12.05.95 - dobrá
+Aram z Hradního ochozu - Ailin z Vodáckého hnízda
+ch: Leona Dosedlová, m: Jan Balon, Mládežnická 2741, 438 01 Žatec
+Dobrý rámec, ušlechtilá hlava, úplně tmavé oko, plnochrupá, dobrý pigment, dobrý krk, dobré přední
+končetiny, slaběji klenutý hrudník, v pohybu vykazuje © kapří hřbet, dobrý ocas, slabě zaúhlené zadní
+končetiny, barva černobílá, velký plášť, dobrá pohybová mechanika
+feny - třída otevřená
+ENIKA od Fíka, * 24.05.94 = velmi dobrá
+Erix Ovědada - Arnika od Píka :
+ch: Marcela Růžičková, m: Milan Brabec, Purkyňova 326, 53$ 01 Hlinsko v Čechách
+Dobrý rámec, ušlechtilá hlava, výborný pigment, plnochrupá, suché pysky, dobrá fronta, silný krk, pevný
+rovný hřbet, výborná pohybová mechanika, dobrá srst, velká nerozdělená plotna, dobrý ocas
+KRÁSKA Faranda, * 17.11.94 - nepřišla
+Can z Podkrkonošské samoty - Dája Faranda
+ch: Dana Kupková, 391 75 Slapy u Tábora 45
+KÁJA Faranda, * 17.11.94 -= velmi dobrá
+Can 2 Podkrkonošské samoty - Dája Faranda
+ch: Dana Kupková, m: Edith Schebor, Dorfstadt 10, A-3633 Schónbach
+Dobrý rámec, tynická hlava, konstitučně jemná fenka, užší frota, dobrý krk, pevný hřbet, dobře nesený ocas,
+korektní končetiny, slabší kresba, dobrá srst, barva bílohnědá, mírně bázlivá
+BETTY, * 03.01.92 = výborná 4.
+Cyril Už jedou - Aimi Údolí Duhového potoka
+ch: Ivo Rašín, m: Stanislav Pfeifer, Jaselská 300, 293 01 MI.Boleslav
+Dobrý rámec, mírně protučnělá fenka, typická hlava, dobrý stop, dobře nesené ucho správná velikost, tmavo-
+hnědé oko, plnochrupá, dobrý pigment, silný krk, dobrá fronta, prostorný hrudník, dobře nesený ocas, silné
+dobře stavěné končetiny, dobrá srst, nedostatečná kresba
+CHÁJA Faranda, * 22.06.91 = velmi dobrá
+Arekus Sněžník - Dája Faranda
+ch: Dana Kupková, m: Milan Vodák, U vápenky 546/111, 391 01 Soběslav
+Dobrý rámec, ucho mírně otevřené, plnochrupá, dobrý pigment, volnější dolní pysky, hřbet mírně prohnutý
+následkem příliš vysoké zádi, přední končetiny rovné, zadní slaběji úhlené, nerozdělená plotna, dobrá srst,
+barva hnědobílá, dobrá pohybová mechanika
+AIDA Růžová louka, * 02.08.94 - nepřišla
+Birt ze Lhoty - Aida z Dubových pasek
+ch: Oldřich Kaňský, m: Olga Kadlecová, Hostín 12, 277 32 Byšice

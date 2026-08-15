@@ -1,0 +1,23 @@
+# ZDROJ: Spřežení č. 2, rok 1984, strana nezjištěna
+# SOUBOR: 46-1984-12_zpravodaj_c_2.pdf
+# PDF_STRANA: 17
+# TISTENA_STRANA: nezjištěna
+# OCR: vision (AI dočtení, tesseract conf 78.2 pod prahem; vložený list s termíny výstav na rok 1985, v pravém horním rohu rukou psaná poznámka "Zpravodaj č.2")
+---
+VÝSTAVY
+doporučené výborem Klubu ČHP pro r.1985
+
+Výbor Klubu ČHP doporučuje účast na následujících výstavách:
+
+19.5.1985 Litoměřice: oblastní klubová výstava pro severní
+                        a severovýchodní Čechy, příp. pro Prahu.
+9.6.1985  Přerov: oblastní klubová výstava pro Moravu a
+                        záp. Slovensko.
+29.9.1985 Praha: propagační výstava, jen pro psy vybrané
+                        chov. komisí Klubu ČHP.
+13.10.1985 Č.Budějovice: oblastní klubová výstava pro jižní
+                        a střední Čechy a celostátní speciální
+                        výstava ČHP.
+
+Na uvedených výstavách bude udělen titul oblastní vítěz
+a rovněž bude zkušebně provedena bonitace zúčastněných psů.
