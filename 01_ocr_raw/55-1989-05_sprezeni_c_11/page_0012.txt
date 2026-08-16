@@ -1,91 +1,57 @@
-# ZDROJ: Spřežení č. 11, rok 1989, strana nezjištěna
+# ZDROJ: Spřežení č. 11, rok 1989, s. 10
 # SOUBOR: 55-1989-05_sprezeni_c_11.pdf
 # PDF_STRANA: 12
-# TISTENA_STRANA: nezjištěna
-# OCR: tesseract-5.3.4 / ces / conf 37.1
+# TISTENA_STRANA: 10
+# OCR: vision (AI dočtení, tesseract conf pod prahem; rotovaná tabulka, sloupce naroz/živá/mrtvé/úhyn/utrac/přihl.k zápisu/hmotn./věk ověřeny součtovou kontrolou)
 ---
-*N*u*43S YYSVHYHLY
-v/tvÍ vt - * x
-: nopof zn SOHLY
-pre 8J vfrya
-S/TÍ WTI 9/2 x
-B9*4PT HNY-KYTY
-prav VHODYD
-</£ $ 0/11 0/11 2/11 £/S| 9/49 x
-Apus.re4 UVG
-A9T*JE VTTROHTNY
-v/a | 0/T| W . s/£ | 9/£ *
-G9. 6A92*G7T OMOTTVY
-BYGBOVY VNVLYV
-i 1/2 | 2/0 2/1 | £/z | S/£ x
-£49TP1 2 0804
-k zá
-i nY9Vy ITOP VISY
-z 3G9£ t/T T/T | 1/1 "ns
-€y91*gW] OHOTTYV
-18'c W992VY VOIAMY
-=— | 322y | 2/1 1/o| ol ol v/t1| 9/1 x
-= ANT*2dH JO NHNIV
-$y*o BYT10%*234 ASSIH
-Za | "os | c/z | 2/1 - | SE | se sd
-= 2 Wy94*07T DMOTIVY
-zbo | 3 A9T*PBIH VNHY
-yj vsS | 0/61 2/c a/£ | 2/£
-spuerej HY
-po“o - *doy-uoge41 vyUnA
--3 S62 | z/č z/o | t/o| v/z | 9/č x
-*doy-uogoly XANVO
-ENENERERENKSKNKSENE
-99TAOUBAPBHY
-fu sowurez
-RWWOL
-VL n Ádsts
-paoxydny
-BUBT
-90puzLy0y
-BSBY
-T948
-U9Z IA
-yoeTU9PTOJ
-1381
-pPO45
-Ja KuuussTA
-P?4ŽTyY
-9 DION
-BaAOJ92ny
-vAuSTA
-—
-JSYo*Uu 401150
-RAOIONS0U9SOI
-4 BZ
-9911039
-BAOYAÚ2 8
-BU9TSH
-FPAPTUDIA
-um'TWD
-abc 4
-Poapou
-MOTTO
-Y
-dep 4394
--Y
-A 8TyuofsTg
-UOTI2N BU
--9
-*4£0*11
-*0T*0£
-*0T 42
-"60"2T
-*e0" TE
-vy
-B10Go
-P9TTOYSN
-jem
-let
-S2T
-vweT
-12T
-81t
-LU
-STI
-VTT
+Přehled vrhů českého horského psa za r. 1988 (pokračování ze str. 9)
+
+krycí list 114 | dat.nar. 18.09. | chovná stanice B - od Jankova kopce | majitel feny Jan Chlum, Vrchlabí | generace F4
+rodiče: GANEK Třeboň-Kopeček (žb) x FURKA Třeboň-Kopeček (čb)
+štěňata: naroz 2/5, živá 2/4, mrtvé 0/1, úhyn 0/2, utrac -, přihl.k zápisu 2/2
+průměr hmotn. živě nar.št.: 298g | věk v týdnech / průměr v kg: 6/6,04
+
+krycí list 115 | dat.nar. 23.09. | chovná stanice A - Netolická obora | majitel feny Helena Matějeková, Netolice | generace F7
+rodiče: DAR Faranda (žb) x ATHÉNA Hradecký lev (čb)
+štěňata: naroz 3/2, živá 3/2, mrtvé -, úhyn -, utrac 0/2, přihl.k zápisu 3/0
+průměr hmotn. živě nar.št.: 554g | věk v týdnech / průměr v kg: 7/6,42
+
+krycí list 117 | dat.nar. 01.09. | chovná stanice A - Zlatá trubka | majitel feny Dagmar Fošenbauerová, Ostrov n.Ohří | generace F6
+rodiče: AALBORG Labutí řeka (čb) x BESSY Bačova koliba (čb)
+štěňata: naroz 3/5, živá 3/5, mrtvé -, úhyn -, utrac 1/2, přihl.k zápisu 2/3
+průměr hmotn. živě nar.št.: 565g | věk v týdnech / průměr v kg: 7,5/6,44
+
+krycí list 118 | dat.nar. 04.09. | chovná stanice C - na Mělích | majitel feny Blanka Kučerová, Mokré | generace F6
+rodiče: AIKEN od Hrčířských luk (žb) x ARVICA Kačabka (žb)
+štěňata: naroz 1/5, živá 1/4, mrtvé 0/1, úhyn 0/1, utrac 0/1, přihl.k zápisu 1/2
+průměr hmotn. živě nar.št.: 472g | věk v týdnech / průměr v kg: 7/5,87
+
+krycí list 121 | dat.nar. 07.09. | chovná stanice Diagonála Y | majitel feny Alfréd Eisenmayer, Stod | generace F6
+rodiče: AALBORG Labutí řeka (žb) x ASTA Údolí Kačáku (žb)
+štěňata: naroz 1/1, živá 1/1, mrtvé -, úhyn 1/1, utrac -, přihl.k zápisu -
+průměr hmotn. živě nar.št.: 385g | věk v týdnech / průměr v kg: -
+
+krycí list 122 | dat.nar. 31.08. | chovná stanice A - Pátý dráp | majitel feny Petr Heidenreich, Plzeň | generace F7
+rodiče: BORO z Milety (čb) x ARTAMA Kačabka (žb)
+štěňata: naroz 3/5, živá 2/3, mrtvé 1/2, úhyn -, utrac 0/2, přihl.k zápisu 2/1
+průměr hmotn. živě nar.št.: 334g | věk v týdnech / průměr v kg: 7/7,10
+
+krycí list 123 | dat.nar. 12.09. | chovná stanice A - Orlický medvěd | majitel feny Pavel Kaška, Rokytnice | generace F7
+rodiče: AALBORG Labutí řeka (čb) x ANDROMEDA Hradecký lev (žb)
+štěňata: naroz 3/5, živá 3/5, mrtvé -, úhyn 0/1, utrac 1/0, přihl.k zápisu 2/4
+průměr hmotn. živě nar.št.: 446g | věk v týdnech / průměr v kg: 7/5,50
+
+krycí list 124 | dat.nar. 27.10. | chovná stanice F - Faranda | majitel feny Dana Kupková, Slapy u TA | generace F7
+rodiče: DAR Faranda (žb) x CÁCORA Faranda (žb)
+štěňata: naroz 6/5, živá 5/3, mrtvé 1/2, úhyn 1/0, utrac 1/0, přihl.k zápisu 3/3
+průměr hmotn. živě nar.št.: 514g | věk v týdnech / průměr v kg: 7/6,45
+
+krycí list 125 | dat.nar. 30.10. | chovná stanice G - Faranda | majitel feny Dana Kupková, Slapy u TA | generace F7
+rodiče: ALAM-KUH Labutí řeka (žb) x DÁJA Faranda (žb)
+štěňata: naroz 2/6, živá 2/6, mrtvé -, úhyn -, utrac 1/1, přihl.k zápisu 1/5
+průměr hmotn. živě nar.št.: 434g | věk v týdnech / průměr v kg: 7/6,11
+
+krycí list 127 | dat.nar. 14.07. | chovná stanice A - Fifanka | majitel feny Tomáš Zámostný, Radvanovice | generace F7
+rodiče: ATHOS Už jedou (žb) x ATHABASKA Stráž nad Nežárkou (žb)
+štěňata: naroz 2/5, živá 2/5, mrtvé -, úhyn -, utrac 1/1, přihl.k zápisu 1/4
+průměr hmotn. živě nar.št.: 482g | věk v týdnech / průměr v kg: 7/7,20

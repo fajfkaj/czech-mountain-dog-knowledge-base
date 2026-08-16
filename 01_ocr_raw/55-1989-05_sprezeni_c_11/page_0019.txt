@@ -1,10 +1,11 @@
-# ZDROJ: Spřežení č. 11, rok 1989, strana nezjištěna
+# ZDROJ: Spřežení č. 11, rok 1989, s. 17
 # SOUBOR: 55-1989-05_sprezeni_c_11.pdf
 # PDF_STRANA: 19
-# TISTENA_STRANA: nezjištěna
-# OCR: tesseract-5.3.4 / ces / conf 65.2
+# TISTENA_STRANA: 17
+# OCR: vision (AI dočtení, tesseract conf pod prahem; strana obsahuje dvě celostránkové fotografie psů)
 ---
-s" =
-LuBoví Vírězové 89
-: k ;
-CENTA Z VLAŽINKY
+KLUBOVÍ VÍTĚZOVÉ 89
+
+[Fotografie: pes českého horského psa (bíločerný) ve výstavním postoji, foceno zprava. Popisek: DAR FARANDA]
+
+[Fotografie: pes českého horského psa (bíločerný, s tmavou hlavou) ve výstavním postoji, foceno zprava. Popisek: CENTA Z VLAŽINKY]

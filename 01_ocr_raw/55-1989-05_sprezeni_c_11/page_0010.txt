@@ -1,52 +1,49 @@
-# ZDROJ: Spřežení č. 11, rok 1989, strana nezjištěna
+# ZDROJ: Spřežení č. 11, rok 1989, s. 8
 # SOUBOR: 55-1989-05_sprezeni_c_11.pdf
 # PDF_STRANA: 10
-# TISTENA_STRANA: nezjištěna
-# OCR: tesseract-5.3.4 / ces / conf 45.9
+# TISTENA_STRANA: 8
+# OCR: vision (AI dočtení, tesseract conf pod prahem; rotovaná tabulka, sloupce naroz/živá/mrtvé/úhyn/utrac/přihl.k zápisu/hmotn./věk ověřeny součtovou kontrolou)
 ---
-|
-dOLE
-D9
-3ozy
-AL1+
-3409
-e/ě |
-1/1
-0/T
-e/£
-/n
-v/9
-£/£
-a/z
-€/£
-99 UY98YBY VNOOHY *30ji"u a9TTOS
-x 94 oTyguz euTJ9pZ |*L0"90 | TOT
-az BPUBI8I NYHID 990 |
-*A8(-Pn39 VITVIVEV "Tu soTuousy
-x G4 VYTH Exe1 T1nawT 66
-134409 HOSILUV ABTSOJBĚ -9
-EX94*GPI VDMISE *T1*u soTuemray
-x LA 86 '
-XNT“2IH PO HTXIV
-*doj-901p VNNIHMOA
-x 94 16
-MNT*24H PO KDITY
-PZOAU*ZIVT ISSTH AFUJ0A48p
-x GVTEH *TO*LT | £6
-02 VAGBIBY JVDVHY ABTSOTB
-ÁxUTZVTA Z VXY
-x
-az *doy-994L, HHOIA
-umTY9
-vi BJORN seT fxsueig |[*C0"20 | 26
-UTZPeE -v
-SpuBIVA VYHOU *s+d 0429118
-x 94 eweToď
-99 | BX8J*4FI OHOTTVY Jesop
-0281 9T872
-ata Ausj Tezjfvu | eoTue3s puaoyo | reu+3ep|.18TT
-104 D
-906T *1 8z ewd ougys1ou 0497892 NYJA P9TYVIT
-AJUZz2uS |*20*C2 | 68
-ž š | 8
-5 4 | 8
+Přehled vrhů českého horského psa za r. 1988
+
+krycí list 89 | dat.nar. 23.02. | chovná stanice A - Sněžník | majitel feny Josef Polanský, St.Město p.S. | generace F6
+rodiče: AALBORG Labutí řeka (čb) x BORKA Faranda (žb)
+štěňata: naroz 4/4, živá 4/3, mrtvé 0/1, úhyn 1/1, utrac 0/1, přihl.k zápisu 3/1
+průměr hmotn. živě nar.št.: 289g | věk v týdnech / průměr v kg: 5/4,01
+
+krycí list 92 | dat.nar. 02.03. | chovná stanice A - Blanský les | majitel feny Bedřich Krákora, Chlum | generace F4
+rodiče: EIGER Třeboň-Kopeček (žb) x AXA z Vlažinky (čb)
+štěňata: naroz 1/4, živá 1/4, mrtvé -, úhyn 0/2, utrac -, přihl.k zápisu 1/2
+průměr hmotn. živě nar.št.: 554g | věk v týdnech / průměr v kg: ?
+
+krycí list 93 | dat.nar. 17.01. | chovná stanice B - Pradědova louka | majitel feny Jaroslav Halama, Javorník | generace F6
+rodiče: ARAGAC Kačabka (čb) x HESSI Lužický hvozd (čb)
+štěňata: naroz 2/2, živá 2/2, mrtvé -, úhyn -, utrac -, přihl.k zápisu 2/2
+průměr hmotn. živě nar.št.: 404g | věk v týdnech / průměr v kg: 6/5,13
+
+krycí list 96 | dat.nar. 07.04. | chovná stanice A - Jasná záře | majitel feny Jiří Skrbek, Pipice | generace F7
+rodiče: DAR Faranda (žb) x AMALTHEA Hradecký lev (žb)
+štěňata: naroz 1/2, živá 1/2, mrtvé -, úhyn 0/1, utrac -, přihl.k zápisu 1/1
+průměr hmotn. živě nar.št.: 417g | věk v týdnech / průměr v kg: 8/7,18
+
+krycí list 97 | dat.nar. 09.05. | chovná stanice D - z Vlažinky | majitel feny Petr Elster, Dačice | generace F6
+rodiče: AIKEN od Hrčířských luk (žb) x FORTUNA Třeboň-Kopeček (čb)
+štěňata: naroz 3/3, živá 3/3, mrtvé -, úhyn 0/1, utrac -, přihl.k zápisu 3/2
+průměr hmotn. živě nar.št.: ? | věk v týdnech / průměr v kg: 7/3,99
+
+krycí list 98 | dat.nar. 09.04. | chovná stanice D - Labutí řeka | majitel feny Jaroslav Říha, Kamenice n.L. | generace F7
+rodiče: AIKEN od Hrčířských luk (žb) x BELUGA Labutí řeka (čb)
+štěňata: naroz 5/1, živá 5/1, mrtvé -, úhyn 4/0, utrac 0/1, přihl.k zápisu 1/0
+průměr hmotn. živě nar.št.: 428g | věk v týdnech / průměr v kg: 5/5,30
+
+krycí list 99 | dat.nar. 04.04. | chovná stanice C - Labutí řeka | majitel feny Jaroslav Říha, Kamenice n.L. | generace F5
+rodiče: ARTISON Severní vítr (žb) x ATACAMA Studená-Javořice (žb)
+štěňata: naroz 3/7, živá 1/5, mrtvé 2/2, úhyn -, utrac 0/4, přihl.k zápisu 1/1
+průměr hmotn. živě nar.št.: 565g | věk v týdnech / průměr v kg: 6/6,35
+
+krycí list 101 | dat.nar. 06.07. | chovná stanice C - Zděřina | majitel feny Josef Změtlo, Police n.Met. | generace F6
+rodiče: CIRAN Faranda (žb) x ARCONA Kačabka (čb)
+štěňata: naroz 6/4, živá 6/4, mrtvé -, úhyn 3/0, utrac 1/2, přihl.k zápisu 2/2
+průměr hmotn. živě nar.št.: 370g | věk v týdnech / průměr v kg: ?
+
+(tabulka pokračuje na str. 9)

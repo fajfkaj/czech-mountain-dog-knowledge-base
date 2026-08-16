@@ -1,37 +1,39 @@
-# ZDROJ: Spřežení č. 11, rok 1989, strana nezjištěna
+# ZDROJ: Spřežení č. 11, rok 1989, s. 18
 # SOUBOR: 55-1989-05_sprezeni_c_11.pdf
 # PDF_STRANA: 20
-# TISTENA_STRANA: nezjištěna
-# OCR: tesseract-5.3.4 / ces / conf 70.9
+# TISTENA_STRANA: 18
+# OCR: vision (AI dočtení, tesseract conf pod prahem; obsahuje fotografii)
 ---
-zi 8
 Přehled všech klubových vítězů ČHP
-i u 7 KYDSESTE==
-(1982 - České Budějovice - 4 ČHP
-ské: ARARAT Třebon=Kopeček
-1983 + České Budějovice - 10 ČHP
-PRED Třeboň-Kopeček
-DIKTÉ Třeboň=Kopečok
-1984 - České Budějevice - 15 ČHP
-GUARA Třebon-Kopeček
+
+1982 - České Budějovice - 4 ČHP
+ARARAT Třeboň-Kopeček
+
+1983 - České Budějovice - 10 ČHP
+FRED Třeboň-Kopeček
+DIKTÉ Třeboň-Kopeček
+
+1984 - České Budějovice - 15 ČHP
+GUARA Třeboň-Kopeček
+
 1985 - České Budějovice - 29 ČHP
-ARTISON' Severní vítr
-GUARA Třeboň=Kopeček (zároven nejkrásnější
-| celé výstavy)
-1986 - Brno - Žebětín = 9 ČEP É
-ALAM=KUH Labutí řeka
-CÁCORA Farénda
+ARTISON Severní vítr
+GUARA Třeboň-Kopeček (zároveň nejkrásnější fena celé výstavy)
+
+1986 - Brno - Žebětín - 9 ČHP
+ALAM-KUH Labutí řeka
+CÁCORA Faranda
+
 1987 - Litoměřice - 40 ČHP
-ALAM=KUH Labutí řeka
-ARACAJŮ Kačabka,
-1968 - Litoměřice - 44 ČHP
+ALAM-KUH Labutí řeka
+ARACAJÚ Kačabka
+
+1988 - Litoměřice - 44 ČHP
 AALBORG Labutí řeka
-DÁJA Farande.
-ba B z ý DKK =
-2989. — Brno - 15 ČEP
-6 | DAR Faranda.
+DÁJA Faranda
+
+1989 - Brno - 15 ČHP
+DAR Faranda
 CENTA z Vlažinky
-foto I.Králová - Litoměřice 67 - zleva: Cusra Třeboň-Kopeček,
-Cúcora Farnnda, Dája Faranda, Aeta Údolí Kačíku, Alsm-Kuh Labutí
-řeka,
-Ý “ ve
+
+[Fotografie: pět psů českého horského psa leží/sedí na zemi pod dřevěnou lavicí s výstavními taškami a poháry. Popisek: foto I.Králová - Litoměřice 87 - zleva: Guara Třeboň-Kopeček, Cácora Faranda, Dája Faranda, Asta Údolí Kačáku, Alam-Kuh Labutí řeka.]

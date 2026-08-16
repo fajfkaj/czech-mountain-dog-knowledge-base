@@ -1,86 +1,59 @@
-# ZDROJ: Spřežení č. 11, rok 1989, strana nezjištěna
+# ZDROJ: Spřežení č. 11, rok 1989, s. 9
 # SOUBOR: 55-1989-05_sprezeni_c_11.pdf
 # PDF_STRANA: 11
-# TISTENA_STRANA: nezjištěna
-# OCR: tesseract-5.3.4 / ces / conf 42.7
+# TISTENA_STRANA: 9
+# OCR: vision (AI dočtení, tesseract conf pod prahem; rotovaná tabulka, sloupce naroz/živá/mrtvé/úhyn/utrac/přihl.k zápisu/hmotn./věk ověřeny součtovou kontrolou)
 ---
-M
-na
-ti
--+
-a
-1
-a
-haj
-=
-al
-bý by
-m m
-o 4o
-Va) 1
-1/1
-0/1
-Mogod £Ipon VGTY
-x
-€X94*GVI OHOSTYV
-9odox*( po VNITAGY
-EyaBIEY ovově
-*y0d“gng Po VHYHGV
-UpUe ND
-sodox*
-Xuer po 1GNY
-F2a9z*T9A oraz
-Xo30d $upoy VLANY
-*ABP-PNYg SVTIV
-*A*AU8f PO INIVIA
-Exe“ GPT TAVTNY
-BX04*
-A9T HZLUVE
-x
-ANT*21H PO KTYIY
-BPUV4B
-YNIEVO
-x
-1+7A*49S NOSILUV
-A9T*PRIH SINALEV
-x
-spuere UYT
-upueeI VXTY
-x
-*ABC-Pn3S SWILY
-40
-Ieudey Á40y1 9z
-Josor -€
-FaeTUDJA
-ASgYTBA €pep$a0
-U9TXPTO -Ď
-epep940
--€
-i 56
- HOfNSXF2JH PO
-Y
-nTe4yfez po
--v
-Ayoues
-$
-nPRITBTBY k:
-nopef zn
--9
-*60*Lz
-*90*9T
-*Go*1T
-g
-“
-a
-*10*G
-"60*6
-(IT
-elit
-TU
-OTT
-90T
-LOT
-901
-voT
-£0T
-20T
+Přehled vrhů českého horského psa za r. 1988 (pokračování ze str. 8)
+
+krycí list 102 | dat.nar. 22.02. | chovná stanice B - Severní vítr | majitel feny Vít Švancara, Valdov | generace F4
+rodiče: ATLAS Studená-Javořice (čb) x AIKA Faranda (čb)
+štěňata: naroz 1/0, živá 1/0, mrtvé -, úhyn -, utrac -, přihl.k zápisu 1/0
+průměr hmotn. živě nar.št.: 550g | věk v týdnech / průměr v kg: 8/9,50
+
+krycí list 103 | dat.nar. 19.09. | chovná stanice D - Už jedou | majitel feny Eva Loučková, Královice | generace F7
+rodiče: DAR Faranda (žb) x ARTEMIS Hradecký lev (čb)
+štěňata: naroz 1/3, živá 1/3, mrtvé -, úhyn -, utrac 0/2, přihl.k zápisu 1/1
+průměr hmotn. živě nar.št.: 503g | věk v týdnech / průměr v kg: 6/5,73
+
+krycí list 104 | dat.nar. 09.07. | chovná stanice C - Už jedou | majitel feny Eva Loučková, Královice | generace F5
+rodiče: ARTISON Severní vítr (žb) x CABINA Faranda (žb)
+štěňata: naroz 6/4, živá 5/3, mrtvé 1/1, úhyn -, utrac 1/1, přihl.k zápisu 4/2
+průměr hmotn. živě nar.št.: 563g | věk v týdnech / průměr v kg: ?
+
+krycí list 106 | dat.nar. 15.07. | chovná stanice A - Údolí kamarádů | majitel feny Jaromír Dobrý, Vidžín | generace F7
+rodiče: AIKEN od Hrčířských luk (žb) x BARTER Labutí řeka (čb)
+štěňata: naroz 6/5, živá 4/5, mrtvé 2/0, úhyn 2/3, utrac -, přihl.k zápisu 2/2
+průměr hmotn. živě nar.št.: 392g | věk v týdnech / průměr v kg: 8/7,85
+
+krycí list 107 | dat.nar. 29.08. | chovná stanice A - z Podkrkonošské samoty | majitel feny Radko Kleinwächter, Hvězda | generace F6
+rodiče: AKLAVIK Labutí řeka (žb) x BLACKY od Jankova kopce (čb)
+štěňata: naroz 2/4, živá 2/4, mrtvé -, úhyn -, utrac -, přihl.k zápisu 2/4
+průměr hmotn. živě nar.št.: 533g | věk v týdnech / průměr v kg: ?
+
+krycí list 108 | dat.nar. 17.05. | chovná stanice A - od Zejhralu | majitel feny Jiří Müller, Studená | generace F6
+rodiče: ATLAS Studená-Javořice (čb) x ANETA Modrý potok (žb)
+štěňata: naroz 0/6, živá 0/4, mrtvé 0/2, úhyn -, utrac -, přihl.k zápisu 0/4
+průměr hmotn. živě nar.št.: 435g | věk v týdnech / průměr v kg: 7,5/6,88
+
+krycí list 110 | dat.nar. 16.06. | chovná stanice od Hrčířských luk | majitel feny Petr Kobr, Pec p.Sněž. | generace F7
+rodiče: BRITBACK Velká závěj (žb) x ANDY od Jankova kopce (žb)
+štěňata: naroz 3/0, živá 3/0, mrtvé -, úhyn 3/0, utrac -, přihl.k zápisu -
+průměr hmotn. živě nar.št.: ? | věk v týdnech / průměr v kg: -
+
+krycí list 111 | dat.nar. 16.07. | chovná stanice B - Ovčedáda | majitel feny Oldřich Valášek, Vrchlabí | generace F6
+rodiče: CIRAN Faranda (žb) x ADHARA od Bubákova potoka (žb)
+štěňata: naroz 5/4, živá 4/4, mrtvé 1/0, úhyn 1/1, utrac 2/2, přihl.k zápisu 1/1
+průměr hmotn. živě nar.št.: 412g | věk v týdnech / průměr v kg: 8/7,25
+
+krycí list 112 | dat.nar. 28.07. | chovná stanice C - Ovčedáda | majitel feny Oldřich Valášek, Vrchlabí | generace F6
+rodiče: ARAGAC Kačabka (čb) x ADELINA od Jankova kopce (čb)
+štěňata: naroz 3/3, živá 3/3, mrtvé -, úhyn -, utrac 0/2, přihl.k zápisu 3/1
+průměr hmotn. živě nar.št.: 378g | věk v týdnech / průměr v kg: 6,5/4,55
+
+krycí list 113 | dat.nar. 27.09. | chovná stanice B - ze Lhoty | majitel feny Josef Hepnar, Lhota | generace F6
+rodiče: AALBORG Labutí řeka (čb) x ALTA Modrý potok (čb)
+štěňata: naroz 3/2, živá 3/2, mrtvé -, úhyn -, utrac -, přihl.k zápisu 3/2
+průměr hmotn. živě nar.št.: 458g | věk v týdnech / průměr v kg: 7/4,58
+
+(tabulka pokračuje na str. 10)
