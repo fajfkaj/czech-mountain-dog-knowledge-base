@@ -1,44 +1,38 @@
-# ZDROJ: Spřežení č. 11, rok 1989, strana nezjištěna
+# ZDROJ: Spřežení č. 11, rok 1989, s. 41
 # SOUBOR: 55-1989-05_sprezeni_c_11.pdf
 # PDF_STRANA: 43
-# TISTENA_STRANA: nezjištěna
-# OCR: tesseract-5.3.4 / ces / conf 84.3
+# TISTENA_STRANA: 41
+# OCR: vision (AI dočtení, tesseract conf pod prahem; obsahuje reklamní vizitku)
 ---
-c KÍ =
-GICKÉ POTREBY —— Vybavení pro psa - vodítka, řemínky,
-postroje nabízí:
+[Vizitka: OROSI - KYNOLOGICKÉ POTŘEBY, VLADIMÍR OROSI, 985 05 Kokava nad Rimavicou, Ďurovka 667, tel. 0864/932 43]
+
+Vybavení pro psa - vodítka, řemínky, postroje nabízí:
 Vladimír Orosi
-Ďúrovka 667
-Kokava nad Rinavicou
+Ďurovka 667
+Kokava nad Rimavicou
 985 05
 tel.: 0864 / 932 43
-VLADIMR OROSI
-U
-Jam Šilhavý, Jindřicha Plachty 189, 403 31 Ústí nad Labem - Mojžíř
-PRODÁ. fenu - GINDA Modrý potek, žb, nar. 9.12.1987
-otec: Alam=Kuh Labutí řeka
+
+Jan Šilhavý, Jindřicha Plachty 189, 403 31 Ústí nad Labem - Mojžíř
+
+PRODÁ fenu - CINDA Modrý potok, žb, nar. 9.12.1987
+otec: Alam-Kuh Labutí řeka
 matka: Atacama Severní vítr
-Zlutobílá štěnata po výborných rodičích prodá: M.Rňžičková,
+
+Žlutobílá štěňata po výborných rodičích prodá: M.Růžičková,
 Loužnice 39
 468 23
-5 0 S P OS O OY OVP PTT ET VNO,
+
 další vzpomínání
-U nás u Jakuba máme takové menší psí království. Každý má toho svého, ale
-vcelku máme radost ze všech.
-i V posledním SPŘEŽENÍ (10.srpna 1988) jeme litovali našeho společného kamará-
-da, Petra Heidenreicha a jeho Berta. Pozorně jsme prohlédli obrázek, na kterém
-přímo u Petra je Bárty, spolubojovníce na závodech a také kámoška, Je to nnad
-osud, 25.11.88 nešťastnou náhodou v lese přišla o život pod koly třžkého lesního
-traktoru: c++«
-Nechala nám tu dva potonky - Aikido a Arviku.
-Tato milá a houževnatá Bárty (BARTER Labutí řeka, 14.4.1986) byla ve výborné
-formě připravena na zimu. Už není..+«
-Chybí nám všem, ale nejvíce majiteli Jaromíru Dobrému. Ten tejně utírá slzy
-c
-a sliluje Arvice, že z ní udělá rovnocennou nástupkyni ze. Bárty, Se smutnýma oči-
-ma nám říká, že 1 chlapi dovedou plskat...«.
+
+U nás u Jakuba máme takové menší psí království. Každý má toho svého, ale vcelku máme radost ze všech.
+V posledním SPŘEŽENÍ (10.srpna 1988) jsme litovali našeho společného kamaráda, Petra Heidenreicha a jeho Berta. Pozorně jsme prohlédli obrázek, na kterém přímo u Petra je Bárty, spolubojovnice na závodech a také kámoška. Je to snad osud. 25.11.88 nešťastnou náhodou v lese přišla o život pod koly těžkého lesního traktoru....
+Nechala nám tu dva potomky - Aikido a Arviku.
+Tato milá a houževnatá Bárty (BARTER Labutí řeka, 14.4.1986) byla ve výborné formě připravena na zimu. Už není....
+Chybí nám všem, ale nejvíce majiteli Jaromíru Dobrému. Ten tajně utírá slzy a slibuje Arvice, že z ní udělá rovnocennou nástupkyni za Bárty. Se smutnýma očima nám říká, že i chlapi dovedou plakat.....
+
 přátelé od Jakuba z Údolí kamarádů
-o n AD VSP 0)
-SPŘEŽENÍ - časopis Klubu chovatelů českého horského psa vychází pouze pro členy
-klubu. Konečnou redakci a přípravu pro tisk provádí:
+
+SPŘEŽENÍ - časopis Klubu chovatelů českého horského psa vychází pouze pro členy klubu. Konečnou redakci a přípravu pro tisk provádí:
+
 Oldřich Kupka, 391 76 Slapy u Tábora 45
