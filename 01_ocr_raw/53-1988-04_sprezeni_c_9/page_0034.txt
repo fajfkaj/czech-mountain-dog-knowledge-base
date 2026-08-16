@@ -1,112 +1,49 @@
-# ZDROJ: Spřežení č. 9, rok 1988, strana nezjištěna
+# ZDROJ: Spřežení č. 9, rok 1988, s. 32
 # SOUBOR: 53-1988-04_sprezeni_c_9.pdf
 # PDF_STRANA: 34
-# TISTENA_STRANA: nezjištěna
-# OCR: tesseract-5.3.4 / ces / conf 31.4
+# TISTENA_STRANA: 32
+# OCR: vision (AI dočtení, tesseract conf pod prahem); tabulka otočená o 90°, zde přepsána v běžném čtecím pořadí; jedno jméno psa v řádku 15 nečitelné
 ---
-T9:*6T:T
-8S*G0:T
-pp:G0:T
-90:60:T
-£0:66
-3 ká 4
-9£:CG
-ob:lý
-Tb:66
-£0:0»
-po: 6£
-886T*C*G
-ti
-V]
-8
-BS
-HS
-Josor xofo3en *2
-ATUTPETA XFU200Z */
-TATO BzIJa +9
-ABTOBA Piny *G
-uUBAT fusoucy *+
-OxPey BYJNOT *£
-JTUTPVTA Xeuo9ď *Z
-Jeso( sedey *T
-Ď 9T405035
-1394 19351 *£
-uep Kfuezej *z
-uBAT 340aTS *T
-E oT10J036x
-L8 AOYOBIIRH
-e8T*62:T
-96:$T:T
-po*£T:T
-S0:0T:T
-£0:L0:T
-9€:G01T
-66+40:T
-Op:£o:T
-99:20:T
-8£:TO'T
-2T:00:T
-66:16
-by:lS
-Ly:S6
-96:46
-64:16
-T6:£G
-9b:£6
-TZ:£6
-92:16
-40:6b
-TL:4b
-ožuT)
-vusuzy
-suTTg
-4144
-T994
-meny
-AT1AIY
-UOTATY
-XO8TE
-Kyong
-xfeg
-uBar9
-ueT4
-Tieg
-oT110G
-exJy
-souty
-usg
-uag
-uexseTyY
-48 nB888
-M:
-B8xB8a
-ON
-"ZTE
-4H)
-B
-TED
-4)
-wueT BAOI938TA *22
-Jesop yefsjen *TZ
-ABTSOIE, PYTH *02
-seTy xednxodď *6T
-Xeuspz 1419404 *9T
-ARTSTPVI TBY9TA *LI
-uef xe49g04 *9T
-UTAJEN ZISM "SI
-130d X99jT393S *bI
-Xauepz Tezemez *(T
-1301 Aoyosgd *2T
-ABTSOIep uTWoy *IT
-ABTSOTTM X9SPTOXTN *OK
-Jesop Je3sTT *6
-ef Byzouoen *8
-TeAeg TaUNL "L
-AeTSo4B8f U940y *9
-XSST1UBIT HeYDOS *G
-usa fugouoy *y
-ATUTPVTA XeyoeJ *C
-M1ag 1918TT *z2
-ATA xosnoj *T
-B6d V JVZ
-VNIHALVX | YLYAS
+SVATÁ KATEŘINA                                                       5.3.1988
+
+Lyžař a pes
+ 1. Fousek Vít               SH    Alaskan    47:11
+ 2. Elster Petr               ČHP   Ben        49:04
+ 3. Pechek Vladimír           ČHP   Ben        51:26
+ 4. Konečný Ivan              ČHP   Athos      53:21
+ 5. Pechek František          ČHP   Afré       53:46
+ 6. Koten Jaroslav            ČHP   Berrio     53:51
+ 7. Tunkl Pavel               kříž. Bari       54:49
+ 8. Machotka Jan              NO    Flam       54:56
+ 9. Elster Josef              ČHP   Ciran      55:47
+10. Mikolášek Miloslav        ČHP   Bajk       57:44
+11. Komín Jaroslav            SH    Ducky      57:59
+12. Pechek Petr               ČHP   Black      1:00:12
+13. Zamazal Zdeněk            ČHP   Albion     1:01:38
+14. Šterlíček Petr            AM    Arktik     1:02:46
+15. Kříž Martin               ČHP   [nečitelné] 1:03:40
+16. Voběrek Jan               AM    Anew       1:04:39
+17. Michal Ladislav           ČHP   Bethel     1:05:36
+18. Veverka Zdeněk            SH    Brit       1:07:03
+19. Prokůpek Aleš             ČHP   Bigina     1:10:05
+20. Ríba Jaroslav             ČHP   Beluga     1:13:24
+21. Matějek Josef             ČHP   Athéna     1:14:36
+22. Elsterová Dana            ČHP   Čingo      1:25:18
+
+Kategorie B
+1. Síbrt Ivan          SH     39:04
+2. Pečený Jan          SH     40:03
+3. Elster Petr         ČHP    55:41
+
+Kategorie C
+1. Nečas Josef         SH     47:49
+2. Pechek Vladimír     ČHP    53:36
+3. Loučka Radko        ČHP    54:43
+4. Konečný Ivan        ČHP    59:03
+5. Kůta Václav         AM     1:05:06
+6. Bříza Jiří          ČHP    1:05:44
+7. Zborník Vladimír    AM     1:05:58
+8. Matějek Josef       ČHP+AM 1:19:41
+
+[fotografie: skupina lyžařů se psy na sněhu, v pozadí dřevěný plot]
+Harrachov 87

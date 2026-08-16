@@ -258,19 +258,19 @@
     },
     {
       "pdf_strana": 33,
-      "tistena_strana": "nezjištěna",
+      "tistena_strana": "31",
       "conf": 82.9,
-      "ocr_metoda": "tesseract-low",
-      "pocet_slov": 22,
-      "znaku": 128
+      "ocr_metoda": "vision",
+      "pocet_slov": 62,
+      "znaku": 439
     },
     {
       "pdf_strana": 34,
-      "tistena_strana": "nezjištěna",
+      "tistena_strana": "32",
       "conf": 31.4,
-      "ocr_metoda": "tesseract-low",
-      "pocet_slov": 183,
-      "znaku": 1040
+      "ocr_metoda": "vision",
+      "pocet_slov": 210,
+      "znaku": 1790
     },
     {
       "pdf_strana": 35,
