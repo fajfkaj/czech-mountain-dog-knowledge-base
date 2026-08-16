@@ -1,52 +1,64 @@
-# ZDROJ: Spřežení č. 8, rok 1987, strana nezjištěna
+# ZDROJ: Spřežení č. 8, rok 1987, s. 25
 # SOUBOR: 52-1987-11_sprezeni_c_8.pdf
 # PDF_STRANA: 27
-# TISTENA_STRANA: nezjištěna
-# OCR: tesseract-5.3.4 / ces / conf 84.9
+# TISTENA_STRANA: 25
+# OCR: vision (AI dočtení, tesseract conf pod prahem)
 ---
-= 25 =
-Vybavení = závodní pulka je laminátová a je kryta víkem, rovněž z umělé hmoty. Vzadu má
-anténu (obr.č.5), zabranující tahání lanka po sněhu. Oj i postroj může být libovol=
-ný za předpokladu, že nezraní psa» Na obr.č.6 je používaný postroj ve Skandinávii
-pro tahání pulky, na obreče7 jsou používané typy oje, obr.č.8 ukazuje psa zapřaže«
+- 25 -
+
+Vybavení - závodní pulka je laminátová a je kryta víkem, rovněž z umělé hmoty. Vzadu má
+anténu (obr.č.5), zabraňující tahání lanka po sněhu. Oj i postroj může být libovol-
+ný za předpokladu, že nezraní psa. Na obr.č.6 je používaný postroj ve Skandinávii
+pro tahání pulky, na obr.č.7 jsou používané typy oje, obr.č.8 ukazuje psa zapřaže-
 ného do pulky. Jako materiál pro oj se doporučuje sklolaminát, případně jiná vhodná
-umělá hmota. Bambus nebo jiný podobný materiál není vhodný, Ten má tendenci se ča-
-sem narovnat a pak tluče psa do hlavy (obreč.9).
+umělá hmota. Bambus nebo jiný podobný materiál není vhodný. Ten má tendenci se ča-
+sem narovnat a pak tluče psa do hlavy (obr.č.9).
 Opasek lyžaře má být z bezpečnostních důvodů na zádech nejméně 7 cm široký (přes
-dva obratle). Vpředu má býk opatřen otevřeným hákem (ne karabinou apode), aby se
+dva obratle). Vpředu má být opatřen otevřeným hákem (ne karabinou apod.), aby se
 lanko mohlo před sjezdem a nebezpečným místem vypnout.
-Výcvik psa :
-Pes je ovládán jen povoly, nesmí se používat bič nebo hůi. Změna povelu se nacví-
-čuje nejlépe v létě se psem na řemínku. Pes 'to nejlépe pochopí, zabočuje=li v ulicí za
-roh. Těsně před změnou směru dáme povel; po odbočení se musf pes pochválit. Povel spo-
-jený so změnou směru so stane pro psa samozřejhým. Není dobré nutit psa jiným směrem,
-pokud nedostal včas k tomu povel, : . ,
-Ve švédštině zní povel pro odbočení dopravá h og er , zdůrazní se © ve slově,
-Slovo hóger se pronsse prudce zpívaným hlasem, Doleva zní jinak + vanster« Rych=
-lý a silný povol s důrazem na n ve slově. : cěěé
-Nejlepší výsledky výcviku ovládání psa dává jízda ma kole se psemo Pes se má nej
-dříve zbavit „přebytečné energie" jízdou jen tak, aby se proběhl. Tím se stane lehčeji
-cvičitolnýe Pes musí běžet vedle kola. Konec řemínku se upovní na tyči sedla nebo na
-nosiči zavazadel, za jízdy se drží řemínek v pravé ruce« : čz vě
-Při odbočení vpravo se zatáhne klidně za řemínek, zatáčí se-a velí: hooogery hooozer.
-Po odbočení se pos pochválí. Při odbočení vlevo se velí vannster, odbočí se a táhne se
-pes s sebou
+
+Výcvik psa
+
+Pes je ovládán jen povely, nesmí se používat bič nebo hůl. Změna povelu se nacvi-
+čuje nejlépe v létě se psem na řemínku. Pes to nejlépe pochopí, zabočuje-li v ulici za
+roh. Těsně před změnou směru dáme povel, po odbočení se musí pes pochválit. Povel spo-
+jený se změnou směru se stane pro psa samozřejmým. Není dobré nutit psa jiným směrem,
+pokud nedostal včas k tomu povel.
+Ve švédštině zní povel pro odbočení doprava h ö g e r , zdůrazní se ö ve slově.
+Slovo höger se pronese prudce zpívaným hlasem. Doleva zní jinak - v ä n s t e r . Rych-
+lý a silný povel s důrazem na n ve slově.
+Nejlepší výsledky výcviku ovládání psa dává jízda na kole se psem. Pes se má nej-
+dříve zbavit "přebytečné energie" jízdou jen tak, aby se proběhl. Tím se stane lehčeji
+cvičitelný. Pes musí běžet vedle kola. Konec řemínku se upevní na tyči sedla nebo na
+nosiči zavazadel, za jízdy se drží řemínek v pravé ruce.
+Při odbočení vpravo se zatáhne klidně za řemínek, zatáčí se a velí: hoooger, hoooger.
+Po odbočení se pes pochválí. Při odbočení vlevo se velí vannster, odbočí se a táhne se
+pes s sebou.
 Zpočátku se povely opakují během odbočování a je důležité, aby pes byl pochválen po
-dokončení odbočení. Někteří psi zvyšují rychlost během zatáčky. Zdá so jim, že je to zá=
+dokončení odbočení. Někteří psi zvyšují rychlost během zatáčky. Zdá se jim, že je to zá-
 bava a že se děje něco, za co dostanou pochvalu. To je pozitivní reakce u psů.
+
 Trénink psa pro závody
-Doporučuje se všestranný trénink, aby se psu jednostranné tahání pulky neomrželo.
-V létě běh se psem, tahání cyklisty, v zimě tahání lyžaře,
-Stanislav Štěpánek
-pozn.réd. = uvedené povely se používají ve Švédsku! U nás jsme se-shodli ná použ [vání
-povelů pro odbočování: vpravo = džíří
-vlevo © = hooo
-| ZHOTOVENÍ PULKY
-Pulka  SEGEBADEN=BERG fy SÁTER Švédsko
+
+Doporučuje se všestranný trénink, aby se psu jednostranné tahání pulky neomrzelo.
+V létě běh se psem, tahání cyklisty, v zimě tahání lyžaře.
+                                                                            Stanislav Štěpánek
+
+
+pozn.red. - uvedené povely se používají ve Švédsku! U nás jsme se shodli na používání
+            povelů pro odbočování:  vpravo - džííí
+                                    vlevo  - hooo
+
+
+                                    ZHOTOVENÍ PULKY
+
+
+Pulka SEGEBADEN-BERG fy SÄTER Švédsko
+
 Pulka je laminátová skořepina o síle 3 mm, z líce modře probarvená. Lyžiny jsou okovány
-mosazným páskem 20 x 2 ma, který je k laminátu přínýtováne K přednímu čelu pulky je
-dvěma Šrouby M8 přišroubován ocelový 1 m silný plech pro uchycení oje. Na plech
-jsou navařena 3 oka z drátu $ 4 mm pro řemínky, prostřední pro lanko k lyžařie Rovněž
+mosazným páskem 20 x 2 mm, který je k laminátu přinýtován. K přednímu čelu pulky je
+dvěma šrouby M8 přišroubován ocelový 1 mm silný plech pro uchycení oje. Na plech
+jsou navařena 3 oka z drátu ø 4 mm pro řemínky, prostřední pro lanko k lyžaři. Rovněž
 na zadním čele je oko. Pulka je opatřena šustákovou plachtovinou, přinýtovanou k okraji
-pro překrytí nákladu« Jako příslušenství je k pulce dodáván vak na písek pro dovažování
-na předepsanou váhu požadovanou závodními řády. Po zkušenostech s běžeckými lyžemi, kte=
+pro překrytí nákladu. Jako příslušenství je k pulce dodáván vak na písek pro dovažování
+na předepsanou váhu požadovanou závodními řády. Po zkušenostech s běžeckými lyžemi, kte-

@@ -2,8 +2,38 @@
 # SOUBOR: 52-1987-11_sprezeni_c_8.pdf
 # PDF_STRANA: 28
 # TISTENA_STRANA: nezjištěna
-# OCR: tesseract-5.3.4 / ces / conf 43.8
+# OCR: vision (AI dočtení, tesseract conf pod prahem); celostránkový technický výkres pulky s kótami, bez textu (pokračování Zhotovení pulky)
 ---
-2 Pohled „S
-PL machen
-Plech TL. 4
+Pohled "S"
+
+[technický výkres pulky - půdorys, bokorys a detaily s kótami v mm]
+1050
+"A"
+450   30
+860
+1160
+Ms ø 20 x 2
+190
+85
+36
+
+"S" (šipka směru pohledu)
+
+245
+325
+
+Det. "A"
+Měř.: 1:2
+30
+210
+20
+
+230
+150
+Plech Tl.1
+20
+35
+30
+5
+30
+ø4

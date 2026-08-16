@@ -1,30 +1,44 @@
-# ZDROJ: Spřežení č. 8, rok 1987, strana nezjištěna
+# ZDROJ: Spřežení č. 8, rok 1987, s. 19
 # SOUBOR: 52-1987-11_sprezeni_c_8.pdf
 # PDF_STRANA: 21
-# TISTENA_STRANA: nezjištěna
-# OCR: tesseract-5.3.4 / ces / conf 54.6
+# TISTENA_STRANA: 19
+# OCR: vision (AI dočtení, tesseract conf pod prahem); celostránkový technický nákres (konstrukce závodních saní s kótami), text = pouze popisky a rozměry
 ---
-Obreč, 3 = Závodní sanž
-15 až
-20 91
-pán pružina
-Kr |
-srp S z6Tm = =.. E on L F
-ý sy -8 | ! =
-| f——kování brzdy 28
-R 2 Né oko
-> JL : =
-M : +2 ba —— = :
+- 19 -
+
+Obr.č. 3 - Závodní saně
+
+[technický nákres saní z boku, s kótami: 15 až 20, 55, 122, 91, 57, 28]
+nárazník
+madlo
+saňový koš
+pružina
+brzda
+kování brzdy
+ocelové oko
 pomocná sanice
 sanice
 skluznice
-„nárazník
+
+[technický nákres: detail nárazníku]
+nárazník
+pianový pant
+
+[technický nákres: detail začepování sloupku do sanice]
 Detail začepování
 sloupku do sanice
-l
-:
-=
-+ Koma r měla
-Kování brzdy Pianový as
+
+[technický nákres: ocelové oko]
+Ocelové
+oko
+
+[technický nákres: kování brzdy]
+kování
+brzdy
+
+Kování brzdy
+
+[technický nákres: pianový pant pro uchycení brzdového prkna na příčník, kóta 50]
+Pianový pant
 pro uchycení
 brzdového prkna na příčník

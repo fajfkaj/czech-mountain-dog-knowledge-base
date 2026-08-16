@@ -1,11 +1,17 @@
-# ZDROJ: Spřežení č. 8, rok 1987, strana nezjištěna
+# ZDROJ: Spřežení č. 8, rok 1987, s. 17
 # SOUBOR: 52-1987-11_sprezeni_c_8.pdf
 # PDF_STRANA: 19
-# TISTENA_STRANA: nezjištěna
-# OCR: tesseract-5.3.4 / ces / conf 82.2
+# TISTENA_STRANA: 17
+# OCR: vision (AI dočtení, tesseract conf pod prahem); celostránkový technický nákres (postroj, lana), text = pouze popisky
 ---
--1n-
-Obr.č. 1 = Zápřah za sebou - postroje
+- 17 -
+
+Obr.č. 1 - Zápřah za sebou - postroje
+
+[technický nákres: pes v postroji z boku, s vyznačenými popruhy a přezkami]
+
+[technický nákres: postroj rozložený - popruhy, přezky, karabina]
 ocelové oko pro uchycení
 karabiny
-200
+
+[technický nákres: tažná lana s karabinami, rozměr 200 (cm)]

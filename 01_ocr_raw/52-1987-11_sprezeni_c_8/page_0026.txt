@@ -1,21 +1,39 @@
-# ZDROJ: Spřežení č. 8, rok 1987, strana nezjištěna
+# ZDROJ: Spřežení č. 8, rok 1987, s. 24
 # SOUBOR: 52-1987-11_sprezeni_c_8.pdf
 # PDF_STRANA: 26
-# TISTENA_STRANA: nezjištěna
-# OCR: tesseract-5.3.4 / ces / conf 78.2
+# TISTENA_STRANA: 24
+# OCR: vision (AI dočtení, tesseract conf pod prahem); celostránkové technické nákresy (Obr.č.7, 8, 9), text = pouze popisky
 ---
-= 24 «»
-ObreČe Ť . Oje
-Pos je důležité
+- 24 -
+
+Obr.č. 7 - Oje
+
+[technický nákres: oj tvaru U]
+Oj tvaru U
+Pes musí mít dost místa pro zadní nohy!
+
+[technický nákres: oj s obloukem]
+Oj s obloukem je stabilnější
+
+[technický nákres: pohled shora na oj s obloukem]
+Prohnutí je důležité
 Háky na připnutí
 postroje
-(6 cí
-pok
-0j s obloukem je stabilnější
-Odroč. 8
+Pohled shora
+
+
+Obr.č. 8
+
+[technický nákres: pes zapřažený do oje]
 Řemínek postroje má volně
 běhat po oji
-Obroč. 9
+
+
+Obr.č. 9
+
+[technický nákres: pes s bambusovou ojí, přeškrtnuto]
+[technický nákres: detail ohybu oje se šipkami]
+
 Bambusová oj má snahu se
-Časem narovnat = oblouk
+časem narovnat - oblouk
 tluče psa do hlavy

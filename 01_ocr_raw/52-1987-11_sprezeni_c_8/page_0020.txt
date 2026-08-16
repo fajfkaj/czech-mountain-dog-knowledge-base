@@ -1,13 +1,25 @@
-# ZDROJ: Spřežení č. 8, rok 1987, strana nezjištěna
+# ZDROJ: Spřežení č. 8, rok 1987, s. 18
 # SOUBOR: 52-1987-11_sprezeni_c_8.pdf
 # PDF_STRANA: 20
-# TISTENA_STRANA: nezjištěna
-# OCR: tesseract-5.3.4 / ces / conf 80.2
+# TISTENA_STRANA: 18
+# OCR: vision (AI dočtení, tesseract conf pod prahem); celostránkový technický nákres (zápřah, postroj), text = pouze popisky
 ---
-Obr.č. 2 « Zápřah psů wedlo sobe (GANG-HITCH)
+- 18 -
+
+Obr.č. 2 - Zápřah psů vedle sebe (GANG-HITCH)
+
+[technický nákres: schéma zapřažení tří psů]
+vůdčí pes
 LEADER
-„centrální fanko
-pomocné (krční) lanko
+
+centrální lanko - 140 cm
+pomocné (krční) lanko - 25 (cm)
+185 cm
+tažné lanko - 80 cm
+
+[technický nákres: postroj pro zápřah psů vedle sebe]
 postroj pro
 zápřah psů
-vodle sebe
+vedle sebe
+
+[technický nákres: pes zezadu s nasazeným postrojem a obojkem]
