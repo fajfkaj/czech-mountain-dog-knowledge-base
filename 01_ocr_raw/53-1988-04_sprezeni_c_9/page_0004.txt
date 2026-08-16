@@ -1,48 +1,54 @@
-# ZDROJ: Spřežení č. 9, rok 1988, strana nezjištěna
+# ZDROJ: Spřežení č. 9, rok 1988, s. 2
 # SOUBOR: 53-1988-04_sprezeni_c_9.pdf
 # PDF_STRANA: 4
-# TISTENA_STRANA: nezjištěna
-# OCR: tesseract-5.3.4 / ces / conf 84.2
+# TISTENA_STRANA: 2
+# OCR: vision (AI dočtení, tesseract conf pod prahem); tabulka - dílčí plemenná kniha (pokračování)
 ---
-BAČOVA KOLIBA 21.06,1986 F5
-František Góci, 951 03 Čeladice 11
-Back Lužický hvozd Ahessy Bačova koliba
-reg. 39/84/87, čb reg. A83/84, čb
-174 BARY čb 176 BESSY čb
-175 BREKK čb
-O ——————a
-ZDĚŘINA 25.09.1986 F6
-Josef Zmátlo, Ke strážnici 183, 549 54 Police nad Metují
-Aksas od Jankova kopce Arcona Kačabka
-reg. 57/83, žb reg. 73/84, čb
-177. AJMEN žb 180 AJKA čb
-178 ARE čb 181  AGGINA žb
-179. ASSYR čb 182 ANETT žb
-183 ARGA žb
-NA MĚLÍCH 21.11.1986 F6
-Blanka Kučerová, Mokré 87, 517 73 Opočno
-Artison Severní vítr Arvica Kačabka
-Teg+ 53/83, žb rez 75/84/8T, žb
-184  AIKEN žb 186  ADARA žb
-185  AKELA žb 187 AJŠA žb
-188 ALKA žb
-VA LOUKA 25.02.1987 F5
-Jaroslav Halama, Havlíčkova 56, 790 70 Javorník
-Artison Severní vítr Bessi Lužický hvozd
-reg. 53/83, žb reg. 41/84/87, čb
-189  ABAS čb 193  AXAWA čb
-190 ADERAT čb
-191. AGAR čb
-192  AMAN čb
-ZDĚŘINA 21.05.1987 F6
-Josef Zmátlo, Ke strážnici 182, 549 54 Police nad Metují
-Artison Severní vítr Arcona Kačabka
-194 BACK žb 196 BONA žb
-195  BODDY čb
-UŽ JEDOU 25.06.1987 F5
-Eva Loučková, Královice 105, 104 00 Praha 10 - Uhříněves
-Artison Severní vítr Cabina Faranda
-197 BERT žb 200 © BALADA žb
-198 BLESK žb 201 BIGINA žb
-199 BOREC žb 202 BOBINA žb
-203 BODLINA žb
+BAČOVA KOLIBA                                         21.06.1986          F5
+    František Géci, 951 03 Čeladice 11
+    Back Lužický hvozd                          Ahessy Bačova koliba
+    reg. 39/84/87, čb                           reg. A83/84, čb
+    174  BARY      čb                           176  BESSY     čb
+    175  BREKK     čb
+
+ZDĚŘINA                                               25.09.1986          F6
+    Josef Zmátlo, Ke strážnici 183, 549 54 Police nad Metují
+    Aksas od Jankova kopce                      Arcona Kačabka
+    reg. 57/83, žb                              reg. 73/84, čb
+    177  AJMEN     žb                           180  AJKA      čb
+    178  ARE       čb                           181  AGGINA    žb
+    179  ASSYR     čb                           182  ANETT     žb
+                                                 183  ARGA      žb
+
+NA MĚLÍCH                                             21.11.1986          F6
+    Blanka Kučerová, Mokré 87, 517 73 Opočno
+    Artison Severní vítr                        Arvica Kačabka
+    reg. 53/83, žb                              reg. 75/84/87, žb
+    184  AIKEN     žb                           186  ADARA     žb
+    185  AKELA     žb                           187  AJŠA      žb
+                                                 188  ALKA      žb
+
+PRADĚDOVA LOUKA                                       25.02.1987          F5
+    Jaroslav Halama, Havlíčkova 56, 790 70 Javorník
+    Artison Severní vítr                        Bessi Lužický hvozd
+    reg. 53/83, žb                              reg. 41/84/87, čb
+    189  ABAS      čb                           193  AXAWA     čb
+    190  ADERAT    čb
+    191  AGAR      čb
+    192  AMAN      čb
+
+ZDĚŘINA                                               21.05.1987          F6
+    Josef Zmátlo, Ke strážnici 182, 549 54 Police nad Metují
+    Artison Severní vítr                        Arcona Kačabka
+    reg. 53/83, žb                              reg. 73/84, čb
+    194  BACK      žb                           196  BONA      žb
+    195  BODDY     čb
+
+UŽ JEDOU                                              25.06.1987          F5
+    Eva Loučková, Královice 105, 104 00 Praha 10 - Uhříněves
+    Artison Severní vítr                        Cabina Faranda
+    reg. 53/83, žb                              reg. 83/84, žb
+    197  BERT      žb                           200  BALADA    žb
+    198  BLESK     žb                           201  BIGINA    žb
+    199  BOREC     žb                            202  BOBINA    žb
+                                                 203  BODLINA   žb

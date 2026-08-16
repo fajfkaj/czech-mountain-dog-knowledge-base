@@ -2,154 +2,199 @@
 # SOUBOR: 53-1988-04_sprezeni_c_9.pdf
 # PDF_STRANA: 12
 # TISTENA_STRANA: nezjištěna
-# OCR: tesseract-5.3.4 / ces / conf 75.6
+# OCR: vision (AI dočtení, tesseract conf pod prahem); netypická stránka - tabulka bonitačních znaků (pokračování formuláře bonitace, značeno "II/88")
 ---
-ZUBY 05
-O-plnochrupý
-l-chybí 1lx Pl
-2-chybí lx jiný
-z=chybí 2 zuby
+ZUBY          03
+0-plnochrupý
+1-chybí 1x P1
+2-chybí 1x jiný
+3-chybí 2 zuby
 4+ch.více zubů
-O-silná, pevná
-l-hrubá
-2- jemná
-3=glabá
-HLAVA 11
-O-typická
-1-lehká
-o-těžká, hrubá
-3=krátký nos
-4-strmý stop
-Sm=široká lebka
-O-vysoko nasaz,
-stř,dlouhý
-l-krátký
-2-nízko nasaz.
-PÁN.KONŮ. 19
-O-korektní
-l-vytoč.tlapky
-2-rozbíhavý P-
-3=úzký postoj
-4=široký postoj
-S+kravský post.
-SRST 23| ©
-O0-standardní
-l-mírně zkadeř.
-2=krátká
-3-vlajka na 00.
-4-pěš.na hřbetě
-Smotevřená
-6—-jemná
-T-řídká
-8+silně zkadeř.
-O-nůžkový
-l=volný nůžkový
+
+SKUS          04
+0-nůžkový
+1-volný nůžkový
 2+nepravidelný
 3+klešťový
 4+podkus
-S+předkus
-LYMFATIE 08
-O-není
-l=ektropium
+5+předkus
+
+POHL.VÝR.     05
+0-odpovídající
+1-nevyjádřený
+2-opačný
+
+TYP           06
+0-ideální
+1-odpovídající
+2-málo typický
+3+atypický
+
+KOSTRA        07
+0-silná, pevná
+1-hrubá
+2-jemná
+3-slabá
+
+LYMFATIE      08
+0-není
+1-ektropium
 2-převis.pysky
 3-koutky tlamy
-otevřené
-4=volná kůže
-O-tmavé,správný
-tvar,velikost,
-umístění
-l-světlejší
+   otevřené
+4-volná kůže
+
+VÝŠKA         09
+0-standardní
+   pes 62-70
+   fena 58-66
+1+menší než st.
+2+větší než st.
+
+RÁMEC         10
+0-správný
+1-kvadratický
+2-mírně delší
+3-dlouhý
+
+HLAVA         11
+0-typická
+1-lehká
+2-těžká,hrubá
+3-krátký nos
+4-strmý stop
+5-široká lebka
+
+OKO           12
+0-tmavé,správný
+   tvar,velikost,
+   umístění
+1-světlejší
 2+žluté-dravčí
 3
 4-zapadlé
-5=entropium
+5-entropium
 6-otevřené
-HRBET
-O-rovný,pevný
-l-měkký
-2=prohnutý
-Z=bedra slabá
-4rzáď strmá
-b=záď níž než
-kohoutek
-O-standardní
-l-krátký
-o-příliš stoč,
-3=nízko nesený
-4-polože na
-betě
-S=jinak vadný
-O=pevné
-l-měkké záprstí
-2-otevř.tlapky
-z-medvědí tlapy
-4-všeobecně
-uvolněné
-O-odpovídající
-l-nevyjádřený
-2-opačný
-O-standardní
-pes 62-70
-fena 58-66
-1I+menší než st.
-24+větší než st.
-O=-standardní
-l-krátké
-2=dlouhé
+
+UCHO          13
+0-standardní
+1-krátké
+2-dlouhé
 3-odstávající
 4-složené
-5=vysoko nasaz.
-6=nízko nasaz.
-7=-špatně klop.
-O-dos.k lokti
-l-mělký
-Z=ůzký
+5-vysoko nasaz.
+6-nízko nasaz.
+7-špatně klop.
+
+PIGMENT       14
+0-sytý
+1-barva srsti u
+   žb světlá
+2-růžová skvrna
+   na čenichu
+3-čenich,pysky
+   světlejší
+4+na čeň.z větš.
+   části chybí
+
+KRK           15
+0-vysoko nasaz,
+   stř.dlouhý
+1-krátký
+2-nízko nasaz.
+
+HŘBET         16
+0-rovný,pevný
+1-měkký
+2-prohnutý
+3-bedra slabá
+4-záď strmá
+5-záď níž než
+   kohoutek
+
+HRUDNÍK       17
+0-dos.k lokti
+1-mělký
+2-příl. hluboký
+3-úzký
 4-sudovitý
-S=širší
-O-standardní
-l-malá plocha
+5-širší
+
+HRUD.KONČ.    18
+0-korektní
+1-vyboč.lokty
+2-široký postoj
+3-sbíhavý post.
+
+PÁN.KONČ.     19
+0-korektní
+1-vytoč.tlapky
+2-rozbíhavý p.
+3-úzký postoj
+4-široký postoj
+5+kravský post.
+
+OCAS          20
+0-standardní
+1-krátký
+2-příliš stoč.
+3-nízko nesený
+4-položený na
+   hřbetě
+5-jinak vadný
+
+ZNAKY         21
+0-standardní
+1-malá plocha
 2-plášť
 3+souvislý pl.
 4+na těle chybí
-5+ově oči nej-
-sou ve skvrně
-O-ideální
-l-odpovídající
-2-málo typický
-3+atypický
-O-správný
-l-kvadratický
-2-mírně delší
-1-barva srsti u
-žb světlá
-2„růžová skvrna
-na čéknichu
-3-čenich,pysky
-světlejší
-4+na čeň.z větš,
-části chybí
-HRUD.KONČ.18
-O-korektní
-l-vyboč.lokty
-2-široký postoj
-3„sbíhavý post.
-l-tečky ojediň.
+5+obě oči nej-
+   sou ve skvrně
+
+BÍLÁ BAR.     22
+0-čistá
+1-tečky ojediň.
 2-tečkování,ale
-podklad bílý
+   podklad bílý
 3-melír
 4-silný melír,
-ohranič.mizí
-T) OZE
-O-prostorný
-l-noha vybočuje
+   ohranič.mizí
+
+SRST          23
+0-standardní
+1-mírně zkadeř.
+2-krátká
+3-vlajka na oc.
+4-pěš.na hřbetě
+5-otevřená
+6-jemná
+7-řídká
+8+silně zkadeř.
+
+VAZY          24
+0-pevné
+1-měkké záprstí
+2-otevř.tlapky
+3-medvědí tlapy
+4-všeobecně
+   uvolněné
+
+POHYB         25
+0-prostorný
+1-noha vybočuje
 2-neurovnaný
-3=málo vydatný
-4-tě žkopádný
-O-sebevěd,přát,
-temper.živý
-l-nejistá
-o-bázlivá
+3-málo vydatný
+4-těžkopádný
+
+POVAHA        26
+0-sebevěd,přát,
+   temper.živý
+1-nejistá
+2-bázlivá
 3-agres.ke psům
 4+agres.k lidem
 5-flegmatický
-temperament
+   temperament
+
+                                                              II/88
