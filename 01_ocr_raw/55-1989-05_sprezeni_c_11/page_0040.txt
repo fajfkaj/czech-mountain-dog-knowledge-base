@@ -2,33 +2,17 @@
 # SOUBOR: 55-1989-05_sprezeni_c_11.pdf
 # PDF_STRANA: 40
 # TISTENA_STRANA: nezjištěna
-# OCR: tesseract-5.3.4 / ces / conf 66.8
+# OCR: vision (AI dočtení, tesseract conf pod prahem; novinový výstřižek s fotografiemi z Mladé fronty, pátek 17.3.1989)
 ---
-| si mívají Křídla
-- Hlavní: saktáři 'Českoslodensko-
--sovětské expedice Ural '89,iktorou
-pomáhala připravit 1 Mladá fron-
-ta, včera odslártovalí z ruzyňské-
-ho letiště v Pruze, Předoházel tomu
-úterní odjezd tří mutů m (Pl Des-
-kých horských psů vlakem do
-Moskvy [proni dva snímky), kdy
-bylo téměř uměním nalotit do jed-
-noho kupé zásoby na šest týdnů,
-Včera odlétal vedouci expedice
-Petr Hanzlík se zbylými šesti psy
-do Moskvy letadlem, Nejdřiv;sa vše-
-ho psy uklidnil klnedryleme [třetí
-- snímek), teprve pak se čtyřnozí
-cestujici v JA pt nechali naložit
-do zavazadlového prostoru lela-
-dla, Expedice, které, se „zůčastní
-i dva. sovětští spor Jdinanco-
-vaná především 120- ed Kar-
-dašova Řečice, hre na saních a
-lyžloh přejet Ural a o jejim prů-
-běhu budeme naše čtendře Infor-
-movat. : 135)
-: FOTO: MF — P. MOLT
-4) ta
-l
+Mladá fronta, PÁTEK 17. III. 89
+
+I psi mívají křídla
+
+Hlavní aktéři československo-sovětské expedice Ural '89, kterou pomáhala připravit i Mladá fronta, včera odstartovali z ruzyňského letiště v Praze. Předcházel tomu úterní odjezd tří mužů a tří českých horských psů vlakem do Moskvy (první dva snímky), kdy bylo téměř uměním naložit do jednoho kupé zásoby na šest týdnů. Včera odlétal vedoucí expedice Petr Hanzlík se zbylými šesti psy do Moskvy letadlem. Nejdřív ze všeho psy uklidnil kinedrylem (třetí snímek), teprve pak se čtyřnozí cestující v pohodě nechali naložit do zavazadlového prostoru letadla. Expedice, které se zúčastní i dva sovětští sportovci, financovaná především JZD Rozhled Kardašova Řečice, chce na saních a lyžích přejet Ural a o jejím průběhu budeme naše čtenáře informovat.
+
+FOTO: MF - P. MOLT
+
+[Fotografie 1: muž nakládá bedny se zásobami do vlakového kupé.]
+[Fotografie 2: dva muži s dvěma psy v kožešinových čepicích/postrojích na chodbě vagónu.]
+[Fotografie 3: muž drží a uklidňuje psa.]
+[Fotografie 4: přepravní bedny pro psy na vozíku na letištní ploše.]

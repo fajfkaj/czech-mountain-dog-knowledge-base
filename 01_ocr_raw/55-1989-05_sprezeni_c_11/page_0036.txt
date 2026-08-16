@@ -1,118 +1,84 @@
-# ZDROJ: Spřežení č. 11, rok 1989, strana nezjištěna
+# ZDROJ: Spřežení č. 11, rok 1989, s. 34
 # SOUBOR: 55-1989-05_sprezeni_c_11.pdf
 # PDF_STRANA: 36
-# TISTENA_STRANA: nezjištěna
-# OCR: tesseract-5.3.4 / ces / conf 34.4
+# TISTENA_STRANA: 34
+# OCR: vision (AI dočtení, tesseract conf pod prahem; rotovaná výsledková tabulka ZADOV, pokračování ze str. 33; u tabulek "Spřežení" je druhý sloupec za jménem nejistý - patrně kategorie/počet a plemeno psů)
 ---
-U1:po:T HS
-LT:L6
-potts
-Lo:cg
-vS:a6
-Sa:26
-0:26
-20:9+
-90:1y
-va*t+
-8S:ch
-Se:6£
-8t:ot:T
-SS*00:T
-ST:69 Wy
-00:6%
-bo:8g
-92+LS
-69:96
-OT*2S
-py:TS
-ST:TS
-SO:TS
-8t'8ř
-T2:84
-ASA: 14
-62:Ly WHY
-90:Ly
-£S:94
-12:94
-9y:G+
-9£:p+
-BS:zt
-K
-64:0b
-oyte£
-x
-T + dHg £ H9TAPTO Wdny *ZT
-dH9 % IH X9gD3 *TT
-dH9 + OAPSH VADNOT *OL
-dH9 + wep mMTYD *6
-dH9 £ xowán ZueT *9
-dH9 + wep Jedyvy *L
-dH9 £ wep JI *9
-dH9 + $os0p Jeudey *G
-ES % $w9y domzsvy *y
-HS 9 Nogrywe gfoToG *£
-HS % ATUFPETA Nez9C *Z
-HS S AvTsoxep ujmoy *T
-u VT 4 Op05030y - pmezejds
-HS £ 1exs10,Jy?usp pz
-dHg £ A8TSodpy UoTIPOH *CZ
-č + dHo T FAFC vzrdA "ZZ
-WV £ ABTO$A 830x "TZ
-dH9 £ Jos0r jeuzaTIN *0Z
-dH9 2 Joso( xef9381. *6T
-ny £ A9STIWE4J UBTUD "AT
-HY £ XA2u9pz JpT0X *LT
-Wy £ AgU9PZ A9ZeP *9T
-HS £ Trunyog ardey *ST
-XY £ JTUupP8TA XPZ0 "PT
-dH9 Z 4494 ApizweH *CT
-WV Z upydew edry *2T
-dHg £ A8T0YA ©4 "IT
-T+HSC 4494 X927T593S "OT
-M £ 40304 fA8a0xz01Y +6
-my £ xeaey swnr *8
-dH9 £ T9ABS Ja0Y *L
-HS £ T9aBg JeJTeJa 9
-dH9 Z ZTUTPUTA X9uo94 *C
-dH9 £ IS Teuorar *+
-HS £ Terey xsTang *£
-HS £ JTopny $xazeaTex *Z
-HS £ Jjesofr s590N *T
-dHý
-gouoyry z o8ry ZH9
-BABTSOJTA RAOXING
-BU9IT PAOXTYSIUH
-Lp:po:T *potod fj0yuzed Blgwy ZHO | PUSTOH PAODIBAS OT
-£2:po:T epuere VUTGBY AHO BAT BAONONOT "6
-Ty:66 dH) | BIvueg pAopeTU) *8
-L2:pG NOT SAOP2PVIT JBJOPY AH) | BTABA BAOXUYdSYS "L
-Ly:zg xozod Zapoj 93Tv dH) | VUeTY PAOXTUIEC *9
-LO:6y ufTU 4usoopog exfy dHý vutTy paoyroupz *G
-60:94 spwerej €W3T JH) | PTTUPNT PAOXPOT +4
-TE:*TY nopof zn 904+Y dH9 BTFNoJgog paodesTi *£
-£z:0v VUT42PZ SAfY dH) FUTAOJVY PAOSIPUY "Z
-VS:6£ ANT UOÁXSIT9JH PO MOXTY JH) | MIPS PaoTOYOTEA "T
-W OT - Jwěz - sed v jezN
-8C:Gz:T HS xoTex gnueH *YG
-62:pT:T Ni9a08 €JZgy RXESPIY HS  JopmexeTy JeTTey (G
-82: CT:T dH9 ABTSOIBP BYTE *2G
-6£:80:T HS A9STYNUJI XOTIPBS *TG
-£S:L0:T spuere Uf9T dH9 YOTAPTO Widny *0G
-64:L0:T —A4g7sS 9% XFEI HS JSFO Smygoaoj "64
-ST:L0:T vuT3TA 4H9 geTy xedpxoda *8b
-82:90:T HS dy0d JPA2PA "LY
-ZZ:yO:T | AST $A09P8IH SU9Y1V dH9 zosop xefsgex *94
-Sy:CO:T dH9 wep oeaoweS *S+
-ca:£o:T wuT4sPZ JÁssy dH9 J0gpTeG soueg pb
-02:00:T XFUz9u9 sNxedy JH) | ABTSOJTN UOTIPOH *C+
-9T:00:T. UfTU fusoopog souzy dH) wear fugeuoy *Z4
-G0:00:T 437A judeaeg TT9A dH9 J950( neHBATIM ITW
-S4:66 XTUZEUS ASPY dHJ TeJBY XBOT +04
-£0:66 v X2uopz xezer *6C
-LS:LS ©419z puse( BXY dHO Tea84 XI2TA "8
-pT:LS vpusre XÁABY JH) ABTSOJTA XOTČOOK LE
-Ly:9G Uyg828y oEŽsy TJH9 uef JITX *9£
-Ty:9g Á40y1 07 TU3V dH) | ABTSOrep $upouoy *GE
-62:96 dH) ABISOIT ASSPTOXTR "PE
-TTt9G YOTTEH VU BTSXY HO d394 zdeJTeS *CE
-<o:9g BAXTTY UTSJBA KV TeJBy UoBGOPJY "ZE
+(pokračování "Lyžař a pes - muži - 14 km", ZADOV, ze str. 33; pořadí, jméno, plemeno, jméno psa, čas)
+32. Krecbach Karel, AM, Baffin Klikva, 56:05
+33. Seifert Petr, ČHP, Akela na Mělích, 56:11
+34. Mikolášek Miroslav, ČHP, Athi ze Lhoty, 56:29
+35. Konečný Jaroslav, ČHP, Aregac Kačabka, 56:41
+36. Klír Jan, ČHP, Cavyk Faranda, 56:47
+37. Motejlek Miroslav, ČHP, Axa Jasná záře, 57:14
+38. Bížík Pavel, AM, -, 57:57
+39. Ježek Zdeněk, -, Adek Smažník, 59:03
+40. Deák Karel, ČHP, Bell Severní vítr, 59:45
+41. Křivánek Josef, ČHP, Athos Podcesný mlýn, 1:00:05
+42. Konečný Ivan, ČHP, Arekus Sněžník, 1:00:18
+43. Redlich Miroslav, ČHP, Asgyr Zděřina, 1:00:20
+44. Beneš Dalibor, ČHP, -, 1:03:23
+45. Šanovec Jan, -, -, 1:03:45
+46. Matějek Josef, ČHP, Athéna Hradecký lev, 1:04:22
+47. Vačkář Petr, SH, -, 1:06:28
+48. Prokůpek Aleš, ČHP, Bigina, 1:07:15
+49. Novotný Jiří, SH, Imik ze Sibrtů, 1:07:49
+50. Kupka Oldřich, ČHP, Déja Faranda, 1:07:53
+51. Sadílek František, SH, -, 1:08:39
+52. Říha Jaroslav, ČHP, -, 1:13:28
+53. Keller Alexander, SH, -, 1:14:29
+54. Hanuš Marek, SH, Aliska Astra severu, 1:25:38
+
+Lyžař a pes - ženy - 10 km (pořadí, jméno, plemeno, jméno psa, čas):
+1. Emichelová Šárka, ČHP, Aikem od Hrčířských luk, 39:54
+2. Andršová Kateřina, ČHP, Ajka Zděřina, 40:23
+3. Fišerová Dobromila, ČHP, Athos Už jedou, 41:31
+4. Deáková Ludmila, ČHP, Etna Faranda, 46:09
+5. Záhorková Anna, ČHP, Ajka Podcesný mlýn, 49:07
+6. Jarníková Alena, ČHP, Alte Modrý potok, 52:47
+7. Štěpánková Pavla, ČHP, Aderat Pradědova louka, 54:27
+8. Chladová Dagmar, ČHP, -, 59:41
+9. Loučková Eva, ČHP, Cabina Faranda, 1:04:23
+10. Švarcová Helena, ČHP, Ambra Patnáctý poled., 1:04:47
+    Maršálková Irena, ČHP, Argo z Krkonoš, -
+    Duľková Miroslava, -, -, -
+
+Spřežení - kategorie C - 14 km (pořadí, jméno, počet a plemeno psů, čas):
+1. Nečas Josef, 3 SH, 38:49
+2. Velvarský Rudolf, 3 SH, 40:49
+3. Bubiák Karel, 3 SH, 42:28
+4. Emichel Jiří, 3 ČHP, 42:58
+5. Pechek Vladimír, 2 ČHP, 44:36
+6. Pfeifer Pavel, 3 SH, 45:46
+7. Kobr Pavel, 3 ČHP, 46:27
+8. Tůma Karel, 3 ČV, 46:53
+9. Krotkovský Peter, 3 SH + 1 AM, 47:26
+10. Šteflíček Petr, 3 SH + 1 AM, 47:29
+11. Kůrka Václav, 3 ČHP, 48:14
+12. Řípa Martin, 2 AM, 48:21
+13. Hanzlík Petr, 2 ČHP, 48:38
+14. Kozák Vladimír, 3 AM, 51:05
+15. Řepík Bohumil, 3 SH, 51:12
+16. Ježek Zdeněk, 3 AM, 51:44
+17. Kolář Zdeněk, 3 AM, 52:10
+18. Chlan František, 3 AM, 56:59
+19. Matějek Josef, 2 ČHP, 57:26
+20. Křivánek Josef, 3 ČHP, 58:04
+21. Kíta Václav, 3 AM, 59:00
+22. Bříza Jiří, 1 ČHP + 2 AM, 59:15
+23. Redlich Miroslav, 3 ČHP, 1:00:55
+24. Jenčár Otakar, 3 SH, 1:10:18
+
+Spřežení - kategorie B - 14 km (pořadí, jméno, počet a plemeno psů, čas):
+1. Komín Jaroslav, 5 SH, 39:25
+2. Ježek Vladimír, 4 SH, 42:58
+3. Dolejš František, 6 SH, 43:24
+4. Kastner René, 4 SH, 44:06
+5. Hepnar Josef, 4 ČHP, 46:02
+6. Klír Jan, 3 ČHP, 52:05
+7. Kašpar Jan, 4 ČHP, 52:25
+8. Lang Hynek, 3 ČHP, 52:54
+9. Chlum Jan, 4 ČHP, 53:07
+10. Loučka Radko, 4 ČHP, 54:04
+11. Skrbek Jiří, 4 ČHP, 57:17
+12. Kupka Oldřich, 3 ČHP + 1 SH, 1:04:11
