@@ -1,34 +1,81 @@
-# ZDROJ: Spřežení č. 9, rok 1988, strana nezjištěna
+# ZDROJ: Spřežení č. 9, rok 1988, s. 21
 # SOUBOR: 53-1988-04_sprezeni_c_9.pdf
 # PDF_STRANA: 23
-# TISTENA_STRANA: nezjištěna
-# OCR: tesseract-5.3.4 / ces / conf 38.5
+# TISTENA_STRANA: 21
+# OCR: vision (AI dočtení, tesseract conf pod prahem); tabulka otočená o 90° (pokračování "Hodnocení plemeníků podle kvality potomstva" ze str. 20) + dvě fotografie štěňat
 ---
-pRIueS TRI
-oj
-eo7s9u G6z
-Epee 8D
-(T)
-pzoay (ADTZNT XOBA
-J (T)
-Ae(-puopnýs SVTYY
-(T)
-o0doy*Xuef po se6xy
-vysaod Bysrfou XT
-se00 fue9038 pTITAd XT
-=geT FX04T2 XT
-(T)
-xopedoy-uog91, Poa
-(T)
-xegedoy-uogoj| Je3TY
-€)TajsoaJe xz
-3918 pueJepeyz 2UTT8 XT
-vyBaod pysrTfou
-oz0g4u su am hn M:
-ox0 9T19As xz
-=xg9T PxOITS XZ
-doys Auys xT
-3souoTYeJmáT XF
-snye AuTeprAvrdsu xf
-(z
-KyuTzsTA z a
+[pokračování tabulky ze s. 20; sloupce: plemeník (počet nakrytých fen) | zapsaných potomků do
+konce r.87 | počet hodnocených potomků | plnochrupí/podkusí | účast na bonitacích |
+chovných/nechovných | vady bonitovaných potomků | vady zjištěné navíc mimo bonitace |
+výstavní ocenění]
+
+Berrio z Vlažinky (2)
+  zapsaných potomků do konce r.87: 12
+  počet hodnocených potomků: 7
+  plnochrupí/podkusí: 3/4
+  účast na bonitacích: 4
+  chovných/nechovných: 2/2
+  vady bonitovaných potomků: 1x nepravidelný skus; 3x lymfatičnost; 1x strmý stop; 2x široká
+    lebka; 2x světlé oko; 1x ocas položený na hřbetě; 1x nejistá povaha
+  vady zjištěné navíc mimo bonitace: 1x předkus
+  výstavní ocenění: -
+
+Biger Třeboň-Kopeček (1)
+  zapsaných potomků do konce r.87: 3
+  počet hodnocených potomků: 2
+  plnochrupí/podkusí: 2/0
+  účast na bonitacích: 2
+  chovných/nechovných: 2/0
+  vady bonitovaných potomků: 1x silně zkadeřená srst; 2x agresivita
+  vady zjištěné navíc mimo bonitace: -
+  výstavní ocenění: -
+
+Fred Třeboň-Kopeček (1)
+  zapsaných potomků do konce r.87: 2
+  počet hodnocených potomků: 2
+  plnochrupí/podkusí: 1/1
+  účast na bonitacích: 2
+  chovných/nechovných: 2/0
+  vady bonitovaných potomků: 1x široká lebka; 1x příliš stočený ocas; 1x nejistá povaha
+  vady zjištěné navíc mimo bonitace: -
+  výstavní ocenění: -
+
+Aksas od Jank.kopce (1)
+  zapsaných potomků do konce r.87: 7
+  počet hodnocených potomků: 1
+  plnochrupí/podkusí: 0/1
+  účast na bonitacích: 1
+  chovných/nechovných a vady bonitovaných potomků [sloučená buňka]: na podzim 87 ještě
+    nedosáhli věku 15 měsíců pro bonitaci
+  vady zjištěné navíc mimo bonitace: 1x modré oko; 2x předkus
+  výstavní ocenění: -
+
+Atlas Studená-Jav. (1)
+  zapsaných potomků do konce r.87: 5
+  počet hodnocených potomků: 2
+  plnochrupí/podkusí: 2/0
+  účast na bonitacích: 2
+  chovných/nechovných: 2/0
+  vady bonitovaných potomků: 1x silný melír
+  vady zjištěné navíc mimo bonitace: -
+  výstavní ocenění: -
+
+Back Lužický hvozd (1)
+  zapsaných potomků do konce r.87: 3
+  počet hodnocených potomků: 1
+  plnochrupí/podkusí: 1/0
+  účast na bonitacích: 1
+  chovných/nechovných: 1/0
+  vady bonitovaných potomků: -
+  vady zjištěné navíc mimo bonitace: -
+  výstavní ocenění: -
+
+Dana Kupková - por.chovu
+
+[fotografie: štěně stojící na dlažbě]
+[fotografie: dvě štěňata u misek na krmení]
+Eda Faranda
+2,5 měsíce
+
+foto
+Emil Semrád

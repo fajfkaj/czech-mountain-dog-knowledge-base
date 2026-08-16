@@ -1,47 +1,52 @@
-# ZDROJ: Spřežení č. 9, rok 1988, strana nezjištěna
+# ZDROJ: Spřežení č. 9, rok 1988, s. 25
 # SOUBOR: 53-1988-04_sprezeni_c_9.pdf
 # PDF_STRANA: 27
-# TISTENA_STRANA: nezjištěna
-# OCR: tesseract-5.3.4 / ces / conf 81.1
+# TISTENA_STRANA: 25
+# OCR: vision (AI dočtení, tesseract conf pod prahem); tabulky výsledků závodů
 ---
-- 25 -
-závody
-ZLATÝ POHÁR SEVERU 16.= 17.1.1988
-Kategorie B |- 6 km loden 2.den celkem
-1. Pečená Libuše 5 SH 18.51 16:74 35.25
-2. Dolejš František 6 SH 21.48 16.79 38.27
-3. Nečas Josef 3 SH 22.12 20.19 42.3l
-tegorie C -= Gúkm
-l. Velvarský Rudolf 3 SH 17.34 17.12 34.46
-2. Bublák Karel ml. 2 SH 22,06 20.08 42 +l4
-3. Topinka František 3 SH 22.11 21.14 43.25
-4. Tůma Karel 2 AM 22.57 20.89 43.46
-5. Loučka Radko 3 ČHP 24.50 20.51 45.01
-6+7. Křivánek Josef 3 ČHP 25,00 20.28 45.28
-Krejčí Jiří 2AM+165H 24.16 2l.lz 45.28
-8. Kolář Zdeněk 2 AM 2343 22.13 45.56
-9, Ježek Zdeněk 3 Ak 25.00 21.23 46.23
-10, Němec Václav l1AM + 1SH 26.14 22.40 48.54
-11. Klír Jan 1 ČHP+ 1 AM 26.18 24.99 51.17
-12. Mach Viroslav 2 SK 28,08 23.31 51.39
-13. Šembera Gustav 2 AM 28.17 26.31 56.48
-14. Krejčík Vladimír 3 ČHP 30.19 26.92 57.11
-15. Jančaroví Jiřina 3 SH 31.53 27.97 59.50
-16. Šupita Stanislav 3 AM 30.12 30.03 1,00.15
-17. Kohl Zdeněk 25 +185SH 27.35 nedojel
+ZÁVODY
+
+ZLATÝ POHÁR SEVERU                                              16.- 17.1.1988
+
+Kategorie B - 6 km                            1.den      2.den      celkem
+1. Pečená Libuše          5 SH                18.51      16.74      35.25
+2. Dolejš František       6 SH                21.48      16.79      38.27
+3. Nečas Josef            3 SH                22.12      20.19      42.31
+
+Kategorie C - 6 km
+1. Velvarský Rudolf       3 SH                17.34      17.12      34.46
+2. Bublák Karel ml.       2 SH                22.06      20.08      42.14
+3. Topinka František      3 SH                22.11      21.14      43.25
+4. Tůma Karel             2 AM                22.57      20.89      43.46
+5. Loučka Radko           3 ČHP               24.50      20.51      45.01
+6-7. Křivánek Josef       3 ČHP               25.00      20.28      45.28
+     Krejčí Jiří          2 AM + 1 SH         24.16      21.12      45.28
+8. Kolář Zdeněk           2 AM                23.43      22.13      45.56
+9. Ježek Zdeněk           3 AM                25.00      21.23      46.23
+10. Němec Václav          1 AM + 1 SH         26.14      22.40      48.54
+11. Klír Jan              1 ČHP+ 1 AM         26.18      24.99      51.17
+12. Mach Miroslav         2 SH                28.08      23.31      51.39
+13. Šembera Gustav        2 AM                28.17      28.31      56.48
+14. Krejčík Vladimír      3 ČHP               30.19      26.92      57.11
+15. Jančarová Jiřina      3 SH                31.53      27.97      59.50
+16. Šupita Stanislav      3 AM                30.12      30.03      1,00.15
+17. Kohl Zdeněk           2 S + 1 SH          27.35      nedojel
+
 Kategorie S - 6 km
-1. Jedlička Jindřich Ův 35.43 31.84 1,07.27
-2. Brabec Ivan AM 34.19 33.32 1,07.51
-3. Gryc Miloš s 38,42 37.03 1,15.45
-k ...——————————
-„0 HARRACHOVSKÝ POHÁR“ 20,- 21.2.1988
-Kategorie B |- 1l2 km - bez rozdílu plemen
-sobota neděle celkem
-1. Síbrt Ivan 6 SH 37:03,4 35: 46,8 1:12:50 ,<
-2. Lolejš František 6 SH 41:24,8 39:41,4 1:21:06,2
-3. Pečený Jan 5 BH 41:26,6 40:01,2 1:21:27,8
-4. Kastner René 4 SH 44:22,4 40:40 ,0 1:25:02 ,4
-5e Pechek Vladimír 4 ČHP 48:32,2 41:52,8 1:30:25,0
-6. Chlum Jan 5 ČHP 51:40 ,2 49:33,4 1:41:13,6
-7. Ježek Vladimír 4 SH 50:44 ,8
-B. Souček Josef 4 SČ | 1:24:52,0
+1. Jedlička Jindřich      ČV                  35.43      31.84      1,07.27
+2. Brabec Ivan            AM                  34.19      33.32      1,07.51
+3. Gryc Miloš             S                   38.42      37.03      1,15.45
+
+
+"O HARRACHOVSKÝ POHÁR"                                          20.- 21.2.1988
+
+Kategorie B - 12 km - bez rozdílu plemen
+                                          sobota       neděle       celkem
+1. Síbrt Ivan             6 SH           37:03,4      35:46,8      1:12:50,2
+2. Dolejš František       6 SH           41:24,8      39:41,4      1:21:06,2
+3. Pečený Jan             5 SH           41:26,6      40:01,2      1:21:27,8
+4. Kastner René           4 SH           44:22,4      40:40,0      1:25:02,4
+5. Pechek Vladimír        4 ČHP          48:32,2      41:52,8      1:30:25,0
+6. Chlum Jan              5 ČHP          51:40,2      49:33,4      1:41:13,6
+7. Ježek Vladimír         4 SH           50:44,8
+8. Souček Josef           4 SČ           1:24:52,0

@@ -1,51 +1,55 @@
-# ZDROJ: Spřežení č. 9, rok 1988, strana nezjištěna
+# ZDROJ: Spřežení č. 9, rok 1988, s. 26
 # SOUBOR: 53-1988-04_sprezeni_c_9.pdf
 # PDF_STRANA: 28
-# TISTENA_STRANA: nezjištěna
-# OCR: tesseract-5.3.4 / ces / conf 72.4
+# TISTENA_STRANA: 26
+# OCR: vision (AI dočtení, tesseract conf pod prahem); tabulky výsledků závodů (pokračování - Harrachovský pohár)
 ---
-celk.
-Kategorie C1 - SH - 7 kn sobota neděle celkem poř.C
-1. Nečas Josef 35H 26:103,2 23:56 ,2 49:59 ,4 3
-2. Velvarský Rudolf 3 SH 25158,2 24155,8 50: 54,0 4
-3. Bublák Karel 2 SH 28: 36,8 26: 36,8 55:13,6 5»
-4. Hammann Helmvt, DDR — 3 SH 30:52 ,0 25:25,4 56:17,4 | 10.
-5. Scheitel Hans=Joach. | 3 SH 30:49 ,2 26:17,6 57:06 ,8 le.
-6. Němec Václav 2 SH 35:10 ,2 34:43,0 1:09:53,2 | X.
-7. Greplová Jana 2 SH 34:55,0 37:17,6 1:11:12,6 21.
-8. Topinka František 3 5H 36:49,6
-Kategorie (C2 - AM - 7 km j
-1. Kolář Zdeněk 3 AM 28:03,6 27:26 „2 55:29 ,8 6.
-2. Řípa Martin P 30:12,4 25: 32,2 55:44,6 y ČŠ
-j. Tůma Karel 2 AK 29:58,8 26:27,0 56:25,8 . 11.
-4. Sikora Antonín 2 AM 30:48,4 26:23,6 57:12,0. | 13.
-5. Ježek Zdeněk 3 AM 31:12,8 29:18,2 1:00:31,0 15.
-6. Stočes Lubomír 2 AM 32:54,0 30:45 ,0 1:03:39 ,0 16.
-7. Zborník Vladimír 3 AK 35: 48,6 29:44,2 1:05:33,0 | 17.
-8. Úryc Kiloš 2 AM 43:jl,4 41:04,6 1:24:36,0 24.
-Kategorie (C3 - ČHP - 7 km
-1. Emichel Jiří 3 ČEP 25:15,0 22:46,2 48:01,2 1.
-2, Kobr Ivan 3 ČHP 24:39,0 23:58,2 48:37,2 2.
-3. Klír Jan 3 ČEP 29:27,8 26:18,0 55:45,8 8.
-4. Loučka Radko 3 ČHP 28:54,2 27101,4 55:55,6 9.
-5. Kobr Petr 3 ČHP 28:53,8 25:21,2 57:15,0 | 14.
-6. Středa Vladimír 3 ČHP 33: 38,0 33: 39,6 1+07:17,6 | 18.
-7. Švarcová Helena 2 ČHP 35:06,8 32:57,4 1:08:04,2 | 19.
-8. Kleinwachter dadko 3 směs 39:58,6 36:54,4 1:16:53,0 22.
-9, Krejčík Vladimír 3 ČHP 40:33,0 37:38,8 1118:11,8 2)
+Kategorie C1 - SH - 7 km                                                celk.
+                                    sobota      neděle      celkem      poř.C
+1. Nečas Josef             3 SH     26:03,2     23:56,2     49:59,4     3.
+2. Velvarský Rudolf        3 SH     25:58,2     24:55,8     50:54,0     4.
+3. Bublák Karel            2 SH     28:36,8     26:36,8     55:13,6     5.
+4. Hammann Helmut, DDR     3 SH     30:52,0     25:25,4     56:17,4     10.
+5. Scheitel Hans-Joach.    3 SH     30:49,2     26:17,6     57:06,8     12.
+6. Němec Václav            2 SH     35:10,2     34:43,0     1:09:53,2  20.
+7. Greplová Jana           2 SH     34:55,0     37:17,6     1:11:12,6  21.
+8. Topinka František       3 SH     36:49,6
+
+Kategorie C2 - AM - 7 km
+1. Kolář Zdeněk            3 AM     28:03,6     27:26,2     55:29,8    6.
+2. Řípa Martin             2 AM     30:12,4     25:32,2     55:44,6    7.
+3. Tůma Karel              2 AM     29:58,8     26:27,0     56:25,8    11.
+4. Sikora Antonín          2 AM     30:48,4     26:23,6     57:12,0    13.
+5. Ježek Zdeněk            3 AM     31:12,8     29:18,2     1:00:31,0  15.
+6. Stočes Lubomír          2 AM     32:54,0     30:45,0     1:03:39,0  16.
+7. Žborník Vladimír        3 AM     35:48,8     29:44,2     1:05:33,0  17.
+8. Gryc Miloš              2 AM     43:31,4     41:04,6     1:24:36,0  24.
+
+Kategorie C3 - ČHP - 7 km
+1. Emichel Jiří            3 ČHP    25:15,0     22:46,2     48:01,2    1.
+2. Kobr Ivan               3 ČHP    24:39,0     23:58,2     48:37,2    2.
+3. Klír Jan                3 ČHP    29:27,8     26:18,0     55:45,8    8.
+4. Loučka Radko            3 ČHP    28:54,2     27:01,4     55:55,6    9.
+5. Kobr Petr               3 ČHP    28:53,8     28:21,2     57:15,0    14.
+6. Středa Vladimír         3 ČHP    33:38,0     33:39,6     1:07:17,6  18.
+7. Švarcová Helena         2 ČHP    35:06,8     32:57,4     1:08:04,2  19.
+8. Kleinwachter Radko      3 směs   39:58,6     36:54,4     1:16:53,0  22.
+9. Krejčík Vladimír        3 ČHP    40:33,0     37:38,8     1:18:11,8  23.
+
 Kategorie S
-1. Kůrka Václav 1 ČHP 29:16,2 26.52,0 56:08,2
-2. Heidenreich Petr 1 ČHP 31:49,8 28:13,8 1:00:03,6.
-3. Nogol Lubomír 1 AM 331 35,4 20142,4 1:02:17 ,8
-4, Křivánek Josef 1 ČaP 41: 39,0 29:11,8 1:10:50,8
-5. Vitovský Otto 1 ČHP 36:52 ,4 35: 36,8 1:12:29,2
-6. Gybas 1-SH 36: 33,6 34:12,6 1:12:52,4
-7. Ječlička Jindřich 1 čv 38:12,6 35:58,4 1:14:11,0
-8. Mikolášek 1 ČaP 36:25,4 38:13,6 1:14:39,0
-9. Brabec Ivan 1 AK 39:40 ,8 36:38,6 1:16:19,4
-10. Jezová Miroslava 1 AM 41:40 ,6 37:12,8 1:18:53,4
-11. Veverka Zdeněk 1 SH 43:02 ,2 36: 36,2 1:19:39,4
-lé. Vojtěch Václav l AK 37:05 ,2 42: 38,2 1:19:43,4
-13. Erb Josef 1 ČHP 45: 35,8 40:17,4 1:25:53,2
-14. Bečánová Renata 1 SH 54:35,0 42:07,6 1:36:42,6
-20.2.1986 zataženo, sněžení, —-300; 21.2.1988 jasno, —-100C
+1. Kůrka Václav            1 ČHP    29:16,2     26:52,0     56:08,2
+2. Heidenreich Petr        1 ČHP    31:49,8     28:13,8     1:00:03,6
+3. Nogol Lubomír           1 AM     33:35,4     28:42,4     1:02:17,8
+4. Křivánek Josef          1 ČHP    41:39,0     29:11,8     1:10:50,8
+5. Vitovský Otto           1 ČHP    36:52,4     35:36,8     1:12:29,2
+6. Gybas                   1 SH     38:39,6     34:12,8     1:12:52,4
+7. Jedlička Jindřich       1 ČV     38:12,6     35:58,4     1:14:11,0
+8. Mikolášek               1 ČHP    36:25,4     38:13,6     1:14:39,0
+9. Brabec Ivan             1 AM     39:40,8     36:38,6     1:16:19,4
+10. Jezová Miroslava       1 AM     41:40,6     37:12,8     1:18:53,4
+11. Veverka Zdeněk         1 SH     43:02,2     36:36,2     1:19:38,4
+12. Vojtěch Václav         1 AM     37:05,2     42:38,2     1:19:43,4
+13. Erb Josef              1 ČHP    45:35,8     40:17,4     1:25:53,2
+14. Bečánová Renata        1 SH     54:35,0     42:07,6     1:36:42,6
+
+20.2.1988 zataženo, sněžení, -3°C;                    21.2.1988 jasno, -10°C

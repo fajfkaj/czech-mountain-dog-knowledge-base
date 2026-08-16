@@ -1,31 +1,38 @@
-# ZDROJ: Spřežení č. 9, rok 1988, strana nezjištěna
+# ZDROJ: Spřežení č. 9, rok 1988, s. 23
 # SOUBOR: 53-1988-04_sprezeni_c_9.pdf
 # PDF_STRANA: 25
-# TISTENA_STRANA: nezjištěna
-# OCR: tesseract-5.3.4 / ces / conf 81.2
+# TISTENA_STRANA: 23
+# OCR: vision (AI dočtení, tesseract conf pod prahem); genealogické schéma + fotografie
 ---
-R
 Schema chovu:
-Pos P+č.138 x f4č.141
-(m ěn sn šn )
-o-
-Fl = Poč.l61 f£oč.l62 f.č.163
-( sn šn llmm šn ) llmn šn
-——ťŤVYY—
-F2 = I.vrh = Peč.179. £f.č.150 f.č.181 f.č.182 f.čl8j
-10mm ošv sn šn Smm ošv sn šn sn šn
-Ilovrh = PoČ.189 £,č.190 f.č.191
-7mm pěv 5mm ošv Ómm ošy
-Illovrh = PsČč.l198 £f.č.199 £.č.200 f.č.201
-sn šn Ómm ošv sn šn 12m ošv
+
+P  =                                       p.č.138  x  f.č.141
+                                            (sn šn         sn šn)
+
+F1 =                        p.č.161            f.č.162          f.č.163
+                             (sn šn             11mm šn)         11mm šn
+
+F2 =  I.vrh  =  p.č.179     f.č.180     f.č.181     f.č.182     f.č.183
+                10mm ošv    sn šn       5mm ošv     sn šn       sn šn
+
+      II.vrh = p.č.189     f.č.190     f.č.191
+                7mm pšv     5mm ošv     6mm ošv
+
+      III.vrh = p.č.198    f.č.199     f.č.200     f.č.201
+                sn šn       6mm ošv     sn šn       12mm ošv
+
 Poznámka: p = pes; f = fena; sn = skus normální; šn = špičáky normální;
-S=l2mm = mezery mezi řezáky horní a dolní čelisti;
-ošv = oba špičáky vadně postavené; pěv = pravý špičák vadně postavený;
+          5-12mm = mezery mezi řezáky horní a dolní čelisti;
+          ošv = oba špičáky vadně postavené; pšv = pravý špičák vadně postavený;
+
 K postavení řezáků (v horní i dolní čelisti) je nutno ještě dodat, že často
 se v chovu vyskytuje, že řezáky (čelisti) nejsou v řadě (jeden vedle druhého), ale
-jsou tzv. rozházené = tzn. některé více vpředu, druhé více vzed. Pozoruhodné ovšem
+jsou tzv. rozházené - tzn. některé více vpředu, druhé více vzad. Pozoruhodné ovšem
 je, že i tato anomálie má dědičný charakter!
-U jednotlivých řezáků se může! stát, že jejich odklon z řady vznikl úrazém
-nebo jiným násilným činem a jejich (vadné) postavení je nadále trvalé. Toto věsk
-není dědičné! František Horák
-A - Kačabka foto J.Klír
+U jednotlivých řezáků se může stát, že jejich odklon z řady vznikl úrazem
+nebo jiným násilným činem a jejich (vadné) postavení je nadále trvalé. Toto však
+není dědičné!
+                                                              František Horák
+
+[fotografie: řada štěňat sedících vedle sebe na lavici/prkně, pohled zezadu]
+A - Kačabka                                                  foto J.Klír
