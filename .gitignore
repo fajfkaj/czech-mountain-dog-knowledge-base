@@ -4,3 +4,10 @@ __pycache__/
 01_ocr_raw/*/_vision/
 .claude-flow/
 .impeccable/
+
+.env
+*.env
+*token*
+*credential*
+*secret*
+05_vizualni_material/
