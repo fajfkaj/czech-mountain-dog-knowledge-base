@@ -1,61 +1,60 @@
-# ZDROJ: Spřežení č. 7, rok 1987, strana nezjištěna
+# ZDROJ: Spřežení č. 7, rok 1987, s. 31
 # SOUBOR: 51-1987-06_sprezeni_c_7.pdf
 # PDF_STRANA: 33
-# TISTENA_STRANA: nezjištěna
-# OCR: tesseract-5.3.4 / ces / conf 84.7
+# TISTENA_STRANA: 31
+# OCR: vision (AI dočtení, tesseract conf pod prahem); horní část strany = závěr článku o Memoriálu Dr. Václava Vojtěcha (podepsán Jaroslav Čumpelík), dolní část = začátek článku "Závody a co dál?" (pokračuje na další straně, autor na této straně neuveden)
 ---
-* js
 ukázalo, nevadil ani lidem. Vylézají ze záhrabů a připravují se k závěrečné etapě.
 Uvařit trochu čaje, nasnídat se a vydat se na cestu. 35 km sjezdu z Luční boudy
-do Vrchlabí. Psi letí jeko o závod, Zátěž dvou předchozích etap na nich není znát.
-Stejně dobře se s ní vyrovnali i lidé, Nejlepší spřežení dojíždějí do cíle za pou-
-hých 80 minut. Čas neuvěřitelně krátký, se kterým nepočítali organizátoři, ani |
-sami účastníci přejezdu. Fo dojezdu posledního závodníka nastává slavnostní chví-
-le. Vyhlášení nejlepších, předání pohárů, Nšichni obdrželi diplom s fotografií *
-i Václava Vojtšcha a upomínkové předměty, které věnovala správa KRNAP ve Vrchla-
-b . h M zl :
-Po malém občerstvení se účastníci rozjíášdějí do svých domovů, Nejdelší a nejtěžší
-pobyt v zimní krajimě končí, cs dec ;
-Všichni se mezi sebou loučí slovy: 1ledáz
-lu Dr Václava Vojtěcha. ray
-a rok, na třetím ročníku Menoriá-
-Jaroslav Čumpelík
-"a R
-V A fa jh
-r 1 M85 BELA RB
-„a tačekch úajásí z „odolá kám ©
-Vs třech posledních letech nás scela pohltila sentíhi (spo tot o dění. První
-závod v březnu 85 ukázal směr, kterým jsme 'se bez F „hitali» Je to směr
-atraktivní a závody psích zápřahů již nikdo nedokáže št ne bo. je dobře. Mů-
-žeme být všichni rádi, že ae nám to povedlo, protože KCHČEP skámdiŘeznový závod v
-Peci v roce 85 pořádal a více jak aktivně se podílí na z jováný celých spor-
-tovních seriálů v jednotlivých sezonách. Nadešel všek čas, “abýóhom sundali klape
-ky z očí a rozhlédli se kolam. My, od českých horských psů, to femáne zdaleka
-tak jednoduché, jako u chovatelských klubů s jednoúčelovými, mezinárodně uznaný“
-mi plemenys Stačí, abychom si přečetli první odstavec standardu pro CHP. ©
-= záměr: Všestranný pes horského typu, použitelný pro jakoukoliv činnost v hors-
-kých oblastech, jako pes pastevecký, tažný, lavinový, záchřanářský, vhodný
-i do spřežení, jekož i použitelný na stopě atd.
-Standard je bič, který jsme si sami na sebe upletli a jestliže je pravda, co pi-
-še člen výboru RNDr Jiří Komárek ve „Spřežení“ č.6 atr.l) (upřimně řečeno si vů-
-bec nepřipouštím, že by to tak být nemělo, protože to by dnes již desetiletá
-práce značně utrpěla) - cituji: „Mimo to ta to je hlavní!) chceme skutečně udě-
-lat všestranného pracovníka a aportovního psa pro horské oblasti mírného pásma,
-který dosud neeristuje a liší se jak exterierově, tak svými vlastnostmi od dosa-
-vadních ras." Potud Jiří Komárek -, nemůžeme si dovolit pouhou úzkou sportovní.
-specializaci. Tímto článkem chci zaktivizovat ty z nás, kteří pro věk, zdřavotní
-potíže, finanční náročnost nebo jiné důvody nemohou nebo nechtějí závodit. Volte
-jiný aktivní směr Činnosti pro sebe a svého psa (fenu). Jenom tato klubová rezer=
-ve může vypěstovat další odnož schopnosti a možností ČEP. Ti, co připravují sebe
-a svého psa na těžké závody, absolutně nemohou časově zvládnout ještě náročný
-výcvik v jiné oblasti. Záchranářské a stopařské práce při služební kynologii je
-možné trénovat v místních kynologických organizacich Svazarmu, zkoušky pak v
-okruhu okresu. Odtud je již krůček k výcviku lavinového psa, Profesionálního
-Pasáka ovcí mezi sebou nemáme a pro ověřování achopností CHP asi nikdo zaměstná-
-ní měnit nebude. Jsem však přesvědčen, že po řetězu známostí je možné, aby někdo
-z nás dokázal podstrčit nadějného ČHP do rukou zkušeného ovčáka. Ve služební ky=
-nologii jsem aktivně pracoval a dosáhl s NO předních výsledků, Píši to proto,
-Že mohu srovnávat a ubezpečuji vás, že CHP to určitě dokáže!
-To k všestrannosti a použitelnosti ČHP, Ale anad nejdůležitější činnost je
-chovatelská. Věšinou se domníváme, že Chozatelství začíná vydáním průkazu půvo=
-du a končí exterierem vašeho psa. Tato představa je Ovšem diletentsky z jednodu=
+do Vrchlabí. Psi letí jako o závod. Zátěž dvou předchozích etap na nich není znát.
+Stejně dobře se s ní vyrovnali i lidé. Nejlepší spřežení dojíždějí do cíle za pouhých
+80 minut. Čas neuvěřitelně krátký, se kterým nepočítali organizátoři, ani
+sami účastníci přejezdu. Po dojezdu posledního závodníka nastává slavnostní chvíle.
+Vyhlášení nejlepších, předání pohárů. Všichni obdrželi diplom s fotografií
+Dr Václava Vojtěcha a upomínkové předměty, které věnovala správa KRNAP ve Vrchlabí.
+Po malém občerstvení se účastníci rozjíždějí do svých domovů. Nejdelší a nejtěžší
+pobyt v zimní krajině končí.
+Všichni se mezi sebou loučí slovy: Nashledanou za rok, na třetím ročníku Memoriá-
+lu Dr Václava Vojtěcha.
+                                                                    Jaroslav Čumpelík
+
+
+ZÁVODY A CO DÁL ?
+
+Ve třech posledních letech nás zcela pohltila erupce sportovního dění. První
+závod v březnu 85 ukázal směr, kterým jsme se bez rozhlédnutí hnali. Je to směr
+atraktivní a závody psích zápřahů již nikdo nedokáže zastavit a to je dobré. Mů-
+žeme být všichni rádi, že se nám to povedlo, protože KCHČHP ten březnový závod v
+Peci v roce 85 pořádal a více jak aktivně se podílí na zajišťování celých spor-
+tovních seriálů v jednotlivých sezónách. Nadešel však čas, abychom sundali klap-
+ky z očí a rozhlédli se kolem. My, od českých horských psů, to nemáme zdaleka
+tak jednoduché, jako u chovatelských klubů s jednoúčelovými, mezinárodně uznaný-
+mi plemeny. Stačí, abychom si přečetli první odstavec standardu pro ČHP.
+
+- záměr: Všestranný pes horského typu, použitelný pro jakoukoliv činnost v hor-
+         ských oblastech, jako pes pastevecký, tažný, lavinový, záchranářský, vhodný
+         i do spřežení, jakož i použitelný na stopě atd.
+
+Standard je bič, který jsme si sami na sebe upletli a jestliže je pravda, co pí-
+še člen výboru RNDr Jiří Komárek ve "Spřežení" č.6 str.13 (upřímně řečeno si vů-
+bec nepřipouštím, že by to tak dnes již desetiletá práce značně utrpěla) - citu-
+ji: "Mimo to (a to je hlavní!) chceme skutečně udělat všestranného pracovníka
+a sportovního psa pro horské oblasti mírného pásma, který dosud neexistuje
+a liší se jak exteriérově, tak svými vlastnostmi od dosavadních ras." Potud Jiří
+Komárek -, nemůžeme si dovolit pouhou úzkou sportovní specializaci. Tímto článkem
+chci zaktivizovat ty z nás, kteří pro věk, zdravotní potíže, finanční náročnost
+nebo jiné důvody nemohou nebo nechtějí závodit. Volte jiný aktivní směr činnosti
+pro sebe a svého psa (fenu). Jenom tato klubová rezerva může vypěstovat další
+odnož schopností a možností ČHP. Ti, co připravují sebe a svého psa na těžké
+závody, absolutně nemohou časově zvládnout ještě náročný výcvik v jiné oblasti.
+Záchranářské a stopařské práce při služební kynologii je možné trénovat v
+místních kynologických organizacích Svazarmu, zkoušky pak v okruhu okresu.
+Odtud je již krůček k výcviku lavinového psa. Profesionálního pasáka ovcí mezi
+sebou nemáme a pro ověřování schopností ČHP asi nikdo zaměstnání měnit nebude.
+Jsem však přesvědčen, že po řetězu známostí je možné, aby někdo z nás dokázal
+podstrčit nadějného ČHP do rukou zkušeného ovčáka. Ve služební kynologii jsem
+aktivně pracoval a dosáhl s NO předních výsledků. Píši to proto, že mohu srovná-
+vat a ubezpečuji vás, že ČHP to určitě dokáže!
+To k všestrannosti a použitelnosti ČHP. Ale snad nejdůležitější činnost je
+chovatelská. Většinou se domníváme, že chovatelství začíná vydáním průkazu půvo-
+du a končí exteriérem vašeho psa. Tato představa je ovšem diletantsky zjednodu-

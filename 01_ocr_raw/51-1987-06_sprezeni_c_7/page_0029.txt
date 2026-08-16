@@ -1,60 +1,63 @@
-# ZDROJ: Spřežení č. 7, rok 1987, strana nezjištěna
+# ZDROJ: Spřežení č. 7, rok 1987, s. 27
 # SOUBOR: 51-1987-06_sprezeni_c_7.pdf
 # PDF_STRANA: 29
-# TISTENA_STRANA: nezjištěna
-# OCR: tesseract-5.3.4 / ces / conf 80.7
+# TISTENA_STRANA: 27
+# OCR: vision (AI dočtení, tesseract conf pod prahem)
 ---
-p,
-| 55T =:
-z
-i ;
-dl "VÝSLEDKY POHÁRU ČSSR V ZÁVODRCH PSÍCH ZÁPŘAHŮ PRO ROK 1987
-O ————————í
-Hitů ,
-kal
-Po dohodě REN komise ze dne 11.10.86, která zasedala ve složení zástupců
-klubů ČHP a PSP|byl pohár hodnocen dle následujícího bodovačího klíče:
-skijóring A |
-hd
+VÝSLEDKY POHÁRU ČSSR V ZÁVODECH PSÍCH ZÁPŘAHŮ PRO ROK 1987
+
+Po dohodě sportovní komise ze dne 11.10.86, která zasedala ve složení zástupců
+klubů ČHP a PSP byl pohár hodnocen dle následujícího bodovacího klíče:
+
+skijöring
+
 Vypsány 3 závody, započítávají se body ze všech tří.
-V každém závodš boduje 12 soutěžících: první místo 14 bodů, druhé Il, třetí 10,
-1. Pechek Vladimír AOA“ 2 Sdzih 39 bodů
-3, Emichel Jiří CHP Aksas od Jankova kopce 30
-3. Elster Petr ČHP Albion Vlažinka 29
-4. Kůrka Václav | ČHP Ciran Faranda 28
-5, Hanzlík Petr -© (ÚHP -Aalborg Labutí řeka 23
-Kobr Pavel CHP Artison Severní vítr 23
-6. Kobr Ivan ČHP Ganek Třeboň=Kopaček 11
-Křivánek Josef ČHP Bell Severní vítr 11
-7. Heidenreich Petr CHP Artana, 9
-Pechek 'Pavel ČHP Afré Lužický hvozd 9
-8. Smejkal Josef CHP Breithorn Vlažinka 8
-9, Rejhons Karel CHP Alam-Kuh Labutí řeka 5
-Kubíček Karel ČHP Aiken od Hrnčířských luk 5
-ž 10, Kobr Petr ČHP Atacama Severní vítr 4
-9 11. Koten Jaroslav ČHP Berrio Vlažinka 2
-Elster Josef —| ČHP Fortuna Třeboú-Kopaček 2
-12. Vítovský Ota ČHP Atacama Severní vítr 1
-Loučka Radko CHP Aragac Kačebka ý "
-Nálepa Libor ČEP Hindukúš Třeboň-Kopeček 1
-spřežení 5
+V každém závodě boduje 12 soutěžících: první místo 14 bodů, druhé 11, třetí 10,
+... atd. až dvanácté místo bod jeden.
+
+ 1. Pechek Vladimír                    "Adid"                                   39 bodů
+ 2. Emichel Jiří            CHP        Aksas od Jankova kopce                   30
+ 3. Elster Petr             CHP        Albion Vlažinka                          29
+ 4. Kůrka Václav            CHP        Ciran Faranda                            28
+ 5. Hanzlík Petr            CHP        Aalborg Labutí řeka                      23
+    Kobr Pavel              CHP        Artison Severní vítr                     23
+ 6. Kobr Ivan               CHP        Ganek Třeboň-Kopeček                     11
+    Křivánek Josef          CHP        Bell Severní vítr                        11
+ 7. Heidenreich Petr        CHP        Artana Kačabka                            9
+    Pechek Pavel            CHP        Afré Lužický hvozd                        9
+ 8. Smejkal Josef           CHP        Breithorn Vlažinka                        8
+ 9. Rejhons Karel           CHP        Alam-Kuh Labutí řeka                      5
+    Kubíček Karel           CHP        Aiken od Hrnčířských luk                  5
+10. Kobr Petr               CHP        Atacama Severní vítr                      4
+11. Koten Jaroslav          CHP        Berrio Vlažinka                           2
+    Elster Josef            CHP        Fortuna Třeboň-Kopeček                    2
+12. Vítovský Ota            CHP        Atacama Severní vítr                      1
+    Loučka Radko            CHP        Aragac Kačabka                            1
+    Nálepa Libor            CHP        Hindukúš Třeboň-Kopeček                   1
+
+spřežení
+
 Vypsáno 5 závodů, započítávají se body ze 4 nejlepších.
-V každém závodě boduje 6 soutěžících: první místo 8 bodů, druhé 5, třetí 4, ss+e
+V každém závodě boduje 6 soutěžících: první místo 8 bodů, druhé 5, třetí 4, ...
 až šesté 1 bod.
-kategorie C - (2-3 psi) tá 18 bn "A908
-1. Emichel Jiří ČHP Aksas od Jank.kopce, Aiken od Hrčíř.luk 23 bodů
-2. Nečas Josef SH Akron, Bearow, Dicksie © 16
-Síbrt Ivan SH Atacama, Amurka, Popow © 16
-3. Kobr Ivan ÚHP Ganek Třebon=Kop, Artison Severní vítr 13
-4, Hanzlík Petr CHP Aalborg Labutí řeka, Bell Severní vítr 12
-5, Kůrka Václav CHP Ciran Faranda, Alam-Kuh Labutí řeka 6
-Klír Jan (HP. Aragac Kačabka, Cabina Faranda, Aracajů Kač. 6
-6. Krejčí Jiří AM Akai, Gury, Alas 4
-kategorie B- (3 - 5 psů) jí
-1. Pečená Libuše SH Dixie, Drake, Alatna, Cindy 32 bodů
-2. Elster Petr ČHP Albion Vlaž, Berrio Vlaž, Breithorn Vlažinka 21
-3. Dolejš František SH Back, Rocky, Dusty, Anarioka, Bettola 18
-4. Pechek Vladimír © ÚHP  "Adid“, Afré Laž.hvozd, Beluga Labutí řeka 15
-5, Chlum Jan CHP Cavyk Faranda, Akela Lab.řeka, Bonn od J.kop 11
-6. Nečas Josef SH Akron, Darwy, Dicksie, Bearow, Bakunze 3
-7. Kohl Zdeněk S Ouizzy, Aldan, Anoruk, Ali 3
+
+kategorie C - (2-3 psi)
+
+1. Emichel Jiří      CHP  Aksas od Jank.kopce, Aiken od Hrčíř.luk          23 bodů
+2. Nečas Josef       SH   Akron, Bearow, Dicksie                          16
+   Síbrt Ivan        SH   Atacama, Amurka, Popow                          16
+3. Kobr Ivan         CHP  Ganek Třeboň-Kop, Artison Severní vítr          13
+4. Hanzlík Petr      CHP  Aalborg Labutí řeka, Bell Severní vítr          12
+5. Kůrka Václav      CHP  Ciran Faranda, Alam-Kuh Labutí řeka              6
+   Klír Jan          CHP  Aragac Kačabka, Cabina Faranda, Aracajú Kač.     6
+6. Krejčí Jiří       AM   Akai, Gury, Alas                                 4
+
+kategorie B - (3-5 psů)
+
+1. Pečená Libuše     SH   Dixie, Drake, Alatna, Cindy                     32 bodů
+2. Elster Petr       CHP  Albion Vlaž, Berrio Vlaž, Breithorn Vlažinka    21
+3. Dolejš František  SH   Back, Rocky, Dusty, Anarioca, Bettola           18
+4. Pechek Vladimír   CHP  "Adid", Afré Luž.hvozd, Beluga Labutí řeka      15
+5. Chlum Jan         CHP  Cavyk Faranda, Akela Lab.řeka, Bonn od J.kop    11
+6. Nečas Josef       SH   Akron, Darwy, Dicksie, Bearow, Bakunga           3
+7. Kohl Zdeněk       S    Quizzy, Aldan, Anoruk, Aki                       3

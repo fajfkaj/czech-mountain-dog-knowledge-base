@@ -2,17 +2,17 @@
 # SOUBOR: 51-1987-06_sprezeni_c_7.pdf
 # PDF_STRANA: 40
 # TISTENA_STRANA: nezjištěna
-# OCR: tesseract-5.3.4 / ces / conf 78.3
+# OCR: vision (AI dočtení, tesseract conf pod prahem); poslední strana čísla, číslo strany na skenu není vidět; obsahuje fotografii spřežení a redakční tiráž
 ---
-Lad
-Zleva: V.Krejčik, Cabina Faranda; Rif Velká závěj, Arazao Kačabka - foto JoKlír
-holí
-Také vy můžete mít obrázek svého psa/feny ve Spřežení = stačí poslat pěknou a
-kvalitní fotografii na mou adresu = O.Kupka
-ONO
-SPŘEŽENÍ - časopis Klubu chovatelů českého horského psa vychází pro vnitřní Po-
-třebu členů Klubu, Konečnou redakci a přípravu pro tisk provádí: .
-Oldřich Kupka, 391 76 Slapy u Tébora 45
-Uzďdvěrka příštího čísla je Loříjna 1987 |!
-T a ou 2
--
+[fotografie: muž se spřežením tří psů táhnoucím saně/vozík před domem]
+Zleva: V.Krejčík, Cabina Faranda, Alf Velká záděj, Aragac Kačabka - foto J.Klír
+
+
+Také vy můžete mít obrázek svého psa/feny ve Spřežení - stačí poslat pěknou a
+kvalitní fotografii na mou adresu - O.Kupka
+
+SPŘEŽENÍ - časopis Klubu chovatelů českého horského psa vychází pro vnitřní po-
+třebu členů Klubu. Konečnou redakci a přípravu pro tisk provádí:
+                                                Oldřich Kupka, 391 76 Slapy u Tábora 45
+
+Uzávěrka příštího čísla je  1.října 1987 !!

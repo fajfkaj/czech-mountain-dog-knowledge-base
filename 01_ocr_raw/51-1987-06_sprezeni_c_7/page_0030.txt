@@ -1,34 +1,40 @@
-# ZDROJ: Spřežení č. 7, rok 1987, strana nezjištěna
+# ZDROJ: Spřežení č. 7, rok 1987, s. 28
 # SOUBOR: 51-1987-06_sprezeni_c_7.pdf
 # PDF_STRANA: 30
-# TISTENA_STRANA: nezjištěna
-# OCR: tesseract-5.3.4 / ces / conf 82.3
+# TISTENA_STRANA: 28
+# OCR: vision (AI dočtení, tesseract conf pod prahem); strana obsahuje dvě fotografie psů se spřežením
 ---
 nejúspěšnější pes
-Počítá se součet všech bodů v celkovém hodnocení jednotlivých kategorií,
-1. Mýdid"“ psovod o Pechek Vladimír 54 bodů
-2. (HP Aksas od Jankova kopce Emichel Jiří 53
-3, (HP Albion Vlažinka Elster Potr 50
-4. ČEP Aalborg Labutí řeka Hanzlík Petr 35
-5, (HP Ciran Faranda Kůrka Václav 34
-6. SH Dixie, Drakď, Alatna, Cindy Pečená Libuše 32
-7, ČHP Artison Severní vítř Kobr Pavel 30
-8. ČHP Ganek Třeboň=Kopeček Kobr Ivan 24
-9, | SH Akron, Bearow, Dicksie Nečas Josef 19
-10. | SH Back, Rocky, Dusty, Bettola, Anarioka Dolejš František | 18
-11. SH Atacama, Amurka, Popow Síbrt Ivan 16
-12, (HP Bell Severní vítr Křivánek Josef 11
-ČEP po Far, Akela Lab,řeka, Bonn od J.kop, (Chlum Jan 11
--
+
+Počítá se součet všech bodů v celkovém hodnocení jednotlivých kategorií.
+
+ 1.        "Adid"                                   psovod  Pechek Vladimír    54 bodů
+ 2.  CHP   Aksas od Jankova kopce                            Emichel Jiří       53
+ 3.  CHP   Albion Vlažinka                                    Elster Petr        50
+ 4.  CHP   Aalborg Labutí řeka                                Hanzlík Petr       35
+ 5.  CHP   Ciran Faranda                                      Kůrka Václav       34
+ 6.  SH    Dixie, Drake, Alatna, Cindy                        Pečená Libuše      32
+ 7.  CHP   Artison Severní vítr                                Kobr Pavel         30
+ 8.  CHP   Ganek Třeboň-Kopeček                                Kobr Ivan          24
+ 9.  SH    Akron, Bearow, Dicksie                              Nečas Josef        19
+10.  SH    Back, Rocky, Dusty, Bettola, Anarioca               Dolejš František   18
+11.  SH    Atacama, Amurka, Popow                              Síbrt Ivan         16
+12.  CHP   Bell Severní vítr                                   Křivánek Josef     11
+     CHP   Cavyk Far, Akela Lab.řeka, Bonn od J.kop.           Chlum Jan          11
+
 Použité zkratky plemen:
-ČHP - český horský pes
-SH - sibiřský huskie
-AM - aljašský malamut
-S - samojed
-IVS - irský vodní španěl
-NOK —- německý ohař „Jrátkoststý
-E- -= ochodský ovčák
-V -
-československý vlčák
-Ženy na Zadově me
-a Sw.Kateřině Ý
+
+CHP  -  český horský pes
+SH   -  sibiřský huskie
+AM   -  aljašský malamut
+S    -  samojed
+IVŠ  -  irský vodní španěl
+NOK  -  německý ohař krátkosrstý
+ChO  -  chodský ovčák
+ČV   -  československý vlčák
+
+[fotografie: skupina lidí u sáňkařského spřežení, jeden z mužů v kožichu/ušance předává druhému diplom nebo poháru; v pozadí les]
+
+Ženy na Zadově a Sv.Kateřině
+
+[fotografie: dvě ženy a muž s několika psy u dřevěné boudy ve sněhu, psi na podstavcích/piedestalech (výstavní pózování)]

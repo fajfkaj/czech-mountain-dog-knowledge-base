@@ -1,14 +1,11 @@
-# ZDROJ: Spřežení č. 7, rok 1987, strana nezjištěna
+# ZDROJ: Spřežení č. 7, rok 1987, s. 37
 # SOUBOR: 51-1987-06_sprezeni_c_7.pdf
 # PDF_STRANA: 39
-# TISTENA_STRANA: nezjištěna
-# OCR: tesseract-5.3.4 / ces / conf 49.9
+# TISTENA_STRANA: 37
+# OCR: vision (AI dočtení, tesseract conf pod prahem); strana pouze s fotografiemi
 ---
-(r
-v
-prřdinaýe es
-: sva
-CABINA Faranda
-CÁCORA Faranda a D=vrh
--37-
-foto R.Loučka
+[fotografie nahoře: pes běžící/plavající řekou]
+CABINA Faranda                                                     foto R.Loučka
+
+[fotografie dole: fena s vrhem štěňat na dřevěné podlaze]
+CÁCORA Faranda a D-vrh                                              foto R.Loučka

@@ -2,75 +2,35 @@
 # SOUBOR: 51-1987-06_sprezeni_c_7.pdf
 # PDF_STRANA: 25
 # TISTENA_STRANA: 23
-# OCR: vision (AI dočtení, tesseract conf pod prahem); strana otočená - výsledkové tabulky ZADOV II. Mistrovství ČSSR (pokračování)
+# OCR: vision (AI dočtení, tesseract conf pod prahem); strana se dvěma sloupci výsledkových tabulek (pokračování ze s.22), levý sloupec: skijöring ženy + spřežení kategorie C, pravý sloupec: spřežení kategorie B
 ---
-- 23 -
-
 ZADOV - II. Mistrovství ČSSR
 
-skijöring ženy - 10 km                                             31.1.87
-1. Loučková Eva      ČHP  Cabina Faranda                            43:24,40
-2. Kupková Dana      ČHP  Cácora Faranda                             54:23,40
-3. Švarcová Hel.     ČHP  Ambra Patnáctý poledník                     68:45,75
-   Maršálková I.     ČHP  Alina z Milety                              nedokončila
+skijöring ženy - 10 km                                    31.1.87
 
+1. Loučková Eva      CHP  Cabina Faranda                          43:24,40
+2. Kupková Dana      CHP  Cácora Faranda                          54:23,40
+3. Švarcová Hel.     CHP  Ambra Patnáctý poledník                 68:45,75
+   Maršálková I.     CHP  Alina z Milety                          nedokončila
 
-spřežení kategorie C - 14,2 km                                     1.2.87
-1. Emichel Jiří      ČHP  Aksas od Jankova kopce
-                           Aiken od Hrnčířských luk                  52:02,03
-2. Kobr Pavel        ČHP  Ganek Třeboň-Kopeček
-                           Artison Severní vítr
-                           Atacama Severní vítr                       54:31,53
-3. Hanzlík Petr      ČHP  Aalborg II Labutí řeka
-                           Bell Severní vítr
-                           Atlas Studená-Javořice                      54:51,85
-4. Kůrka Václav      ČHP  Ciran Faranda
-                           Alam-Kuh Labutí řeka                        56:58,97
-5. Klír Jan          ČHP  Aragac Kačabka
-                           Cabina Faranda
-                           Aracajú Kačabka                             59:01,02
-6. Zborník Vlad.     AM   Assai
-                           Aipa
-                           Arnac                                        67:42,71
-7. Kupka Oldřich     ČHP  Cácora Faranda
-                           Artana Kačabka                                72:02,03
-8. Vystrčil Jar.          "Alan"
-                           "Asta"
-                     ČHP  Balmhorn Vlažinka                              73:25,42
-9. Maršálek Jan      ČHP  Alben Poledník
-                           Alina z Milety
-                           Aneta Modrý potok                             80:33,55
+spřežení kategorie C - 14,2 km                             1.2.87
 
+1. Emichel Jiří      CHP  Akeas od Jankova kopce, Aiken od Hrnčířských luk         52:02,03
+2. Kobr Pavel        [nečitelné - plemeno neuvedeno]  Ganek Třeboň-Kopeček, Artison Severní vítr, Atacama Severní vítr   54:31,53
+3. Hanzlík Petr      CHP  Aalborg II Labutí řeka, Bell Severní vítr, Atlas Studená-Javořice   54:51,85
+4. Kůrka Václav      CHP  Ciran Faranda, Alam-Kuh Labutí řeka      56:58,97
+5. Klír Jan          CHP  Aragac Kačabka, Cabina Faranda, Arcajú Kačabka   59:01,02
+6. Zborník Vlad.     AM   Assai, Aipa, Arnac                       67:42,71
+7. Kupka Oldřich     CHP  Cácora Faranda, Artana Kačabka           72:02,03
+8. Vystrčil Jar.     S+SH "Alan", "Ašta", Palmhorn Vlažinka        73:25,42
+9. Maršálek Jan      CHP  Aiben Poledník, Alina z Milety, Aneta Modrý potok   80:33,55
 
-spřežení kategorie B - 14,2 km                                     1.2.87
-1. Pečená Libuše     SH   Dixie
-                           Altana
-                           Drake
-                           Cindy                                     48:14,23
-2. Dolejš Frant.     SH   Anarioca
-                           Back
-                           Rocky
-                           Bettola
-                           Dusty                                     49:13,22
-3. Pechek Vlad.           "Adid"
-                     ČHP  Bethel Labutí řeka
-                           Benevis Labutí řeka
-                           Afré Lužický hvozd                          50:43,72
-4. Nečas Josef       SH   Akron
-                           Darwy
-                           Dicksie
-                           Barrow
-                           Bakungan                                    51:34,57
-5. Elster Petr       ČHP  Albion Vlažinka
-                           Fortuna Třeboň-Kopeček
-                           Breithorn Vlažinka
-                           Berrio Vlažinka                              56:43,73
-6. Chlum Jan         ČHP  Cavyk Faranda
-                           Akela Labutí řeka
-                           Bonn od Jankova kopce
-                           Artan od Jankova kopce                       62:52,95
-7. Kohl Zdeněk       S+SH Quizzy
-                     +ČV  Aldan
-                           Anarvik
-                           Aris
-                           Alf                                          74:31,12
+spřežení kategorie B - 14,2 km                             1.2.87
+
+1. Pečená Libuše     SH   Dixie, Altana, Drake, Cindy              48:14,23
+2. Dolejš Frant.     SH   Anarioca, Baok, Rocky, Bottola, Dusty    49:13,22
+3. Pechek Vlad.      CHP  "Adid"                                   50:43,72
+4. Nečas Josef       SH   Akron, Darwy, Dicksie, Barrow, Bakungan  51:34,57
+5. Elster Petr       CHP  Albion Vlažinka, Fortuna Třeboň-Kopeček, Breithorn Vlažinka, Berrio Vlažinka   56:43,73
+6. Chlum Jan         CHP  [nečitelné - jména psů zastřena skvrnou/průsvitem z druhé strany listu]   62:52,95
+7. Kohl Zdeněk       S+SH Quizzy, Aldan, Anarvik, Arie, Alf         74:31,12

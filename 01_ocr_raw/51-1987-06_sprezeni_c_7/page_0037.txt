@@ -1,37 +1,41 @@
-# ZDROJ: Spřežení č. 7, rok 1987, strana nezjištěna
+# ZDROJ: Spřežení č. 7, rok 1987, s. 35
 # SOUBOR: 51-1987-06_sprezeni_c_7.pdf
 # PDF_STRANA: 37
-# TISTENA_STRANA: nezjištěna
-# OCR: tesseract-5.3.4 / ces / conf 79.7
+# TISTENA_STRANA: 35
+# OCR: vision (AI dočtení, tesseract conf pod prahem); strana obsahuje dva čtenářské dopisy (sekce Oznámení) a fotografii feny se štěňaty
 ---
-- 35-
 Vážení přátelé,
-jsem důchodce a vyHoce kvalifikovaný odborník v řemeslném oboru
-sedlář. Vlastním zařízenou dílnu ve svém domě a MWV mě bylo povoleno provozovat
+          jsem důchodce a vysoce kvalifikovaný odborník v řemeslném oboru
+sedlář. Vlastním zařízenou dílnu ve svém domě a MNV mě bylo povoleno provozovat
 činnost sedlářství v rámci služeb pro obyvatelstvo.
-Jeem členem ČSCH a klubu chovatelů špiců, vlastním chovného psa vlčího Špice,
-Šampiona ČSSR. Kynologie je moje zálibs a proto se chci věnovat opravám a výrobě
-potřeb pro psy« P ARANNA
+Jsem členem ČSCH a klubu chovatelů špiců, vlastním chovného psa vlčího špice,
+šampiona ČSSR. Kynologie je moje záliba a proto se chci věnovat opravám a výrobě
+potřeb pro psy.
 Pracuji zásadně řemeslně a zhotovím výrobek podle přání zákazníka.
-Pro zhotovení obojku udejte obvod lřku páa/ feny a nejvhodnější šíři obojku,
-Šindelář Miloslav, Pilníkovská 456, Dolní Počernice, čtyrť Vinohrady, 250 95
-zí s: telefon 718 329
-jLice smutná událost, Některý z mých do- ©
-brých sousedů“ mi otrávil jedan a půl ze i starého psa, Z vlastního odchovu, sly=
-šícího na jméno ABAK, Byl to k ný, 8 pes, připravený na zimní sezonu. Bohu=
-žel mu nebylo souzeno, sby se jí doži lé
-V první chvíli jsem z toho byl :
-jsem si řekl, že jediné řešení W
-závodníci: V případě havárie oka
-šok není čas. 3 f
-Tak jsem začal shánět nového P8mR» oliv jsem se oficiálně neobrátil na náš Klub,
-týden po úhynu mého psa jsem dost L od, wou členů Klubu upozornění na pěknou, sed-
-mitýdenní fenku, pro kterou jsem sž zají =: bych touto cestou poděkovat všem,
-přátelům, kteří se mnou byli ve: ohví i, ly mi bylo nejhůře, zejména pak Honzovi
-Klírovi, Helence Nebeské, Petru Hanslíkovi a Vítu Švancarovi, neboť právě díky
-jim jsem „přesedl do jiného vozů 8 ja A8% -3 Eo =
-V měsíci listopadu roku 1986 mě požkala
-ke celá moje rodina, moc smutný. Pak
-fituace je postupovat jeko automobiloví
-řemadnout na jiný vůz a jet dál, tekže na
-Dm vrh Faranda foto O.Kupka
+Pro zhotovení obojku udejte obvod krku psa/feny a nejvhodnější šíři obojku.
+
+Šindelář Miloslav, Pilníkovská 456, Dolní Počernice, čtvrť Vinohrady, 250 95
+                                                          telefon 718 329
+
+
+V měsíci listopadu roku 1986 mě potkala velice smutná událost. Některý z mých "do-
+brých sousedů" mi otrávil jeden a půl roku starého psa, z vlastního odchovu, sly-
+šícího na jméno ABAK. Byl to krásný, silný pes, připravený na zimní sezonu. Bohu-
+žel mu nebylo souzeno, aby se jí dožil.
+V první chvíli jsem z toho byl nejen já, ale celá moje rodina, moc smutný. Pak
+jsem si řekl, že jediné řešení vzniklé situace je postupovat jako automobiloví
+závodníci: V případě havárie okamžitě přesednout na jiný vůz a jet dál, takže na
+šok není čas.
+Tak jsem začal shánět nového psa. Ačkoliv jsem se oficiálně neobrátil na náš Klub,
+týden po úhynu mého psa jsem dostal od dvou členů Klubu upozornění na pěknou, sed-
+mitýdenní fenku, pro kterou jsem si zajel. Chtěl bych touto cestou poděkovat všem
+přátelům, kteří se mnou byli ve chvíli, kdy mi bylo nejhůře, zejména pak Honzovi
+Klírovi, Helence Nebeské, Petru Hanzlíkovi a Vítu Švancarovi, neboť právě díky
+jim jsem "přesedl do jiného vozu a jedu dál".
+
+                                                                    [podpis: Jaroslav Čumpelík]
+                                                                    Jaroslav Čumpelík
+
+
+[fotografie: fena s vrhem štěňat na dřevěné podlaze]
+D - vrh Faranda                                                    foto O.Kupka

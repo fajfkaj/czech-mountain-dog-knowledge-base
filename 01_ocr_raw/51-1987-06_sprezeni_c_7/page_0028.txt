@@ -1,49 +1,59 @@
-# ZDROJ: Spřežení č. 7, rok 1987, strana nezjištěna
+# ZDROJ: Spřežení č. 7, rok 1987, s. 26
 # SOUBOR: 51-1987-06_sprezeni_c_7.pdf
 # PDF_STRANA: 28
-# TISTENA_STRANA: nezjištěna
-# OCR: tesseract-5.3.4 / ces / conf 29.1
+# TISTENA_STRANA: 26
+# OCR: vision (AI dočtení, tesseract conf pod prahem); strana se dvěma sloupci: levý "Harrachovský pohár" (kategorie B, C), pravý "Memoriál Dr. Václava Vojtěcha - II.ročník"
 ---
-juBS J3r9201
-= Ásď os oznod pzelop UT3J0N VŮTA
-FEEf Jofoaye8ur IT
-JODIE- *oT
-paoxANPBTH
-P -ka
-A i £
-o: TC164:T $o194 5, LEt20'T HS ummoxi "91
-J,0G 84004% [T'9b IT o ndPěšTG -Ly 196 RY Baegněg *CT
-TeTUBG OT 621Gb:T—— 6M- 96:T0:T.. MY s990%3$ *$I
-opn SIBATA 62:6£*T 00 lb 62 "26 nv xozec *£T
-dok, ststoG "4 o8:8£*T tE'0b 6p *64 WV Jproy "2I
-: : 9TI9E:T. -96190 BT*TS $ysaox+02y *TT
-TeABT IRT "© 2S:96'T az :9b 62 06 HY xFu1oa7 "OT
-xouÁH Su obrcert O STY Gz:ly HS HON. UusNEj 26
-U8f XAFUX* JUT pe*lzstí 9p*2b 4 RY relay "8
-OoJPBH eyonoT*Tuj BE*EčIT 20:14 ab Aa HY sdTy "i
-£C*6T*T STI9E Te *6/ dHý ArTZUBH "9
-č0t6T:T Své go: HS fxs8aT9A *G
-' ZPiLUIT 10996 S£*T$ dHý 4FTA "4
-© 92:G0T. | U67PÉ S£:0v HS a1ars *£
-: © děr: dosef  Si8C | dHo Teworug "č
-A- BStET'T 66:26 co:T+ ES 9890 *I
-ABTOPA BXUDA. z vd : 387107030
-J30K XTIZUSH-
-JTUTPOTA XOYDOG ,
-94813 juozapopou 87 ooBzTIBUed - OC'C+ JonBg BUG 94
-áaěu me dozer I- 60:bb:t (0'ab 90:94 S 10x *8
-uoxT90| Uep*C| uep*z| top“ Syt6z:T LU'Tp. | OCIC k 86'0b HS. SN. JeN6E “í
-: +P ge'pě'í Oy '9£ Sy'Sb dHý p "9
-eC*(T=- ož* VEDELTOA VAVTOVA UT TÝLSONAN tt'pě*T 9S:6£ 344 HS HSN  Jedaeg "4
-BEST. PM p opr roků 6S'80:1T prigé Sbroy. | dH9 umrY9 "$
-LS*LT1'T £T:S£ pyičy |, HS gferoa *£
-— zzstktě BEHLD'T | 4y:ez"í ok29 *8 yd: o MM m E s
-: Go TZ:Z p2:G0O:T TP :GT:T 4070 "L 0S'ST'T bet oc:C + 92:6£ HS puopeď t
-: 10 'S0 2 be'66 L£:G0:T. * “ sum "9 m9xI90 S83 oTOx*2 oToX*T a Sr107016x
-Tp'4S*T TE'*2G or'20:T. ; dH) BygnoT "G
-: -G0 '9b:T 2G:6b £T*99 * HS prag "p Pozay "xp8TY 3813
-: 6£*66:I 61:97 o2:£G dH9 "4 490% *£ 12- fouez838z :/961*C*I
-H 10:66*T gt:ch zG196 4Hý *I Ja0y "2 nugus oyg40u noa38.1A 8 pxxeM 38.3
-ň. vo*8č*T po'cy 00*9) dH9 | WoreduepreH "I dt 1juezeus guaym *ou9z938z !/96T*2"87
-' mexT90 987 || (OroxZ || OTON"T S 975956104 HVIDY KASAOHOVNAVH
-“) - + ; a > =
+HARRACHOVSKÝ POHÁR
+
+28.2.1987: zataženo, mírné sněžení, +1°C; trať měkká a v rýhách nového sněhu
+1.3.1987: zataženo, -2°C; trať hladká, tvrdá
+Pečená, Bauer + 3:30 - penalizace za nedodržení tratě
+
+kategorie B
+                          1.kolo              2.kolo    čas celkem
+1. Pečená           SH    39:26 + 3:30        32:54       1:15:50
+2. Elster           CHP   40:18               37:30       1:17:48
+3. Dolejš           SH    42:44               35:13       1:17:57
+4. Chlum             CHP   40:45               38:14       1:18:59
+5. Berger NSR        SH    44:13               39:58       1:24:11
+6. Pechek            CHP   45:45               38:40       1:24:25
+7. Bauer NSR         SH    40:58 + 3:30        41:17       1:25:45
+8. Kohl              S     56:06               48:03       1:44:09
+
+kategorie C
+                          1.kolo              2.kolo    čas celkem
+ 1. Nečas            SH    41:03               32:55       1:13:58
+ 2. Emichel           CHP   38:25               36:01       1:14:26
+ 3. Síbrt             SH    40:35               34:51       1:15:26
+ 4. Klír              CHP   41:35               36:07       1:17:42
+ 5. Velvarský         SH    43:05               34:57       1:18:02
+ 6. Hanzlík           CHP   43:21               36:12       1:19:33
+ 7. Rípa              AM    42:37               41:02       1:23:38
+ 8. Krejčí            AM    44:38               42:46       1:27:24
+ 9. Hamann NDR        SH    47:25               46:15       1:33:40
+10. Zborník           AM    50:29               46:28       1:36:57
+11. Krotkovský        AM    51:18               46:58       1:38:16
+12. Kolář             AM    49:49               48:31       1:38:20
+13. Ježek             AM    52:29               47:00       1:39:29
+14. Stočes            AM    1:01:36             43:53       1:45:29
+15. Šembera           SH    56:47               51:24       1:48:11
+16. Komín             SH    1:02:37             46:54       1:49:31
+    Ježek
+    Greplová          SH
+
+MEMORIÁL DR. VÁCLAVA VOJTĚCHA - II.ročník                  13.-15.3.87
+
+                                     počet psů  1.den  2.den  3.den  celkem hod:min
+ 1. Elster Petr / Pechek Vladimír        6 CHP   2:12   2:05   1:27      5:44
+ 2. Hanzlík Petr / Kůrka Václav          5 CHP   2:26   2:05   1:20      5:51
+ 3. Kobr Ivan / Kobr Petr                6 CHP   2:47   1:59   1:20      6:06
+ 4. Chlum Jan / Kyncl Martin             7 CHP   2:43   2:28   1:27      6:38
+ 5. Ing.Loučka Radko / Ing.Klík Jan      5 CHP   3:06   2:46   1:48      7:40
+ 6. Lang Hynek / Bičík Pavel             5 CHP   3:01   3:11   1:44      7:56
+ 7. Dolejš František / Velvarský Rudolf  6 SH     3:48   2:54   1:20      8:02
+ 8. Filo Daniel / Krotkovský Petr        4 CV     3:59   3:11   1:55      9:05
+ 9. Síbrt Ivan / Zborník Vladimír        4 AM     4:16   4:22   2:07     10:45
+                                         6 SH
+10. Hladůvková / Richter                 4 CHP    5:12   5:20   2:03     12:35
+11. Ing.Krejčí Jiří / Řípa Martin        5 AM     dojezd pouze se psy - rozbití saní
