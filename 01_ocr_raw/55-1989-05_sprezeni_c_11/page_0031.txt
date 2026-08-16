@@ -1,116 +1,19 @@
-# ZDROJ: Spřežení č. 11, rok 1989, strana nezjištěna
+# ZDROJ: Spřežení č. 11, rok 1989, s. 29
 # SOUBOR: 55-1989-05_sprezeni_c_11.pdf
 # PDF_STRANA: 31
-# TISTENA_STRANA: nezjištěna
-# OCR: tesseract-5.3.4 / ces / conf 49.6
+# TISTENA_STRANA: 29
+# OCR: vision (AI dočtení, tesseract conf pod prahem; noviný výstřižek vpravo dole byl v předloze vytištěn zrcadlově/vzhůru nohama, přepsán podle čitelného obsahu; obsahuje fotografii)
 ---
-G1
-(v
-Jelo se na plném slun-
-Jelo se po lesních a polních cestách, kousek po louce a esi 400 m po asfaltu. Ten
-Na průběh závodu příjel redaktor "Vpředu", který natáčel rozhovory pro rozhlas.
-asfalt byl nejtěžším úsekem vzhledem ke stoupání a teplotě.
-drakům nepřál. Bylo krásné slunečné počasí, Ne startu se sečlo poměrně doet divé-
-ků, víc jak druhý den na letišti v Liberci.
-ci. Dalších 500 m se jelo po pastvině. Posledních 600 m vedlo opět lesem s výjez-
-dem na pole a 200 m cílové rovinka.
-UE!
-t -4 ni
-o 0 UO .
-[sh "| M
-A o o
-© -bd — k
-u oc A
-Wo s
-n po© +
-m O »>©
-+4 B Or n
-+ - A> >
-a + m
-kal P >
-3 +38 k:
-a P ď
-a 03 K
-"o MU
-EC:
-=>
-a Oe On
-BM
-o kok;
-> mi
-bd ©
-$SodE*
-se © 2
-D > o
-bm- *
-W > l S
-Lan a
-w © 9 a
-m2> = 88
-8 o“ "=
-= kod
-P>*e
-O MO -> U S
-MP h
-Bop o
-p A5 07%
-$a “
-aka
-S 0p8Baů
-»U +
-E
-o Boch
-a — DMO
-13 o
-m L +)
-s a ©-
-Om 585
-PŘ“ 6
-u k o 0
-Poor O © Br
-: Syn =: ka ©
-4 73
-Pal akr
-sedá če
-ooPoŘ
-0"
-M k
-*r [23
-C ení |
-a
-B =
-E- *©
-DO©G et KX
-“ m B PX
-k. Z «
-SBZESY
-s
-3 63:5
-Or-— Lo ©
-> nNánBŘDoO
-»
-ná
-Erb - Oseč
-Josef
-V
-suB- "Jajleid "4 B "I "U sa Z exgtupnis '4 'islog "| 1IlZ9MAZ UHU
-"šBIEY UDANIJOUDAL 4 "LUSU O00£ DEJ PU HSH8| M2X38100|I BU =
-pulij 91 Hepou A — jlgpzod uap 0 jal as P0ABZ 1UJOJIU0Y 2 — "MA
-„Oucung - ddlagij Z tualajsjd "4 Pd4d H9IP20T Z UrmoN | (nsd
-S—£ jtoZojds) W HdoBajey a P "upagiig Z yidey "ag (nsd £—z ju
-"$z91dS] O H40581BY A "3U79SO Z wag13 "| P urajsloj "| wáyJai8gjj
-910 PAOISALD Z XEZON "A [IZaAZ HS 110802 A '13572AS WST
-z9b I3lt IovZiup21u LU [ipod (nas © ÁJIZEDÁA 98 9U9830 A ApP0ARZ
-"pSd OUSHSLOU OUJXSV) R PSŮ OUJAOUPS ou$[
-"ydáj — Ayshy OUdySng!s "DSd CyjslojBaMÁ4jdu < Ouisjaalau — B)
--Maejem Ousyssele Puatmajd [IRDA IuaBISAPU NidPIS BN Juedi9s34a
-2UJPUZ JRUJGOD Is By "Ijo A gwul81z ojág 07 pajyod PN "oupejt
-PU WÁDÁAZ "Umsd u1áys18a8S Ojpadeu aje *unyPAIp Ojpad 31914 'I$P9
--od 9uunjs '9uSpay OJÁG "W9Dp29| B maxIZ0A UÁAOJOXJÁ22-11 8S juBZ
--9105 UJJJOBJIPY UJDISIBP A "Sad P PISIIHÁD ADPZA jal SS Jio881PY A
-"r 906S 93|4P A 23UJNOjE gižiudtuvad zjjgod nusiaj W9)BUJOU A
-Poa$z IUO4iuoy 7 jiujolnysn 1) „996T ÁynIy0 9xd918grj" WadazpUu
-DOd "0J90IT A Nidods OUsa0u2s Aujdnys Huseigo — wjuazojds os
-Gopzal P usumjd UÁNSI9A8S pSd nJa1PA0U2 NgNLy 9a0u8|2 PUÍI "ST
-Mogos A auj9sO tunyjuagisapu JiaBadijd noupajpod juapyBHY
-oje4dou unsd ISE20J
+...drakům nepřál. Bylo krásné slunečné počasí. Na startu se sešlo poměrně dost diváků, víc jak druhý den na letišti v Liberci.
+Na průběh závodu přijel redaktor "Vpředu", který natáčel rozhovory pro rozhlas.
+Jelo se po lesních a polních cestách, kousek po louce a asi 400 m po asfaltu. Ten asfalt byl nejtěžším úsekem vzhledem ke stoupání a teplotě. Jelo se na plném slunci. Dalších 500 m se jelo po pastvině. Posledních 600 m vedlo opět lesem s výjezdem na pole a 200 m cílová rovinka.
+Večer se měl konat country bál, ale nepřijela kapela, takže jsme zajistili na poslední chvíli alespoň disko. Místní sál praskal ve švech.
+Druhý den se jelo v Liberci na letišti. Je to okruh 3000 m dlouhý na travnatém povrchu. Velká výhoda je tu pro diváka, který může závodníky sledovat po celé délce tratě. Nepřálo však počasí, bylo mokro a sychravo. Proti loňsku přišlo málo diváků. Škoda, že nepřijelo více ČHP, zvláště někdo se spřežením. Snad příští rok.
+
+Josef Erb - Osečná
+
+[Fotografie: muž na jízdním kole taženém psem (bikejöring) v lesním terénu.]
+
+Novinový výstřižek - "Počasí psům nepřálo":
+Atraktivní podívanou připravili návštěvníkům Osečné v sobotu 15. října členové Klubu chovatelů psů severských plemen a jezdců se spřežením — oblastní skupiny saňového sportu v Liberci. Pod názvem "Liberecké okruhy 1988" tu uskutečnili 1. kontrolní závod v hornatém terénu poblíž pramenište Ploučnice v délce 5300 m. V kategorii SK jel vždy cyklista a pes, v dalších kategoriích spřežení se tří-čtyřkolovým vozíkem a jezdcem. Bylo krásné, slunné počasí, které přálo divákům, ale nepřálo severským psům, zvyklým na chladno. Zde byl též start i cíl. V ležních (pozn.: patrně "v lyžnách") byla zajištěna celodenní strava pro závodníky. Po celý den byla otevřena restaurace. V sobotu po obědě byl připraven program pro závodníky, a to vystoupení historického šermu, dále vystoupení kouzelníka a večer countrybál s předtančením. Vše za vydatného přispění a organizování místním SSM, NF, vojenskou posádkou z Grábštejna a Státním statkem.
+Závody v Osečné se vydařily a svůj podíl na organizaci měli též místní svazci. V kategorii SK zvítězil V. Kozák z Bezvěrova před libereckým J. Erbem a J. Osečné, v kategorii C (spřežení 2-3 psů) J. Komín z Počátek před P. Pfeiferem před B. Řepíkem z Přibrami, a v kategorii B (spřežení 3-6 psů) J. Komín z Počátek před P. Pfeiferem z Liberce - Šimonovic. - 2. kontrolní závod se jel o den později — na libereckém letišti na trati 3000 metrů. V jednotlivých kategoriích zvítězili J. Pojsl, F. Studnička z Ústí n. L. a P. Pfeifer.

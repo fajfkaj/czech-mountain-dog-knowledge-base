@@ -1,65 +1,73 @@
-# ZDROJ: Spřežení č. 11, rok 1989, strana nezjištěna
+# ZDROJ: Spřežení č. 11, rok 1989, s. 30
 # SOUBOR: 55-1989-05_sprezeni_c_11.pdf
 # PDF_STRANA: 32
-# TISTENA_STRANA: nezjištěna
-# OCR: tesseract-5.3.4 / ces / conf 36.1
+# TISTENA_STRANA: 30
+# OCR: vision (AI dočtení, tesseract conf pod prahem; rotovaná výsledková tabulka závodů)
 ---
-hod
-Oř,
-dy
-5300 m terénem, 15"C, slunečno
-109C, zataženo
-' 4
-letiště
-čas
-zZavo
-15.10.88 Osečná
-3000 m rovina,
-hd
-OD +
-Osečná
-celkem čas
-16.10.88 letiště
-SK
-© ::mmrcct omuuv ss
-Kategorie
-£S:£2:T C4:Tt oT:Z+ HS tdeup *CT
-ONxYC-rma ob W +r T2:CZ:T £T:24 80:T+ | dHO U9TIPOH *ZT
-ab Tat REM ai 6y:T2:T 90:09 Cy:Tb dHo+nve Bzpi8 TT
-NANA- =- -a = 2£:8T:T 9T:LE 6T:T+ | HS vyujdoj *0T
-———. -ei „. T2:9T:T SG:L£ 9z:e£ | HS xpden +67
-—Hma +i © = mu = 90:9T:T TE*4£ st:e£ HS 92714043 "8
-i č ee č mg = OS:STIT T+:9£ 60:26. WW *pPZ xezer *L
-r jm0oj“, ikadka wo ZT+ST:T Ty:e£ Tc'9£ HS PAOXIMZEMOJOY "9
-OOr«%m9An9 w NW id Vo:£T:T LU8£ Lv:yt HS soTany *G
-ST:40:T 9S:0£ 6T:££ © HS "y APIang +4
-££:20:T vZ:0£ 60:z£ | HS JojTejd "E
-$C:00:T pT:OC ozt0£ HS ASB TOA *Z
-ZRAANAYT ARA WE C264 9T:92 LOorTE HS s690N *I
-ŠNAARASH ARA 8% s:
-adr m<+dnor arm r = WE: et j. HS A927uT0G
-To:€o:T zb:o£ 6T:2C *Z74X DPren, :
-25825288 ppb 53 Z£:90:2 9T:fo:T 9T:fO*T 4HO paox3nT *02
-á a 8 R E © © VE Á : 60*£S:T 8E:GG TE:4G ES paoxTSINE *6T
-r Oz:Z):T CT3TG Lo:T6 | dH9 xewpds4S *9T
-6S19€£:T LU er Zb:eb | dH9 6yjy *4I
-GStpC:T 90:64 Ly:Gy HS oxovI *91
-CTTE:T 92:94 Lytvyp NV X9Jga04 *ST
-gy8ánih , zA3 A8 We:ez:T 2G104 Zpizy HS godey *yl
-S S46 ša 00:f2:T 4 Trtop. HY oegsig *(T
-Ta:z2:T pb:ot 4C+T+ | dH9 *d pAoxBAOR *ZT
-GTI22:T cetyy zS:LE | dH9 Áuzeuoy *IT
-. 9Gt02:T CE:T+ £z:6£ | dH9 NSEPTOXTA *OT
-B jí ZEt6T:T 82:09 vo:*6£ ht o: *6
-8g:L4T:T 20:6£ 96:86. HS tsfoď *8
-ZE: čá 0 4 ik OS*$T:T Z0:9£ 8p:8£ v yogyfoA *L
-<a ov“ T€:$T:T Lo:9£ vzi9£ | dHO *ď A9yoeT *9
-SG:90:T 9£:C£ 6T:GC KV reBoj *G
-8 po:Lo:T S£:c£ 62:CC HS kuszeg "4
-k- E AE o z2tCo:T 82t0£ vStec | dH9 ooa0weS *C
-dž E o 8% 8 2% E 9€:00:T Ob: TE 99:82 | dH9 *A Asyvod z
-BS o čŽíEšuu A117 AHS GG:9G pCroz Tetez © HS jesnoj *T
-Sdháždas Hššh K8 a r
-9T9D oTo%"II oTOX"I JS SrIOJojex
-. o . . * . 8 . . . 8 . .
-r M+M OK dj am af-a 686T*T *ST=*yT SAVHON VN OLSAR JAON »
+ZÁVODY
+
+LIBERECKÉ OKRUHY 88
+15.10.88 Osečná - 5300 m terénem, 15°C, slunečno
+16.10.88 letiště - 3000 m rovina, 10°C, zataženo
+
+Kategorie SK (jméno, plemeno, celkem, Osečná čas/pořadí/km/hod, letiště čas/pořadí/km/hod):
+1. Pojsl, SH, 19:46 | 13:00, 2., 24,46 | 6:46, 1., 27,86
+2. Kozák, AM, 20:47 | 12:37, 1., 25,70 | 8:10, 3., 22,22
+3. Erb, ČHP, 23:04 | 15:25, 3., 20,85 | 7:37, 2., 24,44
+4. Brabec, AM, 25:14 | 16:51, 4., 19,26 | 8:23, 4., 21,87
+5. Nováková, ČHP, 27:51 | 18:47, 6., 17,22 | 9:04, 5., 19,91
+6. Sommer, AM, 28:44 | 17:30, 5., 18,37 | 11:14, 7., 16,15
+7. Šupita, AM, 30:37 | 19:38, 8., 16,48 | 10:59, 6., 16,99
+   Kašička, AM, - | 18:58, 7., 17,11 | -, -, -
+
+Kategorie B:
+1. Pfeifer, 4 SH, 24:47 | 16:24, 2., 19,58 | 8:23, 1., 21,81
+2. Komín, 4 SH, 25:36 | 16:23, 1., 19,59 | 9:13, 3., 19,71
+3. Krejčí, 1 AM + 3 SH, 26:49 | 17:52, 3., 18,15 | 8:58, 2., 20,97
+
+Kategorie C:
+1. Řepík, 3 SH, 30:30 | 19:09, 1., 16,65 | 11:21, 2., 16,05
+2. Studnička, 2 AM, 32:25 | 21:24, 2., 14,97 | 11:01, 1., 16,34
+
+NOVÉ MĚSTO NA MORAVĚ, 14.-15.1.1989 (jméno, plemeno, I.kolo, II.kolo, celkem)
+
+Kategorie SK:
+1. Fousek, SH, 28:21, 28:34, 56:55
+2. Pechek V., ČHP, 28:56, 31:40, 1:00:36
+3. Šanovec, ČHP, 32:54, 30:28, 1:03:22
+4. Pečený, SH, 33:29, 33:35, 1:07:04
+5. Nogol, AM, 35:19, 33:36, 1:08:55
+6. Pechek P., ČHP, 36:24, 38:07, 1:14:31
+7. Vojtěch, AM, 38:48, 36:02, 1:14:50
+8. Pojsl, SH, 38:56, 39:02, 1:17:58
+9. Kraabach, AM, 39:04, 40:28, 1:19:32
+10. Mikolášek, SH, 39:23, 41:33, 1:20:56
+11. Konečný, ČHP, 37:52, 44:23, 1:22:15
+12. Nováková P., ČHP, 41:37, 40:44, 1:22:21
+13. Brabec, AM, 40:11, 42:49, 1:23:00
+(pokračování na str. 31)
+14. Mareš, SH, 42:42, 40:52, 1:23:34
+15. Vobořek, AM, 44:47, 46:26, 1:31:13
+16. Lecko, SH, 45:47, 49:08, 1:34:55
+17. Říha, ČHP, 48:42, 48:17, 1:36:59
+18. Štěpánek, ČHP, 51:07, 51:13, 1:42:20
+19. Bursíková, SH, 57:31, 55:38, 1:53:09
+20. Duľková, ČHP, 1:03:16, 1:03:16, 2:06:32
+    Tunkl, kříž., 32:19, 30:42, 1:03:01
+    Dolníček, SH, -, 38:34, -
+(pozn.: pořadí řádků 14-20 vůči následující straně 31 nejisté kvůli oříznutí skenu)
+
+Kategorie C:
+1. Nečas, SH, 31:07, 28:16, 59:23
+2. Velvarský, SH, 30:20, 30:14, 1:00:34
+3. Pfeifer, SH, 32:09, 30:24, 1:02:33
+4. Bubiák K., SH, 33:19, 30:56, 1:04:15
+5. Kubica, SH, 34:47, 38:17, 1:13:04
+6. Kolomazníková, SH, 36:31, 38:41, 1:15:12
+7. Ježek Zd., AM, 37:09, 38:41, 1:15:50
+8. Šteflíček, SH, 38:35, 37:31, 1:16:06
+9. Řepík, SH, 38:26, 37:55, 1:16:21
+10. Topinka, SH, 41:19, 37:18, 1:18:37
+11. Bříza, 2 AM + ČHP, 41:43, 40:06, 1:21:49
+12. Redlich, ČHP, 41:08, 42:13, 1:23:21
+13. Grepl, SH, 42:10, 41:43, 1:23:53

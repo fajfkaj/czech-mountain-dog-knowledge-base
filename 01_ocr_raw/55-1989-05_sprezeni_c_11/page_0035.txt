@@ -1,72 +1,73 @@
-# ZDROJ: Spřežení č. 11, rok 1989, strana nezjištěna
+# ZDROJ: Spřežení č. 11, rok 1989, s. 33
 # SOUBOR: 55-1989-05_sprezeni_c_11.pdf
 # PDF_STRANA: 35
-# TISTENA_STRANA: nezjištěna
-# OCR: tesseract-5.3.4 / ces / conf 32.0
+# TISTENA_STRANA: 33
+# OCR: vision (AI dočtení, tesseract conf pod prahem; rotovaná výsledková tabulka, obsahuje fotografii; jména psů ve sloupci "Lyžař a pes" místy nejistá)
 ---
--Jj m
-WC 28) au TTaA098.Dzod
-62:GG Toc jud9asg spy HS Taey XeTang *TC
-Optys dHý T9AUď XouoeT *0C
-pe:€6 dH9 Jy9ď XoYDOT *62
-bl:c£e JyTA Tueasg moreg dH9 upe Toudy *92
-et:cS gps 9TY9£Y TITFBG TV ATETPBTA XPZ0Y *IZ
-IT: £S HS war Eyz0WP0 *9zZ
-LEr2G | BXMOT BAODYDBIS MOBA AH) | As[soJE, NozBIE *GZ
-Zi2G dH9 Jtopny psTuo *pz
-ae:TG ďH9 AB[goder xyz *CZ
-8p*0G ANT YOÁXSJT2IH PO BNSS JH N9ApTS ÚAsusToT *ZZ
-TC*0G - [949g Duny *Te
-g1:0g Xy0y7 9z 8[9PY dH9 A9T30dup PweS *0z
-20:04 A9 $XO9PBIH U8IB30PTY dH9 Jesop deudoj *6T
-96:64 o9TrpnoTaz 4% dI9 394 sue[s *9T
-pz:64 =ge28y NfBosdy JHO TSY9T1 ATUJBP
-v2:6+ Bpredej 18T 4H9 oxpey ex2noT*T-*9T
-a2:8) dH9 | Tb9ď USTeduspTOH *ST Bad puzusaz oud Trdnozepo TO:T+
-61:99 HS wsuoy ju990T *4T TZ:60:T 92:2C GG:9C
-40:8 epueda U$[X 4H9 A9A3TS kc *€T ZT:L0:T 6C:LC £c:62
-20:99 JV IFaTPVTA djs *zt :Got i i
-LS:94 | JyJA Jud9499 uosTydy Hg 40 ftR401 i *TT ké ste: pote
-SC:G$ odexfy ST189 HS dy04 «a9rdnay *OT Gz:9G GG:92 0C:62
-WT:S+ BAOAJSOH Z IB9 A)  UOFIDUTO W2TTPOC *6 TT:9G 9G:9z GT:Lz
-To:S+ oJexfy exsBTy HS $FA Xosnoj *4 9T:TG 9G:Gz 2z:Gz
-BG:4y $0d0X BAOXMBC DO Z8SXY dH9 PAPO Touopar *, LT:6b 60:pz 90:62
-zbtyy dH9 +7A 90M0mwg "9 Gh:gp v2:Gz 12:2
-vítýt H9TI2W Bu uexTy TH9 T948 Jgoy *G
-Gztyy 804 janavy Blogrey JH) 39 XApizwey "4
-votep nopef zn směly dH9 Tersy xezzany *£
-6£:T+ Bpued8j WBITO HO ABTO$A BATE "Z Z6*6T:T 84: SE votyy
-9St04 PIPY - ATETOBTA AeY004 *I TS:ST:T £0'62 8y:97
-SSryT:T Ty: G6 pl:6£
-m yl - zna - Pyt90:T 90ty£ gC1yf
-T2*po:T $G:TE La:z£
-PAOJTTY Tay. 179p0Uz01 TUAVTH CT:Po:T 00:2C CTIZC
-Aougds3c ABTSTuvjg Sur :npoa9z [93rpey bwCt9G 9T:Lz 9T:TE
-P9T Nnujzs 9a “TounTa 8u uITI ATPOTAZOH £0:4G 6Tr9z byteč
-Do0 psu 4z0Td9y 11194299 8 ouser 9T:v$ 98T: 82 89:62
-69061*2*21-=*TT £orfC6 82:02 gE10z
-sed 8 TOZÁT HSS) J41740874 -
-200vz (G)
-foto Duna Kupkové
-oxOVT
-Ty uooul99 *6
-nv seaeg *3
-HS RnueH *L
-HS X9TrpBs "9
-ny o9gBIT *G
-HS eTrex *4
-HS "y Šueoeg *C
-NY *z x9z9p +2
-HS Tefoa *T
-S oj10Je3vy
-HS £ pAoxuUTdOr *OT
-HS £ xpden *6
-dH9 z A9g1S *8
-HS £ Haď TF9A *L
-We Ex2TUpNIS *9
-HS2+WVT A92TTFAS +
-HS £ HCG Jexo0uTOH ++
-HS £ HaG uwemrondg *£
-HS £ Maď T93reW0S *2
-HS £ děJpsja "T
-(puseso) 3. OTIOZejvy
+ZADOV - Mistrovství ČSSR - lyžař a pes
+11.-12.2.1989
+
+Jasno a bezvětří, teploty nad 0°C. Rozbředlý firn na slunci, ve stínu led.
+Ředitel závodu: ing Stanislav Štěpánek
+Hlavní rozhodčí: Marie Klírová
+
+Lyžař a pes - muži - 14 km (pořadí, jméno, plemeno, jméno psa):
+1. Pechek Vladimír, -, Adid
+2. Kůrka Václav, ČHP, Ciran Faranda
+3. Kubíček Karel, ČHP, Aramis Už jedou
+4. Hanzlík Petr, ČHP, Aalborg Labutí řeka
+5. Kobr Pavel, ČHP, Aiken na Mělích
+6. Šanovec Vít, ČHP, ?
+7. Emichel Jiří, ČHP, Aksaz od Jankova kopce
+8. Fousek Vít, SH, Alaska Ajkaro
+9. Jedlička Jindřich, CV, Gar z Rosíkova
+10. Krupička Petr, SH, Ceris Ajkaro
+11. Vítovský Ota, ČHP, Artison Severní vítr
+12. Šíp Vladimír, AM, ?
+13. Vacek Slávek, ČHP, Elán Faranda
+14. Pečený Roman, SH, ?
+15. Heidenreich Petr, ČHP, ?
+16.-17. Loučka Radko, ČHP, Dar Faranda
+        Jarník Michal, ČHP, Aracajú Kačabka
+18. Sláma Petr, ČHP, Akky Zbloudilec
+19. Hepnar Josef, ČHP, Aldebaran Hradecký lev
+20. Šena Jaroslav, ČHP, Adéle ze Lhoty
+21. Tunkl Pavel, -, -
+22. Dolenský Slávek, ČHP, Bema od Hrčířských luk
+23. Vrzák Jaroslav, ČHP, ?
+24. Chlad Rudolf, ČHP, ?
+25. Blažek Jaroslav, ČHP, Back Pradědova louka
+26. Ochozka Jan, SH, ?
+27. Kozák Vladimír, AM, ?
+28. Kynol Martin, ČHP, Baillie Rychlé sáně
+29. Pechek Petr, ČHP, Baron Severní vítr
+30. Pechek Pavel, ČHP, ?
+31. Bublík Karel, SH, Aris Severní pól
+
+pokračování na straně 34
+
+Kategorie C (Osečná) (jméno, plemeno, I.kolo, II.kolo, celkem):
+1. Pfeifer, 3 SH, 26:35, 26:28, 53:03
+2. Scheitel DDR, 3 SH, 25:58, 28:18, 54:16
+3. Bruckmann DDR, 3 SH, 28:44, 28:19, 57:03
+4. Reinecker DDR, 3 SH, 31:16, 27:18, 58:34
+5. Šteflíček, 1 AM + 2 SH, 32:13, 32:00, 1:04:13
+6. Studnička, 2 AM, 32:27, 31:54, 1:04:21
+7. Bell DDR, 3 SH, 34:38, 34:06, 1:08:44
+8. Skrbek, 2 ČHP, 39:14, 35:41, 1:14:55
+9. Řepík, 3 SH, 46:48, 29:03, 1:15:51
+10. Topinková, 3 SH, 44:04, 35:48, 1:19:52
+
+Kategorie S:
+1. Pojsl, SH, 23:21, 25:24, 48:45
+2. Ježek Z., AM, 25:08, 24:09, 49:17
+3. Pečený R., SH, 25:22, 25:56, 51:18
+4. Keller, SH, 27:15, 28:56, 56:11
+5. Brabec, AM, 29:30, 26:55, 1:02:15
+6. Sadílek, SH, 29:49, 32:26, 1:05:35
+7. Hanuš, SH, 35:07, 30:28, 1:07:12
+8. Bareš, AM, 29:33, 37:39, 1:09:21
+9. Černoch, AM, 36:55, 32:26, odstoupil pro zranění psa
+   Lacko, -, 41:01, -, -
+
+[Fotografie: dva psi zapřažení do saní se závodníkem v akci. Foto Dana Kupková.]

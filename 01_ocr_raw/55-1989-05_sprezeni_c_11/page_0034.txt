@@ -1,78 +1,26 @@
-# ZDROJ: Spřežení č. 11, rok 1989, strana nezjištěna
+# ZDROJ: Spřežení č. 11, rok 1989, s. 32
 # SOUBOR: 55-1989-05_sprezeni_c_11.pdf
 # PDF_STRANA: 34
-# TISTENA_STRANA: nezjištěna
-# OCR: tesseract-5.3.4 / ces / conf 39.8
+# TISTENA_STRANA: 32
+# OCR: vision (AI dočtení, tesseract conf pod prahem; text článku byl v předloze vytištěn otočený o 90°)
 ---
-- 32 =
-OA9TA CC *439 BU 9103938% ITSTBT
-T2:LG 02:92 T0:62 HS 9 Hďa uuemey *y
-OC:9G 66:92 TG:62 HS 9 puexs: *£
-82:0G 20:Gz 92:G2 HS G sfeToď *z
-LE:8+ Ty:c2 96:42 HS G urmoy *T
-a S1103018y
-juogKad1d guayedou *or1o3ojuxy 4uyoega od um 9 Ba
-nysus zeg “oupr[a “ouoze38z 94- 9[zpou T 340g09
-=
-606T*2*G=*$
-aJz Jesef *9uo3 su supedrad Tuj8,30 x9z
--NT O0£ Vu vyroudey T9eA40,Kgn uuszouo of opy ,a0unTg, nT
--9304 A orT4g 918 4g TUga4034gj *Tuspzef Tumrzpod vupudrad
-2180[ B UOruzBI A TTBAOLÁON NPOAUP Z oDuTSOJd m9X1P20d
-03 6 P04BZ 18pB10d 33do mouskg TT2449 *ua(C9z opng pnyog
-"us
--1939 ujuyys © sufoj9gplg Z noypysod noysusČoa *ju ISS
-uTujsTu jwpaozTueJJo € TuzdsTid oy9uz upa ez 95, *uTu92
--uvypoid S [pgÁiyunoo 19994 3 UyTUTezNoy TUednozs£a 2Typ
-*na1es oy9x0T40,sTY TuednozsÁa 03 8 AyTupoagz odd waS01d
-usagidTid TÁg 9P3G0 Od n40g08 A *928INF1391 Bu9IA910
-sT4A usp fI93 04 *ÁXTUDO49Z OJd BRABILS TUU9PoT92 3U924
--g91f8z ulág UoTUZYT A "TIO T 34819 291 TÁg 9pZ "mTU9T3%A
--So pod ÁxTýyG po m 002 800 Ft4a p94 "noyodda 98 uorloyod
-U9fA0XZDTNOAD 9A „WBYIYG, ZBOP U93y9UozYT A OTÁG HATUPOAYZ
-J"pa044g) *TOBINBYSOI 2AOTÁY9 929 29TT9A *,o0ugA9IT, A
-BIÁg OAFUP0OAyZ 908I3eTJ9y *ouonsvu 99 oTef u 9 Vu eu
--999137 BIÁg my G“CT WoTupoand z z4py T BudaBIdpid 9190p
-BI4g np0aBz 3BIL *3BA0)TTOU "TOČTAd Opy XBSA% “vUTAOT
--od usf vrefT1ů DYTUPOARZ UDÁUV9BTUTId 2upeand z npoanp
-oyo3 Z *Urus Tpedeuou 07 epoyg ueť op *3spu uoroma03
--Kgn 3990d 19324 31491Fsz moTgoad TÁg opxy “24040T1pog A
-Np0oa9z 039ru Teppiod 03 942930 A PO49Z *(HGN 2 NYTUP043z
-G) F4982n TupopuTzou S Tuozoids yorsd poagz Aynap Tsp
--plod UdTOTY4BIUNY UDTUZYT 949980 A 93 UJOUN *G 6 *p 9UG
-942980 A poa4yz 48do
-XOTĚ9,0jj ABTSOITK
-XP4DS JAT | :9T0,8pBSOd TNABTU
-903101 TITO Dur :npo4yz T93rpeJ
-»nod9zTp peu 9x0844 VIYSTC (L NAMTA IXS OU9 A799
-AA0u9T? TTPOAOJd AuT1sTI PAOXPOTOÁA TU9OAB1S0S 8 INOI2
-*no19Z|( PBU MoXOSÁA 9A kyyoeS
-WSTP9J18 oU9X8TVZÁT UOTIBI, UDÁJ00799 Bu ATyegodd Kpoayz
-Le:L ne9-ne9 BoB BAOYONOG *OT
-To: ďH9 BYABIGNOT PAOISSTA *6
-LT:9 dH9 19 ATIzuvy *8
-00:G HS BuBr BAOSONOX *L
-zh:r 4H9 9jonT RaoBaeguszuopi *9
-ofC:p dH9 gna8p O040ueg *G
-ge*v dH9 PrABG XeTysaeK *Y
-TT:+ dH9 BI2A PAOXSYTBA *C
-66:2 D9 RYBT BAOXSRIBA *2
-vyz dH9 ep ye1psdey *I
-m T - Z9pyrm - FuproUTS
-9 OUBAOXTITSSTA "9 OT8A03IB1s o ouospTuTAd
-e£:Ch dH9 ABTSOJTy xeTÉe10xŇ "9
-T2:C$ dH9 FARO A9ADS 6
-SC:T+ 2S OXPVY JejUoBAUTOTY 4
-Gb:6£ dH9 xeuíy BuvT *C
-6T:6£ dH9 ABTOVA Jx "č
-azsS£ dH9 wep mru9 "T
-W OT - A pmězejds
-£T OUSAOATITOBTA ET OTBA031B3e GT OU9SPTUTId
-96:GG mv ABTSTUe3s JeTz0y *£T
-o£:94 dH9 ABTSOJTy UoTIDOH "ZT
-obtyy dH9 ABTsoJiy x929T0H *IT
-vesvyý dH9 Te1vy 8TST4 *0T
-£csov dH9 oxPeY FXenoT *6
-82: 3€ 4H9 wef AIT *8
-ZZ:9£ jv XNguspz 4Proy *L
-po:9£ 4H9 T942 Zg90Y *9
+Opět závod v Osečné
+
+Dne 4. a 5. února se v Osečné Lázních Kunratických pořádal druhý závod psích spřežení s mezinárodní účastí (5 závodníků z NDR). Závod v Osečné se pořádal místo závodu v Bedřichově, kde byl problém zajistit větší počet ubytovacích míst. Je to jen škoda, že nenapadl sníh. Z toho důvodu z původně přihlášených závodníků přijela jen polovina, avšak kdo přijel, nelitoval. Trať závodu byla dobře připravena, i když z původních 13,5 km byla zkrácena na 8 km, jelo se nasucho. Registrace závodníků byla v "Dřevěnce", velice pěkné stylové restauraci. Ubytování závodníků bylo v dvoulůžkových pokojích se sprchou. Psi byli též cca 200 m od Šárky pod osvětlením. Zde byl též start i cíl. V ležních byla zajištěna celodenní strava pro závodníky. Po celý den byla otevřena restaurace. V sobotu po obědě byl připraven program pro závodníky, a to vystoupení historického šermu, dále vystoupení kouzelníka a večer countrybál s předtančením a organizováním místním SSM, NF, vojenskou posádkou z Grábštejna a Státním statkem.
+
+Pokud bude zájem, chtěli bychom opět pořádat závod, a to počátkem prosince z důvodu ubytování prosince s důvodem ubytování jezdců i ještě přiznivě podzimní ježdění. Ubytování by ale bylo v hotelu "Slunce", kde je omezena ubytovací kapacita na 30 lůžek, ostatní případně na seně.
+
+Josef Erb
+
+OSEČNÁ - vozíky
+4.-5.2.1989
+sobota i neděle -4°C, zataženo, klidno, bez sněhu
+trať 8 km pro všechny kategorie, nepatrné převýšení
+
+Kategorie B (jméno, plemeno, I.kolo, II.kolo, celkem):
+1. Komín, 5 SH, 24:56, 23:41, 48:37
+2. Dolejš, 5 SH, 25:26, 25:02, 50:28
+3. Pečená, 6 SH, 29:51, 26:39, 56:30
+4. Hamann DDR, 6 SH, 29:01, 28:20, 57:21
+
+Další kategorie na str. 33 vlevo
