@@ -1,50 +1,55 @@
-# ZDROJ: Spřežení č. 11, rok 1989, strana nezjištěna
+# ZDROJ: Spřežení č. 11, rok 1989, s. 3
 # SOUBOR: 55-1989-05_sprezeni_c_11.pdf
 # PDF_STRANA: 5
-# TISTENA_STRANA: nezjištěna
-# OCR: tesseract-5.3.4 / ces / conf 84.6
+# TISTENA_STRANA: 3
+# OCR: vision (AI dočtení, tesseract conf pod prahem)
 ---
-LABUTÍ ŘEKA 04.04.1988 F5
+LABUTÍ ŘEKA                                           04.04.1988                    F5
 Jaroslav Říha, Pod vodojemem 587, 394 70 Kamenice nad Lipou
-Artison Severní vítr Atacama Studená=Javořice
-reg. 53/83, žb reg. 47/83/85, žb
-259. CAR žb 260 CINDY žb
-LABUTÍ ŘEKA 09.04.1988 JH
+Artison Severní vítr                                  Atacama Studená-Javořice
+reg. 53/83, žb                                        reg. 47/83/85, žb
+259  CAR  žb                                          260  CINDY  žb
+
+LABUTÍ ŘEKA                                           09.04.1988                    F7
 Jaroslav Říha, Pod vodojemem 587, 394 70 Kamenice nad Lipou
-Aikon od Hrčířských luk Beluga Labutí řeka
-reg. 101/85, žb reg. 108/86, čb
-261.  DAK čb
-OD ZEJHRALU 17.05.1988 F6
-Jiří Můller, 378 56 Studená 368
-Atlas Studená-Javořice Aneta Modrý potok
-reg. 43/83, čb reg. 147/85, žb
-262 ALBA žb
-263 ALFA čb
-264  ALKA žb
-265 ALŽBĚTA žb
-BLANSKÝ LES 02.03.1988 -M4
+Aiken od Hrčířských luk                               Beluga Labutí řeka
+reg. 101/85, žb                                       reg. 108/86, čb
+261  DAK  čb
+
+OD ZEJHRALU                                           17.05.1988                    F6
+Jiří Müller, 378 56 Studená 368
+Atlas Studená-Javořice                                Aneta Modrý potok
+reg. 43/83, čb                                        reg. 147/85, žb
+                                                       262  ALBA     žb
+                                                       263  ALFA     čb
+                                                       264  ALKA     žb
+                                                       265  ALŽBĚTA  žb
+
+BLANSKÝ LES                                           02.03.1988                    F4
 Bedřich Krákora, Chlum 132, 382 03 Křemže
-Eiger Třebon=Kopeček Axa z Vlažinky
-reg. 19/81, žb reg. 50/83, čb
-266 ARIX čb 267. AJA : čb
-268. ALKA čb
-2 VLAŽINKY 09,05.19868 F6
-Petr Elster, 380 01 Dačice 93/I ,
-Aiken od Hrčířských luk Fortuna Třebon=Kopeček
-reg. 101/85, žb reg. 23/81, čb
-269 DAK čb 272 | DAGANA čb
-270  DERICK čb 273 DALY čb
-271. DEVON čb
-o o A o
-UŽ JEDOU 09.07.1988 F5
+Eiger Třebon-Kopeček                                  Axa z Vlažinky
+reg. 19/81, žb                                        reg. 50/83, čb
+266  ARIX  čb                                         267  AJA   čb
+                                                       268  ALKA  čb
+
+Z VLAŽINKY                                            09.05.1988                    F6
+Petr Elster, 380 01 Dačice 93/I
+Aiken od Hrčířských luk                               Fortuna Třebon-Kopeček
+reg. 101/85, žb                                       reg. 23/81, čb
+269  DAK     čb                                       272  DAGANA  čb
+270  DERICK  čb                                       273  DALY    čb
+271  DEVON   čb
+
+UŽ JEDOU                                              09.07.1988                    F5
 Eva Loučková, U svodnice 105, Královice, 104 00 Praha 10
-Artison Severní vítr Cabíne Faranda
-reg. 53/83, žb reg. 83/84, žb
-274 CAJK žb 278 | CASKA žb
-275 CENT ž 279. CERKA žb
-275 (COP žb A
-277 CYRIL žb
-FIFANKA 14.07.1988 F7
-Tomáš Zámostný, Redvanovice 73, 512 62 Karlovice u Turnova
-Athos Už Jodou Athabaska Stráž nad Nežárkou
-reg. 2133/86/88, žb reg. 169/86, žb
+Artison Severní vítr                                  Cabina Faranda
+reg. 53/83, žb                                        reg. 83/84, žb
+274  CAJK   žb                                        278  CASKA  žb
+275  CENT   žb                                        279  CERKA  žb
+276  COP    žb
+277  CYRIL  žb
+
+FIFANKA                                               14.07.1988                    F7
+Tomáš Zámostný, Radvanovice 73, 512 62 Karlovice u Turnova
+Athos Už jedou                                        Athabaska Stráž nad Nežárkou
+reg. 133/86/88, žb                                    reg. 169/86, žb

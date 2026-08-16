@@ -1,49 +1,51 @@
-# ZDROJ: Spřežení č. 11, rok 1989, strana nezjištěna
+# ZDROJ: Spřežení č. 11, rok 1989, s. 5
 # SOUBOR: 55-1989-05_sprezeni_c_11.pdf
 # PDF_STRANA: 7
-# TISTENA_STRANA: nezjištěna
-# OCR: tesseract-5.3.4 / ces / conf 82.6
+# TISTENA_STRANA: 5
+# OCR: vision (AI dočtení, tesseract conf pod prahem)
 ---
-+)
-1“
-- 5 «
-UŽ JEDOU 19.09.1988 F7
-Eva Loučkové, U svodnice 105, Královice, 104 00 Praha 10
-Dar Farenda. „Artemis Hradecký lev
-reg. 111/86, žb reg. 157/86, čb
-307 DON žb 308. DORA čb
-NA MĚLÍCH 04.09.1988 F6
+UŽ JEDOU                                              19.09.1988                    F7
+Eva Loučková, U svodnice 105, Královice, 104 00 Praha 10
+Dar Faranda                                           Artemis Hradecký lev
+reg. 111/86, žb                                       reg. 157/86, čb
+307  DON  žb                                          308  DORA  čb
+
+NA MĚLÍCH                                             04.09.1988                    F6
 Blanka Kučerová, Mokré 87, 517 73 Opočno
-Aiken od lrčířských luk Arvica Kačabka
-reg. 101/85, žb reg. 75/84/87, žb
-309 CGANIS žb 310. CEZAVA žb
-311. CORONA žb
-ZLATÁ TRUBKA 01.09.1988 F6
-Dagmar Fošenbauerová, Nejedlého 518, 363 O1 Ostrov nad Ohří
-Aalborg Labutí řeka Bessy Bačova koliba
-reg. 87/84, čb reg. 176/86, čb
-312 ART čb 314. JA čb
-313 AŠKÝ čb 315 ALFA čb
-316. ARVA čb
-FARANDA 27.10.1988 F7
+Aiken od Hrčířských luk                               Arvica Kačabka
+reg. 101/85, žb                                       reg. 75/84/87, žb
+309  CANIS  žb                                        310  CEZAVA  žb
+                                                       311  CORONA  žb
+
+ZLATÁ TRUBKA                                          01.09.1988                    F6
+Dagmar Fošenbauerová, Nejedlého 518, 363 01 Ostrov nad Ohří
+Aalborg Labutí řeka                                   Bessy Bačova koliba
+reg. 87/84, čb                                        reg. 176/86, čb
+312  ART   čb                                         314  ÁJA   čb
+313  AŠKÝ  čb                                         315  ALFA  čb
+                                                       316  ARVA  čb
+
+FARANDA                                               27.10.1988                    F7
 Dana Kupková, 391 76 Slapy u Tábora 45
-Dar Faranda Cácora Faranda
-reg. 112/86, žb reg. 84/84, žb
-317 FAR žb 320  FANY žb
-318 FIN žb 321. FARA Žb
-319. FIAM žb 322. FINTA žb
-FARANDA 30.10.1988 F7
-Dana Kupková, 391 76 Slapy u Tábora. 45
-Alam=Kuh Labutí řeka Dája Faranda
-reg. 90/64, žb reg. 114/86, žb
-323  GALÁN žb 324. GÁBINA žb
-325 | GALINA žb
-326  GALKA žb
-327. GITA žb
-328. GOBI žb
-PÁTÝ DRÁP -© 31.08.1988 F7
+Dar Faranda                                           Cácora Faranda
+reg. 112/86, žb                                       reg. 84/84, žb
+317  FAR   žb                                         320  FANY   žb
+318  FIN   žb                                         321  FARA   žb
+319  FLAM  žb                                         322  FINTA  žb
+
+FARANDA                                               30.10.1988                    F7
+Dana Kupková, 391 76 Slapy u Tábora 45
+Alam-Kuh Labutí řeka                                  Dája Faranda
+reg. 90/84, žb                                        reg. 114/86, žb
+323  GALÁN  žb                                        324  GÁBINA  žb
+                                                       325  GALINA  žb
+                                                       326  GALKA   žb
+                                                       327  GITA    žb
+                                                       328  GOBI    žb
+
+PÁTÝ DRÁP                                             31.08.1988                    F7
 Petr Heidenreich, Do Štěnovic 7, 317 07 Plzeň - Radobyčice
-Boro z Milety Artana Kačabka
-reg. 151/86/86, čb reg. 74/84/85, žb
-329. ALAKANUK žb 331. AJASKIMA žb
-330 © AMBARČIK žb
+Boro z Milety                                         Artana Kačabka
+reg. 151/86/88, čb                                    reg. 74/84/85, žb
+329  ALAKANUK  žb                                     331  AJASKIMA  žb
+330  AMBARČIK  žb

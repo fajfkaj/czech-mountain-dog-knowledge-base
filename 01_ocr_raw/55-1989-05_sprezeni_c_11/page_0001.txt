@@ -2,11 +2,14 @@
 # SOUBOR: 55-1989-05_sprezeni_c_11.pdf
 # PDF_STRANA: 1
 # TISTENA_STRANA: nezjištěna
-# OCR: tesseract-5.3.4 / ces / conf 67.6
+# OCR: vision (AI dočtení, tesseract conf pod prahem); titulní strana, netypický layout
 ---
-Ě K ADO ČSCH
-o
- SPŘEŽEN
+[logo: kresba saní se psím spřežením]                                    ČSCH
+
+SPŘEŽENÍ
+
 Klub chovatelů českého horského psa
-č.1 | | květen 1989
-MY
+
+č.11                                                              květen 1989
+
+[fotografie: psí spřežení (čtyři psi ČHP) táhnoucí saně se psovodem zasněženou krajinou u lesa]

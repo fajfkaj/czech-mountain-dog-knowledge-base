@@ -1,49 +1,54 @@
-# ZDROJ: Spřežení č. 11, rok 1989, strana nezjištěna
+# ZDROJ: Spřežení č. 11, rok 1989, s. 2
 # SOUBOR: 55-1989-05_sprezeni_c_11.pdf
 # PDF_STRANA: 4
-# TISTENA_STRANA: nezjištěna
-# OCR: tesseract-5.3.4 / ces / conf 84.4
+# TISTENA_STRANA: 2
+# OCR: vision (AI dočtení, tesseract conf pod prahem)
 ---
-Z KRKONOŠ 24.07.1987 F5
-Jan Maršálek, Valteřice 174, 512 36 Horní Branné
-Ganek Třebon=Kopeček Alina z Milety
-reg. 25/82, žb reg. 124/85, žb
-238 ARGO žb 239  AJŠA žb
-240 | AMBRA žb
-OVĚDADA 19.08.1987 F6
+Z KRKONOŠ                                             24.07.1987                    F5
+Jan Maršálek, Valteřice 174, 512 36 Horní Branná
+Ganek Třebon-Kopeček                                  Alina z Milety
+reg. 25/82, žb                                        reg. 124/85, žb
+238  ARGO  žb                                         239  AJŠA   žb
+                                                       240  AMBRA  žb
+
+OVĚDADA                                               19.08.1987                    F6
 Oldřich Valášek, Sportovní 180, 543 03 Vrchlabí 3
-Aragac Kačebka Adhara od Bublajícího potůčku
-reg. 70/84, čb reg. 100/85, žb
-241 ADDIS čb 242 AIRA žb
-243. AKRA čb
-MODRÝ POTOK 11.11.1987 F6
+Aragac Kačabka                                        Adhara od Bublajícího potůčku
+reg. 70/84, čb                                        reg. 100/85, žb
+241  ADDIS  čb                                        242  AIRA  žb
+                                                       243  AKRA  čb
+
+MODRÝ POTOK                                           11.11.1987                    F6
 Helena Nebeská, chata Bílá Labuť 15, 542 21 Pec pod Sněžkou
-Alam=Kuh Labutí řeka Atacama Severní vítr
-reg. 90/84/8656, žb reg. 54/83/87, žb
-244. CATALINA žb
-245. CINDA žb
-SEVERNÍ ÚDOLÍ +5.12.1987 © F6
+Alam-Kuh Labutí řeka                                  Atacama Severní vítr
+reg. 90/84/86, žb                                     reg. 54/83/87, žb
+                                                       244  CATALINA  žb
+                                                       245  CINDA     žb
+
+SEVERNÍ ÚDOLÍ                                         26.12.1987                    F6
 Alena Šelongová, 739 55 Řeka 121
-Aalborg Lebutí řeka Cínie Faranda
-reg. 87/84, čb reg. 86/84, žb
-246 ARNIK žb 247. ARGA žb
-248 AUGE čb
-SNĚŽNÍK 23.02.1988 F6
-Josef Polanský, nám. 359, 788 32 Staré Mřňsto pod Sněžníkem
-Aalborg Labutí řeka Borka Faranda
-reg. B7/64/86, čb reg. 64/83, žb
-249. ADEK žb 252 | AMA čb
-250. ANDÁAR žb
-251  AREKUS žb
-PRADĚDOVA LOUKA 17.01.1988 F6
-Jaroslav Halama, Havlíčkova 56, 790 70 Jevorník
-Aragac Kačabka Bessi Lužický hvozd
-reg. 70/84/86, čb reg. 41/84/87, čb
-253 BACK čb 255  BAARA čb
-254  BORAS čb 256 BETTY čb
-JASNÁ ZÁŘE 07.04.1988 F7
+Aalborg Labutí řeka                                   Cínie Faranda
+reg. 87/84, čb                                        reg. 86/84, žb
+246  ARNIK  žb                                        247  ARGA  žb
+                                                       248  AUGE  žb
+
+SNĚŽNÍK                                               23.02.1988                    F6
+Josef Polanský, nám. 359, 788 32 Staré Město pod Sněžníkem
+Aalborg Labutí řeka                                   Borka Faranda
+reg. 87/84/86, čb                                     reg. 64/83, žb
+249  ADEK    žb                                       252  AMA  čb
+250  ANDAR   žb
+251  AREKUS  žb
+
+PRADĚDOVA LOUKA                                       17.01.1988                    F6
+Jaroslav Halama, Havlíčkova 56, 790 70 Javorník
+Aragac Kačabka                                        Bessi Lužický hvozd
+reg. 70/84/86, čb                                     reg. 41/84/87, čb
+253  BACK   čb                                        255  BAARA  čb
+254  BORAS  čb                                        256  BETTY  čb
+
+JASNÁ ZÁŘE                                            07.04.1988                    F7
 Jiří Skrbek, Pipice 7, 513 01 Semily
-Dar Faranda. Amalthea Hradecký lev
-reg. 112/86, žb reg. 155/86, žb
-257  ARTES žb 258. AXA “ žb
-be
+Dar Faranda                                           Amalthea Hradecký lev
+reg. 112/86, žb                                       reg. 155/86, žb
+257  ARTES  žb                                        258  AXA  žb

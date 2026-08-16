@@ -2,27 +2,28 @@
 # SOUBOR: 55-1989-05_sprezeni_c_11.pdf
 # PDF_STRANA: 2
 # TISTENA_STRANA: nezjištěna
-# OCR: tesseract-5.3.4 / ces / conf 82.6
+# OCR: vision (AI dočtení, tesseract conf pod prahem); obsah čísla
 ---
-kuk
-L
+[fotografie: dva psi ČHP ležící/sedící ve sněhu u naloženého vozíku/saní]
+
 OBSAH:
-Dílčí plamenná kniha českých horských psů
-Nové chovné stanice
-Chovatelská zpráva za rok 1988
-Vystavené krycí listy
-Klubová výstava v Brně 16, 3. 89
-Přehled všech klubových vítězů ČHP.
-Chovatelská opatření
-Termíny výstav psů v roce 1989 (jen od června)
-Soutěž o titul pes - fenn roku
-Ocas pía.
-Standard českého horského psa
-zářijový trénink
-Alpiroad — mezinárodní závod peích spřežení Alpami
-Jak jeem přišel o 1000,-Kču aneb závody na Kokavě
-Liberecké okruhy 1988
-Závody - výnledkové listiny
-Zadov 1989
-Ural 89
-Nabídka
+
+Dílčí plemenná kniha českých horských psů                                    1
+Nové chovné stanice                                                          6
+Chovatelská zpráva za rok 1988                                               7
+Vystavené krycí listy                                                       12
+Klubová výstava v Brně 18. 3. 89                                            13
+Přehled všech klubových vítězů ČHP                                          18
+Chovatelská opatření                                                        19
+Termíny výstav psů v roce 1989 (jen od června)                              19
+Soutěž o titul pes - fena roku                                              20
+Ocas psa                                                                    21
+Standard českého horského psa                                               23
+Zářijový trénink                                                            25
+Alpiroad - mezinárodní závod psích spřežení Alpami                          26
+Jak jsem přišel o 1000,-Kčs aneb závody na Kokavě                           27
+Liberecké okruhy 1988                                                       28
+Závody - výsledkové listiny                                                 30
+Zadov 1989                                                                  35
+Ural 89                                                                     37
+Nabídka                                                                     40
