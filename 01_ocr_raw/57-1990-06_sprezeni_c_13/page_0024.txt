@@ -1,171 +1,86 @@
-# ZDROJ: Spřežení č. 13, rok 1990, strana nezjištěna
+# ZDROJ: Spřežení č. 13, rok 1990, s. 22
 # SOUBOR: 57-1990-06_sprezeni_c_13.pdf
 # PDF_STRANA: 24
-# TISTENA_STRANA: nezjištěna
-# OCR: tesseract-5.3.4 / ces / conf 31.1
+# TISTENA_STRANA: 22
+# OCR: vision (AI dočtení, tesseract conf pod prahem; sazba otočena o 90°, výsledková tabulka závodů - časy den1/den2/celkem)
 ---
-Žávo DY
-16:96
-oyity
-atc?
-6S+T4
-S0:$0:T
-90:C0:T
-VE*TO*T
-90:96
-Z0+4S
-ET:CS
-TE*26
-vátav
-0£:$v
-BS:LG
-6T:0+
-6T:6£
-OT'6£
-4:82
-6T:T2
-oc*2z
-6g:Tz
-aSte£
-C4:62
-66:TE
-VS:92
-00:92
-pe:Sz
-70:90
-TT: GZ
-eS+z2
-TT:62
-čE:08
-9y:8T
-8£'6T
-O66T"21*£ -"z
-wT:8
-10:8
-9£19
-0£:G
-Od:v
-90:87
-ce'zz
-GT:Tč
-0£:02
-ET:TE
-£e:££
-SS:62
-aT:62
-ay:Le
-66:Lz
-0£:97
-zyite
-ate
-lv:0z
-Lv*6T
-£E:0z
-zE*6T
-exX8I *L
-gfeToa *c
-WuI, *Z
-urmoy *T
-E VPRAL
-TuyoTgA M G“ 8XI9P
-423999 $I21840p9Tz ogou yrus A4sTu 43909 jusoT € TUTOg
-DoŽ= oupTIx “ousep
-Fugešedodd —-
-LS:£G
-0£:CS
-94:64
-£0+64
-Go:Ly
-9£:C+
-Spicy
-6b:Ty
-TepzA
-Lv:ez
-zytyz
-26197
-ve:92
-py:Ge
-Ty:Lz
-£S:Lz
-9c:cz
-Zy:cz
-1Gscz
-0S:2z
-2S:0z
-LS:6T
-ST:6T
-0S1Gz
-o£:92
-0a:áz
-66£:+yz
-£S:2a
-S£:TZ
-ST:Tz
-89+6T
-90:16
-"AS TD
-0£:97
-ST:ST
-cb*0£
-S02
-aStla
-10*4z
-vv:ce
-PAS
-S4:£z
-££:Te
-T6:TZ
-ST:2z
-6£:TZ
-69:6T
-96:46
-96:L£
-10:82
-00:Lz
-9d:Vz
-vat yě
-aT:yz
-10:2
-o£:TZ
-T6:T2
-dy?
-dy
-dy?
-du?
-dy?
-dy?
-dy?
-dy
-A8190I8p uTMOJ
-BAT paoTeufoIT
-uep mMTY9 "T
-M 6 - A STl09518y
-4304 BxoTdnay
-MW ears *ZT
-goa xsuzTor *TT
-Xgu9pz X9z9£ *0T
-JSTO FxsaofouTx *6
-J394 ByIOdojy *9
-A8TSOJTyÉ N9TÉ9J0K *L
-ABTSOIBP XOZBIG *9
-ABTOYA Jany *G
-TFUTYSPTA fyS1YZ04 *Y
-JpuexeTy JeTT0x *£
-TzFe jofoux z
-HW ToYojuT *T
-m9 - O 911049183
-VTTMOTGOT BAOJOSTA MY9
-X9U9PZ AO0H
-PTABG Trgydsog *B8
-JTopny TouenoJEH */
-Josop gore *9
-T94BA XJ9TA *G
-X9DNT BYxUBAS "Y
-1JMTPETA Xýz0y *C
-ABT99x Jany *Z
-US[TA XVZ *T
-B 6 - JUTIOFTAS
-*ÁXTZOA S 9 BA B „S04x, oxBť (G
-epT44 *(3 nyons Bu TByTgoaď poayz nygus 39383s0p9u OJ
-OG6T*T*gz - -Uz
-NOKAZIC GVN JXOSTA (f
+- 22 -
+
+ZÁVODY
+
+● VYSOKÉ NAD JIZEROU                              27.-28.1.1990
+
+Pro nedostatek sněhu závod probíhal na suchu, tj. kros.
+Skj jako "kros" a B a C s vozíky.
+
+Skijöring - 9 km
+1. Žák Milan                    21:51   19:58   41:49
+2. Kubr Václav          čhp     21:30   21:15   42:45
+3. Kozák Vladimír               22:01   21:35   43:36
+4. Škanta Luděk                 24:12   22:53   47:05
+5. Bičík Pavel          čhp     24:24   24:39   49:03
+6. Mareš Josef                  24:26   25:20   49:46
+7. Harcuencl Rudolf             27:00   26:30   53:30
+8. Pospíšil David       čhp     28:07   25:50   53:57
+   Hök Zdeněk                   37:56     -       -
+6km Fišerová Dobromila  čhp     37:56     -       -
+
+Kategorie C - 6 km
+1. Emichel Jiří         čhp     19:59   19:15   39:14
+2. Krejčí Jiří                  21:39   19:57   41:36
+3. Keller Alexandr              22:15   20:52   43:07
+4. Požárský Vlastimil           21:51   22:50   44:41
+5. Kubr Václav          čhp     21:33   23:57   45:30
+6. Blažek Jaroslav      čhp     23:55   23:42   47:37
+7. Motejlek Miroslav    čhp     24:37   23:36   48:13
+8. Křepelka Petr                23:14   27:53   51:07
+9. Miřejovský Jiří              25:07   27:41   52:48
+10. Ježek Zdeněk                27:52   25:44   53:36
+11. Jelínek Luboš               28:53   26:24   55:17
+12. Skrbek Jiří         čhp     30:42   26:37   57:19
+    Krupička Petr               15:15     -       -
+
+Kategorie B - 9 km
+1. Chlum Jan            čhp     26:30   24:42   51:12
+   Drejnarová Iva               diskv.  22:47     -
+   Komín Jaroslav               34:06   vzdal     -
+
+● ŠKVOŘETICE - propagační                         2.-3.12.1990
+
+Jasno, klidno, -7°C
+Polní a lesní cesty, místy sníh nebo zledovatělá cesta, délka 7,5 km všichni.
+
+Třída B
+1. Komín                6 SH        19:32   19:38   39:10
+2. Trnka                6 SH        20:33   18:46   39:19
+3. Dolejš                6 SH        19:47   20:32   40:19
+7. Iška                4 SH        28:47   29:11   57:58
+
+Třída C1
+1. Pečený               3 SH        22:32   22:58   45:30
+2. Ochozka               3 SH        23:42   25:11   48:54
+3. Herink               3 SH        26:30   26:01   52:31
+4. Řepík                2 SH        27:39   25:34   53:13
+
+Třída C2
+1. Chlan                2AH+1SH     27:42   26:20   54:02
+2. Loučka Radko          3 ČHP       29:12   26:54   56:06
+3. Brož                3 AM        29:55   31:39   1:01:34
+4. Rašín Ivo             3 ČHP       33:23   29:43   1:03:06
+5. Bereš                3 AM        31:13   32:52   1:04:05
+
+Třída SKj
+1. Krupička              SH          20:30   21:29   41:59
+2. Kozák                AM          21:12   22:20   43:32
+3. Sadílek               SH          22:23   21:19   43:42
+7. Job                  AM          28:08   28:43   56:51
+
+Třída dětská - 1,5 km
+1. Řepík                SH          4:20
+2. Dolejšová             SH          5:30
+3. Rašín                ČHP         6:36
+4. Loučka                ČHP         8:07
+5. Loučka                ČHP         8:14
+
+(pozn.: čísla časů u vzdálenějších sloupců tabulky jsou dochovaná jen částečně
+čitelně, přepsáno dle nejlepší možné čitelnosti skenu)

@@ -1,43 +1,48 @@
-# ZDROJ: Spřežení č. 13, rok 1990, strana nezjištěna
+# ZDROJ: Spřežení č. 13, rok 1990, s. 32
 # SOUBOR: 57-1990-06_sprezeni_c_13.pdf
 # PDF_STRANA: 34
-# TISTENA_STRANA: nezjištěna
-# OCR: tesseract-5.3.4 / ces / conf 81.5
+# TISTENA_STRANA: 32
+# OCR: vision (AI dočtení, tesseract conf pod prahem)
 ---
-- 32 =
+- 32 -
+
 PODZIMNÍ JEŽDĚNÍ
-Na výborové schůzi v K.Řečici dne 28.10.89 bylo rozhodnuto, aby terminář pod-
-zimního ježdění (přejezdy, závody s vozíky) byl otištěn s předstihem již v
-"jarním“ čísle (viz Spřežení č.12, str.39).
-Dosud jsou známy tyto termíny přejezdů: h
-e KReť - 29.- 30. 9.90 - Oldřich Kupka i
-391 76 Slapy u TA 45
-© Vysočina —- | 9.- 11.11.90 - Petr Elster
-Havlíčkovo ném.93/I, 380 01 Dačice
-Bohužel se delší termíny vy i Já dozvíne bud přímo od pořadatelů nebo až z dal-
-šího čísla Spřežení, kdy už bude pravděpodobně pozdě. Sned příště.
+
+Na výborové schůzi v K.Řečici dne 28.10.89 bylo rozhodnuto, aby terminář podzimního
+ježdění (přejezdy, závody s vozíky) byl otištěn s předstihem již v "jarním" čísle
+(viz Spřežení č.12, str.39).
+
+Dosud jsou známy tyto termíny přejezdů:
+
+• Klet' - 29.-30. 9.90 - Oldřich Kupka
+                          391 76 Slapy u TA 45
+
+• Vysočina - 9.-11.11.90 - Petr Elster
+                            Havlíčkovo nám.93/I, 380 01 Dačice
+
+Bohužel se další termíny vy i já dozvíme buď přímo od pořadatelů nebo až z dalšího
+čísla Spřežení, kdy už bude pravděpodobně pozdě. Snad příště.
+
+---
+
 Psí spřežení na Mont Blanku.
-Sáně težené psy dorazily na Střechu Evropy krátce po 10.hod 9.září 1988. Popr-
-vé v historii vylezlo 5 psů = Aslay, Argut, Axus, Assíat a Kunuch na vrchol
-Mont Blancu se svými pány, jimiž jsou: horský vůdce Giorgio Passino, horolezec
-Stefano Pelliv a lyžařský instruktor Massíno Rey. Rasa psů není uvedena,
-časopis JAMESÁK 89/3
-Tříatřicetíletá | Američanka © Susan
-Butcherová vyhrála počtvrté ' během
-posledních pěti let závod saní se
-psím spřežením, x Anchorage do No-
-me na, Aljažce. Trať dlonhóu 1864 km
-zdolala- v novém ábsolutním rekordu -
-11 dní, 1:53:23 hodin, čímž překona-
-Ja o deset minut svůj rekord z roku
-1967 — tehdy se ale jelo na o něco
-kratší trati. Vítězka musela, během
-cesty „tři zkušená psy.x jedenácti-
-členné smečky vyměnit, a tí noví
-podle- jejích slov, měli. na vítězství.
-velký podil! To"tfneslo“ statečná Sn- *
-san 58000 dolarů pro vítěze « dal.
-ších 25000, od jejího sponzora, Dru-
-ký se :objevil vw Nome loňský : vítěx
-Loe:Rnnyan, - i „AM
-— —.
+
+Sáně tažené psy dorazily na Střechu Evropy krátce po 10. hod 9. září 1988. Poprvé
+v historii vylezlo 5 psů - Aslay, Argut, Axus, Assiat a Kunuch na vrchol Mont
+Blancu se svými pány, jimiž jsou: horský vůdce Giorgio Passino, horolezec Stefano
+Pelliv a lyžařský instruktor Massino Rey. Rasa psů není uvedena.
+                                                          časopis JAMESÁK 89/3
+
+[výstřižek z Mladé fronty, pátek 16.III.90]
+Noví psi zabrali
+
+Třiatřicetiletá Američanka Susan Butcherová vyhrála počtvrté během posledních
+pěti let závod saní se psím spřežením z Anchorage do Nome na Aljašce. Trať
+dlouhou 1864 km zdolala v novém absolutním rekordu - 11 dní, 1:53:23 hodin,
+čímž překonala o deset minut svůj rekord z roku 1987 - tehdy se ale jelo na
+o něco kratší trati. Vítězka musela během cesty tři zkušené psy z jedenácti-
+členné smečky vyměnit, a ti noví podle jejích slov měli na vítězství velký
+podíl. To vyneslo statečné Susan 50000 dolarů pro vítěze a dalších 25000 od
+jejího sponzora. Druhý se objevil v Nome loňský vítěz Joe Runyan.
+
+[obrázek: mapka trati závodu Iditarod]

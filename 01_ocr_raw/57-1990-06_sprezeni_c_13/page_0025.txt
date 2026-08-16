@@ -1,101 +1,78 @@
-# ZDROJ: Spřežení č. 13, rok 1990, strana nezjištěna
+# ZDROJ: Spřežení č. 13, rok 1990, s. 23
 # SOUBOR: 57-1990-06_sprezeni_c_13.pdf
 # PDF_STRANA: 25
-# TISTENA_STRANA: nezjištěna
-# OCR: tesseract-5.3.4 / ces / conf 31.7
+# TISTENA_STRANA: 23
+# OCR: vision (AI dočtení, tesseract conf pod prahem; sazba otočena o 90°, výsledková tabulka závodů - časy den1/den2/celkem)
 ---
-= 8 =
-OC+ET:T. | Gbrop GGrgf
-62:90:T. 491G6 | zCt2C
-Zy!g0:T. SG10C. Lytye
-20:40:T. 00'S£ | 20:62
-SEtyá Lo:lz | 8z'Lz
-HS YOT4PUTP BIOH *6
-my
-HS
-„v
-dKý
-Oz: TG Syi9z | SCiyč dHD
-A9
-dHý
-dý
-Tea X9ČSH *9
-Te4vy xyoT *L
-USTrx d0£ *9
-ABTOYA Jany *G
-OAPBY BYJNOT *Y
-YoT4PUTE BYDTTPOP *C
-$Ta odaouvg *Z
-1304 BusIs *T
-UG - S SPŘAL
-V430 pAOXTBING *CZ
-ABTSO1Ty YOTIPOY *OZ
-ABTO9A 4any *ZT
-TrwoavTg 4xsueTog *g
-ABTOVA o0u9| 2
-J9S0f XOUBATIY *9
-HGN - Uoavy JeTBoTLY *G
-JTopny SXSIBATOA *4
-J4We jofody *C
-ueuoy fuox0: "2
-HW TeuoTUT *T
-We - OD SPTAL
-„MW BxUIL "G
-o3NATI puozeT *y
-A9STYueI BxUTdoL *£
-TeJvy XyTANg *Z
-A8TSoJep uTmo0y hd T
-UW OT - A WTAL
-OT:TG Let9e | £Ci4z
-Vo:06 OSSZ | pliypě
-To*vy 96:22 | G0:TZ
-00:TO:T  66:+GZ  TO'Sf HS
-6:GG Syrez | Wy:9z HJ
-aT:26 90:9ž | £0'92 dH9
-C
-€
-(s
-Cysty £Ti2z | OCi22 dH9 C
-Go:pp SotTa2 00'fz HS C
-00tbt č6tlz2 © 82t22 dHg £
-oT:z+ SC10z | SCiT2 HS C
-2S:6C S$:6T 44160 HS C
-2T:LC 9T:9r 99191. HS C
-9C:9C VCI8T  20:8T HS C
-c
-pT:9£ LT:8T | ZS:LT dH9
-STS0'T WW T + HS S
-SC+L0tZ | BěiZb | LOtG2:T HS 9
-vyt6z:T. Vyšs9y 00:04 BS Y
-Ty:zz:T 68:64. ZTi6C HS 9
-O£:6T:T. zziZy  90'1C HS 9
-$xognTY "Peu 3843 "9,G+ tousefoTod +z*gT
-pognTu “pxAgu jB43 *9,C+ ouzounTs *ousuf +z+/T
-0661*2"8T = "41T VAVTTOX (f
-90:4£ HO OXPBY BxONOT *G
-TT:ST:T ZTtPC  4$top. NV JEXS0 Jeumog *y
-T9:90:T. $T:TE 42:66 HS JpuexeTy JoTrey *£
-62:20:T. Ge:L2  4O'SC HS ABTOVA £TA93S *Z
-BT:TO:T 91:62  20:2£ dHo 41904 VupIs *I
-W 972 - TAS SPřAL
-BatzziT  Lá'eC  TCICY WV Z BFUO yADINY9BY "IT
-OZ:6T:T. STI'GC  SOtýp. HS C BAT paoxUTdoOL *OT
-ET:6T:T. 90'SfC  GO*Py NV Z BABTSTUVIG BAOJ8TZON *6
-8b:9gT:T. 2S:LC 96:04. HS Z Trmnyog xrdoy *g
-La:LI:T. 90:9C  TZiTy WV C PE pAOXUTIOL */
-Co:GT:T. ZhiCC  T2'Tb HS Z dy94 A92TTJ9S *9
-OZt$T:T | Tp:TE. 6CtZb4 dHo £ JOSOp XOUBATTY *G
-99:60:T. T4:0£ | ST:6£. HS Z TFUTYSVTA £xSTPz04 *4
-Te:80:T  £S'92  82'6£ Ho £ oxpvy Bx2noT *£
-ZG:LG £e:c2  6Tt4C. HS C He pofody *z
-20:GG 90tyz | 99t0£ dH9 £ T4TC TouoTua *T
-E 0"2 - O OPTA
-ze:zziz | Lb:99.  GptGL dHO 4 TeJvy BTETA *G
-OT:Opbp:T  GbiC+  Gb9G. HS O JTopny £X3IRAT9A *Y
-69:9C:T. STICH. pytCá HS 9 T94RS JOJTOJK *£
-Co:9C:T. 4Ti24. 94:CG HS 9 A9STYuVIJ sfoTOT "Z
-Letee:T  €eiTy 40:19 HS G A8TSOIep ujmoy *I
-M GTCT - A ODIML
-pusavidnou *gpaa4 383 908- *ousef *2T*0T
-yxognTY 33X2u zB3 £D9G+ “vyrm “ou9zuyez *2T*6
-O66T*2T*0T -*6 HOLLUVAVK (i
+- 23 -
+
+● HABARTICE                                       9.-10.12.1990
+
+9.12. zataženo, mlha, +5°C, trať měkká, hluboká
+10.12. jasno, -8°C, trať tvrdá, neupravená
+
+Třída B - 13,5 km
+1. Komín Jaroslav        5 SH    51:04   41:23   1:32:27
+2. Dolejš František       6 SH    53:46   42:17   1:36:03
+3. Pfeifer Pavel         6 SH    53:44   43:15   1:36:59
+4. Velvarský Rudolf       6 SH    56:45   43:45   1:40:10
+5. Fiala Karel           4 ČHP   75:45   66:47   2:22:32
+
+Třída C - 7,6 km
+1. Emichel Jiří          3 ČHP   30:56   24:06   55:02
+2. Krejčí Jiří            3 SH    34:19   23:33   57:52
+3. Loučka Radko           3 ČHP   39:28   28:53   1:08:21
+4. Požárský Vlastimil     2 SH    39:15   30:41   1:09:56
+5. Křivánek Josef        3 ČHP   42:39   31:41   1:14:20
+6. Šteflíček Petr         2 SH    41:21   33:42   1:15:03
+7. Jelínková Hana        3 AM    41:21   36:06   1:17:27
+8. Řepík Bohumil          2 SH    40:56   37:52   1:18:48
+9. Kozlerová Stanislava   2 AM    44:05   35:08   1:19:13
+10. Topinková Eva         3 SH    44:05   35:15   1:19:20
+11. Čechurová Monika      2 AM    43:31   38:57   1:22:28
+
+Třída Skj - 7,6 km
+1. Sláma Petr            ČHP     32:02   29:16   1:01:18
+2. Steklý Václav          SH      35:04   27:25   1:02:29
+3. Keller Alexandr        SH      35:27   31:14   1:06:41
+4. Sommer Oskar          AM      40:54   34:17   1:15:11
+5. Loučka Radko           ČHP     37:06     -        -
+
+● MOLDAVA                                         17.-18.2.1990
+
+17.2. jasno, slunečno, +3°C, trať měkká, hluboká
+18.2. polojasno, +5°C, trať měkká, hluboká
+
+Třída B - 10 km
+1. Komín Jaroslav        6 SH        37:08   42:22   1:19:30
+2. Bublák Karel          6 SH        39:12   43:29   1:22:41
+3. Topinka František     6 SH        43:00   46:44   1:29:44
+4. Pečená Libuše         4 SH        1:25:07 42:28   2:07:35
+5. Trnka Jiří            5 SH + 1 AM 1:05:15    -        -
+
+Třída C - 5 km
+1. Emichel Jiří           3 ČHP  17:57   18:17   36:14
+2. Pečený Roman           3 SH   18:02   18:34   36:36
+3. Krejčí Jiří            3 SH   18:56   18:16   37:12
+4. Velvarský Rudolf       3 SH   19:57   19:55   39:52
+5. Kriegler Karen - NDR   3 SH   21:35   20:35   42:10
+6. Křivánek Josef         3 ČHP  22:28   21:32   44:00
+7. Němec Václav           3 SH   23:00   21:05   44:05
+8. Dolenský Slavomil      3 ČHP  22:30   22:13   44:43
+17. Kubr Václav           3 ČHP  26:03   26:06   52:12
+20. Redlich Miroslav      3 ČHP  26:44   28:45   55:29
+23. Bursíková Petra       3 SH   35:01   25:59   1:01:00
+
+Třída S - 5 km
+1. Sláma Petr             ČHP    21:05   22:56   44:01
+2. Šanovec Vít            ČHP    24:14   25:50   50:04
+3. Jedlička Jindřich      ČV     24:33   26:37   51:10
+4. Loučka Radko           ČHP    24:35   26:45   51:20
+5. Kubr Václav            ČHP    27:28   27:07   54:35
+6. Job Milan              AM     29:02   35:00   1:04:02
+7. Deák Karel             SH     34:47   30:55   1:05:42
+8. Héjek Pavel            AM     32:32   35:57   1:08:29
+9. Hora Jindřich          SH     36:55   40:45   1:13:30
+
+(pozn.: čísla časů jsou dochovaná jen částečně čitelně, přepsáno dle nejlepší
+možné čitelnosti skenu)

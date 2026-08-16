@@ -1,80 +1,23 @@
-# ZDROJ: Spřežení č. 13, rok 1990, strana nezjištěna
+# ZDROJ: Spřežení č. 13, rok 1990, s. 10
 # SOUBOR: 57-1990-06_sprezeni_c_13.pdf
 # PDF_STRANA: 12
-# TISTENA_STRANA: nezjištěna
-# OCR: tesseract-5.3.4 / ces / conf 74.1
+# TISTENA_STRANA: 10
+# OCR: vision (AI dočtení, tesseract conf pod prahem; tabulka)
 ---
-krycí
-list
-číslo
-116
-126
-130
-131
-132
-134
-135
-136
-138
-140
-141
-143
-144
-© Humpolecký
-dvůr
 - 10 -
-m m r -—— —
-štěnata ď/ © (pes/fena)
-průměr| věk v
-chovná stanice |89"“ přihl hmota |týdnech
-:
-naroz| živá [mrtvá [utrac| úhyn
-P S
-Žluté trojka F7 | 6/2 | 5/2 | 1/0 | 2/0 11/1124
-B-
-Poledník F6 | 1/4 | 1/4 0/1 113
-212
-a 0/2 | 530g 5,28
-Hr
-olo
-©
-©
-A -
-od Nevěřícího 1/2 | 0/2
-1/2 | 2/2 | a356 | —
-4/3 | 4/3 1 A 3/2 | 431g
-3/4 + 2/0 | 1/4 | 3898 | <%
-,
-3/4 | 3/4
-od Čertovy zdi 3/6 | 2/2
-P
-0/5 /5
-KEY
-g£ hu
-M
-©
-„»
-A =
-Údolí duhového
-potoka
-a
-MJ
-S)
-p
-M
-wo
-o
-N
-©
-0/2 Aa 2/5 | 528g
-a 1/0 | 4/2 | 483g
-2/2 | 2/"
-Pla
-2/4 | 2/4
-Zbloudilec 5/2 | 5/1
-ENENERENERENERENERENÉ
-| 8
-S
-E
-EEE
-li
+
+Tabulka: krycí list číslo | chovná stanice | generace | štěňata ď/♀ (pes/fena): naroz / živá / mrtvá / utrac / úhyn | přihl k zápisu | průměr hmota živě nar.št | věk v týdnech průměr v kg
+
+116 | A - Žluté trojka | F7 | 6/2 | 5/2 | 1/0 | 2/0 | 1/1 | 2/1 | ? | 7 / 6,50
+126 | B - Poledník | F6 | 1/4 | 1/4 | - | - | 0/1 | 1/3 | 410g | 10 / 10,00
+130 | A - od Nevěřícího Tomáše | F7 | 1/2 | 0/2 | 1/0 | - | - | 0/2 | 530g | 5,5 / 5,28
+131 | B - Sněžník | F6 | 3/4 | 3/4 | - | - | 1/2 | 2/2 | 435g | 7 / 4,10
+132 | A - od Čertovy zdi | F7 | 3/6 | 2/2 | 1/4 | - | - | 2/2 | 538g | ?
+134 | A - od Fíka | F7 | 0/5 | 0/5 | - | - | 0/1 | 0/4 | 562g | 6 / 7,25
+135 | A - Do neznáma | F7 | 4/3 | 4/3 | - | 1/1 | - | 3/2 | 437g | 6,5 / 5,64
+136 | A - Údolí duhového potoka | F6 | 3/4 | 3/4 | - | - | 2/0 | 1/4 | 389g | 7,5 / 5,40
+138 | E - Už jedou | F7 | 2/9 | 2/7 | 0/2 | 0/2 | - | 2/5 | 528g | 7 / 6,90
+140 | C - Pradědova louka | F7 | 2/2 | 2/1 | 0/1 | 1/0 | 0/1 | 1/0 | 403g | ?
+141 | B - Jasná záře | F7 | 5/2 | 5/2 | - | - | 1/0 | 4/2 | 483g | 6 / 4,74
+143 | A - Humpolecký dvůr | F7 | 2/4 | 2/4 | - | 1/0 | - | 1/4 | 460g | 5 / 4,00
+144 | Zbloudilec | F7 | 5/2 | 5/1 | 0/1 | - | 5/1 | - | ? |

@@ -2,11 +2,14 @@
 # SOUBOR: 57-1990-06_sprezeni_c_13.pdf
 # PDF_STRANA: 1
 # TISTENA_STRANA: nezjištěna
-# OCR: tesseract-5.3.4 / ces / conf 71.7
+# OCR: vision (AI dočtení, tesseract conf pod prahem; titulní strana bez tištěného čísla)
 ---
--ČSCH
+ČSCH
+
 SPŘEŽENÍ
+
 Klub chovatelů českého horského psa
-č.13 | červen 1990
-O **ki
-> 9
+
+č.13                                            červen 1990
+
+[fotografie: psí spřežení v zimní krajině, na saních nápis "CZECHOSLOVAKIA expedition BAYKAL 90", termín 13.1. – 7.4. 1990]
