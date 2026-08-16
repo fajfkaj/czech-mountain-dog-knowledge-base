@@ -1,54 +1,66 @@
-# ZDROJ: Spřežení č. 8, rok 1987, strana nezjištěna
+# ZDROJ: Spřežení č. 8, rok 1987, s. 14
 # SOUBOR: 52-1987-11_sprezeni_c_8.pdf
 # PDF_STRANA: 16
-# TISTENA_STRANA: nezjištěna
-# OCR: tesseract-5.3.4 / ces / conf 80.7
+# TISTENA_STRANA: 14
+# OCR: vision (AI dočtení, tesseract conf pod prahem)
 ---
-= 14 =
-kF Velká závěj, Reg.102/85, žb, 66cm, 4Tkg = nechovný
-Gerlach Třebon=Kopeček = dělka Faranda
-ch: Pavla Pospíšllová
-m: Vladimír Krejčík, Lhotská 1099, Praha 9
-8 bodů: oči světlé = 1; chrup = chybí P3 nahoře oboustranně = 2; postoj zadních kon-
-četin = vytočené tlapky = 23 chůze « 2; klus = I
-BLIZARO od Jankova kopce, Reg.97/85, čb, OZem, 3Bkg = nechovný
-Gerlach Třebon=Kopeček = Furka Třebon=Kopeček
-ch: Jan Chlum
-m: Josef Hůlka, Hronov 36
-5 bodů: hlava těžší « 1; srst otevřená = 1; chrup = chybí PT vlevo nahoře, PT dole
-oboustranně = 2; klus -=
-BONN od Jankova kopce, Reg.98/85, čb, 60cm, 34 = „nechovný
-Gerlach Třebon=Kopeček -+ Furka Třebon=Kopeček
-ch: Jan Chlum
-m: Rudolf Wagner, Vrchlabí
-9 bodů: hlava hrubá = 1; chrup = chybí PT vpravo dole « 13 hřbet prohnutý = 1; -srst
-zkadeřená = 2; postoj zadních končetin kravský « 23 chůze « 2; monorchid -
-chybí jedno varle
-ADHARA od Bublajícího potůčku, Rego100/85, žb, 57cm, 3ikg - chovná
-Artison Severní vítr = Adelína od Jankova kopce
-ch: Pavel Janalík
-„ m: Oldřich Valášek, Sportovní, Vrchlabí
-T bod: delší hřbet, klus - I
-ALTA Modrý potok, Reg.146/85, čb, 56cm, 27kg * chovná
-Mbion z Vlažinky « Atacama Severní vítr
-ch: Helena Nebeská
-m: Josef Hepnar, Červený Kostelec |;
-5 bodů: mohutnost = malá = 1; hřbet prohnutý = 1; ocas kratší = 1; zbarvení plášťo=
-vé =; chůze = vybočené lokty + 1
-BLECKY od Jankova kopce Reg.99/85, čb Sem, 3ikg . + -
-čartech Třesozetagiček = Furka TPovekčlepeček 5,7, Sní
-ch: Jan Chlum
-m: Radko ego —. 23 :
-9 bodů: mohutnost = malá = 1; chrup = chybí P3 vpravo PT vpravo dole = 2;
-hřbet probnutý = 1; srst zlediřené (s žz Skanvení ollátové, kečkovéní - 2;
-chůze =
-Nevydařené so pro hodnocení chovu stejně významné jeko štěně 5 s cí. Hodnoce=
-ní psů - plemeníků může být objektivní jedině tehdy, pokud je přehled o všech jejich po=
-tomcích,
-Proto děkuji sojeta těm majitelům psů, kteří se bonitace zúčastnili i když věděli, že
-jejich pes má nějakou vadu vylučující z chovu« poradce chovu
-Dana Kupková
-KLUBOVÁ VÝSTAVA V ROCE 1988
-Bude se konat opět v Litoměřicích v areálu výstaviště „Zahrada Čech“. Plánovaný termín
-je 16 dubna (př [padně „dubna).
-Kdo můžete, přijedte, at se naše plemeno předvede v reprezentativním počtu. Vezměte s
+- 14 -
+
+ALF Velká záděj, Reg.102/85, žb, 66cm, 47kg                                        - nechovný
+     Gerlach Třeboň-Kopeček - Bělka Faranda
+     ch: Pavla Pospíšilová
+     m: Vladimír Krejčík, Lhotská 1099, Praha 9
+  8 bodů: oči světlé - 1; chrup - chybí P3 nahoře oboustranně - 2; postoj zadních kon-
+          četin - vytočené tlapky - 2; chůze - 2; klus - 1
+
+BLIZARD od Jankova kopce, Reg.97/85, čb, 62cm, 38kg                                - nechovný
+     Gerlach Třeboň-Kopeček - Furka Třeboň-Kopeček
+     ch: Jan Chlum
+     m: Josef Hůlka, Hronov 36
+  5 bodů: hlava těžší - 1; srst otevřená - 1; chrup - chybí P1 vlevo nahoře, P1 dole
+          oboustranně - 2; klus - 1
+
+BONN od Jankova kopce, Reg.98/85, čb, 60cm, 34kg                                   - nechovný
+     Gerlach Třeboň-Kopeček - Furka Třeboň-Kopeček
+     ch: Jan Chlum
+     m: Rudolf Wagner, Vrchlabí
+  9 bodů: hlava hrubá - 1; chrup - chybí P1 vpravo dole - 1; hřbet prohnutý - 1; srst
+          zkadeřená - 2; postoj zadních končetin kravský - 2; chůze - 2; monorchid -
+          chybí jedno varle
+
+ADHARA od Bublajícího potůčku, Reg.100/85, žb, 57cm, 31kg                          - chovná
+     Artison Severní vítr - Adelína od Jankova kopce
+     ch: Pavel Janalík
+     m: Oldřich Valášek, Sportovní, Vrchlabí
+  1 bod: delší hřbet, klus - 1
+
+ALTA Modrý potok, Reg.146/85, čb, 56cm, 27kg                                       - chovná
+     Albion z Vlažinky - Atacama Severní vítr
+     ch: Helena Nebeská
+     m: Josef Hepnar, Červený Kostelec
+  5 bodů: mohutnost - malá - 1; hřbet prohnutý - 1; ocas kratší - 1; zbarvení pláčšo-
+          vé - 1; chůze - vybočené lokty - 1
+
+BLECKY od Jankova kopce, Reg.99/85, čb, 57,5cm, 31kg                                - chovná
+     Gerlach Třeboň-Kopeček - Furka Třeboň-Kopeček
+     ch: Jan Chlum
+     m: Radko Kleinwächter, Hvězda 23
+  9 bodů: mohutnost - malá - 1; chrup - chybí P3 vpravo nahoře, P1 vpravo dole - 2;
+          hřbet prohnutý - 1; srst zkadeřená - 2; zbarvení pláčšové, tečkování - 2;
+          chůze - 1
+
+Nevydařené štěně je pro hodnocení chovu stejně významné jako štěně vynikající. Hodnocení
+psů - plemeníků může být objektivní jedině tehdy, pokud je přehled o všech jejich po-
+tomcích.
+Proto děkuji zejména těm majitelům psů, kteří se bonitace zúčastnili i když věděli, že
+jejich pes má nějakou vadu vylučující z chovu.
+                                                                            poradce chovu
+                                                                            Dana Kupková
+
+
+                                    KLUBOVÁ VÝSTAVA V ROCE 1988
+
+
+Bude se konat opět v Litoměřicích v areálu výstaviště "Zahrada Čech". Plánovaný termín
+je 16.dubna (případně 23.dubna).
+Kdo můžete, přijeďte, ať se naše plemeno předvede v reprezentativním počtu. Vezměte s

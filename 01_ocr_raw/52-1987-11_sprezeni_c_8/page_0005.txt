@@ -1,51 +1,68 @@
-# ZDROJ: Spřežení č. 8, rok 1987, strana nezjištěna
+# ZDROJ: Spřežení č. 8, rok 1987, s. 3
 # SOUBOR: 52-1987-11_sprezeni_c_8.pdf
 # PDF_STRANA: 5
-# TISTENA_STRANA: nezjištěna
-# OCR: tesseract-5.3.4 / ces / conf 84.2
+# TISTENA_STRANA: 3
+# OCR: vision (AI dočtení, tesseract conf pod prahem)
 ---
--)e=
-Kůrka Václav, Pražská bouda, 543 44 Černý Dů1
+- 3 -
+
+Kůrka Václav, Pražská bouda, 543 44 Černý Důl
+
 Lang Hynek, Pod kopcem 403, 503 41 Hradec Králové
 Lhotová Lída, Podluhy 208, 268 01 Hořovice
-Loučka Radko, Královice 105, 104 00 Praha 10 = Uhříněves
-Loučková Eva, Královice 105, 104 00 Praha 10 = Uhříněves
-Marek František, Kapetova 41/111, 380 01 Dačice
-Maršálek Jan, Valteřice 174, 5!2 36 Horní Branná
-Masojídek Jiří, Hliník 831, 379 01 Třebon II
-Matě joková Helena, 384 11 Netolice 659
+Loučka Radko, Královice 105, 104 00 Praha 10 - Uhříněves
+Loučková Eva, Královice 105, 104 00 Praha 10 - Uhříněves
+
+Marek František, Kapetova 41/III, 380 01 Dačice
+Maršálek Jan, Valteřice 174, 512 36 Horní Branná
+Masojídek Jiří, Hliník 831, 379 01 Třeboň II
+Matějeková Helena, 384 11 Netolice 659
 Motejlek Miroslav, Bítouchov 89, 513 01 Semily
 Musil Pavel, Medlešice 118, 538 31 Chrudim
+
 Navrátil Eduard, Mozartova 46, 796 01 Prostějov
-Nebeská Helena, chata BÍlá Labut 15, 542 22 Pes pod Sněžkou
-Pechek Pavet, Lipánky 531, 394 64 Počátky :
+Nebeská Helena, chata Bílá Labuť 15, 542 22 Pec pod Sněžkou
+
+Pechek Pavel, Lipánky 531, 394 64 Počátky
 Pechek Vladimír, Vlásenice 16, 394 70 Kamenice nad Lipou
-Pokorný Jan, nám.Míru 138/11, 377 01 Jindřichův Hradec :
-Polanský Josef, nám,Osvobození 359, 788 32 Staré Město pod Sněžníkem
+Pokorný Jan, nám.Míru 138/II, 377 01 Jindřichův Hradec
+Polanský Josef, nám.Osvobození 359, 788 32 Staré Město pod Sněžníkem
 Pospíšilová Pavla, Horní Černá Studnice 122, 468 27 Nová Ves nad Nisou
-Prokůpek Aleš, 394 64 Počátky 350 jk 5
-Redlich Miroslav, 351 22 Krásná 255 EM ao zač
-Rejhons Karel, Dvorská bouda, 543 52 Vrchlabí 5-3- ©
-Říha Jarostav, 394 70 Kamenice nad Lípou 567
-Skrbek Jiří, Pipice 7, 513 01 pr 28 Sha
-Sládek Stanistav, Bratrská 110/11, 37701 Jindřichův Hradec
+Prokůpek Aleš, 394 64 Počátky 350
+
+Redlich Miroslav, 351 22 Krásná 255
+Rejhons Karel, Dvorská bouda, 543 52 Vrchlabí 5
+
+Říha Jaroslav, 394 70 Kamenice nad Lipou 587
+
+Skrbek Jiří, Pipice 7, 513 01 Semily
+Sládek Stanislav, Bratrská 110/II, 377 01 Jindřichův Hradec
+
 Šanovec Jan, Březová 671, 252 29 Dobřichovice
-Šanovec Vít, Břozová 671, 252.29 Dobřichovice
+Šanovec Vít, Březová 671, 252 29 Dobřichovice
 Šelongová Alena, 739 55 Řeka 121
-Šidlík Milan, Břvany ld, 439 23 Lenešice
-Štěpánek Stanislav, Lelekovice 347; 664 31 Česká
-Tůnkl Luboš, Metánov 34, 394 63 Častrov ©
+Šidlík Milan, Břvany 14, 439 23 Lenešice
+Štěpánek Stanislav, Lelekovice 347, 664 31 Česká
+
+Tunkl Luboš, Metánov 34, 394 63 Častrov
 Tunkl Pavel, Nová Buková 1, 394 03 Horní Cerekev
+
 Vinkler Jaroslav, 378 56 Studená 24
-Vrzák Jaroslav, Zadov 24, 364 73 Stachy
+Vrzák Jaroslav, Zadov 24, 384 73 Stachy
 Vystrčil Jaroslav, Helenínská 15, 586 01 Jihlava
-Zachleder Vilém, 9.května i50, 379 01 Třeboň
+
+Zachleder Vilém, 9.května 150, 379 01 Třeboň
 Zamazal Zdeněk, Špitální 160, 588 56 Telč
-Žatko Josef, 951 03 Čeladice 65
-Zmátlo Josef, Ke strážníci 182, 549 54 Police nad Metují
-KONTROLOŘI VRHU
-Jan Chlum, Vrchlabí © Ivan Kobr, Pec pod Sněžkou
-Potr Hanzlík, Kardašova Řečice Josef Ejster, Suchéol nad Lužnicí
-Jaroslav Halama, Javorník Petr Heidenreich, Plzen
-Na kontrolu vrhu si můžete pozvat | poradce chovu Danu Kupkovou nebo členy chovatelské
-komise Radko Loučku nebo Marii KlÍrovous
+Zaťko Josef, 951 03 Čeladice 65
+Zmátlo Josef, Ke strážnici 182, 549 54 Police nad Metují
+
+
+                                            KONTROLOŘI VRHU
+
+
+Jan Chlum, Vrchlabí                                    Ivan Kobr, Pec pod Sněžkou
+Petr Hanzlík, Kardašova Řečice                         Josef Elster, Suchdol nad Lužnicí
+Jaroslav Halama, Javorník                              Petr Heidenreich, Plzeň
+
+Na kontrolu vrhu si můžete pozvat i poradce chovu Danu Kupkovou nebo členy chovatelské
+komise Radko Loučku nebo Marii Klírovou.

@@ -1,35 +1,60 @@
-# ZDROJ: Spřežení č. 8, rok 1987, strana nezjištěna
+# ZDROJ: Spřežení č. 8, rok 1987, s. 13
 # SOUBOR: 52-1987-11_sprezeni_c_8.pdf
 # PDF_STRANA: 15
-# TISTENA_STRANA: nezjištěna
-# OCR: tesseract-5.3.4 / ces / conf 78.0
+# TISTENA_STRANA: 13
+# OCR: vision (AI dočtení, tesseract conf pod prahem); obsahuje tabulku (Tabulka 1)
 ---
-*- 13 =
+- 13 -
+
 Tabulka 1
-(9:1) (10:1) (M32)
-(9 m > =
-—
-34% n
-FSaila
-ET a
-(23:3) (8:1)
-Vysvětlivky: i = inbrední gen
-horní čísla = ské i štěňat ve ka ře
-spodní čís. w závorkách = celkový počet hkateh štěňat : počet vrhů;
-+ číslo = mrtvě narozená .
-procenta, uvedená pod označením generac udávají homozygotnost generace
-dle výpočtů všeobecně používaných u inbredních con laboratorních
-zvířat (v 10 ,generaci je to už 7X. a ve 20,generaci 98,74%)
-pozneřed, — Správně se označuje Inbrední e velkým písmeném | , aby nedošlo
-k záměně s čísl ic] 1, použí) (m <. písmena i.
-BONITACE V UHŘÍNĚVSÍ 13.6.1987
-Bonitační komise: MUDr Miroslav Bechyně, CSE = posuzovatel delegovaný ÚOK
-Dana Kupková = poradce chovu
-PhDr Marie Klírová
-Ing Radko Loučka, CSc
-Oldřich Kupka
-AIKEN od Hrněířských luk, Reg. 101/85, žb, 65cm; 40kg - chovný
-Artison Severní vítr = Andy od Jankova kopce
-ch: Petr Kobr
-m: Jiří Emichel, Pec pod Sněžkou 38
-0 bodů
+
+                    Linie
+                    K                   A                   O                       P
+
+F1=      9,0                                            F1=      10,0                       7,0
+         (9:1)                                                   (10:1)                     (14:2)
+
+F2=i1=   9,0                                             F2=      7,5                        8,0
+19%      (9:1)                                                    (15:2)                     (8:1)
+
+F3=i2=   8,3                                             F3=      8,5                        8,0
+34%      (33:4)                                                   (34:4)                     (8:1)
+
+F4=i3=            7,7                8,0                 F4=      8,5             i1=         8,0
+48%               (23:3)             (24:3)                       (19:2)                      (8:1)
+
+F5=i4=            6,7                4,7                 F5=i1=   8,0
+58%               (47:7+3)           (28:6+4)                     (8:1)
+
+F6=i5=            4,5                3,0                 F6=i2=   4,0
+66%               (18:4+2)           (3:1)                        (12:3+2)
+
+                                                          F7=i3=   3,0
+                                                                   (11:4+1)
+
+Vysvětlivky: i = inbrední generace
+             horní čísla = průměr štěňat ve vrzích
+             spodní čís. v závorkách = celkový počet narozených štěňat : počet vrhů;
+                  + číslo = mrtvě narozená štěňata
+             procenta, uvedená pod označením generací udávají homozygotnost generace
+                  dle výpočtů všeobecně používaných u inbredních chovů laboratorních
+                  zvířat (v 10.generaci je to už 87% a ve 20.generaci 98,74%)
+
+pozn.red. - Správně se označuje inbrední generace velkým písmenem I, aby nedošlo
+            k záměně s číslicí 1, použil jsem malého písmena i.
+
+
+                                    BONITACE V UHŘÍNĚVSI 13.6.1987
+
+
+Bonitační komise: MUDr Miroslav Bechyně, CSc - posuzovatel delegovaný ÚOK
+                   Dana Kupková - poradce chovu
+                   PhDr Marie Klírová
+                   Ing Radko Loučka, CSc
+                   Oldřich Kupka
+
+AIKEN od Hrnčířských luk, Reg.101/85, žb, 65cm, 40kg                                - chovný
+     Artison Severní vítr - Andy od Jankova kopce
+     ch: Petr Kobr
+     m: Jiří Emichel, Pec pod Sněžkou 38
+  0 bodů

@@ -2,50 +2,73 @@
 # SOUBOR: 52-1987-11_sprezeni_c_8.pdf
 # PDF_STRANA: 8
 # TISTENA_STRANA: nezjištěna
-# OCR: tesseract-5.3.4 / ces / conf 64.3
+# OCR: vision (AI dočtení, tesseract conf pod prahem); vyplněný formulář "Přihláška k zápisu štěňat", netypický layout (tabulka + razítko)
 ---
-Český svaz chovatelů Vyplní porades novu;
-Nosital vyznamenání Za zásluhy © výstavby : DRUH CHOVU:
-sídliště Kobylisy I, Maškova ul, 3 R V
-18253 PRAHA 8 Razítko a podpis pch
-Telelon 845749
+Český svaz chovatelů
+Nositel vyznamenání Za zásluhy o výstavbu
+sídliště Kobylisy I, Maškova ul. 3
+18253 PRAHA 8
+Telefon 84 57 48
+
+[rámeček:] Vyplní poradce chovu:
+DRUH CHOVU:
+.....................................
+Razítko a podpis pch
+
 PŘIHLÁŠKA K ZÁPISU ŠTĚŇAT
-EFhlošku nutno vyplnit přesně a čitolněř.
-Vyplaí správo plemonné knihyt
-. „ 0 došlo dna:
-Tlomano: český hore es .
-vé a- vyřízeno
-Názov ov. stan. TFARANDA BÝVÁ AM 5
-průkazy původu št, odeslány dne:
-zapsán: REG., 90/84
-bonitaco: chovný 26.4.85 výška:
-dů psána: RBG+84/84
-druh sesti n barva: bílá žluté znaky
-zkoušky:
-vonitaco: Chovná | 2604486 | výško:
-ilodlio ktčůní:
-Pe GÁCORA Faranda.
-Z0
-Jino a udrosa chovatelo: Dana KUP pková,, u Tábota ,
-Votvrzení o čleuství v Základní organizaci ČSCH, © Mo.
-Jinenovaný(ů) je členem ZO ČSCII nábor KOROĚE „ O - podpis
-Datum krytí: 13 p) 17 . 487 n 0: « P: k tím z roz % : NY Ň T babe 87
-Odaje n počtu narozených štěňat:
-Kolik štěňat Kolik z nich Kolik bylo Kollk zahynulo
-fenn porodila? bylo mrtvých? usmrceno? před zápisem?
-ů ( sů fox psů | for fen psů fen
-"4 5 1 E | a 1. l - | -
-Vyplní správa plem. jména štěňat Pohlaví Adresy nových vlastníků štěňat
-knihyt Čísio zápisu (podlo abocedy) [napřed ps!) F Pa (úplné)
-BLÁN pes | | bílá zlušé =
-EMAN Des bílá, žluté 21.
-3 EDA „fena | bílá žluté zn.
-ELA fena | bílá, žluté zn,
-| EMA fena. | bílá, žluté zí,
-BTNA fena | bílá, žluté zn.
-K pihlašce připojuji: Krycí 1ist odesidn:
-Potvrzuji svým podplsom, Za Jsotm clovatolom výša uvedených štěňat u žo všechny údaje v co uveděhé jsor vý
-vlastnoruční podyjis chovatolo
-Jmenovaný(ů) je členem klubu + razítko « podpis
-nenirůlenomoiekum ve Slapech ano 22.6.87
-OBRAŤI
+Přihlášku nutno vyplnit přesně a čitelně.
+
+[rámeček:] Vyplní správa plemenné knihy:
+došlo dne:
+vyřízeno
+průkazy původu št. odeslány dne:
+
+Plemeno: český horský pes
+Název chov. stan.: FARANDA
+
+otec: ALAM-KUH Labutí řeka                                     zapsán: REG.90/84
+datum narození: 19.11.84                  druh srsti a barva: bílá žluté znaky
+výstavní ocenění: klubový vítěz 86,87     zkoušky:
+                                           bonitace: chovný 26.4.86       výška:
+
+Rodiče štěňat:
+matka: CÁCORA Faranda                                          zapsána: REG.84/84
+datum narození: 10.9.84                   druh srsti a barva: bílá žluté znaky
+výstavní ocenění: klubový vítěz 86        zkoušky:
+                                           bonitace: chovná 26.4.86       výška:
+
+Jméno a adresa chovatele: Dana Kupková, 391 76 Slapy u Tábora 45
+Potvrzení o členství v Základní organizaci ČSCH
+Jmenovaný(á) je členem ZO ČSCH Tábor                           [razítko - podpis]
+
+Datum krytí: 13, 17.4.87
+                          [razítko: Svaz chovatelů, Tábor IV.]     Datum narození štěňat: 15.6.87
+
+Údaje o počtu narozených štěňat:
+
+Kolik štěňat fena porodila?                    psů 4    fen 5
+Kolik z nich bylo mrtvých?                     psů 1    fen -
+Kolik bylo usmrceno?                           psů 1    fen -
+Kolik ponecháno feně?                          psů 2    fen 4
+Kolik odevzdáno kojné?                         psů -    fen 1
+Kolik zahynulo před zápisem?                   psů -    fen -
+
+Vyplní správa plem. knihy! Číslo zápisu | Jména štěňat (podle abecedy) | Pohlaví (napřed psi) | Druh srsti, její barva a znaky | Adresy nových vlastníků štěňat (úplné)
+
+ELÁN    pes     bílá, žluté zn.
+EMAN    pes     bílá, žluté zn.
+EDA     fena    bílá, žluté zn.
+ELA     fena    bílá, žluté zn.
+EMA     fena    bílá, žluté zn.
+ETNA    fena    bílá, žluté zn.
+
+K přihlášce připojuji:                                    Krycí list odeslán:
+Potvrzuji svým podpisem, že jsem chovatelem výše uvedených štěňat a že všechny údaje v přihlášce uvedené jsou pravdivé.
+                                                           [podpis] Dana Kupková
+                                                           vlastnoruční podpis chovatele
+Jmenovaný(á) je členem klubu - razítko - podpis
+[přeškrtnuto: není členem klubu]
+
+                                           ve Slapech dne 22.6.87
+
+                                                                              OBRAŤ!
