@@ -1,44 +1,64 @@
-# ZDROJ: Spřežení č. 9, rok 1988, strana nezjištěna
+# ZDROJ: Spřežení č. 9, rok 1988, s. 34
 # SOUBOR: 53-1988-04_sprezeni_c_9.pdf
 # PDF_STRANA: 36
-# TISTENA_STRANA: nezjištěna
-# OCR: tesseract-5.3.4 / ces / conf 82.8
+# TISTENA_STRANA: 34
+# OCR: vision (AI dočtení, tesseract conf pod prahem); sken obsahuje slabý prosvítající text ze zadní strany listu (ignorován) + tabulka výsledků
 ---
-= Jí
-ta k přespání A pončkud proti pravidlům jsme se šli sušit na chatu. Závočit tvrdě
-i za cenu zápalů plic byla hloupost a tak jsme si i tuto benevolerci dopřáli. Spo-
+ta k přespání a poněkud proti pravidlům jsme se šli sušit na chatu. Závodit tvrdě
+i za cenu zápalů plic byla hloupost a tak jsme si i tuto benevolenci dopřáli. Spo-
 lečný poslední večer závodů byl příjemný z několika důvodů. Blížil se konec a pak
-za námi přijela opět taneční country skupina Caramella z Prahy a kapela Kodrý mě=
+za námi přijela opět taneční country skupina Caramella z Prahy a kapela Modrý mě-
 síc z Vrchlabí. Večer přešel v hlubokou noc, kdy jsme uléhali. Sladké představy
-teplých náručí vystřídala tvrdá realita mokrých spacáků a sněhových objetí,
-Nedělní ráno, céry oblaků letící oblohou a chlačnó záblesky stučeného slunce. Po-
-slední stoupání rovnou od startu. Další posádka vzdává, Cval psů se stává pravi-
+teplých náručí vystřídala tvrdá realita mokrých spacáků a sněhových objetí.
+Nedělní ráno, cáry oblaků letící oblohou a chladné záblesky studeného slunce. Po-
+slední stoupání rovnou od startu. Další posádka vzdává. Cval psů se stává pravi-
 delný a rychlý. Snad vědí, že jedou do cíle. Dlouhé sjezdy, krátké rovinky a zase
-sjezd, Šest set padesút výškových metrů klesání kolem Výrovky, bývalé Klínovky na
-Pléně, přes Strážné a již míjíme chatu Feru« Poslední kraj lesa a první vilky
+sjezd. Šest set padesát výškových metrů klesání kolem Výrovky, bývalé Klínovky na
+Pláně, přes Strážné a již mijíme chatu Feru. Poslední kraj lesa a první vilky
 Vrchlabí. Cíl projíždíme vítáni diváky.
-Rozdělujeme ceny a jdeme odhazovat zavátá auta, Psi odpočívají. Kushers jedou dál.
-Ještě 300 km řídit domů. Tentokrát ne saně, ale rychlá auta. Snač jsme dojeli vši-
-chni,
-Hanzlík Petr, dne 4.4.86
-VRCHLABÍ —- memoriál Dr. Václava Vojtěcha 11.- 13.3.1988
-start. celkem v
-číslo I.etapa III.etapa hoden umístění
-Kobr I. 1
+Rozdělujeme ceny a jdeme odhazovat zavátá auta. Psi odpočívají. Mushers jedou dál.
+Ještě 300 km řídit domů. Tentokrát ne saně, ale rychlá auta. Snad jsme dojeli vši-
+chni.
+                                                              Hanzlík Petr, dne 4.4.88
+
+
+VRCHLABÍ - memoriál Dr. Václava Vojtěcha                          11.- 13.3.1988
+
+                              start.    I.etapa    III.etapa    celkem      umístění
+                              číslo                             hod:min
+
+Kobr I.                          1
 Kobr P.
-lang Hynek
-Bičík Pavel 2 4:38 2108 5:46 6.
-Holeček Miroslav 3
+
+Lang Hynek                       2      4:38       2:08         6:46        6.
+Bičík Pavel
+
+Holeček Miroslav                 3
 Rejhos Karel
-Ea marnta 3 3:12 1:43 4155 3.
-Kůrka Václav
-Kubíček K. 3
-Pyetečtů Jarosfne 6 S no oa PPM >
-Bistsr Jbost 7 zi38 pink p jů
-o p S M 8 3:08 1:47 4155 3.
-Kůta Václav
-Voběrek Jan 9
-Enichel Jiří 10 204 > ení "i
-Z nséko n 3:23 1:49 5112 4.
-Košína Tomáš OB
+
+Krejčí Jiří                      4      3:12       1:43         4:55        3.
+Řípa Martin
+
+Kůrka Václav                     5
+Kubíček K.
+
+Konečný Ivan                     6      4:27       2:03         6:30        5.
+Vystrčil Jaroslav
+
+Elster Petr                      7      2:54       1:47         4:41        1.
+Elster Josef
+
+Hanzlík Petr                     8      3:08       1:47         4:55        3.
+Heidenreich Petr
+
+Kůta Václav                      9
+Voběrek Jan
+
+Chlum Jan                        10     3:04       1:39         4:43        2.
+Emichel Jiří
+
+Loučka Radko                     11     3:23       1:49         5:12        4.
+Klír Jan
+
+Košina Tomáš                     12
 Kulhánek Jan
