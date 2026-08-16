@@ -1,45 +1,22 @@
-# ZDROJ: Spřežení č. 9, rok 1988, strana nezjištěna
+# ZDROJ: Spřežení č. 9, rok 1988, s. 16
 # SOUBOR: 53-1988-04_sprezeni_c_9.pdf
 # PDF_STRANA: 18
-# TISTENA_STRANA: nezjištěna
-# OCR: tesseract-5.3.4 / ces / conf 78.0
+# TISTENA_STRANA: 16
+# OCR: vision (AI dočtení, tesseract conf pod prahem); tabulka (pokračování přehledu vrhů) + fotografie štěněte
 ---
--= 16 -
-Pavel ARTISON Sev.vítr
-04,09, Korda
-Voletiny
-17
-19
-x
-AGUJA Severní vítr
-ARTISON Sevovítr
-x
-BREVENT z Vlažinky
-Miroslav
-+07.,| B - Zbloudilec Holeček
-Police n.hket.
-Oldřich
-+08.,| A - Ovědada Valášek
-Vrchlabí
-ARAGAC Kačabka
-x
-ADHARA od Bubl pot.
-AALBORG Lab,řeka
-x
-ALTA Modrý potok
-A = ze Lhoty
-Severní údolí
-AALBORG Lab řeka
-x
-CÍNIE Faranda
-ALAM-KUH Lab.řeka
-še ena
-elongová
-Ře
-Helena
-Nebeská
-x
-Pec p.Sněž. ATACAMA Sev.vítr
-11.11.| C —- Modrý potok
+krycí list čís. | dat.nar | chovná stanice        | majitel feny                        | generace | rodiče
+
+83 | 04.09. | (bez uvedení)          | Pavel Korda, Voletiny              | F5 | ARTISON Sev.vítr žb x AGUJA Severní vítr čb
+84 | 17.07. | B - Zbloudilec         | Miroslav Holeček, Police n.Met.    | F5 | ARTISON Sev.vítr žb x BREVENT z Vlažinky čb
+85 | 19.08. | A - Ovědada            | Oldřich Valášek, Vrchlabí          | F6 | ARAGAC Kačabka čb x ADHARA od Bubl.pot. žb
+87 | 30.08. | A - ze Lhoty           | Josef Hepnar, Lhota                | F6 | AALBORG Lab.řeka čb x ALTA Modrý potok čb
+90 | 26.12. | A - Severní údolí      | Alena Šelongová, Řeka              | F6 | AALBORG Lab.řeka čb x CÍNIE Faranda žb
+91 | 11.11. | C - Modrý potok        | Helena Nebeská, Pec p.Sněž.        | F6 | ALAM-KUH Lab.řeka žb x ATACAMA Sev.vítr žb
+
+celkem ♂/♀   [nevyplněno]
+celkem ♂+♀   [nevyplněno]
+
 Addis Ovědada
-ra jepřít.Záhorková
+maj.přit.Záhorková
+
+[fotografie: štěně (bíločerné, hnědé skvrny) stojící v travním porostu]

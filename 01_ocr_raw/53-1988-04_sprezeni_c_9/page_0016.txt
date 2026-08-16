@@ -1,91 +1,23 @@
-# ZDROJ: Spřežení č. 9, rok 1988, strana nezjištěna
+# ZDROJ: Spřežení č. 9, rok 1988, s. 14
 # SOUBOR: 53-1988-04_sprezeni_c_9.pdf
 # PDF_STRANA: 16
-# TISTENA_STRANA: nezjištěna
-# OCR: tesseract-5.3.4 / ces / conf 80.9
+# TISTENA_STRANA: 14
+# OCR: vision (AI dočtení, tesseract conf pod prahem); tabulka
 ---
-= 14 -
 Přehled vrhů ČHP v r. 1987
-.—— 7
-Jaroslav
-A - Pradědova louka Halama
-Javorník
-Josef
-27.01. Sněžník Polanský
-St „kěsvo peS .
-Jaroslav
-15.04. Poledník Čumpelík
-Kunčice neL.
-Josef
-B = Zděřina Zmátlo
-Police nehet.
-2
-2
-ARTISON Severní vítr žb
-x
-BESSI Lužický hvozd
-ARTISON Severní vítr žb
-BORKA Faranda
-ALAM-KUH Lab.řeka žb
-AGAMA Faranda
-ARTISON Sevovítr
-x
-ARCONA Kačabka
-Jan CAVYK Faranda
-7
-5
-3.06. od Jankova kopce Chlum
-Vrchlabí
-26
-15
-x
-FURKA Třeboň=Kopeček
-ARTISON Sevovítr
-x
-FORTUNA Třeb=Kop«
-jE]
-C - z Vlažinky
-Petr
-+06. Pátý dráp Heidenreich
-Plzeň
-ARTISON Sev.vitr
-tj
-o
-x
-ARTANA Kačabka
-Dana ALAK=KUH Lab.řeka
-Kupková
-Slapy u TA
-|
-m
-EEE EEE
-o 0
-6 x
-CÁCORA Faranda
-ee B - Už jedou
-24.07. A ©
-(ee
-ARTISON Sev.vítr
-x
-CABINA Faranda
-Jan GANEK T=K
-z Krkonoš Maršálek x
-Valteřice ALINA z Kilety
-BIG Lužický hvozd žb
-x '
-CEDRANA Faranda
-Antonín
-Jehlička
-Loděnice
-- Údolí Kačáku
-Blanka ARTISCN Sevovítr žb
-Kučerová
-Kokré
-21.C7.
-JE
-Na Mkčlích x
-ARVICA Kačabka
-Vít
-Švancara
-Valdov
-Severní vítr
+
+krycí list čís. | dat.nar | chovna stanice        | majitel feny                    | generace | rodiče
+
+68 | 25.02. | A - Pradědova louka    | Jaroslav Halama, Javorník          | F5 | ARTISON Severní vítr žb x BESSI Lužický hvozd čb
+69 | 27.01. | Sněžník                | Josef Polanský, St.Město p.S.      | F5 | ARTISON Severní vítr žb x BORKA Faranda žb
+70 | 15.04. | Poledník               | Jaroslav Čumpelík, Kunčice n.L.    | F6 | ALAM-KUH Lab.řeka žb x AGAMA Faranda žb
+71 | 21.05. | B - Zděřina            | Josef Zmátlo, Police n.Met.        | F6 | ARTISON Sev.vítr žb x ARCONA Kačabka čb
+72 | 23.06. | D - od Jankova kopce   | Jan Chlum, Vrchlabí                | F5 | CAVYK Faranda žb x FURKA Třeboň-Kopeček čb
+73 | 16.04. | C - z Vlažinky         | Petr Elster, Dačice                | F5 | ARTISON Sev.vítr žb x FORTUNA Třeb-Kop. čb
+74 | 26.06. | Pátý dráp              | Petr Heidenreich, Plzeň            | F6 | ARTISON Sev.vítr žb x ARTANA Kačabka žb
+75 | 15.06. | E - Faranda            | Dana Kupková, Slapy u TA           | F6 | ALAM-KUH Lab.řeka žb x CÁCORA Faranda žb
+77 | 25.06. | B - Už jedou           | Eva Loučková, Královice            | F5 | ARTISON Sev.vítr žb x CABINA Faranda žb
+78 | 24.07. | A - z Krkonoš          | Jan Maršálek, Valteřice            | F5 | GANEK T-K žb x ALINA z Milety žb
+79 | 21.07. | B - Údolí Kačáku       | Antonín Jehlička, Loděnice         | F5 | BIG Lužický hvozd žb x CEDRANA Faranda žb
+80 | 22.07. | B - Na Mělích          | Blanka Kučerová, Mokré             | F6 | ARTISON Sev.vítr žb x ARVICA Kačabka žb
+81 | 30.06. | D - Severní vítr       | Vít Švancara, Valdov               | F4 | GANEK T-K žb x ALKA Faranda čb

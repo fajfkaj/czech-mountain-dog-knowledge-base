@@ -1,76 +1,66 @@
-# ZDROJ: Spřežení č. 9, rok 1988, strana nezjištěna
+# ZDROJ: Spřežení č. 9, rok 1988, s. 20
 # SOUBOR: 53-1988-04_sprezeni_c_9.pdf
 # PDF_STRANA: 22
-# TISTENA_STRANA: nezjištěna
-# OCR: tesseract-5.3.4 / ces / conf 44.6
+# TISTENA_STRANA: 20
+# OCR: vision (AI dočtení, tesseract conf pod prahem); tabulka otočená o 90° (na výšku čtena zleva doprava po sloupcích) - "Hodnocení plemeníků podle kvality potomstva", zde přepsána v běžném čtecím pořadí
 ---
-m n 0 m — -
-————
-i
-ÁpT43 293TA T
-0u03 Z
-Fu0gfa
-uTy9ouox uoruasupd (ozsod Kuglfyo xp
-ApUupnay TSITS XT
-ouon susdoTy euzeds XT (£)
-- zsouoTyB<ImÁT XT | 0/6 | G WL T BGBYLA OBÍBIY
-T4S0ATT28g s*(ods uopri X" soaJe
-uTy99u0x UdTUADUPÁ (ozsod Áugáu? xz
-oyon ouedoTy 8 ouozEsBU oujeds XT
-zsougT1JwÁT XT
-snypoad
-BNAS fA03SOTX
-4p143 Z03TA T
-oy0y z
-yofuzogfa
-(9)
-. Bye TiNgST 210gT8Y
-USPIT X F1raTseJJe
-3848 PU9JopWZ OUTIS XT
-uTj9guox uoTuasuBd (ozs0d Kuglkyo xg
-Tysde A nyuvuJid x919,s0pou xT (S)
-(puzeIfA XT) 4s0u2T,87m4T We£ T)NgeT UNyY-mETY
-ÁpT43 *3TA Z
-ouo3 z
-Fuzogfa
-snys
-fA03g0TXA XT
-dyteu furTTs
-z0g2u Knuyoad xz
-(puzejkA XT) 450u2TYujuÁT Xp
-sx99T PXOITZ XT
-do4s ur1s XT
-BABTU 7AZ9% XT
-snys KuTopraeidou xT
-snypedd
-ÁpT143 793JA T
-*3TA TA0gnTY Z
-ou03 Z
-uofuaogfa OT
-oy0 o1pou XT
-pruoozdÁx xT
-snypod XT
-(4)
-xezedoy-uogelj jeuvy
-L 2/L av
-=
-S
-jb
-8
-o
-ba
-a
-[>
-syeaod $391fou
-*9u0xy yoTuaouBd (03s0d KAByTgzo1 X2
-uT497u0x UoTUpNTy ČOJs0d Ayo1Ts XT
-z9a4u Kanuyoad xT
-35002T38JU"ÁT
-2937A faognTy T
-ou03 z
-FuzogfA
-(A830£A UDÁAOG 9963Tu0g pumozod y9fusaozTuog Apea
--nTx z oznod) ouTu oraBu
-Jugueoo | gugzpyfz Apea
-Juav3sfa
-op pymozod
+Hodnocení plemeníků podle kvality potomstva
+
+Sloupce tabulky: plemeník (počet nakrytých fen) | zapsaných potomků do konce r.87 |
+počet hodnocených potomků | plnochrupí/podkusí | účast na bonitacích | chovných/nechovných |
+vady bonitovaných potomků | vady zjištěné navíc mimo bonitace | výstavní ocenění (pouze z klubových výstav)
+
+Artison Severní vítr (9)
+  zapsaných potomků do konce r.87: 42
+  počet hodnocených potomků: 9
+  plnochrupí/podkusí: 7/2
+  účast na bonitacích: 7
+  chovných/nechovných: 7/0
+  vady bonitovaných potomků: 3x lymfatičnost; 1x prohnutý hřbet; 1x široký postoj hrudních
+    končetin; 2x rozbíhavý postoj pánevních konč.; 1x nejistá povaha
+  vady zjištěné navíc mimo bonitace: 8x podkus
+  výstavní ocenění: 2 výborní z toho 1 Klubový vítěz
+
+Ganek Třeboň-Kopeček (5)
+  zapsaných potomků do konce r.87: 28
+  počet hodnocených potomků: 16
+  plnochrupí/podkusí: 12/4
+  účast na bonitacích: 16
+  chovných/nechovných: 15/1
+  vady bonitovaných potomků: 1x předkus; 1x nepravidelný skus; 1x těžká hlava; 1x strmý stop;
+    1x široká lebka; 4x lymfatičnost (1x výrazná); 2x prohnutý hřbet; 2x silný melír
+  vady zjištěné navíc mimo bonitace: 1x podkus; 1x kryptorchid; 1x modré oko
+  výstavní ocenění: 10 výborných z toho 2 Kluboví vít. 1 vítěz třídy
+
+Alam-Kuh Labutí řeka (5)
+  zapsaných potomků do konce r.87: 26
+  počet hodnocených potomků: 15
+  plnochrupí/podkusí: 7/8
+  účast na bonitacích: 7
+  chovných/nechovných: 6/1
+  vady bonitovaných potomků: 4x lymfatičnost (1x výrazná); 1x nedostatek pigmentu v srsti;
+    5x chybný postoj pánevních končetin; 1x silně zkadeřená srst; 1x agresivita k lidem
+  vady zjištěné navíc mimo bonitace: 1x kleštový skus
+  výstavní ocenění: 3 výborní z toho 2 vít. třídy
+
+Aalborg Labutí řeka (6)
+  zapsaných potomků do konce r.87: 25
+  počet hodnocených potomků: 15
+  plnochrupí/podkusí: 9/6
+  účast na bonitacích: 12
+  chovných/nechovných: 11/1
+  vady bonitovaných potomků: 1x kleštový skus; 1x předkus; 1x lymfatičnost; 1x špatně nasazené
+    a klopené ucho; 2x chybný postoj pánevních končetin; 1x agres.k lidem spoj.s bázlivostí
+  vady zjištěné navíc mimo bonitace: [nevyplněno]
+  výstavní ocenění: 5 výborných z toho 1 vítěz třídy
+
+Aragac Kačabka (3)
+  zapsaných potomků do konce r.87: 14
+  počet hodnocených potomků: 8
+  plnochrupí/podkusí: 7/1
+  účast na bonitacích: 5
+  chovných/nechovných: 5/0
+  vady bonitovaných potomků: 1x lymfatičnost; 1x špatně klopené ucho; 1x širší hrudník;
+    4x chybný postoj pánevních končetin
+  vady zjištěné navíc mimo bonitace: -
+  výstavní ocenění: 3 výborní z toho 1 vítěz třídy
