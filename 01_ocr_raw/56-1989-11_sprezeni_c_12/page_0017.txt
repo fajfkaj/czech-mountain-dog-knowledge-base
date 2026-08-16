@@ -1,69 +1,51 @@
-# ZDROJ: Spřežení č. 12, rok 1989, strana nezjištěna
+# ZDROJ: Spřežení č. 12, rok 1989, s. 16
 # SOUBOR: 56-1989-11_sprezeni_c_12.pdf
 # PDF_STRANA: 17
-# TISTENA_STRANA: nezjištěna
-# OCR: tesseract-5.3.4 / ces / conf 83.3
+# TISTENA_STRANA: 16
+# OCR: vision (AI dočtení, tesseract conf pod prahem)
 ---
-S,Dolenský
-J „Cvrček
-P.Svoboda.
-J„Klír
-M.Záboj
-J.Mícha lové.
-B „Kučerová
-J Kašpar
-Jo Maršálek
-P.Kobr
-J Kašpar
-R,Svoboda
-- 16 =
-Bene. od Hrčířských luk
-Domba j Třebon-Kopeček
-Centa z Vlažinky
-Ara Faranda
-Auge Severní údolí
-Bethel labutí řeka
-Arvica Kačabka
-Ayde Patnáctý poledník
-Ajša z Krkonoš
-Andy od Jankova kopce
-Ayde Patnáctý poledník
-Anke, ze Lhoty
-Ašky Zlatá trubka
-Drak Faranda
-Bell Severní vítr
-Brok Údolí Kačáku
-Cing z Vlažinky
-Cer z Vlažinky
-Akela na Mělích
-Brok Údolí Kačáku
-Blesk Už jedou
-Dar Farenda
-Borec Už jedou
-Baron Severní vítr
-Cézar od Jankova kopce
-Brok Údolí Kačáku
-Azul Podcesný mlýn
-Abas Predědova louka
-Artison Severní vítr
-Atlas Studená-Javořice
-Bary Bačova koliba
-Alatyr ze Lhoty
-Aragac Kačabka
-Bell Severní vítr
-Barry Velká závěj
-Alan Údolí Kačáku
-Akela na Vělích
-Elán Faranda
-Borae Pradědova louka
-11.08.89
-15.05.89
-09.07.89
-16.05.89
-27.06.89
-12.07.69
-10.06 ,89
-17.07.89
-20.08.89
-Adirondak Stráž nad Nežárkou
-Boras Pradědova louka
+- 16 -
+
+S.Dolenský       Bena od Hrčířských luk    Drak Faranda                     11.08.89
+                                            Bell Severní vítr
+                                            Brok Údolí Kačáku
+
+J.Cvrček         Dombaj Třeboň-Kopeček     Cing z Vlažinky                  15.05.89
+                                            Cer z Vlažinky
+
+P.Svoboda        Centa z Vlažinky          Akela na Mělích                  09.07.89
+                                            Brok Údolí Kačáku
+                                            Blesk Už jedou
+
+J.Klír           Ara Faranda               Dar Faranda                     16.05.89
+
+M.Záboj          Auge Severní údolí        Borec Už jedou                   27.06.89
+                                            Baron Severní vítr
+                                            Cézar od Jankova kopce
+
+J.Michalová      Bethel Labutí řeka        Brok Údolí Kačáku                12.07.89
+                                            Azul Podcesný mlýn
+                                            Abas Pradědova louka
+
+B.Kučerová       Arvica Kačabka            Artison Severní vítr             10.06.89
+                                            Atlas Studená-Javořice
+                                            Bary Bačova koliba
+
+J.Kašpar         Ayde Patnáctý poledník    Alatyr ze Lhoty                  17.07.89
+
+J.Maršálek       Ajša z Krkonoš            Aragac Kačabka                   20.08.89
+                                            Bell Severní vítr
+                                            Barry Velká závěj
+
+P.Kobr           Andy od Jankova kopce     Alan Údolí Kačáku
+                                            Akela na Mělích
+                                            Elán Faranda
+
+J.Kašpar         Ayde Patnáctý poledník    Boras Pradědova louka
+
+R.Svoboda        Anka ze Lhoty             Adirondak Stráž nad Nežárkou
+                                            Boras Pradědova louka
+
+
+                    Ašky Zlatá trubka                       Jan Kašpar
+             [fotografie: dva psi v trávě u lesa]

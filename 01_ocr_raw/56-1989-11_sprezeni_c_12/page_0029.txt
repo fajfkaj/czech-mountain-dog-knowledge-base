@@ -1,43 +1,52 @@
-# ZDROJ: Spřežení č. 12, rok 1989, strana nezjištěna
+# ZDROJ: Spřežení č. 12, rok 1989, s. 28
 # SOUBOR: 56-1989-11_sprezeni_c_12.pdf
 # PDF_STRANA: 29
-# TISTENA_STRANA: nezjištěna
-# OCR: tesseract-5.3.4 / ces / conf 83.0
+# TISTENA_STRANA: 28
+# OCR: vision (AI dočtení, tesseract conf pod prahem)
 ---
-- 8 =
-U ý —
-TERMIMOVY | VALENDOR
-Závody s trénink voz
-11.-12.11.869 | Moravany u Brna Miloš Gryc, Žitná 59, 664 48 Moravany u Brna
-25.-26.11.89 | Opava A Hrbáč
-2,= 3.12.89 | Škvořetíce u Blatné | Štefan Lacko, Škvořetice
-9.-10.12.89 | Mníšek pod Brdy J.Síbrt, 252 03 Řitka, Líšnice-Varadov 0294
-10,-11.12.89 | Habartice ?
-16.-17.12.89 | Osečná I.Brabec, Fučíkova 9, Liberec
-30.-31.12.89 | Bratislava Oskar Dora, Žukovova 45, 851 03 Bratislava
-Závody na u- 8 +
-6,- 7. 1.90 | Pustevny G.Stein, Rudé armády 82, 747 21 Opava-Kravaře
-13.-14. 1.90 | Kokava Z.Macove, JRD Pokrok, 987 01 Poltár
-20.=21. 1.90 | N.Město na Moravě P.Šteflíček, Krásné 66, 592 03 Sněžné
-27.-28. 1.90 | Vysoké n.Jízerou M.Motejlek, Bítouchov 89, 513 01 Semily
-27.-28. 1.90 | Komáří Vížka M.Hanuš, Hrnčířská 4, 400 01 Ústí nad Labem
-27.-28. 1.90 | Martin J.Misár, bytovky JRD Belá u Martina-Dulice
-3.- 4. 2.90 | Kateřina u Počátek P.Elster, Dačice, nám.93
-3.= 4, 2.90 | Lopeník R.Kastner, Nová 1640, 688 01 Uherský Brod
-10.-11. 2.90 | Zadov (M-ČSR Skj) P.Hanzlík, Smetanova 648, 378 21 Kard.Řečice
-17.-18. 2.90 | Moldava F.Topinka, Smetanova 424, 417 05 Osek
-17.-18. 2.90 | Štrbské Pleso G.Stein, Rudé armády 82, 747 21 BGpava-Kravaře
-24.-25. 2.90 | Harrachov (M-ČSR J Krejčí, Sport.areál, 512 46 Harrachov
-24.-25. 2.90 | Kokava 5,048) Z.Macove, JRD Pokrok, 987 01 Poltár
+- 28 -
+
+TERMÍNOVÝ KALENDÁŘ
+
+Závody s tréninkovými vozíky
+
+11.-12.11.89  | Moravany u Brna       | Miloš Gryc, Žitná 59, 664 48 Moravany u Brna
+25.-26.11.89  | Opava                  | A.Hrbáč
+2.- 3.12.89   | Škvořetice u Blatné    | Štefan Lacko, Škvořetice
+9.-10.12.89   | Mníšek pod Brdy        | J.Sibrt, 252 03 Řitka, Líšnice-Varadov 0294
+10.-11.12.89  | Habartice              | ?
+16.-17.12.89  | Osečná                 | I.Brabec, Fučíkova 9, Liberec
+30.-31.12.89  | Bratislava             | Oskar Dóra, Žukovova 45, 851 03 Bratislava
+
+Závody na sněhu - typ sprint
+
+6.- 7. 1.90   | Pustevny               | G.Stein, Rudé armády 82, 747 21 Opava-Kravaře
+13.-14. 1.90  | Kokava                 | Z.Macove, JRD Pokrok, 987 01 Poltár
+20.-21. 1.90  | N.Město na Moravě      | P.Šteflíček, Krásné 66, 592 03 Sněžné
+27.-28. 1.90  | Vysoké n.Jizerou       | M.Motejlek, Bítouchov 89, 513 01 Semily
+27.-28. 1.90  | Komáří Vížka           | M.Hanuš, Hrnčířská 4, 400 01 Ústí nad Labem
+27.-28. 1.90  | Martin                 | J.Misár, bytovky JRD Belá u Martina-Dulice
+3.- 4. 2.90   | Kateřina u Počátek     | P.Elster, Dačice, nám.93
+3.- 4. 2.90   | Lopeník                | R.Kastner, Nová 1640, 688 01 Uherský Brod
+10.-11. 2.90  | Zadov (M-ČSR Skj)      | P.Hanzlík, Smetanova 648, 378 21 Kard.Řečice
+17.-18. 2.90  | Moldava                | F.Topinka, Smetanova 424, 417 05 Osek
+17.-18. 2.90  | Štrbské Pleso          | G.Stein, Rudé armády 82, 747 21 Opava-Kravaře
+24.-25. 2.90  | Harrachov (M-ČSR B,C,S)| J.Krejčí, Sport.areál, 512 46 Harrachov
+24.-25. 2.90  | Kokava                 | Z.Macove, JRD Pokrok, 987 01 Poltár
+
 Etapové závody
-29.1.-2.2.90 | Bedřichov (Jiz.hory) I.Brabec, Fučíkova 9, 460 01 Liberec
-2.= 4. 3.90 | Memoriál V.Vojtěcha © J.Chlum, Kpt.Nálepky 1236, 543 01 Vrchlabí
-16.-18. 3.90 | Praděd-Jeseníky G.Steín, Rudé armády 82, 747 21 Opava-Kraveře
-Skijóring: Kateřina (1 kolo), Vysoké (1 kolo)
-Zadov (2 kole), N.kčsto (2 kola; současně pulka)
+
+29.1.-2.2.90  | Bedřichov (Jiz.hory)   | I.Brabec, Fučíkova 9, 460 01 Liberec
+2.- 4. 3.90   | Memoriál V.Vojtěcha    | J.Chlum, Kpt.Nálepky 1236, 543 01 Vrchlabí
+16.-18. 3.90  | Praděd-Jeseníky        | G.Stein, Rudé armády 82, 747 21 Opava-Kravaře
+
+Skijöring: Kateřina (1 kolo), Vysoké (1 kolo)
+           Zadov (2 kola), N.Město (2 kola; současně pulka)
 Ostatní závody S (pulka)
 Všechny závody C, B (navíc Štrbské Pleso A)
 s výjimkou Kateřiny a Vysokého dvoukolově
-Vzhledem k nejasnostem s organizací saňového sportu změna progremu vyhrazena.
-Sportovní komise KCHČHP
-16.10.89
+
+Vzhledem k nejasnostem s organizací saňového sportu změna programu vyhrazena.
+
+                                              Sportovní komise KCHČHP
+                                              16.10.89

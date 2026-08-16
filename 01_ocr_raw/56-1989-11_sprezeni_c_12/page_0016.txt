@@ -1,41 +1,55 @@
-# ZDROJ: Spřežení č. 12, rok 1989, strana nezjištěna
+# ZDROJ: Spřežení č. 12, rok 1989, s. 15
 # SOUBOR: 56-1989-11_sprezeni_c_12.pdf
 # PDF_STRANA: 16
-# TISTENA_STRANA: nezjištěna
-# OCR: tesseract-5.3.4 / ces / conf 84.4
+# TISTENA_STRANA: 15
+# OCR: vision (AI dočtení, tesseract conf pod prahem)
 ---
-pozn: stránka č.14 nechybí, jen
-bylo „spleteno“ číslování....
-= 8 =
+- 15 -                                    pozn: stránka č.14 nechybí, jen
+                                           bylo „spleteno" číslování....
+
 V závěrečné soutěži o nejkrásnější fenu výstavy obsadila fena Dája Faranda 2.mís-
 to.
-Pes Dar Faranda a fena Dája Farenda zíekali na této výstavě svůj třetí C.A.C. a |
-splnili podmínky pro udělení titulu "Šampion ČSSR",
-6. oblastní výstave psů plemen ČSCH - LIBEREC 1. října 89
-psi - třída mledých
-CYRIL Už jedou - výborný 1., vítěz tř.mladých -
+Pes Dar Faranda a fena Dája Faranda získali na této výstavě svůj třetí C.A.C. a
+splnili podmínky pro udělení titulu "Šampion ČSSR".
+
+
+6. oblastní výstava psů plemen ČSCH - LIBEREC 1.října 89
+
+psi - třída mladých
+CYRIL Už jedou              - výborný 1., vítěz tř.mladých
+
 psi - třída otevřená
-ARGO z Krkonoš -+ velmi dobrý
+ARGO z Krkonoš               - velmi dobrý
+
 feny - třída dorostu
-ARIEL od Fíka -= velmi nadějná
-ARNIKA od Fíka velmi nadějná, vítěz tř. dorostu
+ARIEL od Fíka                - velmi nadějná
+ARNIKA od Fíka                - velmi nadějná, vítěz tř.dorostu
+
 feny - třída otevřená
-BETY Modrý potok - výborná 4.
-BONITA Velká závěj = výborné 1., vítěz tř.otevřené, oblastní vítěz
-ELA Faranda -+ výborná 3.
-BANY z Milety - výborná 2.
+BETY Modrý potok             - výborná 4.
+BONITA Velká závěj            - výborná 1., vítěz tř.otevřené, oblastní vítěz
+ELA Faranda                  - výborná 3.
+BANY z Milety                 - výborná 2.
+
 posuzoval B.Meszaros
+
+
 VYSTAVENÉ KRYCÍ LISTY
-chovatel jméno feny doporučení psí — dat. krytí
-Z.Čech Adara ne Mělích Blek od Hrčířských luk 17.06.89
-Beron Severní vítr
-Cézar od Jankova kopce
-O „Valášek Adhare od Bublajíc.potůč. Aragac Kačabka
-Dry Severní vítr 18.06.89
-Baron Severní vítr
-O Valášek Adelina od Jankova kopce | Dry Severní vítr 08.06.89
-Artison Severní vítr
-Bojar Velká závěj
-J Konečný Athi ze Lhoty *Drek Faranda
-Brok Údolí Kačáku 30.06.69
-Cavyk Faranda
+
+chovatel        jméno feny                doporučení psi                    dat.krytí
+
+Z.Čech           Adara na Mělích           Blek od Hrčířských luk           17.06.89
+                                            Baron Severní vítr
+                                            Cézar od Jankova kopce
+
+O.Valášek        Adhara od Bublajíc.potůč. Aragac Kačabka                    18.06.89
+                                            Dry Severní vítr
+                                            Baron Severní vítr
+
+O.Valášek        Adelina od Jankova kopce  Dry Severní vítr                  08.06.89
+                                            Artison Severní vítr
+                                            Bojar Velká závěj
+
+J.Konečný        Athi ze Lhoty             Drak Faranda                     30.06.89
+                                            Brok Údolí Kačáku
+                                            Cavyk Faranda

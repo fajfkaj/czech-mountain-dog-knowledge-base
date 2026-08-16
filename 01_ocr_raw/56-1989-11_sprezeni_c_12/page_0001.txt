@@ -1,11 +1,15 @@
-# ZDROJ: Spřežení č. 12, rok 1989, strana nezjištěna
+# ZDROJ: Spřežení č. 12, rok 1989, s. strana nezjištěna
 # SOUBOR: 56-1989-11_sprezeni_c_12.pdf
 # PDF_STRANA: 1
 # TISTENA_STRANA: nezjištěna
-# OCR: tesseract-5.3.4 / ces / conf 61.6
+# OCR: vision (AI dočtení, tesseract conf pod prahem)
 ---
-P ze eýčké ČSCH
-EŽENÍ.
-iKClub chovatelů českého horského sa
-č.12 CS listopad 1989
-„Z“
+ČSCH
+
+SPŘEŽENÍ
+
+Klub chovatelů českého horského psa
+
+č.12                                                    listopad 1989
+
+[titulní fotografie: muž ve spacím pytli spolu se psem]

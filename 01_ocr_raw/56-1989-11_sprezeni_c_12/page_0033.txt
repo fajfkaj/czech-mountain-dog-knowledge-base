@@ -1,61 +1,67 @@
-# ZDROJ: Spřežení č. 12, rok 1989, strana nezjištěna
+# ZDROJ: Spřežení č. 12, rok 1989, s. 32
 # SOUBOR: 56-1989-11_sprezeni_c_12.pdf
 # PDF_STRANA: 33
-# TISTENA_STRANA: nezjištěna
-# OCR: tesseract-5.3.4 / ces / conf 81.6
+# TISTENA_STRANA: 32
+# OCR: vision (AI dočtení, tesseract conf pod prahem)
 ---
-m: JD =
-otevřela závody pro všechny psy. Tím se připojile ke světovému vývoji sportu
-psích spřežení a umožnila ještě bouřlivější rozvoj sportu v Evropě. Byli čoveze-
-ni noví závodní psi z Aljašky již bez podvodů e falšování a protože ve sportu
-je rozhodující kdo výše, kdo dále e hlavně kdo rychleji, dostal sport v Evropě
+- 32 -
+
+otevřela závody pro všechny psy. Tím se připojila ke světovému vývoji sportu
+psích spřežení a umožnila ještě bouřlivější rozvoj sportu v Evropě. Byli doveze-
+ni noví závodní psi z Aljašky již bez podvodů a falšování a protože ve sportu
+je rozhodující kdo výše, kdo dále a hlavně kdo rychleji, dostal sport v Evropě
 přirozený a logický vývoj. Důkazem správnosti cesty a vysoké sportovní úrovně ev-
-ropských závodů je přičělení prvního Mistrovství světa v historii na evropskou
-půdu. MS v zémodech psích spřežení proběhne v termínu 9.-11.2.1990 v Sile/Silva-
+ropských závodů je přičlenění prvního Mistrovství světa v historii na evropskou
+půdu. MS v závodech psích spřežení proběhne v termínu 9.-11.2.1990 v Sils/Silva-
 plana/St.Moritz ve Švýcarsku.
-Je tedy třeba, aby se každý jednotlivec zamyslel nad svým přístupem a vzta-
+    Je tedy třeba, aby se každý jednotlivec zamyslel nad svým přístupem a vzta-
 hem ke sportu jako takovému a pokud má zájem především o sport, měl by vstoupit
-do ČASPS. Pokuď chce mít především pěkné psy a pak s nimi závodit a nesouhlasí s
-pravidly ČASPS, bylo by lepší, kdyby svoji aktivitu rozvíjel v rémci chovatelské-
-ho klubu. :
-Pro sezonu 69/90 připravila ČASPS tento termínový kalendář:
-9.-10.12.69 | Habartice (Ústí n.L,)
-13.-14. 1.90 Habertíce
-20.-21. 1.90 Nové Město n.,
-(dálší závody jsou obsaženy v termínovém kalendáří ne str. >)
+do ČASPS. Pokud chce mít především pěkné psy a pak s nimi závodit a nesouhlasí s
+pravidly ČASPS, bylo by lepší, kdyby svoji aktivitu rozvíjel v rámci chovatelské-
+ho klubu.
+    Pro sezonu 89/90 připravila ČASPS tento termínový kalendář:
+                9.-10.12.89 | Habartice (Ústí n.L.)
+                6.- 7. 1.90 | Pustevny (Beskydy)
+                13.-14. 1.90 | Habartice
+                20.-21. 1.90 | Nové Město n.M.
+
+    (další závody jsou obsaženy v termínovém kalendáři na str. 28)
+
 Z mezinárodního termínového kalendáře pro vás vybíráme tyto zajímavosti:
 ME - ESDRA
-dlouhé tratě —-22.1.- 4.2.90 Alpirod
-sprint = 23.2.-25.2.90 Ste=Croix, Švýcarsko
-střední tratě - 2.3.- 4.3.90  Kotechach=Mauthen, Rakousko
+dlouhé tratě - 22.1.- 4.2.90 Alpirod
+sprint       - 23.2.-25.2.90 Ste-Croix, Švýcarsko
+střední tratě - 2.3.- 4.3.90 Kötschach-Mauthen, Rakousko
 MS - IFSS
-sprint = 9.2.-11.2.90 Sile/Silvaplana, Švýcarsko
+sprint       - 9.2.-11.2.90 Sils/Silvaplana, Švýcarsko
 pouze pro tzv. čisté rasy pořádá ME také FISTC
-sprint - 16.2.-16.2.90 Seckau
-Pro naše jezdce by mohl být zajímavý závod pořádaný DSSV v Haidmúhle 3.a“4.3.90,
+sprint       - 16.2.-18.2.90 Seckau
+Pro naše jezdce by mohl být zajímavý závod pořádaný DSSV v Haidmühle 3.a 4.3.90,
 protože toto místo není daleko od našich hranic.
-10,3.-11.3.90 Altenberg, NDR
-3.3.8 4,3.,90 Oberhorff
-Sezona 1968-89 v ČSSR a je jí vyhodnocení:
-Závody psích spřežení probíhaly v sezoně B8-89 podle pravidel sp.kom.ÚOK,
-Závody byly tzv. kvalifikační a mistrovské, Do hodnocení čs.poháru se počítaly
+                10.3.-11.3.90 Altenberg, NDR
+                3.3. a 4.3.90 Oberhorff
+
+Sezona 1988-89 v ČSSR a její vyhodnocení:
+
+Závody psích spřežení probíhaly v sezoně 88-89 podle pravidel sp.kom.ÚOK.
+Závody byly tzv. kvalifikační a mistrovské. Do hodnocení čs.poháru se počítaly
 dva nejlepší výsledky z mistrovských závodů, tj. Kokavy, Zadova, Harrachova.
-Uskutečnílo ee 6 závodů a to Nové Město n,Wor., Kokava, Lopeník, Moldava, Zadov,
+Uskutečnilo se 6 závodů a to Nové Město n.Mor., Kokava, Lopeník, Moldava, Zadov,
 Harrachov.
 Celkově se na start všech těchto závodů postavilo:
 ve třídě C - 120 startujících, B - 36 start., S - 26 start., Skj - 76 start.
-Jezdců, kteří ee alespon jednou postavili ne start bylo:
-ve třídě C - 57, B - 16, S = 15, Skj - 76
-Vyhodnocení čs.poháru 88/59
-Třída Cz Třída B: Třída 5: Třída Skjt
-1oNečas J. 29  l.Komín J. 13. 1 Kůrka V. 14 loPechek Vl. 37
-2.Velvarský 24 2 Dolejš F. 13 2 Jedlička J. 9 2.Foueek V. 31
-3.Pfeifer P. 22 © 3 .Ježek Vl. 3.Hanzlík P. © © 3.Šanovec V. 30
-4,Emichel J. 19 Filo D. 4 Loučka R. 6 4.Kůrka V. 26
-5.Krejčí J. 18 | 5.Kastner R. 5.Nogol L. 5 o 5eKubíček K. 25
-6,Tůms. K. "T 6,Hepnar J6 6.Pečený R. 4 6.Hanzlík Po 24
-7 „Kobr h 14 7.Pečená L. T.Vojtěch V, 3 7.Kobr Ps 23
-8.Rzidky J. 13  8.Klír J. B.Novotný J. 2 OB Pečený R. 21
-9.Řípa M. 11 9.Mikolášek | 1 Bmichel J. 21
-1 O.Bublák K. 10 Kozák V. 1 1O4.Jedlička J. 19
--HPNOUWUBA
+Jezdců, kteří se alespoň jednou postavili na start bylo:
+ve třídě C - 57, B - 16, S - 15, Skj - 76
+
+Vyhodnocení čs.poháru 88/89
+Třída C:                Třída B:              Třída S:               Třída Skj:
+1.Nečas J.       29     1.Komín J.     13     1.Kůrka V.       14    1.Pechek Vl.     37
+2.Velvarský      24     2.Dolejš F.    13     2.Jedlička J.     9    2.Fousek V.      31
+3.Pfeifer P.     22     3.Ježek Vl.     7     3.Hanzlík P.      8    3.Šanovec V.     30
+4.Emichel J.     19       Filo D.       7     4.Loučka R.       6    4.Kůrka V.       26
+5.Krejčí J.      18     5.Kastner R.    4     5.Nogol L.        5    5.Kubíček K.     25
+6.Tůma K.        17     6.Hepnar J.     3     6.Pečený R.       4    6.Hanzlík P.     24
+7.Kobr I.        14     7.Pečená L.     2     7.Vojtěch V.      3    7.Kobr P.        23
+8.Rzidky J.      13     8.Klír J.       1     8.Novotný J.      2    8.Pečený R.      21
+9.Řípa M.        11                           9.Mikolášek       1      Emichel J.     21
+10.Bublák K.     10                             Kozák V.        1    10.Jedlička J.   19
