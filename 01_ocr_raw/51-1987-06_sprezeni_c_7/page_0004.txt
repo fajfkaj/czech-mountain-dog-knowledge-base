@@ -1,48 +1,72 @@
-# ZDROJ: Spřežení č. 7, rok 1987, strana nezjištěna
+# ZDROJ: Spřežení č. 7, rok 1987, s. 2
 # SOUBOR: 51-1987-06_sprezeni_c_7.pdf
 # PDF_STRANA: 4
-# TISTENA_STRANA: nezjištěna
-# OCR: tesseract-5.3.4 / ces / conf 78.7
+# TISTENA_STRANA: 2
+# OCR: vision (AI dočtení, tesseract conf pod prahem); tabulkový přehled vrhů plemenné knihy
 ---
-FARANDA 23.07.1986
-Dana Kupková, 391 76 Slapy u Tábora 45
-Aalborg Labutí řeka Cácora Faranda
-reg. 87/84, čb reg. 84/84, žb
-111. DAN žb 114. DÁJA žb
-112 DAR žb
-113. DRAK šžb
-PODCESNÝ MLÝN 29.05.1986
-Josef Cvrček, Malý Pěčín 34, 380 01 Dačíce :
-Berrio Vlažinka Dombaj Třeboň=Kopeček
-reg. 76/84, čb reg. 18/81, žb
-115. ABAN 2 "58b 119. ADANA žb
-116  ASEN čb ' 120 AJKA čb
-117. ATHOS + čb 121. AKIMA čb
-118. AZUL šb 122. ASKA čb
-2 MILETY *' 07.02, 1985
-Irma Králová, Velká Úpa 16, 542 22 Peco pod Sněžkou
-Pred Třebon-Kopeček Guara Třebon=Kopeček
-reg. 20/81, čb reg. 28/82, čb
-123  ASKALUG ná
-124. ALINA žda
-VELKÁ ZÁVĚJ 10.08, 1986
-Pavla Pospíšílová, Horní Černá Studnice 122, 468 27 Nová Ves u.Nisou
-Alam=Kuh Labutí řeka Bělka Faranda
-reg, 90/84, žb reg. 63/83, žb
-125 BARRY žb 129 BONITA žb
-126  BENJAMIN „-žb
-127 BOJAR „žb
-128  BRITBACK žb
-UŽ JEDOU 02406.1986
-Eva Loučková, Královíce 105, 104 00 Praha 10 - Uhříněves
-Alan=Kuh Labutí řeka Čabína Faranda
-reg. 90/84, žb reg. 83/84, žb
-130  APORTHOS žb 134. ASTRA žb
-131. ARAMIS žb
-132 | ARTAGNAN žb
-133. ATHOS žb
-ZBLOUDILEC 29.06.1986
-Miroslav Holeček, Dvořákova 135, 549 54 Police nad iletují
-Alam=Kuh Labutí řeka Brevant Vlažinka
-reg. 90/84, žb D66 80/84, čb
-135  AKKY čb
+- 2 -
+
+FARANDA                                     23.07.1986
+
+    Dana Kupková, 391 76 Slapy u Tábora 45
+    Aalborg Labutí řeka                          Cácora Faranda
+    reg. 87/84, čb                               reg. 84/84, žb
+
+    111 DAN                    žb    114 DÁJA                    žb
+    112 DAR                    žb
+    113 DRAK                   žb
+
+
+PODCESNÝ MLÝN                               29.05.1986
+
+    Josef Cvrček, Malý Pěčín 34, 380 01 Dačice
+    Berrio Vlažinka                              Dombaj Třeboň-Kopeček
+    reg. 76/84, čb                               reg. 18/81, žb
+
+    115 ABAN                   čb    119 ADANA                   žb
+    116 ASEN                   čb    120 AJKA                    čb
+    117 ATHOS                  čb    121 AKIMA                   čb
+    118 AZUL                   čb    122 ASKA                    čb
+
+
+Z MILETY                                    07.02.1985
+
+    Irma Králová, Velká Úpa 16, 542 22 Pec pod Sněžkou
+    Fred Třeboň-Kopeček                          Guara Třeboň-Kopeček
+    reg. 20/81, čb                               reg. 28/82, čb
+
+                                              123 ASKALUG                 čb
+                                              124 ALINA                   žb
+
+
+VELKÁ ZÁVĚJ                                 10.08.1986
+
+    Pavla Pospíšilová, Horní Černá Studnice 122, 468 27 Nová Ves n.Nisou
+    Alam-Kuh Labutí řeka                         Bělka Faranda
+    reg. 90/84, žb                               reg. 63/83, žb
+
+    125 BARRY                  žb    129 BONITA                  žb
+    126 BENJAMIN                žb
+    127 BOJAR                  žb
+    128 BRITBACK                žb
+
+
+UŽ JEDOU                                    02.06.1986
+
+    Eva Loučková, Královice 105, 104 00 Praha 10 - Uhříněves
+    Alam-Kuh Labutí řeka                         Cabina Faranda
+    reg. 90/84, žb                               reg. 83/84, žb
+
+    130 APORTHOS                žb    134 ASTRA                    žb
+    131 ARAMIS                  žb
+    132 ARTAGNAN                žb
+    133 ATHOS                   žb
+
+
+ZBLOUDILEC                                  29.06.1986
+
+    Miroslav Holeček, Dvořákova 135, 549 54 Police nad Metují
+    Alam-Kuh Labutí řeka                         Brevent Vlažinka
+    reg. 90/84, žb                               reg. 80/84, čb
+
+    135 AKKY                    čb

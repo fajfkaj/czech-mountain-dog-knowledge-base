@@ -1,61 +1,53 @@
-# ZDROJ: Spřežení č. 7, rok 1987, strana nezjištěna
+# ZDROJ: Spřežení č. 7, rok 1987, s. 19
 # SOUBOR: 51-1987-06_sprezeni_c_7.pdf
 # PDF_STRANA: 21
-# TISTENA_STRANA: nezjištěna
-# OCR: tesseract-5.3.4 / ces / conf 80.6
+# TISTENA_STRANA: 19
+# OCR: vision (AI dočtení, tesseract conf pod prahem); v záhlaví kresba spřežení, v dolní části stránky ručně kreslená mapka trasy přejezdu
 ---
-+ 19 =
-5, ROČNÍK PŘEJEZDU ČESKOMORAVSKÉ VRCHOVINY (7.-9. LISTOPADU 1986)
+- 19 -
+
+[záhlaví: kresba psího spřežení se saněmi]
+
+5. ROČNÍK PŘEJEZDU ČESKOMORAVSKÉ VRCHOVINY (7.-9. LISTOPADU 1986)
+
 Dačická parta poslala i letos vtipnou pozvánku na Přejezd, který je nejstar-
-ší pravidelnou sportovní akcí pořádanou Klubem ČEP, Okruh vedl prakticky po celé
-Vrehovině, od Vlašinky u Dačic přes Landštejn, Javořici, Telč, zpět na Ylažinku.
+ší pravidelnou sportovní akcí pořádanou Klubem ČHP. Okruh vedl prakticky po celé
+Vrchovině, od Vlažinky u Dačic přes Landštejn, Javořici, Telč, zpět na Vlažinku.
 Scházíme se během čtvrtečního večera a pátečního rána v dobré partě chovate-
-lů a přátel českého horského psa na chalupě, šláterů na Vležince u Dačic, Přijíždí
-také několik přátel z Klubu chovatelů paů severských plemen. Nálada je Perfektní,
-jí a povídání trvají přes půlnoc, až nezbývá než fi najít nějské místo na spa-
-Dio k > [> z5áné
+lů a přátel českého horského psa na chalupě Elsterů na Vlažince u Dačic. Přijíždí
+také několik přátel z Klubu chovatelů psů severských plemen. Nálada je perfektní,
+žerty a povídání trvají přes půlnoc, až nezbývá než si najít nějaké místo na spa-
+ní.
 V pátek ráno začíná kolem chalupy velké hemžení doprovázející přípravu vo-
-zíků, kolečkových pulek e bicyklů, balení věcí a zapřahání psů. Vše vrcholí tím,
+zíků, kolečkových pulek a bicyklů, balení věcí a zapřahání psů. Vše vrcholí tím,
 že brzy po deváté se celá skupina tří spřežení (každé 5-7 psů), dvou pulek, běž-
-ců a cyklistů vydává na cestu. První úsek vede hlavní navigátor Potr Eleter pšk-
+ců a cyklistů vydává na cestu. První úsek vede hlavní navigátor Petr Elster pěk-
 ným údolím Dyje. Psovodi prožívají několik mokrých chvilek díky psům chtivým
-koupání a cyklisté trochu cyklokrosu Přestože pesimisté a meteorologové předpo-
-vídali deštivo, brzy nusíme na aluníčku odložit část svršků. Pěkné počasí nás
-provází i další dva dny. Pokračujeme přes Slavonice, kde obědvámo v restauraci
-na náměstí, okolo Starého Města a denní „Štreka“ končí v dobré pohodě na chatě
-ve vesničce Fomezí pod hradem Lendětejnem. Večer se vydávéme doplnit ztracené
+koupání a cyklisté trochu cyklokrosu. Přestože pesimisté a meteorologové předpo-
+vídali deštivo, brzy musíme na sluníčku odložit část svršků. Pěkné počasí nás
+provází i další dva dny. Pokračujeme přes Slavonice, kde obědváme v restauraci
+na náměstí, okolo Starého Města a denní "štreka" končí v dobré pohodě na chatě
+ve vesničce Pomezí pod hradem Landštejnem. Večer se vydáváme doplnit ztracené
 tekutiny do landštejnské hospůdky.
-Y sobotu ráno vyrážíme opět po deváté polními cestami i po okreskách přes
-malebné vesnice Vrchoviny na srub Zdeňka Zamazals ve Svítlé-pod Javořicí. Z dál-
-ky Se naskýtá nezvyklý pohled na eelou skupinu. Do kopce stačí peům i běžci, ale
+V sobotu ráno vyrážíme opět po deváté polními cestami i po okreskách přes
+malebné vesnice Vrchoviny na srub Zdeňka Zamazala ve Světlé pod Javořicí. Z dál-
+ky se naskýtá nezvyklý pohled na celou skupinu. Do kopce stačí psům i běžci, ale
 s kopce vydrží jen ti nejvytrvalejší. Ostatní nasedají na vozíky, nosiče či rámy
-kol, aby se trochu zotavili, Cestou si dáváne občerstvení u pohostinné rodiny
-Pražáků ve vesnici Olšany a v bolíkovské hoapodě. Všichni se již těšíme na večer-
-ní promítání diapozitivů z Kavkazu, Fanských hor a Přejezdu Ádru 8e psy.
-V neděli ráno již trochu obtížněji rozhýbáváme unevoná těla a startujeme na
-poslední a nejdelší trasu Přejezdu: ko-
-= © lem Javořice, přes Telč zpět zvy
-R V Telči se odpojuje parta Kobrů. Mají
-„ším A před sebou dlouhou, způteční cestu, PE
-ed
-ý + rozloučením s nimi se společně fotíme na
-$ i k náměstí v Talči, My ostatní pokračujeme
-k v cestě. Síly nám ubývají, a tak jsno
-TELÉ rádi, když opět vidíme Vlažinku. Odpo-
-. ledne se rozjiždíme příjemně unaveni po
-třech dnech plných hezkých okamžiků a
-slunné nálady. Všichni, a především psí-
-STUDENÁ „7
-H ci, se drželi výborně, včetně letošních
-i k štěňat. I kombinovaná spřežení českých
-ť i horských peů a malamutů ge dobře osvěd=
-Ros f čile Je jen škoda, že polní a lesní
-"4 DAČICE © „ cesty s měkkým povrchem Se pomalu ztrá-
-dí ; s cejí z naší krajiny a jsou nahrazovány
-VLAZINKA ; asfaltovenými silničirami. To našim psí-
-dom“ kůy nesvědčí a mnohdy dochází k poranění
-K LANDŠTEJN i tlapek.
-k 4 Přejezd Českomoravské vrchoviny měl
-STARÉ jm een, 1 letos již páté narozeniny « Po nesnělých
-iso ei začátcžch, kdy jene jezdili mnohem krat-
-SLAVONICE 7 ší, dvoudenní trašy, 96 letošní ročník
+kol, aby se trochu zotavili. Cestou si dáváme občerstvení u pohostinné rodiny
+Pražáků ve vesnici Olšany a v bolíkovské hospodě. Všichni se již těšíme na večer-
+ní promítání diapozitivů z Kavkazu, Fanských hor a Přejezdu Ádru se psy.
+V neděli ráno již trochu obtížněji rozhýbáváme unavená těla a startujeme na
+poslední a nejdelší trasu Přejezdu: kolem Javořice, přes Telč zpět na Vlažinku.
+V Telči se odpojuje parta Kobrů. Mají před sebou dlouhou zpáteční cestu. Před
+rozloučením s nimi se společně fotíme na náměstí v Telči. My ostatní pokračujeme
+v cestě. Síly nám ubývají, a tak jsme rádi, když opět vidíme Vlažinku. Odpoledne
+se rozjíždíme příjemně unaveni po třech dnech plných hezkých okamžiků a
+sluneční nálady. Všichni, a především psi, se drželi výborně, včetně letošních
+štěňat. I kombinovaná spřežení českých horských psů a malamutů se dobře osvěd-
+čila. Je jen škoda, že polní a lesní cesty s měkkým povrchem se pomalu ztráce-
+jí z naší krajiny a jsou nahrazovány asfaltovanými silničkami. To našim psí-
+kům nesvědčí a mnohdy dochází k poranění tlapek.
+Přejezd Českomoravské vrchoviny měl letos již páté narozeniny. Po nesmělých
+začátcích, kdy jsme jezdili mnohem krat-ší, dvoudenní trasy, se letošní ročník
+
+[mapka trasy s vyznačenými zastávkami: Světlá, Studená, Telč, Dačice, Vlažinka, Landštejn, Staré Město, Slavonice]

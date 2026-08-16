@@ -1,0 +1,21 @@
+# ZDROJ: Spřežení č. 47, rok 2002, strana nezjištěna
+# SOUBOR: 94-2002_sprezeni_c_47.pdf
+# PDF_STRANA: 21
+# TISTENA_STRANA: nezjištěna
+# OCR: tesseract-5.3.4 / ces / conf 86.9
+---
+Klubová výstava psů 2002
+Českého horského psa 27.-28.4.2002
+datum narození | zapsán barva pes/fena třída
+1 jméno psa ( name des hundes) (Wurftaag) (Stammbuches Nr.) (TarDe) (Růde/Hůndin) [KIaSSeE)
+„ otec (Valer)
+chovatel (Zůchler):
+datum narození | zapsán barva pes/fena © třída
+2 jméno psa ( name des hundes) (Wurftag) (Stammbuches Nr.) (TarDE) (Růde/Hůndin) (KIASSE)
+chovatel (Zůchler):
+datum narození | zapsán barva pes/fena | třída
+3 jméno psa ( name des hundes) (Wurftag) (Stammbuches Nr.) (farbe) (Růde/Hůndin) (klasse)
+otec (Valer)
+chovatel (Zůchler):
+Třída (Klasse) | 1 dorost (6-9měs.) 3 otevřená (od 15měs.) | 5vítězů 7 veteránů (od 9 let)
+2 mladých (9-18měs.) 4 pracovní 6 dospívající (15-24měs)

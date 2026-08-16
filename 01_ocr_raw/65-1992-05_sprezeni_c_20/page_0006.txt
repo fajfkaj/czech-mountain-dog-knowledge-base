@@ -1,0 +1,40 @@
+# ZDROJ: Spřežení č. 20, rok 1992, strana nezjištěna
+# SOUBOR: 65-1992-05_sprezeni_c_20.pdf
+# PDF_STRANA: 6
+# TISTENA_STRANA: nezjištěna
+# OCR: tesseract-5.3.4 / ces / conf 79.2
+---
+FARANDA 29.03.92 F7
+Dana Kupková, 391 76 Slapy u Tábora 45
+Arekus Sněžník Dája Faranda
+reg. 251/88, žb reg. 114/86, žb
+625 IGOR žb 631. IZABELA žb
+626 IKAR žb
+627. IN žb
+628. ING žb
+629 IR žb
+630  IZÁK žb
+NA LOUPEŽNÍKU 13.04.92 F7
+Miroslav Redlich, 351 22 Krásná 255
+Arekus Sněžník Etna Faranda
+reg. 251/88, žb reg. 209/87, žb
+632 CAR žb 635 CÍNA žb
+633. CARAN žb 636. CINDA žb
+634 CÉZAR žb 637  CITA žb
+Z BORO 18.04.92 F8
+Vít Procházka, U Ráží 866, 289 12 Sadská
+Adirondak Stráž nad Nežárkou Elza Už jedou
+reg. 167/86, čb reg. 419/89, žb
+638 ARDEN čb 643  AGÁTA čb
+639. ARKAN čb 644 | ANDULKA čb
+640  ARIEL čb 645  APOLENKA čb
+641.. ARON čb 646 | ARANKA čb
+642  ATAR čb 647. ARIKA čb
+BUBLAVSKÉ VODOPÁDY 28.04.1992 F7
+Aranka Červená, 357 22 Bublava 502
+Arekus Sněžník Alfa Zlatá trubka
+reg. 251/88, žb reg. 315/88, čb -
+648  CLIFF žb 649. CITA čb
+650  CLEA čb
+S SS P S SSS SSS
+FS V P V VO V VSÍ VV VVS VP VÍ P V

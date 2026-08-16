@@ -1,0 +1,34 @@
+# ZDROJ: Spřežení č. zvláštní (1993-04), rok 1993, strana nezjištěna
+# SOUBOR: 71-1993-04_sprezeni_special.pdf
+# PDF_STRANA: 4
+# TISTENA_STRANA: nezjištěna
+# OCR: tesseract-5.3.4 / ces / conf 91.1
+---
+Doporučená literatura:
+Barlik D. a kol.: Chováme psy, Bratislava, Príroda, 1984
+Císařovský Michal: Náš pes, Praha, Státní zemědělské nakladatelství,
+1989
+Černošek A. a kol.: Léčení drobných zvířat, Praha SZN, 1979
+Edney Andrew - Mugford Roger: Váš pes a štěňátko, Bratislava, Slov-
+art, 1992
+Hartl K. - Němec K. - Skuhrovský J.: Výcvik psa, Praha, Naše vojsko,
+1969
+Krejczová Yvonne: © Rozumím si se svým psem?, Praha, Granit s r.o.,
+1992
+Koller J.: Kynologická přiručka, Praha, SZN, 1979
+Malík V. a kol.: Veterinárne minimum pre drobnochovatela, Bratisla-
+va, Príroda, 1972
+Mikula Alois: Náš pes a jeho svět, Praha, SZN, 1978
+Mikulica Vladimír: Poznej svého psa, Praha, SZN, 1965
+Najmanová D. - Humpál Z.: Atlas plemen psů, Praha, oZN, 1981
+Naxera Václav: Pes a domácí lékař, Praha, Canis, 1991
+Procházka Zdeněk: Chov psů. Praha, SZN, 1987
+Sova Zdeněk: Nemoci psů, Praha, SZN, 1987
+Švec J. -— Hrabák P. -— Hrabáková O0.: Malí lovečtí psi, Praha, SZN,
+1991
+Taylor David: Váš pes, Martin, Prúdy, 1992
+Taylor David: Velká kniha o psech, Bratislava, Gemini, 1991
+Trumler Eberhard: Rozumíme psům?, Praha, Panorama, 1991
+Vine Louis L.: Váš neurotický pes, Praha, Anomal, 1992
+Výživa psa a kočky (The Waltham Book), Praha, Canis, 1991
+Pes přítel člověka, Praha, Magnet-Press, časopis - měsíčník

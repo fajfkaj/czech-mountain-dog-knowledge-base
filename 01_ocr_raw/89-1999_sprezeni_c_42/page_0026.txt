@@ -1,0 +1,21 @@
+# ZDROJ: Spřežení č. 42, rok 1999, strana nezjištěna
+# SOUBOR: 89-1999_sprezeni_c_42.pdf
+# PDF_STRANA: 26
+# TISTENA_STRANA: nezjištěna
+# OCR: tesseract-5.3.4 / ces / conf 80.8
+---
+Závody psích spřežení
+Maxičky, typ: Canicross
+dne: 11. - 12. 9. 1999
+CELKOVÁ VÝSLEDKOVÁ LISTINA
+Kat.: CC Délka trati: 6 500/1 700m
+Pořadí Jméno závodníka Psi — 1.kolo 2.kolo Výsl. čas Odstup — Rych.km/h
+1. Jiří Suchý ČHP 1 0:22:23 0:05:11 0:27:34 32 17,8
+„Soňa Klikarová ČHP 1 0:22:24 0:05:21. 0:27:45 0:00:11 17,7
+3. © Roman Baláž SH 1 0:22:41. 0:05:50. 0:28:31. 0:00:57 17,3
+4. Pert Toncar SH 1 0:23:23 0:05:10. 0:28:33. 0:00:59 17,2
+5. © Michal Merhaut SH 1 0:23:47 0:05:14. 0:29:01. 0:01:27 17,0
+9. Marek Hendrych ČHP 1 0:26:56 0:06:18 0:33:14. 0:05:40 14,8
+12.. Michael Fiedler —© ČHP 1 0:29:03 0:06:32 0:35:35 0:03:01 13,8
+14. Kateřina Kaňská ČHP 1 0:30:32 0:06:58 0:37:30. 0:09:56 13,1
+18. Lenka Fiedlerová ČHP 1 0:38:03 0:07:20 0:45:23 0:17:49 10,8

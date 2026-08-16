@@ -1,0 +1,7 @@
+# ZDROJ: Spřežení č. 36, rok 1997, strana nezjištěna
+# SOUBOR: 83-1997-09_sprezeni_c_36.pdf
+# PDF_STRANA: 2
+# TISTENA_STRANA: nezjištěna
+# OCR: tesseract-5.3.4 / ces / conf 0.0
+---
+"

@@ -1,0 +1,52 @@
+# ZDROJ: Spřežení č. 12, rok 1989, strana nezjištěna
+# SOUBOR: 56-1989-11_sprezeni_c_12.pdf
+# PDF_STRANA: 18
+# TISTENA_STRANA: nezjištěna
+# OCR: tesseract-5.3.4 / ces / conf 88.8
+---
++17-
+SOUHRN POZNATKŮ Z PRŮZKUMU CHYBĚNÍ ZUBŮ U PSA
+Úvodem: Problémem chybění zubů u © jsem se zabýval od r.1950 a do této doby
+(1985) jsem publikoval v ČSSR i v zahraničí 22 prací.
+Pes má mít v chrupu celkem 42 zuby (viz dopis prof.Seiferleho ze Švýcar u
+příležitosti mezinárodníhi kongresu FCI v Praze 1965) a to: v horní čelisti 6 ře-
+záků, 2 špičáky, 8 premolárů a 4 moláry = celkem 20 zubů; v dolní čelisti 6 řezá-
+ků, 2 špičáky, 8 premolárů a 6 molárů = celkem 22 zuby, oáa tečy 20 + 22 = 42
+zuby. To je úplný chrup psa. K označení chrupu u psa se obyčejně používá formula,
+která uvádí vždy polovinu zubů jak v horní, tak v dolní čelísti a vypadá takto:
+3 i 4 € x2=2
+3 14 3 ox2=22 Celkem 42
+Dle provedených prohlídek u psů jednotlivých plemen bylo konstatováno, že
+nejčastěji chybí premoláry, méně často moláry, zřídka řezáky, ale bylo i konsta=
+továno chybění špičáků.
+Dle těchto statistik bylo zjištěno, že ne vždy stejné zuby chybí u všech
+plemen. Viz tabulku (všechny chybějící zuby = 100%):
+plemeno I P P2 PB MBM M počet zvířat
+welshterrier - n 4 4 1 - - B 313
+foxterrier 6 9 6 12 6 - 3 58 134
+jezevčík - A - 4 - - 16 59 563
+německý ovčák - 53 35 2 10 - - - 3596 x)
+Horák.lab +Des - 6 22 4 6 - - - 5e
+x) v dřívějších pracích byl uváděn chybný počet klasifikace zubů, nebož v NDR v
+té době bylo číslování opačné.
+Z tabulky je zřejmé, že u jednotlivých plemen chybí některé zuby ve velkém pro-
+centu a jiné třeba nechybí vůbec. Chybění různých zubů je plemeni vlastní, kaž-
+dému plemeni chybí jiné např. u foxterriera chybí nejčastěji M3, u německých
+krátkosrstých ohařů chybí nejčastěji Pl atd.
+Statistika také ukázala, že nejčastěji chybí zuby v dolní čelisti a daleko méně
+v čelisti horní:
+plemeno Pl P2 Pi P4 Mj M3 P4 P3 P2 P
+vpravo vlevo
+welshterrier | horní 1 3 2 2 - - - 4 4 2 = 18%
+dolní 2 12 2 2 17 17 y4 3 15 5 os B2ž
+55 ks | vpravo 43% vlevo 57% = 100%
+Horák. lab +pes horní - 1 4 - - - - - 2 - « 7%
+dolní 2 9 - M - - M - 10 4 = 93k
+44 ks | vpravo 50% vlevo 50% = 100%
+Dosavadní výsledky ukazují, že chybění toho kterého zubu v horní čelisti je
+vázáno na pohlaví, tzn. že chybí=li zub u pea, chybí tentýž zub u jeho synů nebo
+opačně chybí-li feně, pak jsou postiženy jen feny.
+U zubů v dolní čelisti tato závislost není zatím plně prokázána,
+Potud statistika. Aby bylo možné zdůvodnit předávání tohoto nedostatku na.
+potomstvo, byl proveden průzkum, jací (v kvalitě zubů - počtu) rodiče mohou dát
+rovněž postižené potomky. Výsledky ukazuje další tabulka:

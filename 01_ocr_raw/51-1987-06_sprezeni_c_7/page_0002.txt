@@ -2,12 +2,8 @@
 # SOUBOR: 51-1987-06_sprezeni_c_7.pdf
 # PDF_STRANA: 2
 # TISTENA_STRANA: nezjištěna
-# OCR: tesseract-5.3.4 / ces / conf 68.3
+# OCR: vision (AI dočtení, tesseract conf pod prahem); celá strana dvě fotografie ze závodu se saňovými spřežkami, bez souvislého textu
 ---
-ZADOV - 1.2.87 - kategorie B = Pechsk Vladimír oto z:
-“ 1
-hnis oni
-a
-mu
-" i
-ZADOV - 1.2.87 - kategorie C -= Maršálek Jan foto J.Ma
+ZADOV - 1.2.87 - kategorie B - Pechek Vladimír                    foto J.Masojídek
+
+ZADOV - 1.2.87 - kategorie C - Maršálek Jan                       foto J.Masojídek

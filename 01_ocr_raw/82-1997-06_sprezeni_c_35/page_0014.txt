@@ -1,0 +1,55 @@
+# ZDROJ: Spřežení č. 35, rok 1997, strana nezjištěna
+# SOUBOR: 82-1997-06_sprezeni_c_35.pdf
+# PDF_STRANA: 14
+# TISTENA_STRANA: nezjištěna
+# OCR: tesseract-5.3.4 / ces / conf 90.0
+---
+ZÁVODY
+Sadská
+12.- 13.10.1996
+Délka tratě 5430m | psi
+Výsledky
+1. kolo
+10:58
+12:16
+13:47
+13:15
+14:02
+14:59
+14:17
+16:23
+20:34
+2. kolo
+12:35
+11:54
+13:02
+12:57
+12:48
+13:53
+13:30
+16:21
+19:48
+PRO ONO
+Kategorie C
+1 Mazánek Pavel AH
+2 Novotný Jiří AH
+3 Fišerová D. AH
+Kategorie C1
+1 Nešněrová SH
+2 Zimová V. SH
+3 Melničák SH
+Kategorie C2
+I Kmochová ČHP
+2 Trdla ČHP
+3 Janko AM
+5 Kaňský CHP
+6 Vodák ČHP
+Kategorie B
+1 Stejskal Milan AH
+2 Sedláček SH
+3 Kovaříková SH
+—— Kategorie SKJ
+1 Bulva Jan kríž.
+2 Houžvička Ivan SH
+3 Požárský Vlad. SH
+PO...

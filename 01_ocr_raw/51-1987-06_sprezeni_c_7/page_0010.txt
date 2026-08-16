@@ -1,53 +1,64 @@
-# ZDROJ: Spřežení č. 7, rok 1987, strana nezjištěna
+# ZDROJ: Spřežení č. 7, rok 1987, s. 8
 # SOUBOR: 51-1987-06_sprezeni_c_7.pdf
 # PDF_STRANA: 10
-# TISTENA_STRANA: nezjištěna
-# OCR: tesseract-5.3.4 / ces / conf 80.3
+# TISTENA_STRANA: 8
+# OCR: vision (AI dočtení, tesseract conf pod prahem)
 ---
-1o
-2
-Je
--8 =
+- 8 -
+
 Od počátku šlechtění českých horských psů bylo k chovu do konce roku 1986
-použito 2107 a 32 9
-Štěňata, zapsaná do ČsHPK: 1977- — 6 štěňat
-78 =- 2
-79 = 3
-BO = 0
-81. .- W
-B2 = 9
-B3 -« -28
-Baja | "36
-85 = "16
-Do konce roku 1986 bylo do plemenné knihy -zapsáno celkem 192 ČEP, až
-Daná Kupková
-chovu
-ZE SORŮZKY CHOVATELSKÉ KOMISE DWB 16.5.87
-j
-1
-Přítomni: z chovatelské komise: Dana Kupková = por.ch, Marie Klírová, Rad-
-ko Loučka a členové výboru: Oldřich Kupka, Jen Klír,
-Projednány prohřešky některých chovatelů a majitelů krycích psů,
-Jiří Emichel, majitel krycího psa Akses od Jankova kopce. Nezažádal o přere=
+použito 21 ♂ a 32 ♀.
+Štěňata, zapsaná do ČsHPK:      1977  -   6 štěňat
+                                  78  -   2
+                                  79  -   3
+                                  80  -   0
+                                  81  -  13
+                                  82  -   9
+                                  83  -  28
+                                  84  -  36
+                                  85  -  14
+                                  86  -  80
+
+Do konce roku 1986 bylo do plemenné knihy zapsáno celkem 193 ČHP.
+
+                                                    Dana Kupková
+                                                    poradce chovu
+
+
+ZE SCHŮZKY CHOVATELSKÉ KOMISE DNE 16.5.87
+
+Přítomni: z chovatelské komise: Dana Kupková - por.ch, Marie Klírová, Rad-
+ko Loučka a členové výboru: Oldřich Kupka, Jan Klír.
+
+1. Projednány prohřešky některých chovatelů a majitelů krycích psů.
+Jiří Emichel, majitel krycího psa Aksas od Jankova kopce. Nezažádal o pere-
 gistraci psa, i když tato povinnost majitele uchovněného psa byla mnohokrát
-zdůraznována jak na výroční schůzí, tak ve Spřežení, Více než o půl roku se
-tím opozdilo vystavení průkazů původu potomkům Aksase«
-Petr Kobr neoznámil plemenné knize změnu adresy = jekožto majitel chovné
-stanice. Několík měsíců ležely vystavené PP na plemenné knize. —
-Dále byly projednány chovatelské přestupky chovatele Petra Blstra.
-Příprava bonitace 13.6.57 v Uhříněvsi. by E 3 k
-Bonitace je organizačně zajištěna, Pozvánky byly rozoslány. Připomínám, že
-bonitace se mohou zúčastnit psi a feny až uh po néní
-Pes Aikon od Hrněířských luk (Artison Severní vítr x Andy od Jankova kopce)
-bude uznán chovným až po krevní zkoušce. (0 tomto vrhu chovatele Petra Kob=
-ra se jednalo už na lonské výr.čl,schůzi v Kuří. Ve vrhu se vyskytli aty=
-pičtí jedinci. Není jisté, uda došlo k překrytí jiným pasem nebo vyštěpení
-nějekých původních předků.) :
-Selekce štěňat, ,
-Je nutno utratit štěnata:
-a) celá bílá
-b) hlava zbarvene, ale na těle žádná skvrna
-c) plášřově zbarvená baz souvislého bílého límce
-d) asymetricky zbarvená hlava = obě oči nejsou ve Bkvrně
-e) některá končetina zbarvená celá
-0, ds ©, = Wi, obr.
+zdůrazňována jak na výroční schůzi, tak ve Spřežení. Více než o půl roku se
+tím opozdilo vystavení průkazů původu potomkům Aksase.
+Petr Kobr neoznámil plemenné knize změnu adresy - jakožto majitel chovné
+stanice. Několik měsíců ležely vystavené PP na plemenné knize.
+Dále byly projednány chovatelské přestupky chovatele Petra Elstra.
+
+2. Příprava bonitace 13.6.87 v Uhříněvsi.
+Bonitace je organizačně zajištěna. Pozvánky byly rozeslány. Připomínám, že
+bonitace se mohou zúčastnit psi a feny až
+
+    od 15ti měsíců stáří !!
+
+                                        - počítáno ke dni bonitace.
+
+Pes Aiken od Hrnčířských luk (Artison Severní vítr x Andy od Jankova kopce)
+bude uznán chovným až po krevní zkoušce. (O tomto vrhu chovatele Petra Kob-
+ra se jednalo už na loňské výr.čl.schůzi v Kuří. Ve vrhu se vyskytli aty-
+pičtí jedinci. Není jisté, zda došlo k překrytí jiným psem nebo vyštěpení
+nějakých původních předků.)
+
+3. Selekce štěňat.
+Je nutno utratit štěňata:
+        a) celá bílé
+        b) hlava zbarvena, ale na těle žádná skvrna
+        c) pláštově zbarvená bez souvislého bílého límce
+        d) asymetricky zbarvená hlava - obě oči nejsou ve skvrně
+        e) některá končetina zbarvená celá
+
+                                                        c, d, e, - viz. obr.

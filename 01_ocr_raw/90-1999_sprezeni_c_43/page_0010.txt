@@ -1,0 +1,65 @@
+# ZDROJ: Spřežení č. 43, rok 1999, strana nezjištěna
+# SOUBOR: 90-1999_sprezeni_c_43.pdf
+# PDF_STRANA: 10
+# TISTENA_STRANA: nezjištěna
+# OCR: tesseract-5.3.4 / ces / conf 80.5
+---
+Statistika - chovné stanice
+vrh. Chovná stanice nar, © mlu — ž úspěšnost vrh Chovná stanice nar. © mlu | ž úspěšnost
+13 Faranda 107 3.14 97% 2 zMilety n 1. .10..9%
+10 Už jedou 86 4 82 95% 2 ZPixáku n 3 8 73%
+8 Třeboň Kopeček 62 4 58. 4% 2 Jasná záře 19 2 8. 80%
+6 Ovědada 43 8 35.81% 2 Od Mochomůrky 10 4.6.60%
+5 Labutí řeka 39 5 34 87% 1 Havibrod 10 3 7.70%
+6 Růžová louka 38 3 35 92% 1 Patnáctý poledník 10 2 8.80%
+4 Sněhová závěj 38 4 34.89% 1 Podcesný mlýn 10 0.10 100%
+5 Z Vlažinky 36 4.32 89% 1 Srdce Vysočiny 10 2 B B%
+5 Od Jankova kopce A4 9.25. 4% 2 Von Den Barti-Buam 9 0.. 9 100%
+5 Ribalbo 33 0.33 100% 1 Jizerskohorská vánice 9 0 9.100%
+3 Zděřina 32 9.2 7% 1 Mount McKinkey 9 1.8 89%
+6 od Vandy z hájů 31 6 2 81% 1 Od čertovy zdi 9 0.9 100%
+4 Modrý potok 30.. 14. 16.53% 1 Od kamenité říčky 9 0.9 100%
+5 odříka 28 7.2 75% 1 Hradecký lev B 1.7 88%
+4 Netolická obora 28 8M 7% 1 Kačabka 8 1 7 88%
+4 Na loupežníku 26 1.25 96% 1 Orlický medvěd 8 1.7 88%
+5 Poledník 25 7 18 7% 1 Pátý dráp B 0 8.100%
+5 Severní vítr 25 5.20.. 80% 1 Portmanka 8 1.7 88%
+4 Od suchého buku 25 13 12 48% 1 U Roubířských skal B 1 7.88%
+5 Bublavské vodopády — 24 2 2 9% 1 Zemanex 8 0.. 8 100%
+4 Jahodovka 24 5.19 79% 1 Zlatá trubka B 0 8 100%
+4 Zpodkrkonošské sam 24 1.23. %6% 1 Zlutá trojka B 2 6 7%
+3 Od nevěř. Tomáše 23 1.22 9%% 2 Bačova koliba 7 0.7 100%
+3 Vera Libiš 23 1.2%% 1 Bílá pláň 7 2 5 7%
+2 Čejiva 23.8. 15. 65% 1 Do neznáma 7 0 7 100%
+3 Od lenocha 22 5.17 77% 1 Fifanka 7 0.7.1000%
+2 Psí půle 22 0D. 22 10% 1 Krakonošova stezka 7 1.6 86%
+2 Zbloudilec 22 7.15 68% 1 Od Prosetické stráně 7 0.7 100%
+3 Amundsen 21 3 18. 86% 1 Severní údolí 7 3 4 57%
+3 Na Salabce 21 5.16 76% 1 Studená Javořice 7 0 7.100%
+A Přeštická luka 21 0.2 100% 1 Z dubových pasek 7 1.6 86%
+A Údolí kamarádů 21.11. 10 48% 1 Z hradního ochozu 7 1 6 | 86%
+4 Na mělích 19 1.18. 95% 1 Artyčok 6 0.. 6 100%
+2 Udolí Kačáku 18 2 16 89% 1 Humpolecký dvůr 6 0. 6 100%
+2 Českohorská krása 17.3 M4 82% 1 od Zejhralu 6 0 6 100%
+3 U poslední boudy 16.3 13 8% 1 od Želechov.studánky | 6 0 6 100%
+2 Udolí duh. potoka 16 3.13 81% 1 Přítel z hor 6 1.5 83%
+2 zLáskova 16 9 7 44% 1 Severní nebe 6 1.5 83%
+3 Von Hinterschlag 15 3.12. 80% 1 Z panského ostrova 6 0 6 10%
+2 Ledenická cesta 15 D15 100% 1 z Údolí běsů 6 2.4 67%
+2 Řasnický potok 15. 1.1493% 1 Blanský les 5 2 3.6%
+2 Sněžník 15 5. 10.67% 1 Od bublajícího potůč 5 4.1.22%
+2 zÁnd 15 5.10 67% 1 Od Fojt. plání 5 2 3.60%
+2 Zvodáckého hnízda | 15 4 1.73% 1 Ondrášek Janovice 5 0 5 100%
+3 Pradědova louka 14 1.13 93% 1 Peřeje 5 1.. 4 80%
+2 Ďábelská 14.1.13. 93% 1 Staráláska 5 0 5 100%
+2 Odhelony 14 B 6 43% 1 Věčný student 5 0.5 100%
+2 Odhrnčířských luk 14. 113. 93% | 1 zŘepíku 5 1.4 8%
+2 Třináctá míle 13 0.13 100% 1 Betty od zelené kašny | 4 2.2 5%
+2 Z Krkonoš 13 83.10.77% 1 na Skácelce 4 0.. 4.10%
+3 Zimní sen 12 0.12 100% 1 Jindřichovská pláň 3 2 1.33%
+2 Božidar. rašeliniště 12 0 12 100% 1 Lažanské údolí 3 0 3.100%
+2 Jihozápadní 12 8 4 3% 1 Z deštivého kopce 3 1.2 67%
+2 Odhajnýho 12 4 8 67% 1 Větrný proud 2 0.2 100%
+2 Velká závěj 12.0 12 100% 1 Šumavský ďábel 1 0. 1 100%
+2 Ze Lhoty 12 1.1. 2% 3 Zúdolí Vošmendy j5i 0.11. 10%
+1 Jizerské údolí 12 0.12 100% 2 Lužický hvozd n 0. 11. 100%

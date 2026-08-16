@@ -1,0 +1,53 @@
+# ZDROJ: Spřežení č. 28, rok 1995, strana nezjištěna
+# SOUBOR: 75-1995-03_sprezeni_c_28.pdf
+# PDF_STRANA: 10
+# TISTENA_STRANA: nezjištěna
+# OCR: tesseract-5.3.4 / ces / conf 89.8
+---
+BORAS Pradědova louka Společný předek:
+ARAGAC Kačabka
+=
+W
+ě
+| I
+BURAN od Nevěřícího Tomáše
+| CIMBÁL od Nevěřícího Tomáše
+B,C od Nevěřícího Tomáše, kromě Cácory
+A Vera Libiš
+BENNY z Milety
+A,B,C Amundsen
+BALT, BLEK Českohorská krása - další nepříbuzný pes
+B Českohorská krása
+E apalaný zví
+ASTIX Zemanex
+I Už jedou ;
+B Psí půle Přiřadit nutně nepříbuzného psa.
+CAN z Podkrkonošské samoty Společný předek:
+BRIX Ovědada
+=
+u
+D na Mělích
+C z Podkrkonošské samoty
+A u Roubířských skal
+ALAN Zemanex
+D od Fíka
+A Ribalbo
+D z Podkrkonošské samoty
+BROK, BÉĎA Božidarské rašeliniště
+m
+a
+B Božidarské rašeliniště
+ARIX Blanský les - jediný pes bez krve bernardýna, při-
+řazen pro kompenzaci přílišné ro-
+bustnosti jinak vynikajícího Broka
+i 7. | EDEN Už jedou Společný předek:
+DAR Faranda
+A Havlbrod (APRIL)
+B Zimní sen (BERING), kromě feny Bornea
+D,E,F,G,H Už jedou (FRAJER), kromě Holčiny
+C od Fika
+A od Vandy z Hájů
+A z Vodáckého hnízda
+COP Už jedou Společný předek:
+ARTISON Severní vítr
+B,C Už jedou, kromě Bleska, Borce

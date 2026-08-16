@@ -1,0 +1,9 @@
+# ZDROJ: Spřežení č. 29, rok 1995, strana nezjištěna
+# SOUBOR: 76-1995-05_sprezeni_c_29.pdf
+# PDF_STRANA: 26
+# TISTENA_STRANA: nezjištěna
+# OCR: tesseract-5.3.4 / ces / conf 95.7
+---
+PŘÍTEL ČLOVĚKA
+ČESKÝ HORSKÝ PES
+PROJEDNÁVÁN FCI

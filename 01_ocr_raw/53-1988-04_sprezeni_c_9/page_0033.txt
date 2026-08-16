@@ -1,0 +1,9 @@
+# ZDROJ: Spřežení č. 9, rok 1988, strana nezjištěna
+# SOUBOR: 53-1988-04_sprezeni_c_9.pdf
+# PDF_STRANA: 33
+# TISTENA_STRANA: nezjištěna
+# OCR: tesseract-5.3.4 / ces / conf 82.9
+---
+KOKA -
+Kategorie B - zleva: Tůma (AM); Sedláček (SH); Aepnar (ČHP); Buzetszky, LY
+Dole vítěz kategorie C - Krotkovský Peter (ČV)

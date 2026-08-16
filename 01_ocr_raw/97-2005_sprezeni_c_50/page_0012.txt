@@ -1,0 +1,42 @@
+# ZDROJ: Spřežení č. 50, rok 2005, strana nezjištěna
+# SOUBOR: 97-2005_sprezeni_c_50.pdf
+# PDF_STRANA: 12
+# TISTENA_STRANA: nezjištěna
+# OCR: tesseract-5.3.4 / ces / conf 87.2
+---
+— DEMO
+SPREZENI
+2 vydání za rok -
+I. - uzávěrka 15.2., vydání k 28.2.,
+distribuce do 31.3.
+II. - uzávěrka 30.9., vydání k 15.10.,
+distribuce do 31.10.
+NONE S
+pracuje, příp. zajistí
+<
+8
+<
+|
+Pravidelné příspěvky — zprávy za uplynulý rok (sezónu)
+<
+R
+O
+|
+Zpráva o činnosti klubu za uplynulý rok
+Chovatelská zpráva (rozbor chovné základny, odchovy, | [poradce chovu
+bonitace, apod.)
+Zpráva o hospodaření (stav financí, hlavní platby), ekonom
+rozpočet
+Zpráva kontrolní a revizní komise předseda KRK
+Sportovní zpráva (účast ČHP, výsledky, atd.) sportovní referent
+Pozvánky na výstavy (klubová, speciální) včetně propozic |jednatel, příp. pořadatel
+Příspěvky podle termínu konání akce
+ENEJE
+j
+3
+Pozvánka na členskou schůzi
+ápis z výborové schůze předseda
+Zápis z členské schůze jednatel
+Výsledky výstav pořadatel, příp. jednatel
+l
+o M zen

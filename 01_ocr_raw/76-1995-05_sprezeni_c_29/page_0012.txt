@@ -1,0 +1,43 @@
+# ZDROJ: Spřežení č. 29, rok 1995, strana nezjištěna
+# SOUBOR: 76-1995-05_sprezeni_c_29.pdf
+# PDF_STRANA: 12
+# TISTENA_STRANA: nezjištěna
+# OCR: tesseract-5.3.4 / ces / conf 85.9
+---
+-= 10 -—
+DÍLČÍ PLEMENNÁ KNIHA ČESKÉHO HORSKÉHO PSA
+narozeno
+| -úhyn
+VON DEN BARTL-BUAM 12.03.95 4/0 F8
+Rudolf Klein, Hinterschlag 5, A-4162 Julbach, Rakousko
+REG.710/93 Can z Podkrkonošské samoty, žb, F7
+REG.497,/90 Hvězda Faranda, žb, F7
+N Reg./CHP
+p 862 NICKO žb
+f 863. NINA žb
+f 864 NORA žb
+f 865 NESSI žb
+N Reg./CHP
+p 866  ABÉ žb 62-0000000 * 06.11.93
+REG.81/84 Cavyk Faranda
+> Bára (huski x Reg.188/86 Alka na Mělích)
+majitel: Miroslav Motejlek,
+Bítouchov 89, 513 01 Semily
+N Reg./CHP
+p 867  ARAN žb 64-0070020 * 06.11.93
+REG.81/84 Cavyk Faranda
+== Bára (huski x Reg.188/86 Alka na Mělích)
+majitel: Miroslav Motejlek,
+Bítouchov 89, 513 01 Semily
+N Reg. /CHP
+f 868 ORKA žb 63-0000010 * 06.11.93
+REG.81/84 Cavyk Faranda
+-—— Bára (huski x Reg.188/86 Alka na Mělích)
+majitel: Hedvika Svobodová,
+Lutherova 496, 463 34 Hrádek nad Nisou
+N Reg./CHP
+he 869 TERA žb 63-1300020 * 06.11.93
+REG.81/84 Cavyk Faranda
+——— Bára (huski x Reg.188/86 Alka na Mělích)
+majitel: Hedvika Svobodová,
+Lutherova 496, 463 34 Hrádek nad Nisou

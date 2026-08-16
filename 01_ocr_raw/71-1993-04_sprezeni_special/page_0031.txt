@@ -1,0 +1,67 @@
+# ZDROJ: Spřežení č. zvláštní (1993-04), rok 1993, strana nezjištěna
+# SOUBOR: 71-1993-04_sprezeni_special.pdf
+# PDF_STRANA: 31
+# TISTENA_STRANA: nezjištěna
+# OCR: tesseract-5.3.4 / ces / conf 91.4
+---
+-2
+přibývá nepigmentované plochy po obou stranách břicha směrem vzhůru ke středu
+hřbetu. Tím prakticky dochází ke strakatosti. Jsou v zásadě tři místa na psu,
+kče se pigmentované plochy drží nejdéle: je to hlava, střed hřbetu a pánev s ko=
+řenem ocasu. To je zákonitý zjev u všech různě zbarvených psů. Později dochází
+i k úbytku pigmentu ne těchto místech a tak vlastně opačně jsou pigmentované
+skvrny na bílém podkladě, Později mizí skvrna na hřbetě, takže bývá pigmentová-
+na jen hlava a kořen ocasu. Tam mizí při další evoluci a zbývá jen pígmentovaná
+hlava nebo konečně pigment je jen v oku a na nosu 8 pyscích. Ba stává se, že i
+nos ztrácí pigment, stane se skyrnitým a může být i celý másově zbarvený - bez
+pigmentu. Ztrátu pigmentu v očích nelze spojovat jen se strakatostí, má to ještě
+jiné důvody.
+Bílé nepigmentované plochy kdekoliv mohou být buď čistě bílé, nebo jsou
+tečkované (ticking). Tečky mohou být malé a řídce rozložené nebo i hustě, dále
+tečky mohou být velké a stejným způsobem rozložené. Někdy jsou tečky tak husté,
+že tvoří tzv. melírování, které může být zaměnováno za tzv. zbarvení roan, chlup
+bílý a pigmentovaný. Tečky jsou toho zbarvení, jaké psu přísluší dle jeho genetic-
+kého založení pro zbarvení srsti. Bud jsou jedné barvy nebo mohou být v oblasti
+černého pigmentu (u black and tan zvířat) černé a v oblasti žlutých odznaků žlu-
+té. Toto tečkování vytváří přítomnost dominantního genu T, přičemž jeho recesiv-
+ní alela ponechává bílé plocby čisté.
+Tím byla popsána celá škála možností výskytu nepigmentovaných ploch na těle
+psa, od výskytu malých bílých znaků na prsou až po takřka bílé jedince, kde pig-
+ment je jen v oku 8 ná nosu.
+U některých jinak cele pigmentovaných plemen vlastnících dominantní gen S,
+jsou malé bílé znaky přípustné, u jiných plemen jsou nositelé těchto znaků z cho-
+vu vyřazování. Jelikož výskyt bílých znaků malého rozsahu je do určité míry ne-
+kontrolovatelný (je možnost jeho výskytu všude), je vylučování z chovu nositelů
+těchto malých znaků často ztrátou jiných dobrých znaků nebo vlastností jedince
+pro chov.
+Jeou však ustálená plemena se zbarvením, kde se takřka pravidelně vyskytuje
+tzv. irské zbarvení - bílý límec, bílé spodní části končetin, bílá špička ocasu,
+příp. i lysina na hlavě. Toto zbarvení je možné do určité míry ustálit a označu-
+jeme tento zjev genetickým znakem sí, Tento gen je do určíté míry recesivní vůči
+genu S, pro cele pigmentované jedince. Viz. Collie, boston terrier spod.
+Pokračující výskyt větších bílých ploch, kdy tyto tvoří více jak 20% a méně
+než 80% povrchu těla psa, pak mluvíme o tzv. pravé strakatosti. Pravá strakatost
+psa (viz moho plemen jako forhound, foxterrier apod.) je podmiňována genem s?,
+který je recesivní vůči S, ale nelze tvrdit, že gen S je plně dominantní nad ge-
+nem sP. V potomstvu jedinců S x sP se někdy vyskytují i jedinci s bílými znaky,
+většinou na prsou a to v různém rozsahu, ale nikoliv jedinci si nebo sP. Když
+však je pigmentované plochy méně než 20%, označujeme takové jedince za tzv.
+extrémní strakáče s", kteří se v chovu projevují jsko recesivní vůči všem ostat-
+ním (S, sí, sP). To však neznamená, že při spojení dvou heterozygotů Se" x Se"
+nevznikne možnost výskytu jak jedinců S, tak í jedinců s“, sP i a". Takže nako-
+nec můžeme stanovit, i když ne úplnou, epistázy (hypostázi) všech zúčastněných
+genů „© různý rozsah pigmentace povrchu těla psa takto: 5 (neúplně dominantní
+nad s*, sP, a*), si (neúplně dominantní nad sP a s", ale bez schopnosti vytvářet
+jedince S, sP (neúplně dominantní nad s") rovněž bez schopnosti vytvářet jedince
+S, a nakonec s", který je recesivní vůči všem předešlým. Lze ovšem připomenout,
+že selekcí plus variant (jedinců) tzn. více pigmentovaných nebo méně pigmentova-
+ných (minus jedinců), je možné ovlivnovat výskyt rozsahu pigmentace u potomků .
+obojím směrem - je možné vytvářet jedince s větším rozsahem pigmentovaných ploch
+nebo obráceně. To je známý zjev z chovů strakatých psů.
+Nebylo by správné nezmínit se o příkladech strakstosti způsobené „vyblednu-
+tím" skvrn za přítomnosti různých „zředujících“ genů u různých bílých plemen psů
+jako např. u špiců, slovenských čuvačů a jim podob. Důkazem o tom, že se v mo-
+ha případech jedná o přítomnost genu pro strakatost u těchto plemen je, že když
+získají gen pro sytost (např. C) od druhého partnera, získá se potomstvo 1 stra-
+katé (viz český horský pes). Podobně je to u sealyham terrierů, kdy povolené
+skvrny ná hlavě (s") „vyblednou“ přítomostí genu G a jiných,

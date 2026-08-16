@@ -1,0 +1,59 @@
+# ZDROJ: Spřežení č. 32, rok 1996, strana nezjištěna
+# SOUBOR: 79-1996-01_sprezeni_c_32.pdf
+# PDF_STRANA: 33
+# TISTENA_STRANA: nezjištěna
+# OCR: tesseract-5.3.4 / ces / conf 91.2
+---
+PES - FENA ROKU 95
+BSE
+výstavy
+AGAR od Vandy z Hájů (34
+Vanda Kmochová
+ARAM z Hradního ochozu (100
+Adam Sedláček
+DÁREK od Fíka (57
+Marcela Strnadová
+IR Faranda (75
+Tomáš Trdla
+ATAK z Hradního ochozu (20
+Petr Hanzlík
+ALF Růžová louka (30
+Marie Kubíčková
+BENNO von Hinterschlag ( 8
+Gudrun Dusel
+KELT Faranda (15
+Jiří Suchý
+HUŇÁČ Faranda (15
+Tomáš Trdla
+E EI Y
+ARČI od Vandy z Hájů (70
+Vanda Kmochová
+ANDY od Vandy z Hájů ( 3
+Vanda Kmochová
+JISKRA Faranda (44
+Jan Jirák
+HVĚZDA Faranda (20
+Rudolf Klein
+AURIKA Růžová louka (15
+Tomáš Trdla
+ANKA od Suchého buku ( 6
+Tomáš Trdla
+KRÁSKA Faranda ( 7
+Dana Kupková
+sport
+90) -124 bodů
+15) 115
+40) 97
+16) 91
+30) 50
+8) 38
+30) 38
+21) 36
+16) 31
+90) 160
+90) 93
+24) 68
+25) 5
+18) 33
+16) 22
+6) 13

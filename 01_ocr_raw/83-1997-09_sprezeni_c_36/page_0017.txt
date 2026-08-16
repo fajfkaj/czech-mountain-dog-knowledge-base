@@ -1,0 +1,35 @@
+# ZDROJ: Spřežení č. 36, rok 1997, strana nezjištěna
+# SOUBOR: 83-1997-09_sprezeni_c_36.pdf
+# PDF_STRANA: 17
+# TISTENA_STRANA: nezjištěna
+# OCR: tesseract-5.3.4 / ces / conf 84.3
+---
+| RIBALBO 20.06.1997. 6/0
+| Adam Sedláček, Žárovice 68, 798 03 Plumlov
+REG.703/93 Aram z Hradního ochozu, čb, F6
+REG.670/92 Bornea Zimní sen, čb, F8
+N Reg./CHP © p 1018 ERTIX čb
+f 1019 EGINA čb
+f 1020 ESPOO čb
+RŮŽOVÁ LOUKA 05.07.1997 3/2
+Oldřich Kaňský, 561 22 Ostrov 59
+REG.816/94 Alf Růžová louka, čb, F8
+REG.894/95 Angie Přeštická luka, žb, F8
+N Reg./CHP © p 1021 EDY žb
+JIZERSKÉ ÚDOLÍ 09.07.1997 12/0
+Soňa Klikarová, Mikoláše Alše 753, 513 01 Semily I.
+REG.768/93 Dárek od Fíka. žb. F9
+REG.665/92 Alka z Dubových pasek, žb, F7
+N Reg/CHP © p 1022 BENJAMIN žb
+p 1023 BERNY žb
+p 1024 BILL žb
+k p 1025 BLACK žb
+„© f 1026 BECKY žb
+| f 1027 BESSI žb
+| ŠUMAVSKÝ ĎÁBEL 30.06.1997 1/0
+Pavla Ženíšková, 341 65 Strašín - Lazna 118
+REG.330/88 Adan Netilocká obora, žb. F7
+REC 589 9| Assumi Ďábelská, žb, F6
+F9
+FI0
+F8

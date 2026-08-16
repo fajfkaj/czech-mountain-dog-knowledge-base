@@ -1,0 +1,66 @@
+# ZDROJ: Spřežení č. 19, rok 1992, strana nezjištěna
+# SOUBOR: 64-1992-01_sprezeni_c_19.pdf
+# PDF_STRANA: 7
+# TISTENA_STRANA: nezjištěna
+# OCR: tesseract-5.3.4 / ces / conf 92.7
+---
+Mrkva Aleš, Frýdecká Bl, 739 32 Vratimov, d 069 + 38743, p 3624/314
+Musil Aleš, 538 31 Medlešice 118, d 0455 + 8864
+Musilová Jaroslava, K rozvodně 491, 154 00 Praha 5, p 02 + 544-817
+Netolička Rudolf, chata Dvoračky, 512 44 Rokytnice u J.
+Nováková Petra, Zhořelecká 9, 460 01 Liberec 1, d 048 + 24359
+Novotný Luděk, Dalešická 413, 468 01 Kokonín, p 0428 + 513/476
+Obročníková Dobromila, Doubravice 120, 512 62 Karlovice u Turnova,
+p 0436 + 22969
+Otmarová Jana, Tyršova 410, 512 63 Rovensko p.Troskami
+Pitrov Ivan, Václava Rabase 867, 272 00 Kladno, d 0312 + 4091
+Pekárek Pavel, Na dračkách 10/994, 162 00 Praha 6
+Polák Ivan, 468 26 Huť 19, d 0428 + 93200
+Pospíšilová Pavla, Hor.Čer.Studnice 122, 468 27 Nová Ves n.Nisou
+Procházka Vít, U Růží 866, 289 12 Sadská, d 0325 + 96297, p 96261
+Prokůpek Aleš, Tyršova 350, 394 64 Počátky
+Psota Radomír, 512 31 Roztoky u Jilemnice 312
+Rašín Ivo, Na Kamenci 1297, 295 01 Mnich.Hradiště, p 0326 + 21835
+Redlich Miroslav, 351 22 Krásná 255, p 0166 + 926-401,
+d 925-692 sestra
+Reichl Zdeněk, Raškov 141, 789 64 Bohdíkov, p 0649 + 5833, 5111
+Rúčka Vlastimil, st.hrad, 373 33 Nové Hrady, d 0335 + 92135
+Samková Andrea, Mánesova 567, 463 42 Hodkovice n.Moh.
+Seifrtová Marie, Na Sibiři 89, 549 54 Police n.Met, d 0447 + 94772
+Setunský Karel, Labská 111, 543 51 Špindlerův Mlýn, p 0438 + 93671
+“ Skrbek Jindřich, 513 01 Chuchelna 294, p 0431 + 2051
+Slavatová Jarmila, Selská 10, 102 00 Praha 10, d 02 + 756-393
+Straka Miloslav, Wonkova 4, 591 01 Žďár n.Sázavou, d 0616 + 22611,
+p 0616 + 21515
+Střelec Luboš, Tyršova 557, 790 00 Jeseník
+Svoboda Pavel, Kostelní 567, 468 51 Smržovka, d 0428 + 66651
+Svoboda Radoslav, D.H.814, 362 51 Jáchymov, d 0164 + 911-394,
+p 9131 kuchyň
+Šalena Ladislav, Rukavičkářská 446, 362 35 Abertamy
+Šanovec Jan, Březová 671, 252 29 Dobřichovice, d 02 + 991-1882,
+p 02 + 332-2618
+Šanovec Vít, Březová 671, 252 29 Dobřichovice, d 02 + 991-1882
+Šena Jaroslav, 470 01 Sosnová 141
+Ševčík Milan, Defurovy Lažany 1, 341 52 Chanovice
+Šobáňová Hana, 378 53 Strmilov 70, (Jezuitská 3, 602 00 Brno)
+d 0331 + 92493, (05 + 25398)
+Štěpánek Stanislav, Lelekovice 347, 664 31 Česká, 05 + 673-041/05
+Švábenická Hana, Krolmusova 518, 183 00 Praha 6 - epy,
+d 02 + 3001-3344, p 02 + 301-6723
+Tomek Ivan, Vondropušova 1168, 163 00 Praha 6, d 062 + 301-94-37
+„Turek Petr, Nad Slunečnou 259, 252 29 Dobřichovice, d C2 + 991-1718
+Ulrychová Anna, Dřevěnice 60, 597 12 Radimu Jičína
+Vandas Jindřich, 262 13 Nečín 76, d 0305 + 958-134, p 958-131
+Viczmandi Štefan, Sibiřská 6, 352 01 Aš
+Vodák Milan, U vápenky 546/III, 392 01 Soběslav, d 0363 + 2682,
+p 038 + 823-456
+Votrubec Pavel, 468 31 Malá Skála 350, p 0428 + 7724152
+Vrba Miloslav, Defurovy Lažany 70, 341 52 Chanovice
+Vystrčil Jaroslav, Žižkova 131, 596 01 Jihlava
+Witosová Žofie, 739 55 Guty 66
+Zánhorková Anna, Zadov 24, 384 73 Stachy, p 0339 + 93203
+Zórněr Wolfgang, Lichtenberg 89, A-4151 Ulrichsberg, Rakousko
+čeníšok Pavel, 341 65 Strašín 118
+Ženišková Pavla, 341 65 Strašín 118
+Žídková Lenka, 739 01 Baška 310
+>

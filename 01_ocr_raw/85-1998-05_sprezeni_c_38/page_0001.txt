@@ -1,0 +1,8 @@
+# ZDROJ: Spřežení č. 38, rok 1998, strana nezjištěna
+# SOUBOR: 85-1998-05_sprezeni_c_38.pdf
+# PDF_STRANA: 1
+# TISTENA_STRANA: nezjištěna
+# OCR: tesseract-5.3.4 / ces / conf 82.4
+---
+SPŘEŽENÍ
+© Klub českého horského psa - 1998

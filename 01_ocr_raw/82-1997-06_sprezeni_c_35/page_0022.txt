@@ -1,0 +1,7 @@
+# ZDROJ: Spřežení č. 35, rok 1997, strana nezjištěna
+# SOUBOR: 82-1997-06_sprezeni_c_35.pdf
+# PDF_STRANA: 22
+# TISTENA_STRANA: nezjištěna
+# OCR: tesseract-5.3.4 / ces / conf 7.0
+---
+P — U

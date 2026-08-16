@@ -1,31 +1,36 @@
-# ZDROJ: Spřežení č. 7, rok 1987, strana nezjištěna
+# ZDROJ: Spřežení č. 7, rok 1987, s. 21
 # SOUBOR: 51-1987-06_sprezeni_c_7.pdf
 # PDF_STRANA: 23
-# TISTENA_STRANA: nezjištěna
-# OCR: tesseract-5.3.4 / ces / conf 83.4
+# TISTENA_STRANA: 21
+# OCR: vision (AI dočtení, tesseract conf pod prahem); dole na stránce 3 fotografie (výlet na Kleť)
 ---
-» žlé
+- 21 -
+
 Ráno svítí sluníčko. Nálada je dobrá. Stoupáme přes Kokotín na Jiříčkův
-vrch. V dlouhém sjezdu do Třísova odchází brzdy a tak co nezvládnou podrážky;
-musí udržet kamarádi. Po lesnísh schodech se dostáváme na Dívčí Kámen. Fo pro-
+vrch. V dlouhém sjezdu do Třísova odchází brzdy a tak co nezvládnou podrážky,
+musí udržet kamarádi. Po lesních schodech se dostáváme na Dívčí Kámen. Po pro-
 hlídce zříceniny jedeme dál. Najednou upadlo levé kolo káry - pravděpodobně po
-předchozím nárazu do kamene, ukrytého v třávě, Závadu provizorně opravujeme a
-pokračujeme v pohodě pěknou, romantickou cestou podél Vltavy (škoda, ža tak
-Páchne) až k Rybékovi. Dál je už jen trápení. Cesta se nepříjemně zužuje. Vlevo
-stráň, vpravo sráz a voda. Dlouhé kilometry káru vlastně neseme. Dana na stří=
-dačku popojíždí s bicykly. Nakonec to vzdáváme, Vyjíždíme do Záhorčic a po sil=
-nici do Boršova. Naštěstí hospoda je otevřená
-Snažíme se po silnici dostat k Melší« V Roudném mizím i s károu v příkopu.
-Jak jsem se tam dostal nevím, naštěstí se psůň.nic hěstalo. O kus dál opět a de-
-finitivně praská osička levého kola kárys Mémo to vádát a dojet pro auto? Budějo=
-vice jsou na dohled, smráká se, Improviziijemě, Torzo Jardova bicyklu nekládáme
-na káru. Náklad jo ale daleko širší než česta, Náhradní kolo každou chvíli vype=
-dává z uchycení. Do Budějovic dojíždíme za tmy Buďímo pozornost u tak se sna“
-žíme vypadat čerstvě. Končíme na nádraží. Všechny vlský čůjely a tsk se všichni
-nacpeme Jardovi do auta a odjíždíme k Táboru. Doufám, žo příště sa mi podaří
-vybrat lepší cestu. Ao E -k V Jak yí © 03- 05800
-' 3
+předchozím nárazu do kamene, ukrytého v trávě. Závadu provizorně opravujeme a
+pokračujeme v pohodě pěknou, romantickou cestou podél Vltavy (škoda, že tak
+páchne) až k Rybákovi. Dál je už jen trápení. Cesta se nepříjemně zužuje. Vlevo
+stráň, vpravo sráz a voda. Dlouhé kilometry káru vlastně neseme. Dana na stří-
+dačku popojíždí s bicykly. Nakonec to vzdáváme. Vyjíždíme do Záhorčic a po sil-
+nici do Boršova. Naštěstí hospoda je otevřená.
+Snažíme se po silnici dostat k Malši. V Roudném mizím i s károu v příkopu.
+Jak jsem se tam dostal nevím, naštěstí se psům nic nestalo. O kus dál opět a de-
+finitivně praská osička levého kola káry. Máme to vzdát a dojet pro auto? Budějo-
+vice jsou na dohled, smráká se. Improvizujeme. Torzo Jardova bicyklu nakládáme
+na káru. Náklad je ale daleko širší než cesta. Náhradní kolo každou chvíli vypa-
+dává z uchycení. Do Budějovic dojíždíme za tmy. Budíme pozornost a tak se sna-
+žíme vypadat čerstvě. Končíme na nádraží. Všechny vlaky odjely a tak se všichni
+nacpeme Jardovi do auta a odjíždíme k Táboru. Doufám, že příště se mi podaří
+vybrat lepší cestu.
+                                                        O.Kupka
+
+[3 fotografie: vlevo nahoře "vrcholové" foto - skupina lidí se psem na skalách; vpravo psí spřežení běžící po lesní cestě; vlevo dole zřícenina hradu Dívčí Kámen]
+
 Vpravo cesta na Kleť,
-vlevo nahoře „vrcholové" foto.
+vlevo nahoře "vrcholové" foto.
 Vlevo dole Dívčí Kámen.
-foto J,Koten
+
+                                                        foto J.Koten

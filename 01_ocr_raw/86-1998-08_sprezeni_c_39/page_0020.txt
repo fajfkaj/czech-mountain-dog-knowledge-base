@@ -1,0 +1,9 @@
+# ZDROJ: Spřežení č. 39, rok 1998, strana nezjištěna
+# SOUBOR: 86-1998-08_sprezeni_c_39.pdf
+# PDF_STRANA: 20
+# TISTENA_STRANA: nezjištěna
+# OCR: tesseract-5.3.4 / ces / conf 82.4
+---
+|, 31 Komárka
+32 Zadov Fr.Karas. 338 01 Holoubkov 264, tel. 4. 0184/0617 787
+Z.Dibilk, Hrdinů 202, 790 95 Vidnava

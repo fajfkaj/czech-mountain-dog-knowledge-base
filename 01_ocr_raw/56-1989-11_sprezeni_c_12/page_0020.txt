@@ -1,0 +1,57 @@
+# ZDROJ: Spřežení č. 12, rok 1989, strana nezjištěna
+# SOUBOR: 56-1989-11_sprezeni_c_12.pdf
+# PDF_STRANA: 20
+# TISTENA_STRANA: nezjištěna
+# OCR: tesseract-5.3.4 / ces / conf 87.7
+---
+- Jj-
+rodiče z Fl: P 91 x F 9j
+( plný plný )
+F2 = P)128 P 129 P130 F 131 F 132 F 133 * G kusů
+P4od | plný | plný | Páld | Pdod | plný
+sak ča
+(Poznámka: P = pes; F = fena; plný = plnochrupý; P4 (nebo jiné číslo) = chybí do-
+tyčný zub; o = oba; p = vpravo; 1 = vlevo; d = dolní čelíst; h = horní
+čelist)
+Jak achema ukazuje, chybění P2d u feny FK potlačil pes PA plnochrupý u líníe,
+kde nikdy P2 nechyběl, ale jeho potomstvo bylo nostteli skryté (recesivní) vady a
+i když v další generaci (spojení bratra se sestrou) byli oba partneři plnochrupí,
+u dvou potomků w F2 se vyskytlo chybění zubu P2 | Takových chovných dokladů bylo
+více, ale pro zkrácení článku je neuvédím!
+Že zuby v horní čelistí jsou na pohlaví vázány dokazuje další schema:
+P = P x F
+( plný P3ph l)
+Fl = F x P x F (spojení
+Iný plný P4od bratra se
+( P2od ) sestrami)
+F2 = p F F k P P F F
+( plný P4od jplný plný plný( P4od plný )P4pd
+F$3$ = P P F F F bj F F
+(1.vrh) plný plný plný P4o0d Piph! P4od P4od P4ld
+P2ld Páph |
+(2.vrh) Pápd Páld P4ld
+Pophi
+Ze schematu je patrné, že chybění P3 v horní čelisti (na pravé straně) u feny
+v rodičovské generaci (P) se projevilo až u jejích pravnuček (F3) potomků dvou
+dcer spojených se stejným psem (Fl) a to vždy tentýž zub na stejném místě! I to
+dokazuje, že každý zub Je samostatnou jednotkou a že chybění zubů je rocesivní va-
+dou (anomálií). Tato skrytá vada (jako každá jiná recesivně založená hodnota) se
+může skrývat po více generací a může se uplatnit (uplatní se jen tehdy), když se
+vyskytuje u obou rodičů!
+Důkaz o tom, že záměrnou selekcí lze ovlivnít kvalitu potomstva byl podán
+tím, že bylo přikročeno ke spojování jen chudozubých jedinců (po několik generací)
+a výsledek ukázal, že ze 45 jedinců získaných ve 3 generacích ani jeden nebyl pl-
+nochrupý! Opačně však, při selekci rodičů plnochrupých a jejich spojování byl do-
+sažen opačný příklad: z 19 potomků bylo 17 plnochrupých a jn u dvou chyběly 2
+zuby (po jednom u každého) ! Rovněž 1 v tomto pokusu bylo stanoveno, že v horní
+čelisti chybí jen 15% zubů a zbytek, tj. 85% chyběl v čelisti dolní. Byla rovněž
+stanovena závislost kvality potomků (v zubech) na kvalitě rodičů, Viz sestavení:
+při spojení 1x2 (otec x matka) chybělo průměrně na 1 zvíře 2,29 zubů
+2x2 2'53
+-= xd 4x2 - číslo 1 resp. další čísla m
+udávají počet chybějících ,
+“x8 zubů u. rodíčů 6,50
+Všemi těmito výsledky se dokazuje dědičnost chudozubosti a možnost proti ní
+selekcí rodičů bojovat!
+Je však nutno poznamenat, že nejmenší zuby v chrupu psa, tj. Pl a M3 mají
+svoji specifičnost. V práci Truhlář (1951) a jiní chtěli dokázat, že chybění

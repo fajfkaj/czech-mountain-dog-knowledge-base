@@ -1,0 +1,43 @@
+# ZDROJ: Spřežení č. 12, rok 1989, strana nezjištěna
+# SOUBOR: 56-1989-11_sprezeni_c_12.pdf
+# PDF_STRANA: 9
+# TISTENA_STRANA: nezjištěna
+# OCR: tesseract-5.3.4 / ces / conf 86.0
+---
+396  AMUR žb 398. AKRA žb
+397 ATOL žb
+Z PANSKÉHO OSTROVA 23.08.1989 F7
+Jan Holas, Vranové 25, 468 31 Malá Skála
+Adirondeak Stráž ned Nežárkou Cilka od Jankova kopce
+reg. 167/86, čb reg. 166/86, čb
+399. AGBAR : mb
+OVĚDADA 23.06.1989. - F6
+Oldřich Valášek, Sportovní 180, 543 O3 Vrchlabí 3
+Dry Severní vítr Adhara od Bublajícího potůčku
+reg. 219/87, čb reg. 100/85, žb
+400. EDRY čb 405  EIRA žb
+401 ELF : čb 406 EKRIS žb
+402 ERD čb 407 ESNY čb
+403 ERGO čb 4086 ETHI čb
+404 ERIX čb
+BOŽIDARSKÉ RAŠELINIŠTĚ 31.06.1969 F7
+Martin Záboj, 362 62 Boží Dar 129
+Borec Už jedou Auge Severní údolí
+reg. 199/87, žb reg. 248/87, žb
+409. ALFAR žb 410. ALMA žb
+411 ARGE žb
+PRADĚDOVA LOUKA 01.09.1989 F7
+Jaroslav Halama, Havlíčkova 56, 790 70 Javorník
+Benny z Milety Bessi Lužický hvozd
+reg. 150/86, čb reg. 41/84, čb
+412 CANYK čb 413. CÁCORA čb
+UŽ JEDOU 03.09.1969 F7
+Eva Loučková, Královice 105, 104 00 Praha 10
+Dar Faranda Cabina Faranáa
+reg. 112/86, žb reg. 83/84, žb
+414 EDEN žb 416 EDITA žb
+415  EGON žb 417  ELINA žb
+418 ELITA žb
+419 ELZA žb
+420. ERTA žb
+mb « bílá, modré znaky

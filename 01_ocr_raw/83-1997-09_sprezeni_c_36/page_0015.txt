@@ -1,0 +1,37 @@
+# ZDROJ: Spřežení č. 36, rok 1997, strana nezjištěna
+# SOUBOR: 83-1997-09_sprezeni_c_36.pdf
+# PDF_STRANA: 15
+# TISTENA_STRANA: nezjištěna
+# OCR: tesseract-5.3.4 / ces / conf 89.0
+---
+REG.118/86 Azul Podcesný mlýn, čb, F5
+REG.706/93 Asta z Hradního ochozu, čb, F6
+N Reg./CHP p 990 úhyn
+f 991.. BARKA: čb
+RIBALBO 26.04.1997 7/0
+Adam Sedláček, Žárovice 68, 798 03 Plumlov
+REG.703/93 Aram z Hradního ochozu, čb, F6
+z REG.903/95 Borama Ribalbo, čb, F9
+NReg./CHP © p 992 DAISEN čb
+] p 993 DAKSHIN čb
+f 994 DRANCY čb
+f 995 DRINA čb
+f 996 DUNDEE čb
+OD VANDY Z HÁJŮ 04.05.1997 5/1
+Vanda Kmochová, Pod vrchem 20, 405 05 Děčín 20
+REG.855/94 Kelt Faranda, žb, F8
+REG.734/93 Aila od Vandy z Hájů, žb, F8
+"N Reg./CHP p 997 CIRDA žb
+f 998 CILKA žb
+f 999 CIRA žb
+] OD SUCHÉHO BUKU 16.05.1997 8/3
+Jan Drbohlav, Víska 10, 463 31 Nová Ves u Chrastavy
+REG.731/93 Agar od Vandy z Hájů, čb, F8
+REG.824/94 Adéla od Suchého buku, žb, F9
+N Reg./CHP 1000 BERT čb
+1001 BĚLA žb
+f 1002 BÁRA žb
+=- "T
+F10
+F9
+F10

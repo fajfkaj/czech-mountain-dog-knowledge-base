@@ -1,0 +1,155 @@
+# ZDROJ: Spřežení č. 9, rok 1988, strana nezjištěna
+# SOUBOR: 53-1988-04_sprezeni_c_9.pdf
+# PDF_STRANA: 12
+# TISTENA_STRANA: nezjištěna
+# OCR: tesseract-5.3.4 / ces / conf 75.6
+---
+ZUBY 05
+O-plnochrupý
+l-chybí 1lx Pl
+2-chybí lx jiný
+z=chybí 2 zuby
+4+ch.více zubů
+O-silná, pevná
+l-hrubá
+2- jemná
+3=glabá
+HLAVA 11
+O-typická
+1-lehká
+o-těžká, hrubá
+3=krátký nos
+4-strmý stop
+Sm=široká lebka
+O-vysoko nasaz,
+stř,dlouhý
+l-krátký
+2-nízko nasaz.
+PÁN.KONŮ. 19
+O-korektní
+l-vytoč.tlapky
+2-rozbíhavý P-
+3=úzký postoj
+4=široký postoj
+S+kravský post.
+SRST 23| ©
+O0-standardní
+l-mírně zkadeř.
+2=krátká
+3-vlajka na 00.
+4-pěš.na hřbetě
+Smotevřená
+6—-jemná
+T-řídká
+8+silně zkadeř.
+O-nůžkový
+l=volný nůžkový
+2+nepravidelný
+3+klešťový
+4+podkus
+S+předkus
+LYMFATIE 08
+O-není
+l=ektropium
+2-převis.pysky
+3-koutky tlamy
+otevřené
+4=volná kůže
+O-tmavé,správný
+tvar,velikost,
+umístění
+l-světlejší
+2+žluté-dravčí
+3
+4-zapadlé
+5=entropium
+6-otevřené
+HRBET
+O-rovný,pevný
+l-měkký
+2=prohnutý
+Z=bedra slabá
+4rzáď strmá
+b=záď níž než
+kohoutek
+O-standardní
+l-krátký
+o-příliš stoč,
+3=nízko nesený
+4-polože na
+betě
+S=jinak vadný
+O=pevné
+l-měkké záprstí
+2-otevř.tlapky
+z-medvědí tlapy
+4-všeobecně
+uvolněné
+O-odpovídající
+l-nevyjádřený
+2-opačný
+O-standardní
+pes 62-70
+fena 58-66
+1I+menší než st.
+24+větší než st.
+O=-standardní
+l-krátké
+2=dlouhé
+3-odstávající
+4-složené
+5=vysoko nasaz.
+6=nízko nasaz.
+7=-špatně klop.
+O-dos.k lokti
+l-mělký
+Z=ůzký
+4-sudovitý
+S=širší
+O-standardní
+l-malá plocha
+2-plášť
+3+souvislý pl.
+4+na těle chybí
+5+ově oči nej-
+sou ve skvrně
+O-ideální
+l-odpovídající
+2-málo typický
+3+atypický
+O-správný
+l-kvadratický
+2-mírně delší
+1-barva srsti u
+žb světlá
+2„růžová skvrna
+na čéknichu
+3-čenich,pysky
+světlejší
+4+na čeň.z větš,
+části chybí
+HRUD.KONČ.18
+O-korektní
+l-vyboč.lokty
+2-široký postoj
+3„sbíhavý post.
+l-tečky ojediň.
+2-tečkování,ale
+podklad bílý
+3-melír
+4-silný melír,
+ohranič.mizí
+T) OZE
+O-prostorný
+l-noha vybočuje
+2-neurovnaný
+3=málo vydatný
+4-tě žkopádný
+O-sebevěd,přát,
+temper.živý
+l-nejistá
+o-bázlivá
+3-agres.ke psům
+4+agres.k lidem
+5-flegmatický
+temperament

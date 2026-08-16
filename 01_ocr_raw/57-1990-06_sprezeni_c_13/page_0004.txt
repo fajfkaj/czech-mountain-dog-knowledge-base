@@ -1,0 +1,60 @@
+# ZDROJ: Spřežení č. 13, rok 1990, strana nezjištěna
+# SOUBOR: 57-1990-06_sprezeni_c_13.pdf
+# PDF_STRANA: 4
+# TISTENA_STRANA: nezjištěna
+# OCR: tesseract-5.3.4 / ces / conf 93.0
+---
+Seznam členů Klubu chovatelů českého horského psa.
+Bičík Pavel, Chuchelná-Lhota 34, 513 01 Semily
+Bičíková Pavla, Chuchelna-Lhota 34, 513 01 Semily
+Blažek Jaroslav, Dolní Maršov 46, 542 24 Svoboda nad Úpou
+„Čech Zdeněk, J.Fučíka 119, 542 01 Žacléř
+Černá Iva, 756 05 Karolinka 63
+Červená Aranka, 357 22 Bublava 502
+Čumpelík Jarošlav, 543 61 Kunčice nad Labem 108
+Deák Karel, Mikulášská 8,.532 01 Aš
+Dobrý Jaromír, U Jakuba, Vidžín, 330 40 Úterý
+Drábek Jaroslav, Plavsko 95, 378 02 Stráž nad Nežárkou
+Elster Josef, Smetanova 394, 378 06 Suchdol nad Lužnicí
+Elster Petr, 380 01 Dačíce 93/II
+Erb Josef, Selská 163, 463 52 Osečná
+Fiala Karel, Cínovec 256, 417 02 Dubí
+Filipčuk Ivan, 790 57 Bernartice u Javorníka 116
+Finke Miloslav, 257 53 Vrchotovy Janovice 105
+Fišerová Dobromila, Doubravice 220, 512 62 Karlovice u Turnova
+Fošenbauerové Dagmar, Nejedlého 518, 363 01 Ostrov nad Ohří
+Halama Jaroslav, Havlíčkova 56, 790 70 Javorník
+Hanzlík Petr, Smetanova 648, 376 21 Kardašova Řečice
+Havren David, Máchova 5, 320 00 Plzen
+Holas Jan, Vranové 25, 468 31 Malá Skála
+Holeček Miroslav, Dvořákova 135, 549 54 Police nad Metují
+Holeš Vladimír, Brezovská 44/21, 026 01 Dolný Kubín
+Honců Jan, Mrklov 8, 512 37 Benecko
+Hrdý Josef, Prostřední Lánov 3, 543 41 Lánov
+Hruška Jan, 471 57 Krompach 56
+Chlum Jan, kpt Nálepky 1231, 543 O1 Vrchlabí
+Jánský Zdeněk, 790 57 Bernartice u Javorníka 189
+Jebavý Stanislav, Nový Dům 57, 269 01 Rakovník
+Jehlička Antonín, Jánská 91, 267 12 Loděnice
+Jurajda Zdeněk, Miloňov 627, 756 06 Velké Karlovice
+Jirák Jaroslav, Jižní 53, 370 10 České Budějovice
+Kajan Miroslav, Břilice 175, 379 01 Třeboň
+Kaška Pavel, 517 61 Rokytnice v Orlických horách 504
+Kleinwachter Radko, Hvězda 23, 544 56 Hřibojedy
+Klír Jan, Selská 38/14, 102 00 Praha 10 - Hostivař
+Klírová Marie, Selská 38/14, 102 00 Praha 10 - Hostivař
+Komárek Jiří, Svobody 1011, 379 01 Třeboň
+Konečný Ivan, B.Smerale 24, 586 01 Jihlava.
+Konečný Jaroslav, Velká Morava, 561 69 Králíky
+Koten Jaroslav, Čenkov 23, 391 75 Malšice
+Kožíšek Libor, 354 84 Ovesné Kladruby 4
+Krejčík Vladimír, Lhotská 1099, 19j 00 Praha 9
+Křinecký Ota, Buzulucká 405/2, 377 01 Jindřichův Hradec
+Křivánek Josef, Kolárova 571, 417 42 Bohosudov
+Kubíček Karel, Pražská bouda, 543 44 Černý Důl
+Kubík Jan, 582 61 Česká Bělá 267
+Kubr Václav, Dukelská 149, 550 01 Broumov
+Kučerová Blanka, Mokré 87, 517 73 Opočno
+Kupka Oldřich, 391 76 Slapy u Tábora 45
+Kupková Dana, 391 76 Slapy u Tábora 45
+Kůrka Václav, Pražské bouda, 543 44 Černý Důl

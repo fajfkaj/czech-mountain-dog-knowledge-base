@@ -1,126 +1,76 @@
-# ZDROJ: Spřežení č. 7, rok 1987, strana nezjištěna
+# ZDROJ: Spřežení č. 7, rok 1987, s. 23
 # SOUBOR: 51-1987-06_sprezeni_c_7.pdf
 # PDF_STRANA: 25
-# TISTENA_STRANA: nezjištěna
-# OCR: tesseract-5.3.4 / ces / conf 25.2
+# TISTENA_STRANA: 23
+# OCR: vision (AI dočtení, tesseract conf pod prahem); strana otočená - výsledkové tabulky ZADOV II. Mistrovství ČSSR (pokračování)
 ---
-ZT"TE*4L
-g6"26:29
-C4“ Cb :9G
-2S*pE:14
-zL" Cp '0g
-22“ £T'6b
-ce“pr:eb
-l8*e*tT
-*TY
-aTJy
-YTATBUY
-uBprY A+
-Ázarnd  HS+S x2uepz: 03 "1
-Bodox BAOXUBP po UBYIY : ora
-80dox B8Aoyue(f po ke A z takej i
-| v r he "o n *9
-K PVA Hz
-odk pš
-K
-Mag doypax "6
-2240 ozn MC 2
-ME- oak UbEdu 2
-+% Kuk andi a
-M3
-pzoay fXOTZVT 94JY
-1 BY9S TyngPT sTA9U9G
-VyOT T3nG0T [0W30G
-h u PYPÝ,
-Áysng
-2T03394
-kx00u
-084
-Booraeuy HS
-dH)
-*4ueur gforog "z
-pura 4
-9x84
-BU83 TY
-STXTT HS
-1x e“br -
-ogarI PFO?0í "K
-*pSTA XOUDOG "C
-gg*cc:o9
-ep“G2:£L
-Co*20:2L
-T'2pilo
-zo“ [0:64
-jj- 46*BS196
-ga“T4'+g
-4 CStrEtHS
-Co“20:2g
-Le*a*T
-SL“ Gp 99
-ob“cz:pG
-ov'pěith
-18"1W1£
-UITgUoxopeu
-y0z0ď $2poj $46uy
-K10Tym 2 6uTTY
-XrUpeToOď USATY
-BAUTZV[A UJOUGTšY
-» 895Y,
-u UBTYU
-BygezBy BuE1y
-Bpuere3z BI09BY
-o8uJy
-udTy
-TUS8Y
-vygsz8y nímoury
-SpueJuJ BUTABO
-VygS9BY OVSUJY
-Sx9X JNGPT UNý«meTY
-Spuea8 UBATI
-9914048 (-guopny3g. 88T1Y
-| 4474 7Uaeaeg IT94G
-exeX T30g9T II Bdogrsy
-J1IA JU4eA9g BuBORTY
-J3ja Judoaeg Uosr3 Jy
-egadoy-uog93, x9USY
-IMT 4OfXS4T2UJH po uoxTY
-90doxy BAOJUB, pO SBSAY
-m č) -
-Kye[rm z BUTY
-xrUupoTod fpopuz8j 84guy
-8pue4ej 84039
-UpueJVí BUTOV
-= O0
-dHý
-dH9
-dHg
-dHD
-dHý
-dH9
-dHý
-dH9
-dH9
-"rep TT9ATEKA
-UoTIPTO 3%dny
-"PETA WFUdog/
-uef 414
-AV[OA BX4DY
-zj04 AJTZUBH
-TOA JG0
-Fytf T0YoTUZ
-+405030% z6
-*I $40XTPg1BH
-*T9H paoo18ag
-RUBT paoydny
-Vag pA0Xpno7
-"P
-"£
-"€
-*T
-1áas
-"€
-"č
-"k
-AU67  JUT10UTYE
-(Bo 22
-USS) J43940438TX "II = AOGYZ
+- 23 -
+
+ZADOV - II. Mistrovství ČSSR
+
+skijöring ženy - 10 km                                             31.1.87
+1. Loučková Eva      ČHP  Cabina Faranda                            43:24,40
+2. Kupková Dana      ČHP  Cácora Faranda                             54:23,40
+3. Švarcová Hel.     ČHP  Ambra Patnáctý poledník                     68:45,75
+   Maršálková I.     ČHP  Alina z Milety                              nedokončila
+
+
+spřežení kategorie C - 14,2 km                                     1.2.87
+1. Emichel Jiří      ČHP  Aksas od Jankova kopce
+                           Aiken od Hrnčířských luk                  52:02,03
+2. Kobr Pavel        ČHP  Ganek Třeboň-Kopeček
+                           Artison Severní vítr
+                           Atacama Severní vítr                       54:31,53
+3. Hanzlík Petr      ČHP  Aalborg II Labutí řeka
+                           Bell Severní vítr
+                           Atlas Studená-Javořice                      54:51,85
+4. Kůrka Václav      ČHP  Ciran Faranda
+                           Alam-Kuh Labutí řeka                        56:58,97
+5. Klír Jan          ČHP  Aragac Kačabka
+                           Cabina Faranda
+                           Aracajú Kačabka                             59:01,02
+6. Zborník Vlad.     AM   Assai
+                           Aipa
+                           Arnac                                        67:42,71
+7. Kupka Oldřich     ČHP  Cácora Faranda
+                           Artana Kačabka                                72:02,03
+8. Vystrčil Jar.          "Alan"
+                           "Asta"
+                     ČHP  Balmhorn Vlažinka                              73:25,42
+9. Maršálek Jan      ČHP  Alben Poledník
+                           Alina z Milety
+                           Aneta Modrý potok                             80:33,55
+
+
+spřežení kategorie B - 14,2 km                                     1.2.87
+1. Pečená Libuše     SH   Dixie
+                           Altana
+                           Drake
+                           Cindy                                     48:14,23
+2. Dolejš Frant.     SH   Anarioca
+                           Back
+                           Rocky
+                           Bettola
+                           Dusty                                     49:13,22
+3. Pechek Vlad.           "Adid"
+                     ČHP  Bethel Labutí řeka
+                           Benevis Labutí řeka
+                           Afré Lužický hvozd                          50:43,72
+4. Nečas Josef       SH   Akron
+                           Darwy
+                           Dicksie
+                           Barrow
+                           Bakungan                                    51:34,57
+5. Elster Petr       ČHP  Albion Vlažinka
+                           Fortuna Třeboň-Kopeček
+                           Breithorn Vlažinka
+                           Berrio Vlažinka                              56:43,73
+6. Chlum Jan         ČHP  Cavyk Faranda
+                           Akela Labutí řeka
+                           Bonn od Jankova kopce
+                           Artan od Jankova kopce                       62:52,95
+7. Kohl Zdeněk       S+SH Quizzy
+                     +ČV  Aldan
+                           Anarvik
+                           Aris
+                           Alf                                          74:31,12

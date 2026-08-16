@@ -1,0 +1,12 @@
+# ZDROJ: Spřežení č. 41, rok 1999, strana nezjištěna
+# SOUBOR: 88-1999_sprezeni_c_41.pdf
+# PDF_STRANA: 16
+# TISTENA_STRANA: nezjištěna
+# OCR: tesseract-5.3.4 / ces / conf 65.7
+---
+i
+fouox 1999
+zde nalepte
+l kontrolního
+ústřižku složenky
+na 150 Kč

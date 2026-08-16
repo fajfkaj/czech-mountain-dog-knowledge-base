@@ -1,0 +1,56 @@
+# ZDROJ: Spřežení č. zvláštní (1993-04), rok 1993, strana nezjištěna
+# SOUBOR: 71-1993-04_sprezeni_special.pdf
+# PDF_STRANA: 19
+# TISTENA_STRANA: nezjištěna
+# OCR: tesseract-5.3.4 / ces / conf 90.5
+---
+» 17 =
+malou plochou skvrn.
+Nesporné ale je, že plášťové zbarvení svým vlivem překrývá (potla-
+čuje) ideální strakatost. Pro chov je menším zlem jedinec s malou
+plochou skvrn, než jedinec plášťový (samozřejmě v rámci standardu).
+PRAKTICKÉ VYUŽITÍ NĚKTERÝCH
+GENETICKÝCH POZNATKa V CHOVU
+Většina vad je založena recesivně —- to znamená, že váda sé na-
+venek (ve fenotypu) projeví teprve tehdy, když se sejdou 2 rece-
+sivní alely pro tuto vadu - jedna od otce a druhá od matky.
+To znamená, že pokud se u nějakého potomka projeví vada (rece-
+sivně založená), musí být otec i matka nositeli této vady. Nezáleží
+na tom, u kolika potomků se vada vyskytla. Jestliže např. po psovi
+X jsou 2 potomci s podkusem a po psovi Y 10 potomků s podkusem, ne-
+znamená to, že pes X je kvalitnější. Oba —- K i Y jsou přenašeči
+podkusu - jeou v tomto směru heterozygotně založeni a počet potomků
+s vadou je věcí náhody Aa samozřejmě i otázkou kvality 8 počtu pou-
+žitých fen - partnerek.
+Některé recesivně založené vady
+—  podkus
+-  kryptorchismus (nesestouplé varle) - zde je ale situace eloži-
+tější v tom, že u feny se tato vada ve fenotypu projevit nemůže
+- chybějící zub - dědí se každý zub zvlášť, zvlášť horní čelist a
+zvlášť dolní čelist
+Opatření v chovu
+Abychom recesivně založené vady z chovu zcela vymýtili, museli
+bychom z chovu vyřadit nejen vadou postiženého jedince, ale i jeho
+rodiče. I většina jeho sourozenců bude přenašečem vady. K odhalení
+přenašečů těchto vad bychom museli použít testovacího křížení - tj.
+spojit je s partnerem, který sledovanou vadu má také. Pokud by se
+vada objevila třeba jen u jediného štěněte, znamenalo by to, že
+testovaný jedinec tuto vadu přenáší a vyřadil by se z chovu.
+Toto se ale praktikuje pouze u hospodářských zvířat, v chovu
+psů takový způsob použít nelze. U méně početných plemen by se tak
+vyřadilo příliš velké množství zvířat a nebylo by na čem chovat.
+U psů nelze záměrně produkovat vadné potomky (testovací křížení) -
+co potom s nimi?
+Jak tedy u psů? Reálná jsou tato opatření, která sníží četnost
+vad v = (ale -= Je m spíně odstraní):
+- Půdikum - ookud krycí pes má más svými potomly nějakého s pod-
+kusem, nespojovat ho s fenou, která už také dala štěně s podku-
+sem.
+-  Kryptorchismus - stejný případ jako podkus
+- Zuby - zde je situace složitější. V praxi dává dobré výsledky
+postup, kdy se chudozubí jedinci spojují výhradně 8 plnochrupý-
+mi. Toto se praktikuje i u ČHP a v současné době nejsou s chu-
+dozubostí větší problémy, naprostá většina jedinců je plnochru-
+pých, i když v počátcích chovu se vyskytovali i jedinci s dese-
+ti chybějícími zuby (zakladateli chovu - Leifovi - chybělo ně-
+kolik zubů).

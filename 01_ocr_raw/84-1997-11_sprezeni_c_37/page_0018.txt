@@ -1,0 +1,48 @@
+# ZDROJ: Spřežení č. 37, rok 1997, strana nezjištěna
+# SOUBOR: 84-1997-11_sprezeni_c_37.pdf
+# PDF_STRANA: 18
+# TISTENA_STRANA: nezjištěna
+# OCR: tesseract-5.3.4 / ces / conf 92.4
+---
+KLUBOVÉ ZPRÁVY
+Je v pravomoci plemenné knihy rozhodnout, zda bude čísla zápisu lomit dalšími údaji, které
+považuje za důležité pro identifikaci jedince (např. rok narození, rok zařazení do chovu apod.).
+. Štěňata se zapisují do plemenné knihy té země, kde má chovatel trvalé bydliště,
+X. Zápis importovaných jedinců do plemenné knihy
+„ Jedincům dovezeným s průkazy původu, které jsou vystaveny zeměmi FCI, přiděluje plemenná
+kniha čislo zápisu podle výše uvedeného schématu. V případě, že jsou importovaní jedinci
+uvádění do rodokmenu jako rodiče v ČR zapisovaných vrhů, je nutno před číslem jejich'
+zápisu uvádět i zkratku původní plemenné knihy:
+(původní plemenná kniha / česká plemenná kniha / zkratka plemene / číslo zápisu).
+. Průkazy původu, které nejsou psány latinkou, je nutno doložit ověřeným překladem.
+XI Zápis jedinců do registru
+. Registr je součásti plemenné knihy, do které se zapisují:
+a) importovaní jedinci, kteří jsou zapsáni v plemenných knihách neuznaných FCI,
+b) štěňata pocházející z vrhu po rodičích, kteří nemají tři generace předků řádně zapsané v
+plemenných knihách uznaných FCI,
+c) jedinci bez průkazu původu.
+„ Podmínkou pro zapsání do registru:
+— viz bod c) — souhlas příslušného chovatelského klubu. Jedinec musí být posouzen na dvou
+výstavách dvěma různými rozhodčími a oceněn nejméně známkou „velmi dobrá“. V dalším
+chovu by měl, dlé doporučení FCI, mít jeden z rodičů úplný rodokmen.
+, Průkazy původu jedinců zapsaných do registru budou nezaměnitelně označeny nápisem:
+„ČMKU - registr“.
+XII. Průkaz původu
+. Průkaz původu je vystaven na formuláři uznaném FCI a označen znakem FCI a ČMKU.
+2. Průkaz původu musí obsahovat:
+— rodokmen, nutné identifikační údaje o psu — feně,
+— nejméně tři generace předků,
+— přílohu, část určenou k zápisu výsledků z výstav, závodů, zkoušek, svodů a bonitaci.
+. Pro každého jedince je vystaven jeden průkaz původu. Průkaz původu je příslušenstvím
+tohoto jedince, Chovatel je povinen předat průkaz původu nabyvateli tohoto jedince bez
+zbytečného odkladu poté, co jej obdržel z Plemenné knihy ČMKU, kterou byl průkaz původu
+vystaven. Cena jedince zahrnuje i cenu průkazu původu.
+. Ztrátu průkazu původu je nutno hlásit příslušné plemenné knize. Za poškozený průkaz je
+nutno vystavit přepis, za zničený nebo ztracený průkaz lze po zveřejnění v časopise Pes nebo
+dalších kynologických časopisech vystavit duplikát.
+. Zápisy do rodokmenu smí provádět pouze Plemenná kniha ČMKU.
+. Zápisy do přílohy provádí příslušní oprávnění pracovníci (plemenná kniha, rozhodčí, výstavní
+kancelář, veterináři, poradci chovu, pověření pracovníci sekretariátu ČMKU),
+. Za správnost údajů uvedených v průkazu původu odpovídá svým podpisem ten, kdo zápis“
+provedl.
+16

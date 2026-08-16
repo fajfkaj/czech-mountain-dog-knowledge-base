@@ -1,62 +1,70 @@
-# ZDROJ: Spřežení č. 7, rok 1987, strana nezjištěna
+# ZDROJ: Spřežení č. 7, rok 1987, s. 14
 # SOUBOR: 51-1987-06_sprezeni_c_7.pdf
 # PDF_STRANA: 16
-# TISTENA_STRANA: nezjištěna
-# OCR: tesseract-5.3.4 / ces / conf 81.2
+# TISTENA_STRANA: 14
+# OCR: vision (AI dočtení, tesseract conf pod prahem); posudky psů z celostátní klubové výstavy Litoměřice
 ---
--= -=
-ců Šla
+- 14 -
+
 ASTA z Údolí Kačáku, žb, 30.10.86
-Big Lužický hvozd - Cedrsna Faranda
-nadějná
-ch: Antonín Jehlička, Loděnice
-m: Alfred Eisenmayer, Stříbrská 535, 333 O1 Stod
-6,5 měsíční fena, Pl - lůžko otevřené, pravděpodobně po výměně, nový zub
-nehmnatám, dobře utvářená hlava, volnější ve hřbetě, přední končetiny vol-
-nější ve hleznech - zváště lová (dodatečně předvádějící uvádí léčení), levá
-zadní rovněž od holeně více skloněná, což se projevuje na dynamice pohybu
-BANY z Milety, žb, 5.9.86 :
-Aragac Kačabka = Guara Třebon=Kopeček
-velmi nadějná, vítěz třídy dorostu ip t Bke A
-ch: Irma Králová, Velká Úpa ehm o
-m: Josef Erb, 463 52 Osečná 16)
-BG=měsíční fena, levá zadní noha so vytáčí, dobře stavěná, při klusu se
-chůze vyrovnává, plnochrupá kOssnk ze
-zák“ v ŘĚÍ U Ygliar
-BENA od Hrnčířských luk = nedostavila a6 3 F
-Kk P né
-EE ate
-ad WE
-M : i
-„řřipahělá cms zorveř JŠ
-AJKA FPodcesný mlýn, čb, 29.5.86 n
-Berrio Vlažinka - Dombaj Třeboň=Kopeček
-dobrá
-ch: Josef Cvrček, Malý Pěčín
-m: Jaroslav Vrzák, Zadova 24, 384 73 Stachy
-Roční fena, nepatrně otevřenější oko, schází Pl oboustranně nahoře, Fl obou=
-stranně dole, P4 oboustranně dole, plášťovité zbarvení, v chůzi i v klusu
-tahne, končetiny dobře utvářené, v trupu nepatrně delší
+    Big Lužický hvozd - Cedrana Faranda
+    nadějná
+    ch: Antonín Jehlička, Loděnice
+    m:  Alfred Eisenmayer, Stříbrská 535, 333 01 Stod
+
+    6,5 měsíční fena, P1 - lůžko otevřené, pravděpodobně po výměně, nový zub
+    nehmatám, dobře utvářená hlava, volnější ve hřbetě, přední končetiny vol-
+    nější ve hleznech - zvláště levá (dodatečně předvádějící uvádí léčení), levá
+    zadní rovněž od holeně více skloněná, což se projevuje na dynamice pohybu
+
+BANY z Milety, žb, 5.9.86
+    Aragac Kačabka - Guara Třeboň-Kopeček
+    velmi nadějná, vítěz třídy dorostu
+    ch: Irma Králová, Velká Úpa
+    m:  Josef Erb, 463 52 Osečná 163
+
+    8-měsíční fena, levá zadní noha se vytáčí, dobře stavěná, při klusu se
+    chůze vyrovnává, plnochrupá
+
+BENA od Hrnčířských luk - nedostavila se
+
+
+třída mladých - feny
+
+AJKA Podcesný mlýn, čb, 29.5.86
+    Berrio Vlažinka - Dombaj Třeboň-Kopeček
+    dobrá
+    ch: Josef Cvrček, Malý Pěčín
+    m:  Jaroslav Vrzák, Zadova 24, 384 73 Stachy
+
+    Roční fena, nepatrně otevřenější oko, schází P1 oboustranně nahoře, P1 obou-
+    stranně dole, P4 oboustranně dole, pláštovité zbarvení, v chůzi i v klusu
+    táhne, končetiny dobře utvářené, v trupu nepatrně delší
+
 AMALTHEA Hradecký lev, žb, 9.8.86
-Aalborg II Labutí řeke — Arecajů Kačabka
-velmi dobrá *
-ch: Hynek Lang, Hr.Králové
-m: Jiří Skrbek, Pipice 7, 513 01 Semily
-J-měsíční fena, lekavá, nodůvěřivá při prohlížení chrupu, dolní čelist vle-
-vo jsem nemohl prohlédnout, ale zdá se, že má vě, zuby, skus nůžkový,
-nepostojí, ocas sklopen, zaúhlení končetin správné iž na zadní strmé odho-
-lenní a prsty nepatrně měkčí, takže při klusu pohyb končetin rozházený,
-hřbetní linie není rovná údů
-ANDROMEDA Hradecký lev, žb, 90886
-Aalborg II Labutí řeka - Aracajů Kačabka
-velmi dobrá
-ch: Hynek Lang, Hr.Králové
-m: Pavel Kaška, Rudé armády 504, 517 61 Rokytnice v 0.Ho
-9+měsíční fena, dobře vybarvená, celkem dobře se předvádí, dobře stavěná,
-typický výraz feny v chování, Pj vpravo dole chybí, vlevo dole P3 ve výně=
-ně, mimo zubního nálezu nadějná fena
+    Aalborg II Labutí řeka - Aracajú Kačabka
+    velmi dobrá
+    ch: Hynek Lang, Hr.Králové
+    m:  Jiří Skrbek, Pipice 7, 513 01 Semily
+
+    9-měsíční fena, lekavá, nedůvěřivá při prohlížení chrupu, dolní čelist vle-
+    vo jsem nemohl prohlédnout, ale zdá se, že má všechny zuby, skus nůžkový,
+    nepostojí, ocas sklopen, zaúhlení končetin správné až na zadní strmé odho-
+    lenní a prsty nepatrně měkčí, takže při klusu pohyb končetin rozházený,
+    hřbetní linie není rovná
+
+ANDROMEDA Hradecký lev, žb, 9.8.86
+    Aalborg II Labutí řeka - Aracajú Kačabka
+    velmi dobrá
+    ch: Hynek Lang, Hr.Králové
+    m:  Pavel Kaška, Rudé armády 504, 517 61 Rokytnice v O.H.
+
+    9-měsíční fena, dobře vybarvená, celkem dobře se předvádí, dobře stavěná,
+    typický výraz feny v chování, P3 vpravo dole chybí, vlevo dole P3 ve výmě-
+    ně, mimo zubního nálezu nadějná fena
+
 ARTEMIS Hradecký lev, čb, 9.8.86
-Aalborg II Labutí řeka - Aracajú Kačabka
-velmi dobrá
-ch: Hynek Lang, Hr.Králové
-m: Radko Loučka, U svodnice 105, Praha 10 - Královice
+    Aalborg II Labutí řeka - Aracajú Kačabka
+    velmi dobrá
+    ch: Hynek Lang, Hr.Králové
+    m:  Radko Loučka, U svodnice 105, Praha 10 - Královice

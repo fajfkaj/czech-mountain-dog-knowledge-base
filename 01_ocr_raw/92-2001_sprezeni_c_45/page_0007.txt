@@ -1,0 +1,55 @@
+# ZDROJ: Spřežení č. 45, rok 2001, strana nezjištěna
+# SOUBOR: 92-2001_sprezeni_c_45.pdf
+# PDF_STRANA: 7
+# TISTENA_STRANA: nezjištěna
+# OCR: tesseract-5.3.4 / ces / conf 92.8
+---
+Speciální výstava Soběslav 23. června 2001
+Jméno psa: AJAX z Velešínského hradu
+Pohlaví: pes
+Číslo zápisu: N Reg/CHP/1190/00
+Datum narození: 27.6.00
+Otec: Dong Růžová louka
+Matka: Deina Netolická obora
+Chovatel: RNDr. Divoká Dagmar
+Majitel: RNDr. Divoká Dagmar
+Třída: mladých
+Obdélníkový formát těla, dostatečně silná kostra, tmavé oko, výborná pigmentace, nůžkový skus, pevný
+hřbet, prostorný hrudník, dobře utvářené tlapky, PK v pohybu sbíhavá hlezna. Pes vykazuje známky agre-
+sivity, je nutno upevnit psa v povaze důslednou výchovou.
+Ocenění: dobrá
+Jméno psa: ARCHIBALD z Velešínského hradu
+Pohlaví: pes
+Číslo zápisu: N Reg/CHP/1191/00
+Datum narození: 27.6.00
+Otec: Dong. Růžová louka
+Matka: Deina Netolická obora
+Chovatel: RNDr. Divoká Dagmar
+Majitel: Gončárová Dana
+Třída: mladých
+Pes s výraznou samčí hlavou, nůžkovým skusem, plnochrupý, tmavé oko, dobře nasazené, dostatečně
+dlouhé uši, záď lehce převyšuje kohoutek, dlouhý krok, vyrovnaná povaha, srst v linání.
+Ocenění: výborná
+Tituly: CAJC
+Jméno psa: FROSTY od Vandy z Hájů
+Pohlaví: pes
+Číslo zápisu: CMKU/CHP 1117/99
+Datum narození: 13.8.99
+Otec: Blesk z Údolí Vošmendy
+Matka: Andy od Vandy z Hájů
+Chovatel: Kmochová Vanda
+Majitel: Kmochová Vanda
+Třída: otevřená
+Silná kostra, dobře osvalený pes, těsný nůžkový skus, poměr čenichu i lebky v poměru se standardem,
+uši vysoko nasazené, ale dosahují ke koutkům, pevný hřbet, dobře úhlené končetiny, uzavřené tlapky,
+výborně uložené lokty, srst bilá, žluté znaky - příliš krátká.
+Ocenění: výborná II.
+Jméno psa: NANUK
+Pohlaví: pes
+Čislo zápisu: P Reg/CHP/31/99
+Datum narození: 9.6.99
+Otec: Truck
+Matka: Abana
+Chovatel: -—-
+Majitel: Kůrka Václav
+Je Me rot

@@ -1,0 +1,54 @@
+# ZDROJ: Spřežení č. 13, rok 1990, strana nezjištěna
+# SOUBOR: 57-1990-06_sprezeni_c_13.pdf
+# PDF_STRANA: 21
+# TISTENA_STRANA: nezjištěna
+# OCR: tesseract-5.3.4 / ces / conf 87.8
+---
+m-
+A = od Fíka
+Akela na Mělích — Ela Faranda
+ch: Marcela Růžičková
+9 ADRA, Reg.353/B89, žb, 60,5em, 32kg - nechovné
+m: David Skrbek, 468 23 Loužnice
++předkus, plášt
+g ARNIKA, Reg. 357/89, Žb, 67cm, 39,5kg = chovná
+m: Jaroslav Růžička, 468 23 Loužnice 39
++větší než standard
+© ARIEL, Reg.356/89, žb, 63cm, 40kg - chovná
+m: Pavel Heřman, Pod lesem 2303, 544 O1 Dvůr Krélové nad Labem
++větší než standard
+A - Zlatá trubka
+Aalborg Labutí řeka —- Bessy Bačova koliba
+ch: Dagmar Fošenbauerová
+ď ART, Reg.312/88, čb, 63cm, 3Tkg m chovný
+m: Vratislav Večerka, Bílý Kříž, Staré Hamry
+krátké ucho, plášt, melír, nejístá povaha
+© ALFA, Reg.315/88, čb, Glem, 37kg - chovná
+m: Bohumil Havel a Aranka Červená, 357 22 Bublava 502
+krátké ucho, krátký ocas, tečkování
+© ÁJA, Reg.314/88, čb, 60cm, 32kg - chovná
+m: Pavel Dietrich, Englišova 48, 746 01 Opava
+měkký hřbet, malá plocha skvrn, tečkování, bázlivá poveha.
+A —- Netolická obora
+Dar Farande —- Athéna Hradecký lev
+ch: Helena Matě jekové.
+ď ADAN, Reg.336/88, žb, 64,5cm, 39,5kg = chovný
+m: Josef Matějek, Hornická 659, 384 11 Netolice
+krétké ucho, rozbíhavý postoj pánevních končetin, otevřené tlapky, pohyb
+málo vydatný
+d' ALERT, Reg.338/88, čb, 62cm, 3Tkg - chovný
+m: Ivo Folta, Ostravice, Frýdek-Místek
+plášt
+D - z Vlažinky
+Aiken od Hrčířských luk - Fortuna Třeboň-Kopeček
+ch: Petr Elster
+© DAGANA, Reg.272/88, čb, 6lem, 33,5kg - chovná
+m: Jindřich Yavříček, Bílý Kříž, Staré Hamry
+krátké ucho, krátký ocas, plášt, melír, bázlivé povaha
+B - ze Lhoty
+Aalborg Labutí řeka —- Alta Modrý potok
+ch: Josef Hepnar
+ď BIRT, Reg.303/88, čb, 62cm, 36kg - chovný
+m: Jaroslav Konečný, RRS Velká Morava, 561 69 Králíky
+krátké ucho, rozbíhavý postoj pánevních končetin, krátký ocas, při pohy-
+bu pánevní končetiny vybočují

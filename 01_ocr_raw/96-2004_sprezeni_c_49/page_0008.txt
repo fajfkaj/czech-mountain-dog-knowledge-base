@@ -1,0 +1,50 @@
+# ZDROJ: Spřežení č. 49, rok 2004, strana nezjištěna
+# SOUBOR: 96-2004_sprezeni_c_49.pdf
+# PDF_STRANA: 8
+# TISTENA_STRANA: nezjištěna
+# OCR: tesseract-5.3.4 / ces / conf 92.0
+---
+však ústí do určité fáze, kdy již nedochází k dalšímu zlepšování populace. Řešením je
+hledání predisponovaných genotypů metodami molekulární genetiky. Žádný konkrétní
+gen však nebyl dosud identifikován, Proto je v současné době jediná možnost selekce
+na DKK rentgenologické vyšetření.
+Ve světě existuje celá řada selektivních programů na DKK a evidencí výskytu tohoto
+onemocnění. Největší světovou databankou shromažďující údaje o DKK od všech ple-
+men psů je Ortopedická nadace pro zvířata - OFA ( Orthopedic Foundation for Animals
+), která vede záznamy o více než 750 tisících psů (www.offa.org.).
+K identifikaci DKK bylo vyvinuto mnoho diagnostických rentgenologických metod :
+Pravidla AVMA ( American Veterinary Medical Association ) - řídí se ji OFA. Posouzení
+má pouze obecná kriteria, protože se při hodnocení berou v úvahu rozdíly v RTG
+nálezech vzhledem k plemeni, pohlaví a věku psa. DKK se klasifikuje do 7 stupňů : nor-
+mální (1. výborný, 2. dobrý, 3. přiměřený) 4. hraniční, dysplastický (5. mírně, 6. střed
+ně, 7. těžce).
+Penn HIP systém (University of Pennsylvania Hip Improvement Program) - představu-
+je zcela novou metodu vyšetření kyčelního kloubu u psů, kterou lze využít již u 4
+měsíčních štěňat. Je založen na zhotovení 3 rozdílných RTG snímků, a to distrakčního,
+kompresního a klasického extenzního. Hodnotí se laxita (volnost kloubu) a případné
+degenerativní změny. Změřený distrakční a kompresní index je pak mirau laxity kyčel-
+ního kloubu, která je predispozici pro dysplazii.
+BVA/KC bodové schema (British Veterinary Association/Kennel Club) - je založeno na
+posouzení a definování anatomických ukazatelů na kyčelním kloubu (1. Norbergův
+úhel, 2. subluxace, 3. přední okraj kloubní jamky, 4. horní okraj kloubní jamky, 5. před-
+ni efektivní okraj kloubní jamky, 6. kloubní prostor, 7. zadní okraj kloubní jamky, 8.
+kloubní hlavice a výrůstky na krčku, 9. změny na hlavici). Tyto ukazatelé jsou hodno-
+ceny šestibodovým systémem od 0 do 6 (pro zadní okraj kloubní jamky pouze 5
+bodovým). Body všech ukazatelů se sčítají pro oba klouby a výsledkem je tzv. "hip sta-
+tus" , který vytváří dobrý přehled o stavu kyčlí psa. nejlepší ohodnocení je 0, nejhorší
+106.
+Švýcarské bodové schema (Dr. M. Flůckiger, University of Zurich) - podobný systém, —
+ale výsledek koreluje se stupni FCI. 6 definovaných anatomických ukazatelů na kloub:
+kyčelním (1. Norbergův Úhel, 2. poměr středu hlavice a horního okraje kloubní jamky,
+šířka kloubního prostoru, 3. předozadní okraj kloubní jamky, 4. subchondrální kost před-
+niho okraje kloubní jamky, 5. hlavice a krček, 6. Morganova linie) se hodnati pěti-
+bodovým systémem. Celkový počet bodů u jednoho kloubu je od 0 (nejlepší) do 30
+(nejhorší). Dle počtu bodů jsou klouby hodnoceny do 5 stupňů dle FCI. Tento systém je
+blízký posuzování v ČR,
+FCI ( Federation Cynologigue Internationale)
+Současná pravidla hodnocení byla stanovena na kongresu FCI v roce 1991 v
+Dortmundu 15 členskými zeměmi. Minimální věk pro diagnózu je jeden rok , pro velká
+plemena jeden a půl roku. DKK se hodnotí těmito stupni: A -0 negativní, B - 1
+hraniční, C-2 lehký, D-3 střední, E-4 těžký,
+Volně se hodnotí některé anatomické ukazatele jako je : Norbergův úhel, souběžnost
+Jo Janet

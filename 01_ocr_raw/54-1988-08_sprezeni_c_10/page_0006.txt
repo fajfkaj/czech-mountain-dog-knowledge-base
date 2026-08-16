@@ -1,0 +1,57 @@
+# ZDROJ: Spřežení č. 10, rok 1988, strana nezjištěna
+# SOUBOR: 54-1988-08_sprezeni_c_10.pdf
+# PDF_STRANA: 6
+# TISTENA_STRANA: nezjištěna
+# OCR: tesseract-5.3.4 / ces / conf 86.8
+---
+B - Modrý potok
+Alem=Kuh Labutí řeka = Atacama Studená=Javořice
+ch: Helena Nebeská
+BASCA Modrý potok, Reg.162/86, žb, 60cm, 29kg - povolen
+m: Petra Nováková, Liberec 1 vrh
+- chybí P1 vpravo dole, P2 vlevo dole, typ odpovídající, otevřené oko,
+měkký hřbet, ocas příliš stočený, melír, bázlivá, agresivní ke psům
+i k lidem
+BETY Modrý potok, Reg. 163/86, žb, 62ee, 38kg - chovná
+$ m: Tvana Roučková, Jablonec nad Nisou
+- typ odpovídající, prohnutý hřbet, silný melír, srst mírně zkadeřená
+A - Údolí Kačáku
+Big Lužický hvozd = Cedrana Faranda
+ch: Antonín Jehlička
+ALAN Údolí Kačáku, Reg.171/86, žb, 65em, 38kg - povoleno
+ď om: Vladimír Středa, Police nad Metují 1 krytí
+- chybí P3 nahoře oboustranně, ektropium, převislé pysky
+ALMA Údolí Kačáku, Reg. 172/86, žb, 63om, 38kg - chovná
+© mr. Antonín Jehlička, Loděnice
+- typ odpovídající, převislé pysky, otevřené oko, krátké ucho, měkký
+hřbet, melír, srst mírně zkadeřená, nejistá povaha
+ASTA Údolí Kačáku, Reg. 173/86, žb, 66cm, 36kg - chovná
+9 om: Alfréd Eisenmeyer, Stod
+- chybí P1 vpravo nahoře, převislé pysky, srst mírně zkadeřená, měkké
+záprstí, nejistá povaha
+A = Stráž nad Nežárkou
+Berrio z Vlažinky = Askó Labutí řeka
+ch: Jaroslav Drábek
+ADIRONDAK Stráž nad Nežárkou, Reg.167/86, čb, 66am, 41,5kg - chovný
+ď om: Jan Sanovec, Březová
+- převislé pysky, světlejší oko
+ARKTIK Stráž nad Nežárkou, Reg. 168/86, žb, 63,5om, 36kg - chovný
+GF om: Jaroslav Vystrčil, Jihlava
+- nepravidelný skus, pohlavní výraz nevyjádřený, ojedinělé tečky, srst
+mírně akadeřená, neurovnaný pohyb
+ARVICA Stráž nad Nežárkou, Reg. 170/86, čb, 66,5em, 38kg - chovná
+m: Karel Fiala, Ležáky v
+- větší než standard, rozbíhavý postoj pánevních končetin, plášt, teč-
+kování, pohyb neurovnaný
+ATHABASKA Stráž nad Nežárkou, Reg. 169/86, žb, 630m, 33,5kg - chovná
+m: Tomáš Zámostný, Radvanovice
+- chybí P4 vpravo dole
+A = na Mělích
+Artison Severní vítr - Arvica Kačabka
+ch: Blanka Kučerová
+AIKEN na Mělích, Reg. 184/86, žb, 65cm, 34kg - chovný
+m: Pavel Kobr, Pec pod Sněžkou
+AKELA na Mělích, Reg.185/B6, žb, 66cm, 38kg - chovný
+m: Petr Seifert, Náchod
+- měkký hřbet
+-=

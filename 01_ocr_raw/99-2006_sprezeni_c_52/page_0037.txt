@@ -1,0 +1,49 @@
+# ZDROJ: Spřežení č. 52, rok 2006, strana nezjištěna
+# SOUBOR: 99-2006_sprezeni_c_52.pdf
+# PDF_STRANA: 37
+# TISTENA_STRANA: nezjištěna
+# OCR: tesseract-5.3.4 / ces / conf 91.0
+---
+Feny
+Třída: mladých
+BAJKA Cidova bouda
+O: Eskym z Láskova
+CH: Keken Zoltán
+Třída: mezitřída
+ANDY Ledová bouře
+O: Dong Růžová louka
+CH: Trhlíková Alena
+"0
+ARKA Ledová bouře
+O: Dong Růžová louka
+CH: Trhlíková Alena
+Barunka Myší díra
+O: Alf z Repíku
+CH: Stárková Andrea
+GREJSI z Láskova
+BOB
+O: Nanuk
+nedostavila se
+M: Aika pod Svatou Horou
+M: Pokorný Milan
+V4
+M: Aimee pod Svatou Horou
+M: Trhlíková Alena
+V3
+M: Aimee pod Svatou Horou
+M: MUDr. Joselová Jana
+V2, Res. CAC
+M: Fíbí Růžová louka
+M: Hýsková Jitka
+V1, CAC, Vítěz speciální výstavy,
+M: Basty z Láskova
+CH: MUDR Fiedlerová LenkaM: Čápová Lenka
+Třída: otevřená
+CHESSIE Růžová louka
+O: Cenda z Láskova
+- CH: Kaňský Oldřich
+© ký
+M: Reslová Jana
+Vi
+M: Ariel od Kamenické říčky
+27

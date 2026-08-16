@@ -1,0 +1,12 @@
+# ZDROJ: Spřežení č. 46, rok 2001, strana nezjištěna
+# SOUBOR: 93-2001_sprezeni_c_46.pdf
+# PDF_STRANA: 1
+# TISTENA_STRANA: nezjištěna
+# OCR: tesseract-5.3.4 / ces / conf 82.8
+---
+-
+-ČT č. 46
+SPŘEŽENÍ
+Klub českého horského psa - 2001
+7 AM
+Veselé Vánoce a šťastný nový rok 2002

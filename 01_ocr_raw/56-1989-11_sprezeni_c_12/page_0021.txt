@@ -1,0 +1,45 @@
+# ZDROJ: Spřežení č. 12, rok 1989, strana nezjištěna
+# SOUBOR: 56-1989-11_sprezeni_c_12.pdf
+# PDF_STRANA: 21
+# TISTENA_STRANA: nezjištěna
+# OCR: tesseract-5.3.4 / ces / conf 93.3
+---
+= 20
+těchto malých zubů je zaviněno regresí chrupu u psa. Mnoho pracovníků (včetně mne)
+dokázalo chybění M3 u psů (i jednotlivých plemen) v (viz Kratochvíl 1961) počtu
+3298 psů chyběl jen u 178, tj. 5%. Poukázal jsem však na to, že procento chybění
+tohoto zubu je různé dle plemen. Rozdíl v % výskytu je u různých plemen signifi-
+kantní! Dá se tudíž tvrdit, že chybění M3 je rovněž dědičné a jak ukázala má dal-
+ší práce specielně zaměřená na M3, i tento nedostatek lze výběrem rodičů (pro M3
+plnochrupých resp. chudozubých) ovlivnit, jako u ostatních zubů!
+V plemeni, kde chybění M3 je základní chybou, spojování rodičů s M3 nebo
+s chybějícím jedním a druhým partnerem pro M3 plnochrupým, dává více potomků s
+M3, případně chybí méně těchto zubů!
+Pokud se týká Pl, má tento zub být prořezán jako první stálý zub a to při-
+bližně ve stáří jedince 105 dnů. Pakliže se prořezává později, je to nenormální
+a pravděpodobně počátek pozdějšího chybění tohoto zubu vůbec (u potomků). Další
+jeho specificitou může být, že v chrupu je neprořezén (ale je), což lze konstato-
+vat pouze rentgenem. To je samozřejmě další stupen nenormálnosti vývoje tohoto
+zubu. Konečně pak může chybět vůbec! Čili Pl má 4 stupně vývoje a to: 1/ normálně
+vyvinutý (ve 105 dnech), 2/ prořezává se později (až v 17-19 měs.), 3/ není pro-
+řezán, ale je, 4/ vůbec chybí. Podobně všek 1 M3 nemusí být prořezán a tak jedi-
+nec je kvalifikován pro tento zub jako chudozubý. Při statistice výskytu chybění
+M3 bylo stanoveno, že častěji u psa chybí, který má všechny P 1 M (až na M3) a
+že nejčastěji chybí oba.
+Mimo M3 chybí další moláry jen výjimečně, U špičéků bylo konstatováno, že
+rovněž jeden nebo oba (dole) mohou chybět a že se to dále dědí. Výskyt byl nale-
+zen jen u bedlington terrierů,
+Chybění řezáků (popsáno v dolní čelisti) se rovněž vyskytuje. Pravděpodobný
+důvod je zmenšení spodní čelisti vůbec, ale chybí i při čelistech normálně vyvi-
+nutých. Popsáno bylo u plemene s vysokým stupněm příbuzenské plemenitby a jak
+chovné výsledky ukazují, chová se tento nedostatek shodně jako chybění jiných
+zubů, tj. je recesivní povahy.
+Při hodnocení počtu zubů u psa v chrupu je nutno přihlížet k tomu, zda po=
+čítané zuby jsou zuby stálými, nebot je známo, že mléčné zuby mohou být nevyměně-
+ny (jsou to tzv. persistující zuby mléčné) a v dospělostí mohou být pokládány za
+zuby stálé. Mají však jiný tvar 1 barvul Tyto persistující zuby obyčejně ve vyš-
+ším věku (4 roky a později) pak samy vypadnou a takový pes pak tam má po zubu me-
+zeru. Je to překvapení nemilé, nebot předtím byl pes hodnocen jeko plnochrupý a
+pak je vlastně chudozubý
+Centa z Vlažinky
+Pavel Svoboda

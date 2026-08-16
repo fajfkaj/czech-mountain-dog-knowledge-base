@@ -1,0 +1,13 @@
+# ZDROJ: Spřežení č. 23, rok 1992, strana nezjištěna
+# SOUBOR: 69-1992-12_sprezeni_c_23.pdf
+# PDF_STRANA: 19
+# TISTENA_STRANA: nezjištěna
+# OCR: tesseract-5.3.4 / ces / conf 94.8
+---
+Při skenování tohoto čísla jsem si všiml, že nějak nesouhlasí stránkování.
+Jak jsem si ověřil u Standy Stěpánka, po stránce č.12 následuje opravdu
+stránka "KLUB ČESKÉHO HORSKÉHO PSA" výboru KČHP a pak hned č.19,
+takže fakt žádná nechybí.
+Podobné „úlety“ byly většinou způsobeny tím, že ten, kdo časopis rozmno-
+žoval, vložil sem-tam nějaký list či informaci navíc.
+o.kupka.

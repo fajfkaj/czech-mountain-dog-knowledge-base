@@ -1,0 +1,57 @@
+# ZDROJ: Spřežení č. zvláštní (1993-04), rok 1993, strana nezjištěna
+# SOUBOR: 71-1993-04_sprezeni_special.pdf
+# PDF_STRANA: 51
+# TISTENA_STRANA: nezjištěna
+# OCR: tesseract-5.3.4 / ces / conf 92.0
+---
+- 49 -
+Při tlumení výskytu škrkavek má velký význam průběžné udržování čistoty, pravidelné kaž=
+dodenní odstranování trusu a občasná dezinfekce prostředí, zejména před vrhem štěnat.
+Nejspolehlivější je ožehnout nehořlavou podlahu kotce plamenem benzínové lampy, dřevěné
+části omýt 3% horkým hydroxidem sodným. Dana Kupková
+Spřežení č.8 - listopad 87
+V ——————————>———————Ú
+HYNUTÍ NOVOROZENÝCH ŠTĚŇAT
+Smrt nejmenších štěnat má sice vždy určitou příčinu, ale ne vždy jsou tyto příčiny zřejmé
+a zjistitelné - pro chovatele | pro běžně vybavené veterinární zařízení. Nejmenší štěnata
+často hynou během pouhých několika hodin, takže příznaky onemocnění ani nelze pozorovat.
+Podle statistik (z USA, Velké Británie, Francie, Austrálie, Švýcarska) činí ztráty v cho=
+vech 20 - 30%. V jednotlivých chovech jsou ale velké rozdíly. Ve zdravých, správně oše=
+třovaných chovech jsou ztráty max. 10 = 20%, v chovech s nedostatečnou hygienou, výživou
+a preventivní péčí 40 = 80%, někdy i 100%.
+(Je známo, že úmrtnost novorozených štěnat výrazně zvyšuje i nadměrné užívání př buzenské
+plemenitby. Přesto v chovu ČHP za loňský rok činily ztráty necelých 30% = včetně štěňat
+mrtvě narozených, což odpovídá průměru ve světě.)
+Nejkritičtější jsou první dny po narození.
+Z celkového počtu uhynulých Štěnat uhyne při porodu a krátce po něm 37%; v 1.týdnu života
+28,1%; ve 2.týdnu 10%; ve J.týdnu 6,1%; ve 4.týdnu 4,7%.
+Příčiny úhynů:
+1. vrozená poškození dědičná
+2. vrozená poškození nedědičná
+3. těžký nebo nesprávně vedený porod
+4. neinfekční onemocnění
+5, infekční nemoci
+ad 1. Nežádoucí vlohové založení může být příčinou zrůdného vývoje určitých orgánů nebo
+část( těla. Tyto dědičné vady je třeba sledovat a selekcí chovných jedinců omezo-
+vat na minimum; příp. alespon změnit chovného partnera.
+Nejčastější anomálie: vrozené znetvoření lebky
+zrůdný vývoj končetin
+vrozená průtrž bránice
+rozštěp patra
+abnormální vývoj plicní tkáně
+neschopnost plic naplnit se vzduchem
+vrozené uzavření řitního otvoru
+chybění ledvin
+ad 2. Mohou být způsobená nesprávnou výživou matky v průběhu březosti, jejím onemocněním,
+začervením, podáváním nevhodných léků. Projevy podobné jako ad 1.
+ad 3. Udušení, inhalace plodové vody, vnitřní krvácení.
+ad 4. Poruchy funkce určitých orgánů, způsobené podchlazením, přehřátím, podvýživou, ne-
+dostatečnou péčí feny, otravou mlékem při onemocnění feny apod.
+ad 5. Štěně se může infikovat během porodu choroboplodnými zárodky v porodních cestách
+a po narození choroboplodnými zárodky v mléce matky nebo v okolním prostředí. Tyto
+mohou pocházet od matky, od jiných psů, ale i jiných druhů zvířat i od člověka. To,
+zda štěně onemocní, závisí mimo jiné na hladině protilátek v jeho organismu. Ty au
+jednak předává matka v době březosti přes placentu a těsně po narození mlezivem -
+tzv. pasivní imunita; jednak se vytvářejí aktivní imunitou. Aktivní obranný mecha-
+nismus ale po narození teprve začíná fungovat, proto je riziko infekce nejvyšší
+prvních 10 dní. Plně funkční je obranný mechanismus od 8, až 16, týdne.

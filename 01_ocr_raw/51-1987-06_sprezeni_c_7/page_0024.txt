@@ -1,277 +1,104 @@
-# ZDROJ: Spřežení č. 7, rok 1987, strana nezjištěna
+# ZDROJ: Spřežení č. 7, rok 1987, s. 22
 # SOUBOR: 51-1987-06_sprezeni_c_7.pdf
 # PDF_STRANA: 24
-# TISTENA_STRANA: nezjištěna
-# OCR: tesseract-5.3.4 / ces / conf 26.8
+# TISTENA_STRANA: 22
+# OCR: vision (AI dočtení, tesseract conf pod prahem); strana otočená - výsledkové tabulky závodů sezony 86/87
 ---
-=
-VÝSLEDKOVÁ LISTINA SEZONY 84/87
-vd
-zT“po:S8
-p9zy'T8
-Ep:
-pl“pp SL
-ge“2t'bL
-GS*£C:EL
-ze“CT'£L
-pa“2st2l
-e2'at'2l
-16*<6:l9
-99 14:99
-er“9c:S9
-16“ 89:9
-Sp“ Lziy9
-zrt“or:29
-91" 94:09
-64“62:09
-£696166
-Bo'gG:96
-TP“ 62:8
-ce“pT:8s
-GT" 60:8G
-go' 20:84
-61 TT*LS
-ta“ eb 19
-pa“ z61GG
-99“ TG'bS
-Egtze:+S
-og“z0:£S
-BG“ 1G:T6
-ag“pc:6b
-oz“ 11:6
-Gg“cc:8b
-ze“6p:lý
-LWoT:l$
-28*T*T£
-“
-mx zpr 3H400TP
-Bt4y S
-Ruessy. HS
-exgY S
-xrupoTo£ USJIY JH)
-d0doxy BAOXUBC po UUOS TH)
-Km ES
-BOT IOAB P=puepnS BWSOU$Y 4HÓ
-c VpýBíBA AkAaVO SHÓ
-By8í T4naPT 18030£
-SOTJIOABP-PUDPNS su;
-18,713 1
-098T) ES
-4uSr4a SAI
-3030d Kapox 19uY dHO
-Bye J40g87 "TONY AHÓ
-984 HS
-xe,0doy-uog94, VUny404 ZA)
-By9x Jinge7 UNY-UBTY AH
-By9£ F1Na97 sTA9UVE KH)
-Byg8z8x nÍBoBIY JHD
-uoaxy HS
-AT UoKxsAz2UJH po USXTY JH)
-y9g9doy-uoge1p J9U89 KH
-1,TA JU49a0g 8w8087Y ZH)
-VyUTZSTA OF4494 TH)
-ByUTZVTA UJOY,T9JE JH)
-4
-Bsygszvy £u831Y IH)
-J3FA Juaeaeg$ TT9G dH)
-pzoay £x9T 9J3Y 4H9
-434 TU419a9g UOST34V ZHý
-ex04 r3nae7 J10grsy dHý
-VyUTZ8TA UOTATY dH)
-oddox*xuef po S8sxY JH)
-Bpus4B UVITÍ dH)
-„PYDY,
-Tzn HuraoUtxs o
-Tznu Buraolrys - HSS) 419404191 "II *
-T381%
-wu tef e8 p0o49Z
-*jg 3419
-"38" JpTANG
-z9s0£ zI4X
-Bf. JOTYSSSR
-*pTo tydny
-121035
-*T8048f PUFH
-"a ASTÉ910X
-*peT TBYDTH
-"1ey| UOTVRS
-'090(t 8BBN
-"uv PLONE
-"ao BYSBXEN
-FAF0 AOTTBA
-jesof fpaH
-*0Z 1828187
-*so[ 49151
-+3 snoulou
-1,0 JPYDOJ
-oxp?y PX2NOT
-m9TTA 3N9
-*y xe,
-1301 490
-230 4x54037A
-*x8( U910%
-*gor T8xeus
-yoteJuepTeH
-*( xoupATTA
-"4 W9UDOJ
-T948 490%
-*£ AFTZUSH
-, 1304 493817
-*p touormg
-"A 8AJPÁ
-*peTA XOUOAK
-"aE
-*v£
-"CE
-*z£
-"T£
-*0£
-"62
-"88
-"LE
-"98
-"Ge
-*po
-"£a
-sec
-"Tě
-*o0z
-*6T
-*eT
-"LT
-*9T
-*6T
-*vT
-*€T
-*ST
-SGE
-*oT
-*6
-"8
-"L
-"9
-"G
-"$
-"de
-"č
-JE
-A0avZ
-potbriT dH
-zettT3T KH-
-SC*0T'T, dH)
-T
-00:GE:T HO
-T8:2T*T- 4Hý
-2b:60:T 4Hý
-So:lo:T NY
-80:20'T 4dHý
-pr:00:T dHý
-00:89 4H9
-9
-1861"T"TT-0T
-T10
-|, TBG NTWD
-*pBTA A9UOOS
-404 4039T3
-TATO SZTJE
-uef AFCX
-ABTOBA BXIOH
-TAtP Jafody
-d301 AFTZUBH
-Tatf TOYormJ
-UBAI 490
-TUBAOJTITPE(XOU
-e18 “prelop
-SEi0£3T
-Gb *8č*T
-96:be*T
-£G*6T*T
-m
-|
-"2 © L
-TE*bO*T
-pe bo'T
-e$'č0*T
-0020 *T
-čo '*T0*T
-pe '00'T
-6:69
-0686
-LE*LS
-ST*LS
-91196
-0046
-LAA 2Í
-9S'26
-Te
-96:TS
-0£*06
-£2:06
-£0*6+
-"E
-*
-k
-15 37.23 SEE © 0 Od PA 97
-dBUdďEE
-PIA S
-OTSTA
-"41 X929T0H
-"C Sz74H
-*BOCf Y9YNOS
-*T8O1BD BUTX
-1"d 508
-CHHTAOAVYTO T
-161430419;
-pe- ft TOT
-+ m Mia Jj
-a Xolyg4sh
-“45jf UoTpec
-JSs0[' BW926X
-uef AIT3
-UuTy4Vy [OUT
-*sop TBxfeus
-"18 6830%
-oxpsu 8XRNOT
-740 43940374
-4050£ 4939T4
-MSTTA JN
-*80(f JeUPATLY
-JOGTT 8d9TBN
-T94By aUOUfSY
-TOABT JPUDSK
-T391 4907
-*yy 92T
-JyeS J938TX
-T304 NFTZT8H
-ABTOPA VXINYA
-TPABY 490%
-FAEC (9YDTEA
-UBAI JGOY
-"TA X9U091
-=
-"EE
-"6c
-"Sc
-c
-"Tě
-*6T
-*8t
-*4T
-"9T
-*6T
-*»T
-"26
-*2T
-"ER
-*oT
-"6
-"a
-"L
-*9
-“G
-há
-*€
-"e
-=
-ar 19078
-NOJZANS GOď 041
+- 22 -
+
+VÝSLEDKOVÁ LISTINA SEZONY 86/87
+
+
+PEC POD SNĚŽKOU                                        10-11.1.1987
+
+skijöring:
+ 1. Pechek Vl.        49:03
+ 2. Kobr Ivan         50:23
+ 3. Emichel Jiří      50:30
+ 4. Kobr Pavel        51:56
+ 5. Kůrka Václav      52:14
+ 6. Hanzlík Petr      52:58
+ 7. Elster Petr       53:34
+ 8. Kubíček K.        55:00
+ 9. Kobr Petr         56:16
+10. Pechek Pavel      57:15
+11. Rejhons Karel     57:37
+12. Nálepa Libor      58:50
+13. Křivánek Jos.     59:55
+14. Gut Vilém       1:00:24
+15. Elster Josef    1:01:02
+16. Vítovský Ota    1:02:00
+17. Loučka Radko    1:02:58
+18. Koten Jar.      1:04:24
+19. Smejkal Jos.    1:04:31
+20. Kincl Martin    1:05:43
+21. Klír Jan        1:07:14
+22. Nečas Josef     1:08:42
+23. Sedloň Mar.     1:09:14
+24. Maršálek Jan    1:11:24
+25. Heidenreich P.  1:13:22
+26. Kleinwechter    1:13:54
+27. Seneš Dal.      1:16:34
+28. Říha Jarosl.    1:19:53
+29. Souček Jos.     1:24:56
+30. Bříza J.        1:28:45
+31. Holeček Mir.    1:30:35
+
+    Fiala
+    Bublák          dojeli, ale neklasifikováni
+    Hepnar
+
+spřežení - kategorie C:
+1. Kobr Ivan       CHP   58:00
+2. Emichel Jiří    CHP  1:00:14
+3. Hanzlík Petr    CHP  1:02:08
+4. Krejčí Jiří     AM   1:07:05
+5. Kůrka Václav    CHP  1:09:42
+6. Klír Jan        CHP  1:12:21
+7. Bříza Jiří      CHP  1:35:00
+
+spřežení - kategorie B:
+1. Elster Petr     CHP  1:10:35
+2. Pechek Vlad.    CHP  1:11:32
+3. Chlum Jan       CHP  1:14:54
+
+
+ZADOV - II. Mistrovství ČSSR - skijöring muži                     31.1.87
+
+ 1. Pechek Vlad.    "Adid"                                47:10,17
+ 2. Kůrka V.        CHP Ciran Faranda                     47:49,82
+ 3. Emichel J.      CHP Aksas od Jank.kopce                48:33,55
+ 4. Elster Petr     CHP Albion Vlažinka                    49:11,20
+ 5. Hanzlík P.      CHP Aalborg Labutí řeka                49:34,58
+ 6. Kobr Pavel      CHP Artison Severní vítr                51:57,58
+ 7. Pechek P.       CHP Afré Lužický hvozd                  53:02,50
+ 8. Křivánek J.     CHP Bell Severní vítr                    54:32,53
+ 9. Heidenreich     CHP Artana Kačabka                       54:51,86
+10. Smejkal Jos.    CHP Breithorn Vlažinka                    55:32,54
+11. Koten Jar.      CHP Berrio Vlažinka                       55:48,81
+12. Vítovský Ota    CHP Atacama Severní vítr                   57:11,19
+13. Kobr Petr       CHP Genek Třeboň-Kopeček                    58:02,05
+14. Kubíček K.      CHP Aiken od Hrnčířských luk                58:09,15
+15. Gut Vilém       SH  Akron                                    58:14,23
+16. Loučka Radko    CHP Aracajú Kačabka                          58:25,41
+17. Pechek Petr     CHP Benevis Labutí řeka                       58:55,08
+18. Rejhons K.      CHP Alam-Kuh Labutí řeka                       59:56,93
+19. Elster Jos.     CHP Fortuna Třeboň-Kopeček                      60:29,49
+20. Zamazal Zd.     SH  Back                                        60:46,78
+21. Hrdý Josef      CHP Akela Labutí řeka                             62:10,12
+22. Müller Jiří     CHP Aneta Modrý potok                              64:27,45
+23. Mikáska Jos.    IVŠ Bright                                        64:58,97
+24. Bublák K.ml.    SH  Cisco                                          65:38,18
+25. Nečas Josef     SH  Bakungan                                       66:51,86
+26. Sedloň Mar.     CHP Atlas Studená-Javořice                          67:55,91
+27. Michal Lad.     CHP Bethel Labutí řeka                               72:18,22
+28. Motejlek M.     CHP Cavyk Faranda                                    72:52,88
+29. Říha Jarosl.    CHP Atacama Studená-Javořice                          73:13,22
+30. Sturzík         SH  Bary                                              73:33,55
+31. Kupka Old.      CHP Bonn od Jankova kopce                              74:12,85
+32. Maršálek Jan    CHP Alben Poledník                                     75:44,74
+33. Kříž Josef      S   Aška                                                77:43,72
+34. Bublák K.st.    SH  Assana                                              81:42,64
+35. Gryc M.         S   Aria                                                 85:04,12
+
+Závod se jel na trati dlouhé 14,2 km

@@ -1,0 +1,129 @@
+# ZDROJ: Spřežení č. 32, rok 1996, strana nezjištěna
+# SOUBOR: 79-1996-01_sprezeni_c_32.pdf
+# PDF_STRANA: 16
+# TISTENA_STRANA: nezjištěna
+# OCR: tesseract-5.3.4 / ces / conf 88.5
+---
+třída 4 psů
+Vana st.
+Kolář Zdeněk
+Kmochová Vanda
+Strakoš Josef
+Švecová Patr.
+Beneš Josef
+BLEDENICE
+5 BB
+6.
+a 67
+4.
+10.
+délka trati:
+kategorie Bl
+Sedláček Vit
+Martinů Vlastimil
+kategorie B2
+Brož Ladislav
+Kučera Pavel
+kategorie C1
+Nesnerová Dáša
+Brabec František
+kategorie C2
+Kmochová Vanda
+Kostka Olda
+Heller Radek
+6500 m
+6SH
+6SH
+4SH
+4SH
+AH
+SH
+ČHP
+AH
+SH
+AM
+10:53
+12:23
+12:29
+14:41
+20:19
+26:24
+ALKA '95
+15:21,03
+48:55,80
+Z yd
+24:30,24
+15:55,40
+36:51,56
+17520,70
+22:27,15
+32:51,89
+10:52
+12:29
+13:13
+16:04
+22:15
+25:48
+15:17,09
+20:06,44
+20:33,11
+23:36,76
+14:32,00
+34:15,16
+17:58,26
+21:40,40
+29:53,36
+21:45
+24:52
+25:42
+30:45
+42:34
+52:12
+28/29.10:95
+30:38,12
+69:02,24
+44:00,44
+48:07,00
+30:27,40
+71:06,72
+35:18,96
+44:07,55
+62:45,25
+Zavodník startovní číslo 2 Měšťan Standa byl potrestán penalizací 2 min za nedodržení závodního řádu,
+kategorie SM
+Horák Jan
+Jirák Jan
+Němec V. Jr
+kategorie SM open
+Prokůpek Aleš
+kategorie SZ
+Holoubková Jitka
+Leva Michaela
+B TŘEBIHOSTŤ
+=
+.
+kategorie C
+Svatoň Jan
+Kmochová Vanda
+10 spřežení
+4SH
+4ČHP
+21:30,54
+27:12,50
+31:03,44
+24:56,09
+23:49,99
+36:03,36
+21:37,53
+26:15,48
+29:32,95
+26:38,94
+23:49,15
+37:40,67
+43:08,07
+53:27,98
+60:36,39
+51:35,03
+47:24,14
+73:44,03
+11/12.11:95

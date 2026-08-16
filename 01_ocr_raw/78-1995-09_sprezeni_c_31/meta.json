@@ -1,0 +1,244 @@
+{
+  "stranky": [
+    {
+      "pdf_strana": 1,
+      "tistena_strana": "nezjištěna",
+      "conf": 92.0,
+      "ocr_metoda": "tesseract",
+      "pocet_slov": 62,
+      "znaku": 332
+    },
+    {
+      "pdf_strana": 2,
+      "tistena_strana": "nezjištěna",
+      "conf": 0.0,
+      "ocr_metoda": "tesseract-low",
+      "pocet_slov": 0,
+      "znaku": 0
+    },
+    {
+      "pdf_strana": 3,
+      "tistena_strana": "nezjištěna",
+      "conf": 77.8,
+      "ocr_metoda": "tesseract-low",
+      "pocet_slov": 534,
+      "znaku": 3396
+    },
+    {
+      "pdf_strana": 4,
+      "tistena_strana": "nezjištěna",
+      "conf": 78.0,
+      "ocr_metoda": "tesseract-low",
+      "pocet_slov": 216,
+      "znaku": 1397
+    },
+    {
+      "pdf_strana": 5,
+      "tistena_strana": "nezjištěna",
+      "conf": 91.6,
+      "ocr_metoda": "tesseract",
+      "pocet_slov": 166,
+      "znaku": 1056
+    },
+    {
+      "pdf_strana": 6,
+      "tistena_strana": "nezjištěna",
+      "conf": 88.5,
+      "ocr_metoda": "tesseract",
+      "pocet_slov": 32,
+      "znaku": 195
+    },
+    {
+      "pdf_strana": 7,
+      "tistena_strana": "nezjištěna",
+      "conf": 84.3,
+      "ocr_metoda": "tesseract-low",
+      "pocet_slov": 443,
+      "znaku": 2554
+    },
+    {
+      "pdf_strana": 8,
+      "tistena_strana": "nezjištěna",
+      "conf": 94.4,
+      "ocr_metoda": "tesseract",
+      "pocet_slov": 307,
+      "znaku": 1868
+    },
+    {
+      "pdf_strana": 9,
+      "tistena_strana": "nezjištěna",
+      "conf": 93.8,
+      "ocr_metoda": "tesseract",
+      "pocet_slov": 356,
+      "znaku": 2316
+    },
+    {
+      "pdf_strana": 10,
+      "tistena_strana": "nezjištěna",
+      "conf": 92.0,
+      "ocr_metoda": "tesseract",
+      "pocet_slov": 426,
+      "znaku": 2617
+    },
+    {
+      "pdf_strana": 11,
+      "tistena_strana": "nezjištěna",
+      "conf": 92.6,
+      "ocr_metoda": "tesseract",
+      "pocet_slov": 468,
+      "znaku": 2970
+    },
+    {
+      "pdf_strana": 12,
+      "tistena_strana": "nezjištěna",
+      "conf": 90.8,
+      "ocr_metoda": "tesseract",
+      "pocet_slov": 522,
+      "znaku": 3454
+    },
+    {
+      "pdf_strana": 13,
+      "tistena_strana": "nezjištěna",
+      "conf": 91.4,
+      "ocr_metoda": "tesseract",
+      "pocet_slov": 403,
+      "znaku": 2677
+    },
+    {
+      "pdf_strana": 14,
+      "tistena_strana": "nezjištěna",
+      "conf": 90.4,
+      "ocr_metoda": "tesseract",
+      "pocet_slov": 499,
+      "znaku": 3240
+    },
+    {
+      "pdf_strana": 15,
+      "tistena_strana": "nezjištěna",
+      "conf": 91.1,
+      "ocr_metoda": "tesseract",
+      "pocet_slov": 427,
+      "znaku": 2767
+    },
+    {
+      "pdf_strana": 16,
+      "tistena_strana": "nezjištěna",
+      "conf": 89.1,
+      "ocr_metoda": "tesseract",
+      "pocet_slov": 312,
+      "znaku": 1797
+    },
+    {
+      "pdf_strana": 17,
+      "tistena_strana": "nezjištěna",
+      "conf": 92.5,
+      "ocr_metoda": "tesseract",
+      "pocet_slov": 502,
+      "znaku": 2936
+    },
+    {
+      "pdf_strana": 18,
+      "tistena_strana": "nezjištěna",
+      "conf": 92.6,
+      "ocr_metoda": "tesseract",
+      "pocet_slov": 161,
+      "znaku": 1014
+    },
+    {
+      "pdf_strana": 19,
+      "tistena_strana": "nezjištěna",
+      "conf": 46.0,
+      "ocr_metoda": "tesseract-low",
+      "pocet_slov": 69,
+      "znaku": 335
+    },
+    {
+      "pdf_strana": 20,
+      "tistena_strana": "nezjištěna",
+      "conf": 26.8,
+      "ocr_metoda": "tesseract-low",
+      "pocet_slov": 152,
+      "znaku": 703
+    },
+    {
+      "pdf_strana": 21,
+      "tistena_strana": "nezjištěna",
+      "conf": 88.1,
+      "ocr_metoda": "tesseract",
+      "pocet_slov": 599,
+      "znaku": 3668
+    },
+    {
+      "pdf_strana": 22,
+      "tistena_strana": "nezjištěna",
+      "conf": 85.9,
+      "ocr_metoda": "tesseract",
+      "pocet_slov": 600,
+      "znaku": 3515
+    },
+    {
+      "pdf_strana": 23,
+      "tistena_strana": "nezjištěna",
+      "conf": 86.4,
+      "ocr_metoda": "tesseract",
+      "pocet_slov": 233,
+      "znaku": 1731
+    },
+    {
+      "pdf_strana": 24,
+      "tistena_strana": "nezjištěna",
+      "conf": 92.6,
+      "ocr_metoda": "tesseract",
+      "pocet_slov": 162,
+      "znaku": 1004
+    },
+    {
+      "pdf_strana": 25,
+      "tistena_strana": "nezjištěna",
+      "conf": 92.3,
+      "ocr_metoda": "tesseract",
+      "pocet_slov": 117,
+      "znaku": 718
+    },
+    {
+      "pdf_strana": 26,
+      "tistena_strana": "nezjištěna",
+      "conf": 86.0,
+      "ocr_metoda": "tesseract",
+      "pocet_slov": 92,
+      "znaku": 536
+    },
+    {
+      "pdf_strana": 27,
+      "tistena_strana": "nezjištěna",
+      "conf": 92.3,
+      "ocr_metoda": "tesseract",
+      "pocet_slov": 575,
+      "znaku": 3462
+    },
+    {
+      "pdf_strana": 28,
+      "tistena_strana": "nezjištěna",
+      "conf": 93.5,
+      "ocr_metoda": "tesseract",
+      "pocet_slov": 540,
+      "znaku": 3354
+    },
+    {
+      "pdf_strana": 29,
+      "tistena_strana": "nezjištěna",
+      "conf": 88.1,
+      "ocr_metoda": "tesseract",
+      "pocet_slov": 53,
+      "znaku": 310
+    },
+    {
+      "pdf_strana": 30,
+      "tistena_strana": "nezjištěna",
+      "conf": 66.4,
+      "ocr_metoda": "tesseract-low",
+      "pocet_slov": 448,
+      "znaku": 2786
+    }
+  ]
+}

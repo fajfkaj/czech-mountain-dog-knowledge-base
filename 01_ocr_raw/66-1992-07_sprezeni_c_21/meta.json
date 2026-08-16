@@ -143,6 +143,22 @@
       "ocr_metoda": "tesseract",
       "pocet_slov": 299,
       "znaku": 1850
+    },
+    {
+      "pdf_strana": 19,
+      "tistena_strana": "nezjištěna",
+      "conf": 92.2,
+      "ocr_metoda": "tesseract",
+      "pocet_slov": 387,
+      "znaku": 2342
+    },
+    {
+      "pdf_strana": 20,
+      "tistena_strana": "nezjištěna",
+      "conf": 92.1,
+      "ocr_metoda": "tesseract",
+      "pocet_slov": 193,
+      "znaku": 1161
     }
   ]
 }

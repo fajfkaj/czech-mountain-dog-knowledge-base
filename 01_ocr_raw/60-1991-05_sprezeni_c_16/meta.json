@@ -63,6 +63,30 @@
       "ocr_metoda": "tesseract-low",
       "pocet_slov": 0,
       "znaku": 0
+    },
+    {
+      "pdf_strana": 9,
+      "tistena_strana": "nezjištěna",
+      "conf": 88.5,
+      "ocr_metoda": "tesseract",
+      "pocet_slov": 1295,
+      "znaku": 8064
+    },
+    {
+      "pdf_strana": 10,
+      "tistena_strana": "nezjištěna",
+      "conf": 85.4,
+      "ocr_metoda": "tesseract",
+      "pocet_slov": 873,
+      "znaku": 5306
+    },
+    {
+      "pdf_strana": 11,
+      "tistena_strana": "nezjištěna",
+      "conf": 86.1,
+      "ocr_metoda": "tesseract",
+      "pocet_slov": 412,
+      "znaku": 2318
     }
   ]
 }

@@ -1,0 +1,55 @@
+# ZDROJ: Spřežení č. 45, rok 2001, strana nezjištěna
+# SOUBOR: 92-2001_sprezeni_c_45.pdf
+# PDF_STRANA: 10
+# TISTENA_STRANA: nezjištěna
+# OCR: tesseract-5.3.4 / ces / conf 92.0
+---
+Ocenění: výborná |.
+Tituly; CAC
+Jméno psa: AIMI Betty od zelené kašny
+Pohlaví: fena
+Číslo zápisu: /CHP/1086/98
+Datum narození: 27.7.98
+Otec: Alf z Řepíku
+Matka: Bety
+Chovatel: Pfeifer Stanislav
+Majitel: Pfeifer Stanislav
+Třída: otevřená
+Silná kostra, nůžkový skus, tmavé oko, volná kůže na krku, měkký hřbet, sbíhavý postoj pánevních
+končetin, fena má symetricky zbarvenou hlavu, plotna přechází na krk, na těle převažuje bílá barva, dobře
+osrstěná, byla předvedena v poněkud výživnější kondici, fena je plachá až bázlivá, chybí ji sebevědorní.
+Ocenění: velmi dobrá
+Jméno psa: CARINA Růžová louka
+Pohlaví: fena
+Číslo zápisu: N Reg/CHP/965/96
+Datum narozeni: 18.7.96
+Otec:Birt ze Lhoty
+Matka: Aida z Dubových pasek
+Chovatel: Kaňský Oldřich
+Majitel: Vodák Milan
+Třida: otevřená
+Dobře utvářená fena s černým pláštěm, bílý límec, černá hlava, těsný nůžkový skus, tmavé oko, plochá
+lebka, rovný nos, uši dobře nasazené i nesené dostatečné délky, HK v postoji sbíhavé tlapky, mechanika
+pohybu pružná, lehká, fenka je neklidná, osrstění výstavní.
+Ocenění: výborná II.
+Tituly: Res. CAC
+Jméno psa: BARUNKA
+Pohlaví: fena
+Číslo zápisu: —
+Datum narození: 6.6.98
+Otec: Ben
+Matka: —
+Chovatel: —-
+Majitel: MUDr. Joselová Jana
+Třída: otevřená
+Silná kostra, poměr délky a výšky v souladu, nůžkový skus, kratší ucho, bílá barva na těle má černé
+tečkování, černý plášť je přerušen na krku, v pohybu pánevní končetiny mají vázaný posun, osrstění výs-
+tavní.
+Ocenění: výborná
+Jméno psa: NELA
+Pohlaví: fena
+Číslo zápisu: P Reg/CHP/34/97/99/99
+Datum narození: 16.4.97
+Otec: Andy od Suchého buku
+Matka: Jessi
+* <- "SVO i

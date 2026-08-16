@@ -1,0 +1,54 @@
+# ZDROJ: Spřežení č. 9, rok 1988, strana nezjištěna
+# SOUBOR: 53-1988-04_sprezeni_c_9.pdf
+# PDF_STRANA: 21
+# TISTENA_STRANA: nezjištěna
+# OCR: tesseract-5.3.4 / ces / conf 90.1
+---
+HODNOCENÍ PLEMENÍKŮ PODLE KVALITY POTOMSTVA
+Hodnocení se týká plemeníků, působících v současné době v chovu.
+Nejvíce sledovaných potomků má Ganek Třeboň-Kopeček (16), Alam=Kuh Labutí řeka (15)
+a Aalborg Labutí řeka (15). Cstatní jedinci méně než 10, takže i když ce u jejich
+potomků žádné vady neprojevily, nedokazuje to, že nejsou nositeli vad.
+(I když např. po Gankoví (16 hodnocených psů) se objevuje dost vad, neznamená to,
+že je méně kvalitním plemeníkem než např. Back Lužický hvozd (1), u jehož potomka
+nebyla zaznamenána žádná vada.)
+Samozřejmě na kvalitě potomků se stejnou měrou podílí i fena. Většina vad je ale
+založena recesivně (např. podkus, kryptorchismus, modré oko, světlé oko). Pokud se
+některá z recesivních vad projeví u potomstva —- třeba pouze lx, znamená to, že kry=
+cí pes je přenašečem této vady. Např: :
+podkus: Artison Severní vítr, Ganek Třebon=Kopeček
+kryptorchismus: Ganek Třeboň=Kopeček
+modré oko: Ganek Třeboň=Kopeček, Aksas od Jankova kopce
+Je třeba si ale uvědomit, že pravčěpodobnost odhalení přenašeče vady závisí na
+počtu sledovaných potomků i počtu použitých fen.
+Při počtu sledovaných potomků do 10 - je pravděpocobnost odhalení recesivní vady
+20%; při sledování 10 - 19 potomků —- 48%; nad 50 potomků = 96%. (viz časopis
+PES 4/1988)
+Z následující tabulky je patrné, že mnohé závažné vady nebyly na bonitacích zazna-
+menány, protože majitelé vadou postižených jedinců se bonitace nezúčastnili. Nebýt
+kontrol vrhů před prodejem štěňat a posouzením těchto jedinců na některé výstavě,
+příp. zpráv od svědomitých chovatelů, nemohli by být ani odhaleni přenašeči těchto
+vad.
+bych proto už poněkolikáté vyzvat všechny chovatele, aby zajistili pokud
+možno 100% předvedení svých odchovů na klubové výstavě a na bonitaci.
+© Je to velmi důležité pro další chov a šlechtění plemene,
+Při využívání jednotlivých plemeníků a sestavování chovných párů je samozřejmě
+nutné přihlížet k tomu, zda určitý plemeník není přenašečem některé vady. V součas=
+né době si ale nemůžeme dovolit všechny přenašeče vady z chovu vyloučit - to by
+nám žádný pes nezbyl. Je ale třeba jejich použití v chovu omezit a mezi jejich po=
+tomky vyhledat jedince geneticky zdravé a ty v chovu intenzivně využívat.
+Spojení psa-přenašeče vady s fenou=přenašečkou:
+ďvv x o Vv V = bez vady - normální stav
+vw = recesivní vada
+Wv vy s
+A X pouze u tohoto jedince je vada zjevná a
+genetic Ň jedinec je nechovný
+zdravý jedinec přenašeči vady
+bez vady
+Spojení psa-přenašeče vady s geneticky zdravou fenou:
+ďEVv x o VY
+LA V
++ Vy „v WW,
+geneticky zdraví přenašeči vady - v genetickém založení vada je,
+jedinci - bez vady ale nijak se navenek neprojeví
+= jedinec je chovný

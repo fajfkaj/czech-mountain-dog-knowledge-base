@@ -1,0 +1,9 @@
+# ZDROJ: Spřežení č. 9, rok 1988, strana nezjištěna
+# SOUBOR: 53-1988-04_sprezeni_c_9.pdf
+# PDF_STRANA: 2
+# TISTENA_STRANA: nezjištěna
+# OCR: tesseract-5.3.4 / ces / conf 89.4
+---
+Lečová jízda 86 - Luční bouda
+foto P.Motl
+(MF)

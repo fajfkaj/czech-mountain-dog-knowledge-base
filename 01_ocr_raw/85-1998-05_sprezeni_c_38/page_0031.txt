@@ -1,0 +1,56 @@
+# ZDROJ: Spřežení č. 38, rok 1998, strana nezjištěna
+# SOUBOR: 85-1998-05_sprezeni_c_38.pdf
+# PDF_STRANA: 31
+# TISTENA_STRANA: nezjištěna
+# OCR: tesseract-5.3.4 / ces / conf 91.6
+---
+hl
+VÝSTAVY
+AURIKA Růžová louka — CMKU/CHP REG 819, * 2.8.1994 výborná
+BIRT ze Lhoty - AIDA z Dubových pásek
+ch.: Oldřich Kaňský - m.: Tomáš Trdla, Vrší 745, 468 22 Železný Brod
+Správný tvar hlavy, nůžkový skus, uši by měly být nasazeny výše a delší, ocas příliš zatočen, fenka je dobře
+osvalena, dynamický pohyb obou párů končetin, povaha vyrovnaná,
+AYLIN Řasnický potok — N Reg./CHP 976, * 13.8.1996 výborná 1
+AMUR z Vodáckého hnízda - ARANKA Psí půle CAC, KV
+ch,: Zdeňka Drobná - m.: Hana Vencová, Humpolecká 1496, 580 01 Havlíčkův Brod
+Vlevo dole chybí PI, nůžkový skus, symetricky zbarvená hlava, výborná pigmentace, kompaktní stavba těla s
+výbornou akcelerací končetin, povaha vyrovnaná, ocas správně nesen.
+BORAMA Ribalbo — N Reg./CHP 903, * 18.7.1995 výborná
+Ch. ARAM z Hradního ochozu - BORNEA Zimní sen
+ch.: Adam Sedláček - m.: Adam Sedláček, Žárovice 68, 798 03 Plumlov
+Černá plášťová fenka, bílé přerušení v kohoutku, zbarvení je na hranici standardu, nůžkový skus, fenka je anatomicky
+bez hrubých vad, tolerují zbarvení a hodnotím výborná.
+BORNEA Zimní sen — ČKS REG 670, * 14.6.1992 výborná
+EDEN Už jedou - BAARA Pradědova louka
+ch.: Jarmila Slavatová - m.: Adam Sedláček, Žárovice 68, 798 03 Plumlov
+Fenka s černým pláštěm, bez přerušení, hlava ušlechtilá s nůžkovým skusem, fenka nemá žádné hrubé vady ve
+stavbě kostry, má perfektní pohybovou mechaniku, výborné předhrudí, pevný hřbet; pro její přednosti tolerují
+zbarvení, hodnotím výborná. Povaha vyrovnaná absolutně klidná, výborně osvalená.
+CARINA Růžová louka — N Reg./CHP 965, * 18.7.1996 výborná 3
+BIRT ze Lhoty - AIDA z Dubových pasek
+ch.: Oldřich Kaňský - m.: Milan Vodák, U Vápenky 546/III, 392 01 Soběslav
+Fenka má černou hlavu, skus těsný nůžkový, uši nasazené níže, ale jsou dobře neseny i správné délky, výborná
+horní linie, ocas hodně stáčí, úhlení končetin korektní, pevná kostra, výborně osvalená, povaha vyrovnaná.
+ENIKA od Fíka — CMKU/CHP REG 800, * 24.5.1994 výborná
+ERIX Ovědada - ARNIKA od Fika
+ch.: Marcela Růžičková - m.: Milan Brabec, Purkyňova 326, 539 01 Hlinsko v Č,
+Výborná pigmentace, nůžkový skus, uši dobře neseny, zbarvení zlaté plášťové, lehké přerušení na krku i na zádi,
+bílá barva je zašedlá, husté osrstění, kostra silná, povaha flegmatická, pohyb prostorný.
+JISKRA Faranda — CMKU/CHP REG 783, * 23,10,1993 výborná
+ALAN Zemanex - Ch. DÁJA Faranda
+ch.: Dana Kupková - m.: Jan Jirák, Jižní 53, 370 10 České Budějovice
+Skus těsný nůžkový, na své pohlaví má hrubší hlavu, uši nízko nesené, korektní horní line, výborné předhrudí,
+správné úhlení hrudních končetin a správně utvářené tlapky, husté osrstění, silná kostra, pohyb dynamický plný
+síly, povaha přátelská.
+KETTY -— * 12.6.1996 velmi dobrá
+ch.: - m.: Alena Brázdilová, Zahradní 393, 769 01 Holešov
+Vpravo dole chybí P1, nůžkový skus, světlé oko, zlatý plášť a bílý límec, stop příliš výrazný, kvalita osrstění není
+standardni, pánevní končetiny rozbihavé, povaha bázlivá plachá.
+CIRA Amundsen — ČKS REG 681, * 8.10.1992 velmi dobrá
+BENNY z Milety - AMAIPÓ Do neznáma
+ch.: Zdeněk Reichl - m.: Roman Veselý, Manhardova 33, 796 01 Prostějov
+Fenka s černým pláštěm, bilým límcem, hnědé oko, dobře utvářená hlava, nůžkový skus, sbíhavé hrudní končetiny,
+fenka je vystavena v příliš výživné kondici, což je na úkor elegance předvedení, srst je po celém těle lehce
+zvlněná, povaha přátelská.
+31

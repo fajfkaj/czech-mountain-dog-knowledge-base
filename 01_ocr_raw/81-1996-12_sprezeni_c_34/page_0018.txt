@@ -1,0 +1,64 @@
+# ZDROJ: Spřežení č. 34, rok 1996, strana nezjištěna
+# SOUBOR: 81-1996-12_sprezeni_c_34.pdf
+# PDF_STRANA: 18
+# TISTENA_STRANA: nezjištěna
+# OCR: tesseract-5.3.4 / ces / conf 84.6
+---
+- 16 =
+(OP Už jedou, Reg.276/88, žb, 66,5cm, 13.4, !4.2, výborný
+Dar Fáránda - Cab:na Paranda
+Petr Nováková, Zhořelecká 9, 460 01 Liberec 1, d 048/2435)
+(RIS Poledník, Reg,775/93, žb, 66cm, 7,1, 8.2, 19.2, 21.2, výborný
+Blesk Už jedou - Arana Zemanex
+Blahoslav Hanuš, 512 42 Poniklá 38, d 0432/585234
+(ULÍK Velká závé, Reg.708/9), žb, 70cm, 2xP3h, 2xP2d, Pípd, 13,4, 15.1, 26.3, výborný
+Cop Už jedou - Bonita Velká závěj
+Jarmila Vondrková, Sedlce 50, 373 23 SvJán, d 0336/719-61
+DAK Labutí řeké, Reg.261/88, čb, 64cm, 4.2, 13,1, 21,1, 22.2
+Aiken od Hrčířských luk - Beluga Labutí řeka
+Jaroslav Březina, 394 45 Křelovice 8
+DAK z Vlažinky, Reg.269/B8, čb, 6lem, 9.1, 10.3, 13.1, 20.2, 21.2, 22.1
+Aiken od Hrčířských luk - Fortuna Třeboň-Kopeček
+Čestmír Hofhanzl, Fučíkovo nán.246, 588 56 Telč
+DAN na Mělích, Reg.697/92, žb, 68cm, 2-P3h, 21.1, výborný a
+Brix Úvědada - Arvica Kačabka =
+Blanka Kučerová, 511 73 Mokré 5, d 0433/92279
+DAR Faranda, Reg.112/86, žb, 63,5cm, 23.1, výborný, AxKlub.vít, 3xŠamp.ČSFR, Pes dn 89,90,91
+Ralborg Labutí řeka - Cácora Faranda
+Radko Loučka, Královice 105, 104 00 Praha 10 - Uhříněves, p 02/750-221
+DÁREK od Fíka, Reg.768/93, žb, 66ca, 20.2, výborný, Res.CAC, 4xCAC, 3xB0B
+Alan Zemanex - Arnika oč Fíka
+Marcela Strnadová, Žižkův kopec 445, 552 03 Česká Skalice, d 0441/452071
+DRAK Faranda, Reg.11i/86, žb, 69cm, Pllh, 7.1, 8.3, 23.1, výborný
+Aalborg Labutí řeka - Čácora Faranda |
+Miroslav Holeček, Dvořákova 135, 549 54 Police nad Metují
+[RY Severní vitr, Rec.219/87, čb, 62cm, 10,2, 19.2, 21,2, 22.1, výborný |
+Ganek Třeboň-kopeček - Alka Faranda
+Jan Chlum, kpt,Nálepky, 543 01 Vrchlabí
+ELÁN Faranda, Reg.204/67, žb, 65cm, ---
+Alam-Kuh Labutí řeka - Čácora Faranda
+Slavomír Vacek, VZ Něřín, 257 46 Jablonná nad Vltavou, 0301/91134
+ERGO Ovědada, Reg,401/£9, čb, 60cm, 9.1, 13.4, 18.1, velmi dobrý
+Dry Severní vítr - Adhara oc Bublajícího potůčku
+Věra a Jaroslav Šenovi, Sosnová 141, 470 01 Česká Lípa
+ERIX Ovědada, Reg.404/69, čb, 59cm, $.1, 10.2, 19,2, 21.2, 22.1, velmi dobrý
+Dry Severní vítr - Adhara oč Bublajícího potůčku
+Ivan Polák, 468 26 Euť 19, d 0428/93200
+FILEK Už jedou, Reg.485/90, žb, 70cm, 8.2, 18.1, 21.2, 22.3 |
+Dar Faranda - Čabina Faranda I
+Stanislav Šponar, Nad Špejcharem 715, 513 01 Semily 1, d 0431/2510 A
+FIN Paranda, Reg.318/88, žb, 64,5cm, Illh-vyražený, 22.3, 23.8, velmi dobrý k
+Dar Faranda - Cácora Faranda . |
+Jindřich Vandas, 262 13 Nečín 76, d 0305/958-134, p 0305/956-131 |
+FRAJER Už jedou, Reg.486/90, žb, 6Bcm, 11.5, 22.2, výborný
+Dar Faranda - Cabina Faranda !
+Alena Nitscheová, Sadová 1196, 197 01 Písek
+HUŇÁČ Faranda, Reg.496/90, žb, 69cn, 22.3, výborný, jxCAC, Nár.vít.94, Pes roku 92, Šampion ČR
+Arekus Sněžník - Cácora Faranda
+Tomáš Trdla, Vrší 745, 468 22 Železný Brod, d 0428/389-697, p 0428/311-261 |
+CHYTRÁK Faranda, Reg.553/91, žb, 68cm, 13.4, 19.1, 23.1, velmi dobrý |
+Arekus Sněžník - Dája Faranda |
+Táňa Jakšičová, 391 61 Opařany 98 |
+IR Paranda, Reg.629/92, žb, 65cm, ---, výborný, 8xCAC, Klub.vít.94,96, Pes roku 94, 2xBOB, Šampion ČR |
+Arekus Sněžník - Dája Faranda |
+Tomáš Trdla, Vrší 745, 468 22 Železný Brod, d 0428/389-697, p OA2B/ÁT -061 |

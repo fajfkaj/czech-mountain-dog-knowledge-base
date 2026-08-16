@@ -1,0 +1,33 @@
+# ZDROJ: Spřežení č. 41, rok 1999, strana nezjištěna
+# SOUBOR: 88-1999_sprezeni_c_41.pdf
+# PDF_STRANA: 26
+# TISTENA_STRANA: nezjištěna
+# OCR: tesseract-5.3.4 / ces / conf 94.8
+---
+Výstavní podmínky:
+Platí v plném rozsahu Výstavní řád ČMKU, tzn. vč. zákazu změny exteriéru psa
+prováděné lakováním, pudrováním a tónováním srsti a základní úpravy a
+vyvazování psů na stolech.
+Veterinární podmínky:
+Osvědčení o klinickém zdraví, potvrzené veterinárním lékařem ne starší 5 dnů.
+Psi budou v imunitě proti vzteklině, psince a hepatitidě,
+Rozdělení do tříd: (rozhoduje stáří v den výstavy)
+třída dorostu 6- 9 měsíců
+třída mladých 9 - 18 měsíců
+třída otevřená 15 měsíců a starší
+třída vítězů - pro psy s titulem šampion, národní vítěz, klubový vítěz
+- přiložte fotokopii titulu, jinak bude pes zařazen do třídy otevřené
+třída veteránů 9 let a starší
+třída pracovní - nutné doložit certifikátem
+Tituly: (nejsou nárokové)
+Vítěz třídy
+Oblastní vítěz
+u speciálních výstav: CAJC, CAC, Vítěz speciální výstavy, BOB;
+u klubových výstav: CAJC, CAC, Klubový vítěz, BOB
+Soutěže:
+Mladý vystavovatel
+Vitěz Soběslavi - dorost, mladý, veterán
+Nejkrásnější pes Soběslavi - soutěží Oblastní vítězové
+Nejkrásnější fena Soběslavi - soutěží Oblastní vítězové
+Vítězové všech soutěží obdrží pohár.
+Ceny pro speciální a klubové výstavy věnují kluby.

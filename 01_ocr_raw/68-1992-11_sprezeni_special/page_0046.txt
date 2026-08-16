@@ -1,0 +1,18 @@
+# ZDROJ: Spřežení č. zvláštní (1992-11), rok 1992, strana nezjištěna
+# SOUBOR: 68-1992-11_sprezeni_special.pdf
+# PDF_STRANA: 46
+# TISTENA_STRANA: nezjištěna
+# OCR: tesseract-5.3.4 / ces / conf 89.2
+---
+s: jí z
+4) Je třeba snažit se o maximální bezpečnost. Tedy odstranit
+vyčnívající hrany a místa. kde by bylo možno zachytit nohu.
+Blatníky jsou zbytečné.
+5) Váha vozíku musí být rozložena tak, aby se pří stání vzadu
+nezvedala přední část.
+6) Dobrá brzda je životně důležitá.
+7) Je výhodně. když je vozík řiditelný, ale v určitých podmín-
+kách stačí 1 bez řízení. Při trénování většího počtu psů
+nebo v obtížném terénu je řízení nutnosti.
+Podle časopisu Klubu chovatelů psů severských plemen upravil
+Standa Stěpánek

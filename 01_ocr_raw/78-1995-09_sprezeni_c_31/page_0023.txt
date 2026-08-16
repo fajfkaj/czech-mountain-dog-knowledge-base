@@ -1,0 +1,44 @@
+# ZDROJ: Spřežení č. 31, rok 1995, strana nezjištěna
+# SOUBOR: 78-1995-09_sprezeni_c_31.pdf
+# PDF_STRANA: 23
+# TISTENA_STRANA: nezjištěna
+# OCR: tesseract-5.3.4 / ces / conf 86.4
+---
+-= 21 -=
+ECOVIT PRO PSY
+(ad usum veterinarium)
+Probiotický přípravek pro zlepšení zdravotního stavu, tělesné kondice
+a pracovního výkonu psů.
+Složení:
+Obsah specificky účinných látek ve 100 g Ecovitu pro psy:
+100 miliard živých laktacidogenních bakterií (kmen Enterococcus faecium M74*)
+100.000 LU, vitamin A
+10.000 L.U. vitamín D;
+400 mg © vitamín E
+30 mg vitamín B;
+30 mg. vitamín Bz
+mg vitamin By;
+800 mg © vitamín C
+1,5mg — vitamín H
+* Kmen Enterococcus faecium M 74 je mezinárodně registrován v Bance
+průmyslově využitelných bakterii v Aberdeenu (Skotsko) pod ev. č. NCIB 11181.
+Mechanismus účinku:
+Zárodky mléčného kvašení Enterococcus faecium M 74 po perorální aplikaci
+Ecovitu osidlují gastrointestinální aparát psů, kde svými konkurenčními mechanismy
+potlačují růst a množení nežádoucích parazitických a patogenních bakterií
+(enterotoxické a enteropatogenní enterobakterie, clostridia atd.). Převaha žádoucí
+symbiotické mikroflóry ve střevech snižuje endogenní mikrobiální zátěž organismu,
+zlepšuje imunitní reakce a celkovou odolnost zvířat proti infekcím a stresům. Přísada
+vitamínů ovlivňuje příznivě nejen účinnost laktobacilární složky přípravku, ale výrazně
+podporuje metabolické funkce organismu.
+Indikace, Použití:
+e Inokulace gastrointestinálního aparátu štěňat symbiotickou mikroflórou v období
+bezprostředně po narození, v období odstavu a ve všech dalších krizových etapách
+vývoje.
+* Obnova střevní mikroflóry po léčbě antibiotickými nebo chemoterapeutickými
+látkami.
+e Zkrácení období rekonvalescence po chirurgických zákrocích a infekčních
+onemocněních.
+* Zvýšená námaha zvířat, stresové situace (porod, laktace, změna prostředí, vakcinace
+atd.).
+* Harmonizace somatického vývoje psů, zlepšení kvality srsti.

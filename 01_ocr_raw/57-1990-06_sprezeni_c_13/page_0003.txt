@@ -1,0 +1,23 @@
+# ZDROJ: Spřežení č. 13, rok 1990, strana nezjištěna
+# SOUBOR: 57-1990-06_sprezeni_c_13.pdf
+# PDF_STRANA: 3
+# TISTENA_STRANA: nezjištěna
+# OCR: tesseract-5.3.4 / ces / conf 91.1
+---
+VÝBOR KGHČHP
+předseda =- HANZLÍK Petr, Smetanova 648, 378 21 KardoŘečice
+místopředseda - ŠANOVEC Jan, Březová 671, 252 29 Dobřichovice
+jednatel - ŠTĚPÁNEK Stanislav, Lelekovice 347, 664 31 Česká
+hospodář - ŘÍHA Jaroslav, 394 70 Kamenice nad Lipou 587
+poradce chovu =- KUPKOVÁ Dana, 391 76 Slapy u Tábora 45
+red. Spřežení = KUPKA Oldřich, 391 76 Slapy u.Tábora 45
+člen - LOUČKA Radko, Královice 105, 104 00 Praha 10
+náhradník - LOUČKOVÁ Eva, Královice 105, 104 00 Praha 10
+REVIZNÍ KOMISE
+předseda - PECHEK Pavel, Vlásenice 12, 394 70 Kamenice n.L.
+členové - KONEČNÝ Ivan, B.Šmerala 24, 586 00. Jihlava
+- RAŠÍN Iva, Na Kamenci 1297, 295 01 Mnich.Hradiště
+SPORTOVNÍ KOMISE
+předseda - ŠANOVEC Jan, Březová 671, 252 29 Dobřichovice
+členové - KLÍR Jan, Selská 38/14, 102 00 Praha 10
+- HYNEK Lang, Zahradní 289, 547 01 Náchod

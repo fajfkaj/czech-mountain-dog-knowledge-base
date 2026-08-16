@@ -1,0 +1,39 @@
+# ZDROJ: Spřežení č. 35, rok 1997, strana nezjištěna
+# SOUBOR: 82-1997-06_sprezeni_c_35.pdf
+# PDF_STRANA: 23
+# TISTENA_STRANA: nezjištěna
+# OCR: tesseract-5.3.4 / ces / conf 86.9
+---
+is. Jméno
+Vetešníková Lenka
+Hýsek Pavel
+Zahrádka Jiří
+Novotný Igor
+Schejbalová Barbara
+Sasín Pavel
+Hanus Bohumil
+2 ročník závodu poleh SLOŽENÍ
+"Bystřická šestka"
+26. - 27. října 1996
+Kategorie: C2
+Výsledková listina celého závodu
+Časy a rych. kol
+0:25:32
+14.10
+15.22
+14.01
+15.07
+14.00
+14.04
+12.93
+14.34
+15.80
+13.35
+12.08
+14.48
+12.61
+Celkem
+0:49:11
+0:49:35
+Rych. Poř. 4
+14.64

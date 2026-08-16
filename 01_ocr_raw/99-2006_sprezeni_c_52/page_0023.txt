@@ -1,0 +1,43 @@
+# ZDROJ: Spřežení č. 52, rok 2006, strana nezjištěna
+# SOUBOR: 99-2006_sprezeni_c_52.pdf
+# PDF_STRANA: 23
+# TISTENA_STRANA: nezjištěna
+# OCR: tesseract-5.3.4 / ces / conf 92.8
+---
+ČMKU.
+XI. Zápis do registru
+Registr je součástí řádné plemenné knihy ČMKU. PP, vystavené pro všechny
+jedince zapsané do registru musí být výrazně odlišené od PP jedinců řádně
+zapsaných (FCI). Jsou vždy bez zkratky CMKU, bez znaku FCI a s vyznačením
+druhu registru. Při plemenné knize ČMKU existují 3 druhy registru:
+1. pomocný
+2. zvláštní
+3.národní
+M. Pomocný registr (P Reg)
+Do pomocného registru se zapisují:
+a) Jedinciimportovaní z nečlenských zemí nebo nečlenských organizací FCI,
+pokud tato země není zemí jejich původu (např. pudl z Vietnamu apod.).
+b) Jedinci bez PP.
+Pomocný registr vede výhradně pracoviště plemenné knihy ČMKU č.1, a to
+pro všechna plemena. Průkaz P Reg je vystaven pouze na základě písemné
+žádosti příslušného chovatelského klubu,
+- K ní je nutno doložit dva originály výstavních posudků od dvou
+mezinárodních rozhodčích s oceněním nejméně „velmi dobrá“. Kopii této
+žádosti poskytne klub majiteli dotyčného psa pro účely přihlašování na výstavu
+k získání uvedených posudků.
+- Veškeré výjimky podléhají schválení Komise pro chov a zdraví ČMKU a
+Rady plemenných knih ČMKU.
+Pro jedince v pomocném registru je pověřeným pracovníkem plemenné knihy
+vystavena registrační karta (průkaz P Reg), kde smí být uvedeno pouze jméno,
+plemeno, datum narození, eventuelně batva a typ srsti. Jména předků se
+k euvádějí, i když jsou známa, stejně jako chovatel. Je možno vystavit též
+přílohu pro výstavy.
+Zápis se provádí ve zvláštní řadě čísel, jediné pro celou ČR a pro všechna
+plemena v pomocném registru tímto způsobem:
+P Reg/zkratka plemene /pořadové číslo/rok zápisu/rok narození, je-li
+znám
+Jedinci zapsaní v pomocném registru smí být v chovu spojování výhradně s
+partnery zapsanými v řádném rejstříku (FCI) plemenné knihy ČMKU, pokud
+nejde o národní plemeno (N Reg).
+2. Zvláštní registr (Z Reg)
+Do zvláštního registru se zapisují:

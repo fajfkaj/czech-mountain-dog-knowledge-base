@@ -1,66 +1,82 @@
-# ZDROJ: Spřežení č. 7, rok 1987, strana nezjištěna
+# ZDROJ: Spřežení č. 7, rok 1987, s. 7
 # SOUBOR: 51-1987-06_sprezeni_c_7.pdf
 # PDF_STRANA: 9
-# TISTENA_STRANA: nezjištěna
-# OCR: tesseract-5.3.4 / ces / conf 42.8
+# TISTENA_STRANA: 7
+# OCR: vision (AI dočtení, tesseract conf pod prahem); strana otočená tabulka na šířku "Přehled vrhů ČHP v r. 1986" (2. část, krycí listy 56-66 + souhrn), stejné sloupce jako na s.6; vpravo dole rukopisná poznámka [nečitelné]
 ---
-© ne (E JB il 8 Ja
-PŘHSEAHNÉ IHL NEE:
-8 luds|ása|d O J85 |ad7|54 |$ dě
-SAP EEE HERE
-je VEE ksg Fa šd HiEr ná E EEE:
-EEE E NE- HR PESIH:
-EEE HE MERNEL T SE ME OE OAKÉC
-věk
-o dnech
-o vEkg
-|
-6,84
-|- M
-Bat
-= | :
-2/3
-20/46h3/38
-89
-3
-=“
-v Á
-de,
--+s ye
-2/
-u
-0/1
-“
-M j uh)
-O al a 8
-dá o
-AE
-=
-Pd
-ených k zápisu na vrh
-přihláš h
-é narozených štěnat
-ee če [Es |
-k
-ší
-:
-he Ee 8
-; k:
-dá L
-3 is ji
-ona Nu šša|néá
-c
-Ej
-i
-ě
-:
-š
-ozených štěňat na vrh
-štěnat
-TB
-Průsšrný počet naroz.
-Průměrný počet
-Průměrná váha žív
-Na Mělích
-kE :
-l o H i
+Přehled vrhů ČHP v r. 1986 (pokračování)
+
+krycí list č. 56 | dat.nar. 23.07. | chovná stanice: Paranda | majitel feny: Dana Kupková, Slapy u TA | generace po ♀: F6/F4
+  rodiče: AALBORG Lab.řeka F5 čb x CÁCORA Faranda F4 žb
+  štěňata: narozeno 5/3, živá 4/2, mrtvá 1/1, úhyn 0/0, utraceno 1/1, ideál.zbarv. 3/1, přihl.k zápisu 3/1
+  průměrná hmotnost živě nar.št.: 585g; věk v týdnech/průměr v kg: 8/8,84
+  poznámka: nadprůměrná vyrovnaná porodní váha, živě nar.štěňata životaschopná
+
+krycí list č. 57 | dat.nar. 21.11. | chovná stanice: Na Mělích | majitel feny: Blanka Kučerová, Opočno | generace po ♀: F6/F5
+  rodiče: ARTISON Sev.vítr F4 žb x ARVICA Kačabka F5 žb
+  štěňata: narozeno 2/4, živá 2/4, mrtvá -, úhyn -, utraceno 0/1, ideál.zbarv. 2/3, přihl.k zápisu 2/3
+  průměrná hmotnost živě nar.št.: 506g; věk v týdnech/průměr v kg: 8/8,44
+  poznámka: vynikající vrh, 1x malá plocha skvrn (utracen), líniov.plemenitba = otec+dcera, 1x část.růžový nos
+
+krycí list č. 58 | dat.nar. 24.09. | chovná stanice: od Bublajícího potůčku | majitel feny: Pavel Janalík, Vrchlabí | generace po ♀: F4
+  rodiče: CAVYK Faranda F4 žb x ADELÍNA od Jank.kop. F4 čb
+  štěňata: narozeno 1/4, živá 1/3, mrtvá -/1, úhyn 1/3, utraceno -, ideál.zbarv. 1/3, přihl.k zápisu -
+  průměrná hmotnost živě nar.št.: 275g; věk v týdnech/průměr v kg: -
+  poznámka: neúspěšný vrh, nejnižší průměrná porod.hmotnost, všechna štěňata uhynula, 2x zarostlý konečník
+
+krycí list č. 60 | dat.nar. 05.09. | chovná stanice: z Milety | majitel feny: Irma Králová, Velká Úpa | generace po ♀: F6/F4
+  rodiče: ARAGAC Kačabka F5 čb x GUARA T-K F3 čb
+  štěňata: narozeno 5/2, živá 5/2, mrtvá -, úhyn 0/1, utraceno 1/0, ideál.zbarv. 1/2, přihl.k zápisu 4/1
+  průměrná hmotnost živě nar.št.: 484g; věk v týdnech/průměr v kg: 6,5/6,14
+  poznámka: úspěšný vrh, 3 štěňata pláštová, 4x pupeční kýla
+
+krycí list č. 61 | dat.nar. 10.08. | chovná stanice: Velká záděj | majitel feny: Pavla Pospíšilová, H.Č.Studnice | generace po ♀: F6/F4
+  rodiče: ALAM-KUH Lab.řeka F5 žb x BĚLKA Faranda F4 žb
+  štěňata: narozeno 5/2, živá 5/2, mrtvá -, úhyn -, utraceno 1/1, ideál.zbarv. 3/1, přihl.k zápisu 4/1
+  průměrná hmotnost živě nar.št.: 608g; věk v týdnech/průměr v kg: 6/6,11
+  poznámka: velmi úspěšný vrh, nejvyšší prům.porod.váha, 1x částečně růžový nos
+
+krycí list č. 62 | dat.nar. 30.10. | chovná stanice: Údolí Kačáku | majitel feny: Antonín Jehlička, Loděnice | generace po ♀: F5/F4
+  rodiče: BIG Lužický hvozd F3 žb x CEDRANA Faranda F4 žb
+  štěňata: narozeno 4/4, živá 3/2, mrtvá 1/2, úhyn 2/-, utraceno -, ideál.zbarv. 3/4, přihl.k zápisu 1/2
+  průměrná hmotnost živě nar.št.: 560g; věk v týdnech/průměr v kg: 7/7,30
+  poznámka: početný vrh, ale málo odchováno, porod.váha nadprům.ale nevyrovnaná, ideál.zbarv.až na 1, 1x předkus
+
+krycí list č. 63 | dat.nar. 14.09. | chovná stanice: od Hrnčířských luk | majitel feny: Petr Kobr, Police n.Met. | generace po ♀: F5/F4
+  rodiče: ARTISON Sev.vítr F4 žb x ANDY od Jank.kop. F4 žb
+  štěňata: narozeno 4/4, živá 3/3, mrtvá 1/1, úhyn 0/1, utraceno 1/0, ideál.zbarv. 2/1, přihl.k zápisu 2/2
+  průměrná hmotnost živě nar.št.: neuvedena; věk v týdnech/průměr v kg: [nečitelné]/2,26
+  poznámka: porod.váhy chovatel neuvedl, 2 odchovaná štěňata zbarvena ideálně
+
+krycí list č. 64 | dat.nar. 14.11. | chovná stanice: Stráž nad Nežárkou | majitel feny: Jaroslav Drábek, Stráž n.Než. | generace po ♀: F6/F5
+  rodiče: BERRIO Vlažinka F4 čb x AŠKÖ II Lab.řeka F5 čb
+  štěňata: narozeno 3/2, živá 2/2, mrtvá 1/-, úhyn -, utraceno -, ideál.zbarv. 2/2, přihl.k zápisu 2/2
+  průměrná hmotnost živě nar.št.: neuvedena (589g, 1 den); věk v týdnech/průměr v kg: 6/6,49
+  poznámka: váha vyrovnaná, všechna odchovaná štěňata zbarvena ideálně
+
+krycí list č. 65 | dat.nar. 09.10. | chovná stanice: Modrý potok | majitel feny: Helena Nebeská, Pec p.Sněž. | generace po ♀: F6/F5
+  rodiče: ALAM-KUH Lab.řeka F5 žb x ATACAMA Sev.vítr F4 žb
+  štěňata: narozeno 5/6, živá 2/6, mrtvá 3/-, úhyn -/4, utraceno -, ideál.zbarv. 4/5, přihl.k zápisu 2/2
+  průměrná hmotnost živě nar.št.: 344g; věk v týdnech/průměr v kg: 6/3,50
+  poznámka: nejpočetnější vrh, velmi malá porodní hmotnost, 1/2 štěňat uhynula, 1x částečně růžový nos
+
+krycí list č. 66 | dat.nar. 10.10. | chovná stanice: Severní vítr | majitel feny: Vít Švancara, Jablonné v P. | generace po ♀: F4
+  rodiče: ATLAS Stud-Javořice F3 čb x ALKA Faranda F3 čb
+  štěňata: narozeno -/3, živá -/2, mrtvá -/1, úhyn -, utraceno -, ideál.zbarv. -/2, přihl.k zápisu -/2
+  průměrná hmotnost živě nar.št.: neuvedena; věk v týdnech/průměr v kg: neuveden
+  poznámka: málopočetný vrh, chovatel štěňata nevážil ani po narození, ani při kontrole vrhu
+
+CELKEM ♂/♀:
+  narozeno 72/78 (celkem 150)
+  živá 60/68 (celkem 128)
+  mrtvá 12/10 (celkem 22)
+  úhyn 10/16 (celkem 26)
+  utraceno 6/14 (celkem 20)
+  ideál.zbarvení 40/46 (celkem 86)
+  přihlášeno k zápisu 43/37 (celkem 80)
+
+Průměrný počet narozených štěňat na vrh                7,14
+Průměrný počet štěňat přihlášených k zápisu na vrh      3,86
+Průměrná váha živě narozených štěňat                    481,9 g
+
+[rukopisná poznámka vpravo dole: nečitelné]

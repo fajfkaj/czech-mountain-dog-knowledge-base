@@ -1,0 +1,11 @@
+# ZDROJ: Spřežení č. 9, rok 1988, strana nezjištěna
+# SOUBOR: 53-1988-04_sprezeni_c_9.pdf
+# PDF_STRANA: 43
+# TISTENA_STRANA: nezjištěna
+# OCR: tesseract-5.3.4 / ces / conf 79.9
+---
+(%
+Vistrovství ČSSR = Zadov 1988
+kat. C 1. Emichel Jiří
+2, Kobr lvaa
+3. Baidenreich Petr

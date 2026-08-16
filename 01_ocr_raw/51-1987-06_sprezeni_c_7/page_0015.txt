@@ -1,60 +1,73 @@
-# ZDROJ: Spřežení č. 7, rok 1987, strana nezjištěna
+# ZDROJ: Spřežení č. 7, rok 1987, s. 13
 # SOUBOR: 51-1987-06_sprezeni_c_7.pdf
 # PDF_STRANA: 15
-# TISTENA_STRANA: nezjištěna
-# OCR: tesseract-5.3.4 / ces / conf 82.5
+# TISTENA_STRANA: 13
+# OCR: vision (AI dočtení, tesseract conf pod prahem); posudky psů z celostátní klubové výstavy Litoměřice
 ---
-“
-m 6
-S-měsíční pes, celkem dobře vybarven, poněkud klidnější, dobře stavěn, lépe
-Ba předváděl vůči konkurenci
-BENJAMIN Velká závěj, žb, 10.8.86
-Alamn-Kuhb II Labutí řeka + Bělka Faranda
-výborný I, vítěz třídy mladých
-ch: Pavla Pospíšilová, H.Č.Studnice
-m: Jindřich Vandas, 262 13 Nečín 76
-g-měsíční pes, překrásná bílé bámva se znaky na hlavě, která je ušlechtilá,
-plnochrupý, skus nůžkový, dobře se předvádí, projevuje se na něm únava z
-cesty, při pohybu vyniká nad celóu skupinou
-ATHOS Podcesný mlýn = nedostavil se
-třida dospělých =- pei Ň šk
-= MWUNM * 1. ko by
-ARAGAC Kačebka, čb, 17.7.84 A RA A
-Artison Severní vítr = Ara Faranda —
-výborný III
-m: JUBr Jáří Teryngel, U plynárny 71, 14100 Praha 4-
-vá eh
-3-letý pes, černobílé zneky, nevýrazné tečkování, ušlechtilé hlava, plno-
-chrupý, skus nůžkový, pysky přilehlé, nosní partie výborná, uši dobře naša-
-zené, Častěji však dozadu nesené, dobře stavěný, lépe se“ sdvádí solo
-oproti skupinovému předvedení, neklid při stoji ve skupině a širší postoj
-předních končetin n
-P pe © 6
-CIRAN Farende, žb, 10.9.84
-Ganek Třeboň-Kopeček - Čehooyn Třeboň-Kopeček
-výborný II
-ch: Dana Kunková, Slapy u TA
-m: Václav Kůrka, zot. Pražská bouda, Černý Důl
-2,5-letý pes, překrásná hlava, vůči konkurenci výraznější stop, vpravo naho-
-ře I3 zlomen v korunce, výborně vybarven ale má melír, výborná dynamika po-
-hybu, ale občas volnější levý přední loket, lehké váznutí v zadních končeti=
-nách (možnost ovlivnění prostředím = malé prostory), typický představitel
-svého plemeno
-ALAM„KUH II Labutí řeka, žb, 19.11.84
-Aalborg Severní vítr - Atacama Studená=Javořice
-výborný I, vítěz třídy otevřené, oblastní vítěz, klubový vítěz
-ch: Jaroslav Říha, Kamenice n.Lipou
-m: Karel Rejhons, Pražská bouda, 543 44 Černý Důl
-2,5 letý pes, vybarven výborně (siena pálená), ušlochtilá hlava, volnější
-stop vůči konkurencí, výborně stavěn, perfektní předvodení, typický předsta=
-witel svého plemene
-třída dorostu = feny
-ALKA na Mělích; žb, 21.11.86
-Artison Severní vítr = Arvica Kačabka
-nadějná
-ch: Blanka Kučerová, Opočno
-m; Miroslav Motejlek, Bítouchov 89, 513 01 Semily
-G-mšsíční fena, chrup ve výměně, porančné levé dolní víčko (kočkou) , na svůj
-věk se nředvádí v klusu, v klidu si sedá, dobře stavěna, vzhledem k věku
-nelze dát vyšší ocenšní. co se týče stavby těla; zdá se, že jde o výbornou
-řenu a
+- 13 -
+
+9-měsíční pes, celkem dobře vybarven, poněkud klidnější, dobře stavěn, lépe
+se předváděl vůči konkurenci
+
+BENJAMIN Velká záděj, žb, 10.8.86
+    Alam-Kuh II Labutí řeka - Bělka Faranda
+    výborný I, vítěz třídy mladých
+    ch: Pavla Pospíšilová, H.Č.Studnice
+    m:  Jindřich Vandas, 262 13 Nečín 76
+
+    9-měsíční pes, překrásná bílé barva se znaky na hlavě, která je ušlechtilá,
+    plnochrupý, skus nůžkový, dobře se předvádí, projevuje se na něm únava z
+    cesty, při pohybu vyniká nad celou skupinou
+
+ATHOS Podcesný mlýn - nedostavil se
+
+
+třída dospělých - psi
+
+ARAGAC Kačabka, čb, 17.7.84
+    Artison Severní vítr - Ara Faranda
+    výborný III
+    ch: Jan Klír, Praha
+    m:  JUDr Jiří Teryngel, U plynárny 71, 141 00 Praha 4
+
+    3-letý pes, černobílé znaky, nevýrazné tečkování, ušlechtilá hlava, plno-
+    chrupý, skus nůžkový, pysky přilehlé, nosní partie výborná, uši dobře na-
+    sazené, častěji však dozadu nesené, dobře stavěný, lépe se předvádí sólo
+    oproti skupinovému předvedení, neklid při stoji ve skupině a širší postoj
+    předních končetin
+
+CIRAN Faranda, žb, 10.9.84
+    Ganek Třeboň-Kopeček - Čehocyn Třeboň-Kopeček
+    výborný II
+    ch: Dana Kupková, Slapy u TA
+    m:  Václav Kůrka, zot. Pražská bouda, Černý Důl
+
+    2,5-letý pes, překrásná hlava, vůči konkurenci výraznější stop, vpravo naho-
+    ře I3 zlomen v korunce, výborně vybarven ale má melír, výborná dynamika po-
+    hybu, ale občas volnější levý přední loket, lehké váznutí v zadních končeti-
+    nách (možnost ovlivnění prostředím - malé prostory), typický představitel
+    svého plemene
+
+ALAM-KUH II Labutí řeka, žb, 19.11.84
+    Aalborg Severní vítr - Atacama Studená-Javořice
+    výborný I, vítěz třídy otevřené, oblastní vítěz, klubový vítěz
+    ch: Jaroslav Říha, Kamenice n.Lipou
+    m:  Karel Rejhons, Pražská bouda, 543 44 Černý Důl
+
+    2,5 letý pes, vybarven výborně (siena pálená), ušlechtilá hlava, volnější
+    stop vůči konkurenci, výborně stavěn, perfektní předvedení, typický předsta-
+    vitel svého plemene
+
+
+třída dorostu - feny
+
+ALKA na Mělích, žb, 21.11.86
+    Artison Severní vítr - Arvica Kačabka
+    nadějná
+    ch: Blanka Kučerová, Opočno
+    m:  Miroslav Motejlek, Bítouchov 89, 513 01 Semily
+
+    6-měsíční fena, chrup ve výměně, poraněné levé dolní víčko (kočkou), na svůj
+    věk se předvádí v klusu, v klidu si sedá, dobře stavěna, vzhledem k věku
+    nelze dát vyšší ocenění, co se týče stavby těla, zdá se, že jde o výbornou
+    fenu

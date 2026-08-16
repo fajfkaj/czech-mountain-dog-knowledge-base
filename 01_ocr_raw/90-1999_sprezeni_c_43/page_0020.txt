@@ -1,0 +1,33 @@
+# ZDROJ: Spřežení č. 43, rok 1999, strana nezjištěna
+# SOUBOR: 90-1999_sprezeni_c_43.pdf
+# PDF_STRANA: 20
+# TISTENA_STRANA: nezjištěna
+# OCR: tesseract-5.3.4 / ces / conf 80.4
+---
+(; P
+Týmové závody spřežení a lyžař ZADOV 8. - 9. 1. 2000
+Celkové výsledky
+Závodník (spřežení) Závodník (Skj) Start1 Cil1 Čast Start2 | Cil2 Čas2 Celkem Start čísla
+Rašín Ivo Procházka Viktor | 13:33 14:20:08 00:47:08. 11:06 11:55:16 00:49:16 | 01:36:24 11
+Ochozka Jan Bartáček Luboš 14:00 14:51:38 00:51:38 | 11:09 12:01:47 00:52:47 | 01:44:25 | 20
+Habásko Roman Ženíšek Pavel 13:54 14:46:38 00:52:33. 11:12 12:04:20. 00:52:20 01:44:53 18
+Kmochová Vanda © Hanzlík Petr 13:18 14:12:42 00:54:42 | 11:21 12:14:56 | 00:53:56 | 01:48:38 6
+Zímová Kekén Zdeněk 13:12 14:05:41 00:53:41.. 11:15 12:12:17. 00:57:17 | 01:50:58 4
+Homolka Mirosla Čermák Roman 13:15 14:08:45 00:53:45. 11:18 12:15:23. 00:57:23. 01:51:08 5
+Job Milan Jaroš Pavel 13:39 14:35:36 00:56:36 | 11:24 12:25:50. 01:01:50 01:58:26 13
+Suchý Jiří Kateřina Kaňská | 13:24 14:22:19 00:58:19.. 11:27 12:27:27. 01:00:27 | 01:58:46 8
+Vykouk Jan Bauer Patrik 13:03 14:02:02 00:59:02 | 11:30 12:31:39. 01:01:39 | 02:00:41 1
+Bílý Martin Diviš Jan 13:36 14:40 01:04 11:39 12:43:26. 01:04:26 | 02:08:26 | 12
+Špaček Radim Coufal Bohumil 14:06 15:10:33 01:04:33 | 11:42 12:46:43. 01:04:43 | 02:09:16 | 22
+Krásný Václav Kekén Zoltán 13:09 14:15:18 01:06:16 | 11:48 12:53:20. 01:05:20 | 02:11:38 3
+Stejskal Ondřej Raufer Václav 13:06 14:14:11 01:08:11.. 11:57 13:01:09. 01:04:09. 02:12:20. 15
+Fryčová Vrátná 13:45 14:48:41 01:03:41.. 11:36 12:45:17 01:09:17 | 02:12:58 15
+Houdek jiří Balek Petr 13:51 14:53:03 01:02:03. 11:33 12:45:13 01:12:13. 02:14:16 17
+Olšan Zdeněk Manleová Kristína 14:03 15:10:55 01:07:55 | 11:51 12:58:35. 01:07:35. 02:15:30. 21
+Kostka Oldřich Kukla Daniel 13:21 14:27:11 01:06:11.. 11:45 13:01:17. 01:16:17 | 02:22:28 7
+Mikolášová Šárka © Matějek 13:27 14:40:17 01:13:17. 12:00 13:12:50. 01:12:50 | 02:26:07 9
+Heler Václav Bárta Richard 13:30 14:38:01 01:08:01.. 11:54 13:14:24. 01:20:24 | 02:28:25 10
+Voráček Coufal Tomáš 13:57 15:18 01:21 11:03 12:16 01:13 02:34 19
+Kotiš Martin Cinadr Miroslav 13:48 15:09:30 01:21:30 | 12:06 13:26:33 01:20:33 | 02:42:03 16
+Tyroler Ctirad Židov Pavel 13:42 14:59:55 01:17:55 | 12:03 13:29:43. 01:26:43 | 02:44:38 14
+18

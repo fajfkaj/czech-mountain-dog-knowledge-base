@@ -1,0 +1,16 @@
+# ZDROJ: Spřežení č. zvláštní (1992-11), rok 1992, strana nezjištěna
+# SOUBOR: 68-1992-11_sprezeni_special.pdf
+# PDF_STRANA: 24
+# TISTENA_STRANA: nezjištěna
+# OCR: tesseract-5.3.4 / ces / conf 82.0
+---
+PE-
+Obr .č. 3 - ní b]
+nárazník
+Detail začepování
+sloupku do sanice
+pianový
+pant
+Kování brzdy Pianový ia<
+pro uchycení
+brzdového prkna na příčník

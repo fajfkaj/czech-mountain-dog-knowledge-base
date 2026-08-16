@@ -1,0 +1,12 @@
+# ZDROJ: Spřežení č. 13, rok 1990, strana nezjištěna
+# SOUBOR: 57-1990-06_sprezeni_c_13.pdf
+# PDF_STRANA: 1
+# TISTENA_STRANA: nezjištěna
+# OCR: tesseract-5.3.4 / ces / conf 71.7
+---
+-ČSCH
+SPŘEŽENÍ
+Klub chovatelů českého horského psa
+č.13 | červen 1990
+O **ki
+> 9

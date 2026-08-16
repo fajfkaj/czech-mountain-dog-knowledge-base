@@ -1,0 +1,10 @@
+# ZDROJ: Spřežení č. 39, rok 1998, strana nezjištěna
+# SOUBOR: 86-1998-08_sprezeni_c_39.pdf
+# PDF_STRANA: 24
+# TISTENA_STRANA: nezjištěna
+# OCR: tesseract-5.3.4 / ces / conf 49.5
+---
+ré
+...
+M- a ——
+$4

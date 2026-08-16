@@ -1,0 +1,47 @@
+# ZDROJ: Spřežení č. 36, rok 1997, strana nezjištěna
+# SOUBOR: 83-1997-09_sprezeni_c_36.pdf
+# PDF_STRANA: 25
+# TISTENA_STRANA: nezjištěna
+# OCR: tesseract-5.3.4 / ces / conf 85.7
+---
+Králová Dana, , 33563 Nové Mitrovice 25 d:0185/97237
+Kubešová Radka, Dvorce 53, 580 01 Havlíčkův Brod d: 0451/25591
+Kubíčková Marie, Gagarinova 1898, 288 02 Nymburk d: 0325/62890
+p: 0325/3766, 3147
+Kupka Oldřich, , 39176 Slapy u Tábora45 d:0361/256276 p:0361/495290
+Kupková Dana,,391 76 Slapy u Tábora 45 d:0361/256276
+Lang Hynek, Zahradní 289, 547 01 Náchod d:0441/21030 p: 0441/448233
+Loučka Radko, U svodnice 105, 104 00 Praha 10 - Královice d:02/67711253
+p: 02/67711747
+Loučková Eva, U svodnice 105, 104 00 Praha 10 - Královice d:02/67711253
+Macková Renata, Drahlov 153, 783 74 p. Charváty p: 068/92306
+Macháček Libor, Rudolfova 732, 724 00 Stará Bělá d: 069/302579
+Mareš Martin, V cizině 631, 262 42 Rožmitál pod Třemš, d:; 0306/965169
+Masojídek Jiří, Holičky 17,37901 Třeboň d:0333/3318 p:0333/721101, 721140
+Matějka Petr, U mlýna 7, 141 00 Praha4 d:02/768221 p:02/768221
+Motejlek Miroslav, Bitouchov 89, 513 01 Semily
+Mráček Viktor, Nový Dvůr 67, 384 72 Zdíkov
+Mudrý Valtr, Zlatá 7,460 14 Liberec 17 d:048/5123118
+Navrátil Slavomír, Školní 203, 683 52 Křenovice d: 05/44223509
+Pětiletý Marek, Jablonecká 294/16a, 460 01 Liberec d: 048/24776 p: 048/24841,
+24842
+Petrákovi ,, 512 44 Dolní Rokytnice n. Jiz. 302 d:0432/92504 p: 0432/92504
+Pfeifer Stanislav, Jaselská 300, 293 01 Mladá Boleslav d: 0326/21832
+Pohořalý Michal, Na Mokřině 34, 13000 Praha 3 d: 02/6848546
+p: 02/6872364 (Pohořalá)
+Pokorný Margareta, Langwies 161, A -4802 Ebensce d: 0043/61133/79123
+Pospišilová Jitka, Ke trojici 238, 284 01 Kutná Hora p: 0327/62774 (rodiče)
+Pospíšilová Pavla, Hor. Čer. Studnice 22, 468 21 Bratříkov
+Ridziová Marie, Chata Ruzyně, Čes. Šumburk, 468 41 Tanvald d: 0428/394889
+p: 0428/394889
+Rubeš Martin, Těpeře 86, 468 22 Železný Brod
+Růžičková Marcela, „46823 Loužnice 39 p: 0428/39004|
+Sedláček Adam, Žárovice 68, 798 03 Plumlov d:0508/93523
+Sedláčková Marie, Žárovice 68, 798 03 Plumlov d:0508/93523
+Schebor Edit, Dorfstadt 10, A - 3633 Schónbach d:0043/2827/358
+Smetková Silvie, Slovenská 4282, 76001 Zlín d:067/82067 p:067/7618204
+Strnadová Marcela, Žižkův kopec 445, 552 03 Česká Skalice d: 0441/452071
+Suchý Jiří, Školní 446, 588 51 Batelov
+Svitáková Markéta, Mírová 429, 385 01 Vimperk
+Svoboda Jaroslav, Na Hůrce 350, 439 82 Vroutek p: 0399/614086
+21

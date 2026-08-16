@@ -1,0 +1,56 @@
+# ZDROJ: Spřežení č. 14, rok 1990, strana nezjištěna
+# SOUBOR: 58-1990-10_sprezeni_c_14.pdf
+# PDF_STRANA: 17
+# TISTENA_STRANA: nezjištěna
+# OCR: tesseract-5.3.4 / ces / conf 87.7
+---
+- 15 -
+CER z Vlažinky. 226/87, čb, 63/33 - 040210; Jana Hofhanzlová, Suchdol nad Lužnicí
+ADDIS Ovědada, 241/87, čb, 63/42 - 102010; Jaroslav Vrzák, Stachy
+ARGO z Krkonoš, 238/87, žb, 65/33 - 100000; Irena Maršálková, Valteřice
+BIRT ze Lhoty; 303/88, čb, 62/36 - 012000; Jaroslav Konečný, Králíky
+AIP z Podkrkonošské samoty, 295/88, čb, 66/37 - 000031; Josef Hrdý, Lánov
+-ART- Zlatá trubka, 312/88, čb, 63/37 - 0102313 Vratislav Večerka, Staré Hamry
+CAJK Už jedou, 274/88, žb, 66/35 - 000230; Ivan Filipčuk, Bernartice u Javorníka
+ADAN Netolická obora, 336/88, žb, 65/40 - 012000; Josef Matějek, Netolice
+ARIX Blanský les, 266/88, čb, 65/34 - 240020; Miroslav Kajan, Třebon
+BACK Pradědova louka, 253/88, čb, 63/35 = 042210; Jaroslav Blažek, Svoboda n.Úpou
+BRYX Jasná záře, 370/89, žb, 66/40 - 000210; Jaroslav Blažek, Svoboda nad Úpou
+BLESK Jasná záře, 369/B9, žb, 65/35 - 000210; Miroslav Motejlek, Semily
+BART Jasná záře, 367/89, žb, 66/39 - 000230; Milan Novotný, Semily
+AKIM Údolí duhového potoka, 358/89, čb, 67/39 - 000030; Jindřich Skrbek, Semily
+Z těch, kteří už kryli, mohou být dále využíváni (mají splněnou podmínku výstavy):
+AALBORG Labutí řeka, 87/84, čb, 65/37 - 000000; Petr Hanzlík, Kardašova Řečice
+(Ze 49 potomků: 12xV, 2x šamp.ČSFR, 1xNV)
+DAR Faranda, 112/86, žb, 64/33 - 000000; Radko Loučka, Praha
+(225 2xV)
+BORAS Pradědova louka, 254/88, čb, 61/32 - 000000; Karel Fiala, Cínovec
+AKKY Zbloudilec, 135/86, čb, 64/41 - 000020; Petr Sláma, J.Hradec
+(51 1xV)
+BENJAMIN Velká záv“ j, 126/86, žb, 69/41 - 010004; Jindřich Vandas, Nečín
+(5: 2xV) O o :
+CIRAN Farenda, 82/64, žb, 64/38 - 000030; Václav Kůrka, Černý Důl
+(10: 2xV)
+ALAM-KUH Labutí řeka, 90/84, žb, 65/38 - 000000; Karel Rejhons, Pec pod Sněžkou
+(32: 10xV, lx světový vítěz)
+ARAGAC Kačabka, 70/84, čb, 65/? - 010020; Jan Klír, Praha
+(301 5xV, 1xCAC) .
+CAVYK Faranda, 61/84, žb, 69/40 - 300030; Miroslav Motejlek, Semily
+(81 3xV)
+ADIRONDAK Stráž nad Nežárkou, 167/86, čb, 66/42 - 000000; Jan Šanovec, Dobříchovíce
+BLESK Už jedou, 198/87, žb, 70/51 - 000200; Jaroslav Čumpelík, Kunčice nad Labem
+(21 2xV)
+DRY Severní vítr, 219/87, čb, 62/36 - 002210; Jan Chlum, Vrchlabí
+AREKUS Sněžník, 251/88, žb, 69/42 - 000000; Miroslav hedlich, Aš
+BRIX Ovědada, 289/88, žb, 68/40 - 000000; Radko Kleinwachter, Hřibojedy
+BENNY z Milety, 150/B6, čb, 67/40 - 000010; Zdeněk Reichl, Bohdíkov
+V tlivky:
+JMÉNO psa, číslo zápisu, zbarvení, výška/váha. - číselný kod; majitel, adresa
+číselný kod značí v pořadí:
+1. zuby - číslice znamená počet chybějících zubů
+2. ucha - 1 krátké, 2 dlouhé, 3 odstávající, 4 složené +«+«« Jako na bonit.listě
+3, pánevní končetiny - 1 vytočené tlapky, 2 rozbíhavý postoj
+4. znaky — 1 malá plocha skvrn, 2 plášt
+5, bílá barva - 1 ojedinělé tečky, 2 tečkování, 3 melír
+6, povaha —- 1 nejistá, 2 bázlivá, 4 agresivní k lidem
+(Ocenění potomků: V = výborná - pouse z klubových nebo mezinárodních výstav)

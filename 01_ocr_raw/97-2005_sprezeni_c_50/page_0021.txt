@@ -1,0 +1,62 @@
+# ZDROJ: Spřežení č. 50, rok 2005, strana nezjištěna
+# SOUBOR: 97-2005_sprezeni_c_50.pdf
+# PDF_STRANA: 21
+# TISTENA_STRANA: nezjištěna
+# OCR: tesseract-5.3.4 / ces / conf 93.0
+---
+1. Dodržovat ustanovení a směrnice FCI, stanovy a řády KČHP, řídit se nařízeními a usneseními
+klubu.
+2. Dbát na dodržování principů ochrany zvířat.
+3. Řádně, odpovědně a aktivně plnit úkoly vyplývající z funkce v orgánech klubu, do které byl člen se
+svým souhlasem zvolen.
+4. Hlásit do 30 dnů jednateli KČHP všechny změny, mající vliv na členství v KČHP.
+5. Umožnit kontrolu vrhu - chovu pověřenému zástupci KČHP, případně ČMKU.
+VII. ORGÁNY KLUBU
+1. Členská schůze.
+2. Výbor klubu.
+3, Chovatelská a bonitační komise klubu.
+4, Kontrolní a revizní komise klubu.,
+5.Sportovní klub ČHP
+VIII. ČLENSKÁ SCHŮZE
+1. Členskou schůzi svolává výbor klubu 1x ročně. Musí být svolána písemně, postačující je i oznámení v
+klubovém zpravodaji.
+2. Členská schůze projednává a schvaluje:
+- zprávu výboru o činnosti klubu
+- zprávu poradce chovu
+- zprávu o hospodaření klubu a návrh rozpočtu na další období
+- zprávu kontrolní a revizní komise
+- změny v normách, řádech, chovných podmínkách
+- zásadní úkoly klubu na další období
+- kandidáty do výboru a komisí klubu
+3. Členská schůze přijímá usnesení, které musí být schváleno nadpoloviční většinou přítomných.
+4. Z jednání členské schůze se pořizuje zápis, který podepisuje předseda nebo pověřený člen výboru.
+IX. VÝBOR KLUBU
+1. Výbor klubu je 7 členný a je statutárním zástupcem klubu. Po zvolení kandidátů na členské schůzi
+zvolí výbor ze svého středu předsedu klubu. Ten dále řídí volbu mistopředsedy, jednatele, poradce
+chovu, ekonoma, tiskového referenta a sportovního referenta.
+- zastupuje s jednatelem klub a jedná jménem klubu
+- spolu s jednatelem vyřizuje naléhavé záležitosti klubu mezi zasedánimi výboru
+- zpracovává a podává zprávu o činnosti klubu za spolupráce ostatních funkcionářů
+- podepisuje spolu s ekonomem veškeré písemnosti finanční povahy
+- svolává a řídí schůze výboru
+- dbá na řádné plnění úkolů klubu
+- zastupuje nepřítomného předsedu se všemi jeho právy a povinnostmi
+- řídí internetové stránky klubu, zodpovídá za jejich aktualizaci a obsahovou správnost , shromažďuje
+příspěvky od funkcionářů a členů klubu
+JEDNATEL.
+- zastupuje spolu s předsedou klub před úřady a právnickými osobami a jedná jménem klubu
+- podepisuje korespondenci klubu v rámci svého zmocnění výborem klubu
+- vede evidenci korespondence a odpovídá za její včasné vyřízení
+- z vyhotovuje zápisy z členských schůzi
+- vede agendu přihlášek nových členů a evidenci členů klubu, vystavuje členské průkazy
+- jednou ročně provádí inventarizaci majetku klubu o výsledku informuje výbor klubu
+PORADCE CHOVU.
+- zodpovídá za dodržení hlavního poslání klubu při zkvalitňování chovu dle platného standardu
+- vede přehledy chovných psů a fen a poskytuje potřebné informace
+- vystavuje kryci listy
+- eviduje, kontroluje a potvrzuje přihlášky vrhů a předává je ČMKU k vystavení průkazů původu
+- zpracovává návrh koncepce chovu
+- vyhodnocuje výsledky chovatelské činnosti
+- informuje výbor o chovatelské činnosti a prostřednictvím klubového tisku | ostatní členy klubu
+- je předsedou chovatelské a bonitační komise klubu
+|" SS"

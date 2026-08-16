@@ -1,0 +1,9 @@
+# ZDROJ: Spřežení č. zvláštní (1992-11), rok 1992, strana nezjištěna
+# SOUBOR: 68-1992-11_sprezeni_special.pdf
+# PDF_STRANA: 22
+# TISTENA_STRANA: nezjištěna
+# OCR: tesseract-5.3.4 / ces / conf 68.4
+---
+s u - postroje
+- Zápřah
+Obr č. 1

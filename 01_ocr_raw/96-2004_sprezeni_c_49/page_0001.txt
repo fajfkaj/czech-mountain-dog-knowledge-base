@@ -1,0 +1,10 @@
+# ZDROJ: Spřežení č. 49, rok 2004, strana nezjištěna
+# SOUBOR: 96-2004_sprezeni_c_49.pdf
+# PDF_STRANA: 1
+# TISTENA_STRANA: nezjištěna
+# OCR: tesseract-5.3.4 / ces / conf 71.6
+---
+SPŘEŽENÍ
+Klub českého horského psa 2004
+" prohlaši
+Jámusimzhynoutnajeních,“ p

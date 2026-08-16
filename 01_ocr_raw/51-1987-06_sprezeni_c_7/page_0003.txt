@@ -1,44 +1,67 @@
-# ZDROJ: Spřežení č. 7, rok 1987, strana nezjištěna
+# ZDROJ: Spřežení č. 7, rok 1987, s. 1
 # SOUBOR: 51-1987-06_sprezeni_c_7.pdf
 # PDF_STRANA: 3
-# TISTENA_STRANA: nezjištěna
-# OCR: tesseract-5.3.4 / ces / conf 74.6
+# TISTENA_STRANA: 1
+# OCR: vision (AI dočtení, tesseract conf pod prahem); tabulkový přehled vrhů plemenné knihy
 ---
-la
 DÍLČÍ PLEMENNÁ KNIHA ČESKÝCH HORSKÝCH PSŮ
-“
-POLEDNÍK 27.05.1985
-Jaroslav Čumpelík, 543 61 Kunčice nad Labem
-Gerlach TřeboňeKopeček Agama Faranda
-95 ABAK žb. © pí
-96 | ALBEN žb
-OD JANKOVA KOPCE 06,06, 1985.
-Jan Chlum, Tkalcovská 350, 543 01 Vrohlabí
-Gerlach Třeboň=-Kopeček Furka. uož=zopsček
-reg. 26/82, žb Pi reg. 24/81, čb
-97 BLIZARD čb 99 BLEOKY čb
-98. BONN čb fr: o
-OD BUBLAJÍCÍHO POTŮČ 28.08.1985. E už =
-Pavel Janalík, Jolirubího 1065, 543 O1 Vrchlabí T
-Artison Severní vítr Adelína od Jankova kopce
-reg. 53/83/85, žb reg. 60/83, čb
-100. ADHARA žb
-OD HRNČÍŘSKÝCH LUK 0, 02.09.1985
-, Petr Kobr, U lesovny W 249. 54 Police nad Metují
-Artison Severní vítr Andy od Jankova £ojce
-reg. 53/83/85, žb reg. 61/83, žb
-101. AIKEN 2b
-VELKÁ ZÁVĚJ 1 30.12.1985
-Favla Pospíšilová, Horní Čevná Studníce.122, 468 27 Nová Ves noNisou
-Gerlach TřeboňeKopeček Bělka Faranda
-reg. 26/82, žb reg. 63/83, žb :
-102 ALP žb 104. ARANKA žb
-103 AJAX žb
-LABUVÝ ŘEKA 14.04.1986
-Varoslav Říha, Pod vodojemem 587, 394 70 Kamenice nad Žipou
-Aragac Kačabka Atacama Studoná=Javořice
-reg. 70/84/86, čb reg. 47/83, žb
-105  BENEVIS čb 107. BARTER ČD.
-106 BLACK čb 108. BELUGA čb
-- 109. BETHEL šb
-= - 0110. BOLLING čb
+
+
+POLEDNÍK                                    27.05.1985
+
+    Jaroslav Čumpelík, 543 61 Kunčice nad Labem
+    Gerlach Třeboň-Kopeček                       Agama Faranda
+    reg. 26/82, žb                               reg. 12/81, žb
+
+    95  ABAK                    žb
+    96  ALBEN                   žb
+
+
+OD JANKOVA KOPCE                            06.06.1985
+
+    Jan Chlum, Tkalcovská 350, 543 01 Vrchlabí
+    Gerlach Třeboň-Kopeček                       Furka Třeboň-Kopeček
+    reg. 26/82, žb                               reg. 24/81, čb
+
+    97  BLIZARD                 čb    99  BLECKY                 čb
+    98  BONN                    čb
+
+
+OD BUBLAJÍCÍHO POTŮČKU                      28.08.1985
+
+    Pavel Janalík, J.Hrubího 1065, 543 01 Vrchlabí
+    Artison Severní vítr                         Adelína od Jankova kopce
+    reg. 53/83/85, žb                            reg. 60/83, čb
+
+                                              100 ADHARA                žb
+
+
+OD HRNČÍŘSKÝCH LUK                          02.09.1985
+
+    Petr Kobr, U lesovny 147, 549 54 Police nad Metují
+    Artison Severní vítr                         Andy od Jankova kopce
+    reg. 53/83/85, žb                            reg. 61/83, žb
+
+    101 AIKEN                   žb
+
+
+VELKÁ ZÁVĚJ                                 30.12.1985
+
+    Pavla Pospíšilová, Horní Černá Studnice 122, 468 27 Nová Ves n.Nisou
+    Gerlach Třeboň-Kopeček                       Bělka Faranda
+    reg. 26/82, žb                               reg. 63/83, žb
+
+    102 ALF                     žb    104 ARANKA                 žb
+    103 AJAX                    žb
+
+
+LABUTÍ ŘEKA                                 14.04.1986
+
+    Jaroslav Říha, Pod vodojemem 587, 394 70 Kamenice nad Lipou
+    Aragac Kačabka                               Atacama Studená-Javořice
+    reg. 70/84/86, čb                            reg. 47/83, žb
+
+    105 BENEVIS                 čb    107 BARTER                 čb
+    106 BLACK                   čb    108 BELUGA                 čb
+                                  109 BETHEL                 žb
+                                  110 BOLLING                 čb

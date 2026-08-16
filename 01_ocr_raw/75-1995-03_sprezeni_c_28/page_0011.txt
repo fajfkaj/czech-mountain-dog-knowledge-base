@@ -1,0 +1,51 @@
+# ZDROJ: Spřežení č. 28, rok 1995, strana nezjištěna
+# SOUBOR: 75-1995-03_sprezeni_c_28.pdf
+# PDF_STRANA: 11
+# TISTENA_STRANA: nezjištěna
+# OCR: tesseract-5.3.4 / ces / conf 92.4
+---
+O -
+E S. ARAM z Hradního ochozu Společný předek:
+AALBORG Labutí řeka
+A z Hradního ochozu
+AŠKÝ, ART Zlatá trubka Přiřadit nepříbuzného psa.
+DAR Jahodovka
+A Ďábelská
+E 9. | AKATAM Do neznáma Společný předek:
+AKATAM Do neznáma
+B ledenická cesta
+B Čejiva
+10. - bude teprve upřesněno
+p
+Zatím nezařazeni - mohou se přiřadit do kterékoliv linie:
+BEY Údolí Duhového potoka a AKIM Údolí Duhového potoka
+DAK z Vlažinky
+ALAKANUK Pátý dráp —- maj. Petr Heidenreich - nevíte o něm
+někdo ?
+A,B,C na Salabce, A na Skácelce
+C Poledník
+A od Suchého buku
+B,C Údolí kamarádů
+A Růžová louka
+A z Dubových pasek (kromě feny Aida)
+A z Údolí Vošmendy
+B od Hajnýho
+Linie jsou založeny tak, že jedinci v mnich zařazení jsou do
+1.generace předků (rodiče) bez společných předků mezi jednotlivými
+liniemi.
+Postupně budou do těchto linií přiřazovány feny tak, jak jejich ma-
+jitelé budou žádat o vystavení krycího listu. Kritériem bude v prv-
+ní řadě rodokmen, teprve v rámci jednotlivé linie pak další znaky -
+exteriér, povaha a přání chovatele.
+Pokud fena vzhledem k rodokmenu nepůjde zařadit do žádné z 10ti li-
+nií, zařadí se do tzv. 11.linie —- která bude mimo liniovou pleme-
+nitbu.
+Do 11.linie připadnou také všichni psi a feny, kteří budou z něja-
+kých důvodů z liniové plemenitby vyřazeni.
+Uvítám, pokud někdo umíte programovat a jste schopni udělat program
+m který by "uměl“ rodokmen —- tj. u každého jedince vypsat podle
+volby předky do určité generace
+m porovnat nepříbuznost jednotlivých linií mezi sebou do určité ge-
+nerace předků
+m určit, zda zkoumaný jedinec může být zařazen do některé z linií,
+aniž by se porušila jejich vzájemná nepříbuznost

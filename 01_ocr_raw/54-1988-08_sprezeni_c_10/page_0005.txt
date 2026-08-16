@@ -1,0 +1,57 @@
+# ZDROJ: Spřežení č. 10, rok 1988, strana nezjištěna
+# SOUBOR: 54-1988-08_sprezeni_c_10.pdf
+# PDF_STRANA: 5
+# TISTENA_STRANA: nezjištěna
+# OCR: tesseract-5.3.4 / ces / conf 84.5
+---
+m: Karel Fiala, Ležáky
+- kravský postoj, malá plocha skvrn, melír, neurovnaný pohyb
+BONITA Velká závěj, Reg. 129/86, žb, 64cm, 38kg - nechovná
+© | Alam-Kuh Labutí řeka - Bělka Faranda
+ch: Pavla Pospíšilová
+m: Pavla Pospíšilová, Horní Černá Studnice
+= chybí P3 vpravo nahoře, P1 vpravo dole, P1, P2 vlevo dole, světlejší
+barva skvrn, srst mírně zkadeřená
+AKKY Zbloudilec, Reg.135/86, čb, 64cm, 41kg © - chovný
+d | Alam=Kuh Labutí řeka - Brevent z Vlažinky
+ch: Miroslav Holeček
+m: Potr Sláma, Jindřichův Hradec
+- těžší hlava, tečkování, typ odpovídající
+A „ Zděřina
+Atlas od Jankova kopoe - Arcona Kačabka
+ch: Josef Zmátlo
+AJMEN Zděřina, Reg.177/B86, žb, 62cm, 36kg - nechovný
+ď om: Marie Seifertová, Police nad Metují
+- chybí P3 vpravo nahoře, předkus, převislé pysky
+AJKA Zděřina, Reg. 181/86, čb, 580m, 29,5kg -= nechov
+p m: Kateřina Andršová, Sudín
+-+ předkus, bp odpovídající, krátký nos, měkký hřbet, saní. bázlivá,
+agresivní k lidem
+ARGA Zděřina, Reg. 183/86, žb, 62cm, 42kg |! = nechovná
+© om: Miroslav Martínek, Miskolezy
+- chybí P3 nahoře oboustranně, předkus, typ odpovídající, převislé pys=
+ky, krátký nos, otevřené oko
+2+ z Miloty .
+Aragac Kačabka - Guara Třebon-Kopeček
+ck: Irma Králová :
+BENNY z Milety, Reg. 150/86, čb, 67em, 40kg = chovný
+ď m: ing arch, Zdeněk Reichl, Raškov
+= ektropium, světlejší oko, ocas příliš stočený, ojedinělé tečky
+BORO z Milety, Reg.151/86, čb, 65,5cm, 38kg - chovný
+F m: Petr Heidenreich, Plzen
+- typ odpovídající, ektropium, převislé pysky, krátký nos, plášť, oje-
+dinělé tečky
+BANY z Milety, Reg.152/86, žb, 66,50m, 41,5kg : - chovná
+9 mr Josof Drb, Osačně
+- pohlavní výraz opačný, větší než standard, mělký hrudník
+C + od Jankova kopce
+Aalborg Labutí řeka - Furka Třebon=Kopeček
+ch: Jan Chlum
+CEZAR od Jankova kopce, Reg.164/86, čb, 62,5cm, 32kg - chovný
+ms Jan Chlum, Vrchlabí
+- typ odpovídající, krátký nos, melír
+CIIKA od Jankova kopce, Reg. 156/86, čb, 58,5om, 34kg - chovná
+o om: Jan Holas, Vranové
+- chybí Pi vpravo dole, málo typická, lymfatičnost - ektroplum, volná
+kůže, rámec mírně delší, krátké ucho, krátký krk, plášt, noha vybo-
+čuje, nejisté povaha

@@ -1,0 +1,47 @@
+# ZDROJ: Spřežení č. 20, rok 1992, strana nezjištěna
+# SOUBOR: 65-1992-05_sprezeni_c_20.pdf
+# PDF_STRANA: 7
+# TISTENA_STRANA: nezjištěna
+# OCR: tesseract-5.3.4 / ces / conf 84.3
+---
+1. DD E a 58 bodů  (3Ovýst.+ 28sport)
+výstavy: 27.4.91 OV Hradec Králové V1,OV 10 bodů
+2545.91 KV Královice VI,KV 10
+7.9.91 NV Mladá Boleslav VI,NV 10
+sport: 30.11.- 1.12.91 Škvořetice —- kat.C - z ČHP 1. 10
+14.—- 15.12.91 Stožec — kat.C — z ČHP 2. 8
+21.- 22.12.91 Tři Studně —- kat.C — z ČHP 1. 10
+2 BIRT ze Lhoty 32 o bodů ( 2 + 30)
+3.  EDEN Už jedou 28 bodů ( 4 + 24)
+4.  ALAKANUK Pátý dráp 15 bodů (8+ 7)
+1. ATETHI ze L.hotw 48 bodů (l8výst.+ 30sport)
+výstavy: 27.4.91 OV Hradec Králové V1,OV 10 bodů
+25.5, S91 KV Královice V 8
+sport: 9.- 10. 2.91 Zadov - z ČHP 1 LO
+23.—- 24. 2.91 Harrachov - z ČHP 1 o)
+9.— 10.11.91 Hradec Králové —- z ČHP 1 LO
+2. ELZA Už jedou 36 bodů ( 8 + 28)
+3.  DÁJA Faranda 21 bodů ( 9 + 12)
+4. ELA Faranda 19. bodů ( 8 + Il)
+5. APOLA od Fíka 17. bodů (© 1 + 16)
+6. ARNIKA od Fíka 16 bodů (8+ 8)
+7.  ASTA Údolí Kačáku 14 bodů ( 4 + 10)
+| Doplněk seznamu členů Klubu českého horského psa (k 20.3.98):
+Ausfiačova Gabriela, 739 15 Staré Hamry -— Bilý Kríž, d 0658 + 589621
+Červená Aranka, 357 22 Bublava 502
+Drbohlav Jan, Údolní 895/6, 460 01 Liberec I, d 048 + 24362,
+p A425 + 53293
+Fošenbauerová Dagmar, Nejedlého 518, 363 01 Ostrov, d 0164 + 4405,
+p Ól64 + 3548
+Grepl Boman, Nové Dvory 35, 592 11 Velka Losenice, p 0451 + 24754
+Gut Thomas, Flanitzmiihle 9, D-8377 Frauenau, SRN, d 09526 + 731
+Harva David, Máchova 5, 320 03 Plzeň
+Jeřábek Václav, RS-5igma Vičanov, 768 71 Kajnochovice
+Karas Jan, Mírová 56, 435 21 Obrnice, d 035 + 79-10-15
+Konečný Ivan, Královský vršek 6, 586 Ú1 Jihlava
+Kosař Jiří, 561 86 Záchlumí 113, p 0445 + 41261/351
+Kubík Jan, 582 61 Česka Bělá 267
+Liibner Manired, Rosengrunnd 4, D-8231 Zinnwald, SRN
+Mazák Jaroslav, Na Červeném vrchu 2982, 415 01 Teplice,
+d 0417 + 40291, p 0417 + 27353
+Pavlík Jan, B.Němcové 21, 794 01 Krnov

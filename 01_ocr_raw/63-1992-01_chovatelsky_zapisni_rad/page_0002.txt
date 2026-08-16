@@ -1,0 +1,10 @@
+# ZDROJ: Spřežení č. Chovatelský a zápisní řád (1992-01), rok 1992, strana nezjištěna
+# SOUBOR: 63-1992-01_chovatelsky_zapisni_rad.pdf
+# PDF_STRANA: 2
+# TISTENA_STRANA: nezjištěna
+# OCR: tesseract-5.3.4 / ces / conf 91.4
+---
+Cílem Českomoravského kynologického svazu je chov čisto=
+krevných psů dle uznaného standardu FCI při zachování
+biologického zdraví každého jedince a charakteristických
+vlastností a vloh specifických pro jednotlivá plemena.

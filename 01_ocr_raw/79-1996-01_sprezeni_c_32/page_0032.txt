@@ -1,0 +1,54 @@
+# ZDROJ: Spřežení č. 32, rok 1996, strana nezjištěna
+# SOUBOR: 79-1996-01_sprezeni_c_32.pdf
+# PDF_STRANA: 32
+# TISTENA_STRANA: nezjištěna
+# OCR: tesseract-5.3.4 / ces / conf 87.6
+---
+Závody psích spřežení v kategorii skijdring ne Komáří Vížce
+14,-15.12.1991 1.Sláma, 2.Kyncl, 3.Beneš
+- 1993 1.Burda, 2.Kyncl, 3.Beneš
+1.Burda, 2.Procházka, 3.Beneš
+l.Žák, 2.Burde, 3. Kubr
+1.Burda, 2.Horáék, 3.Frocháézka
+8.=- 9, 1.1994
+5,- 6. 2.1994
+14.-15. 1.1995
+9.-10.12.1995 —- 1,Procházka, 2.Horék, 3.Prochézke
+délka trati: 11 990 m
+Nejrychleji zajetá kola km/h
+33:53 101295 1. Procházka Vít BO Miki 21,07
+35:54 101295 2. Horák Jan SH Čibí 19,88
+36:19 101295 3. Beneš Dalibor ČEP Cyr Zimní sen 19,66
+37:21 101295 4. Burda František ČHP Bering Zimní sen 19,11
+37:31 101295 5. Procházka Vít ČHP Flza Úž jedou 19,03
+37:33. 080194 1. Burda František ČHP Bering Zimní sen 19,01
+37:35 151291 1. Kyncl Martin ČHP Bard Netolická obora
+37:35 151291 2. Beneš Dalibor ČHP Art
+37:42 090194 1. Burda František ČHP Bering Zimní sen
+37:50 050294 1. Žák Milan SH Black
+36:14 060294 1. Žák Milan SH Black
+36:25 050294 2. Burda Frentišek ČHP Bering Zimní sen
+38:25 140195 1. Burda František ČHP Bering Zimní sen
+38:32 950294 3. Kubr Václav SH
+38:34 391295 1. Procházka Vít BO Miki
+38:41 151291 3. Sláma Petr AM. Atkins
+38:56 080194 2. Frocházka Vít ČHP Elza Už jedou
+38:58 090194 2. Procházka Vít ČHP Elza Už jedou
+39:02 391295 2. Horék Jan SH Čibi
+39:27 141291 1. Sláma Petr AM Atkins
+39:36 070393 1. Burda František ČHP Bsara Pradědovo louka
+39:56 101295 6. Kyncl Martin ČHP Bard Netolická obora
+Nejrychlejší součty časů obou kol
+72:27 1295 1. Procházka Vít BO Miki 19,71
+74:56 1295 2. Horák Jan SH Čibí 19,05
+75:15 0194 1. Burda František ČHP Bering Zimní sen 16,97
+76:04 0294 1. Žák Milan SH Black 18,77
+77:44 1295 3. Procházka Vít ČHP Elza Už jedou 16,37
+77:54 0194 2. Procházka Vít ČHP Elza Už jedou 18,339
+78:06 1295 4. Burda František ČHP Bering Zimní sen 18,28
+76:08 1291 1. Sláma Petr AM Atkins
+79:25 1295 5. Beneš Dalibor ČHP Cyr Zimní sen
+79:28 0294 2. Burda František ČHP Bering Zimní sen
+79:57 1291 2. Kyncl Martin ČHP Bard Netolická obora
+zpracoval: František Burda
+E A 55 W o O O S

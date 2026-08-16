@@ -1,0 +1,42 @@
+# ZDROJ: Spřežení č. 52, rok 2006, strana nezjištěna
+# SOUBOR: 99-2006_sprezeni_c_52.pdf
+# PDF_STRANA: 22
+# TISTENA_STRANA: nezjištěna
+# OCR: tesseract-5.3.4 / ces / conf 91.9
+---
+3. Podkladem pro zápis odchovu do plemenné knihy je výhradně platná
+přihláška vrhu. Za platnost přihlášky vrhu odpovídá příslušný chovatelský
+klub.
+4. Součástí přihlášky vrhu jsou krycí listy a v případě zahraničního krytí i
+kopie originálu PP včetně dokladu o chovnosti.
+5. Vrh musí být přihlášen k zápisu kompletní t.zn., že musí být uvedena
+všechna štěňata, která byla do okamžiku žádosti o zápis odchována.
+Přihláška vrhu označených štěňat (způsob označování víz směrnice) musí
+být odeslána plemenné knize nejpozději do 3 měsíců od data vrhu.
+6. Jména štěňat jednoho vrhu začínají stejným písmenem. Vrhy musí být
+řazeny abecedně (vzestupně) za sebou. Doporučuje se vést pro každí
+plemeno v chovatelské stanici zvláštní abecední řadu. Jména nesmějí
+obsahovat název chovatelské stanice, vulgární či hanlivá slova a něsmějí
+žádným způsobem propagovat terorismus nebo jiná extremistická hnutí.
+Délka jmen může být maximálně 20 znaků včetně mezer a interpunkčních
+znamének. Jméno nesmí tvořit pouze předložka česká ani cizojazyčná
+(von,of,...).
+7. Jména štěňat se v jedné chovatelské stanici v rámci jednoho plemene
+nesmí opakovat.
+B. Zápisy štěňat do plemenné knihy se provádí podle schématu: zkratka
+plemenné knihy/zkratka plemene/ číslo zápisu. Je v pravomoci plemenné
+knihy rozhodnout, zda bude čísla zápisu lomit dalšími údaji, které považuje
+za důležité pro identifikaci jedince (např. rok narození, rok zařazení do
+chovu apod.).
+9, V případě, že majitel feny nevlastní chráněný název chovatelské stanice,
+může jednu fenu zapůjčit do jiné chovatelské stanice pouze jedenkrát.
+Zapůjčení feny musí být plemenné knize doloženo písemnou smlouvou. © *
+X, Zápis importovaných jedinců do plemenné knihy
+1, Jedincům dovezeným s platnými PP, které jsou vystaveny zeměmi FCI, či
+smluvními partnery FCI, přiděluje plemenná kniha číslo zápisu podle
+následujícího schématu: zkratka n knihy/zkratka plemene/ číslo
+zápisu/-rok importu/rok narození. V případě, že jsou importovaní jedinci
+uvádění do rodokmenu jako rodiče v CR zapisovaných vrhů, je nutno vždy
+uvádět zkratku a číslo zápisu původní plemenné knihy.
+2. PP,které nejsou psány latinkou, je nutno doložit ověřeným přepisem.
+Originální PP se u importovaných zvířat zásadně nepřepisují na formuláře

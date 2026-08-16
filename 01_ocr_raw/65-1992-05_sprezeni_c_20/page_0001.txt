@@ -1,0 +1,19 @@
+# ZDROJ: Spřežení č. 20, rok 1992, strana nezjištěna
+# SOUBOR: 65-1992-05_sprezeni_c_20.pdf
+# PDF_STRANA: 1
+# TISTENA_STRANA: nezjištěna
+# OCR: tesseract-5.3.4 / ces / conf 84.0
+---
+DE- č. 20
+SPŘEŽENÍ
+Klub českého horského psa - 5.09
+/ 5
+OBSAH = Zápis z výborové schůze KČHP 10.4.92
+Dílčí plemenná kniha ČHP | (608 — 650)
+Pes / fena roku 91
+Doplněk seznamu členů Klubu
+Mezinárodní výstava - České Budě jovice
+Závody — výsledky
+Další záchranářský pes
+ONOGDUU-
+-r

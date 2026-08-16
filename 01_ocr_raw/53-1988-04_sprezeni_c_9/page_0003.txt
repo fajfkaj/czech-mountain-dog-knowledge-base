@@ -1,0 +1,41 @@
+# ZDROJ: Spřežení č. 9, rok 1988, strana nezjištěna
+# SOUBOR: 53-1988-04_sprezeni_c_9.pdf
+# PDF_STRANA: 3
+# TISTENA_STRANA: nezjištěna
+# OCR: tesseract-5.3.4 / ces / conf 84.0
+---
+DÍLČÍ PLEMNENNÁ KNIHA ČESKÝCH HORSKÝCH PSŮ
+OD HRNČÍŘS i 14.09.1986 F5
+Petr Kobr, Čapkova chata, Pec pod Sněžkou
+Artison Severní vítr Andy od Jankova kopce
+reg. 53/83/85, žb reg. 61/83/86, žb
+142  BAJK žb 144 HsNi žb
+143 BLSK žb 145  HUTYNA žb
+SEVERNÍ VÍTR 10.10.1986 F4
+Vít Švancara, Valdov 19, 471 25 Jablonné v Počještědí
+Atlas Studená-Javořice Alka Faranda
+reg. 43/83/8T, čb reg. 13/81/87, čb
+159  CIVETTA žb
+MODRÝ POTOK 09.10.1986 F6
+Helena Nebeská, chata Bílá Labuť 15, Pec pod Sněžkou
+Alam-=Kuh Labutí řeka Atacama Severní vítr
+160  BIGEN žb 162  BASCA žb
+161 BEAM žb 163 BETY žb
+OE JANKOVA KOPCE 08.10.1986 F6
+Jan Chlum, Partyzánská 1236, Vrchlabí .
+Aalborg Labutí řeka Furka Třebon=Kopeček
+reg. B7/84/86, čb reg. 24/81/84, čb
+164 CEZAR čb 166 CILKA čb
+165 CICERON čb
+BTRÁŽ NAD NEŽÁRKOU 14.11.1986 F6
+Jaroslav Drábek, Plavsko 95, 378 02 Stráž nad Nežárkou
+Berrio z Vlažinky Askó Labutí řeka
+reg. 76/84/86, čb reg. 91/84/87, čb
+167  ADIRONDAK čb 169 | ATHABASKA žb
+168 ARKTIK žb 170  ARVIKA čb
+ÚDOLÍ KAČÁKU 30.10.1986 F5
+Antonín Jehlička, Jánská 91, Loděnice
+Big Lužický hvozd Cedrana Faranda
+reg. 40/84/86, žb reg. B5/84/87, čb
+171 ALAN žb 172 ALMA žb
+173 ASTA žb

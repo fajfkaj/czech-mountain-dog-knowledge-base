@@ -1,0 +1,64 @@
+# ZDROJ: Spřežení č. 34, rok 1996, strana nezjištěna
+# SOUBOR: 81-1996-12_sprezeni_c_34.pdf
+# PDF_STRANA: 17
+# TISTENA_STRANA: nezjištěna
+# OCR: tesseract-5.3.4 / ces / conf 86.9
+---
+-= 15 =-
+BERING Zimní sen, Reg.666/92, čb, 62cm, 23.1
+Eden Už jedou - Baara Pradědova louka
+„František Burda, Boloňská 305, 109 00 Praha 10
+BEY Údolí Duhového potoka, REg.506/91, čb, 69cm, 19,1, 20.2, 22,1, 25.2
+Blesk Jasná záře - Ditke od Jankova kopce
+Václav Votoček, Janáčkova 718, 513 01 Semily, p 0431/2642
+BIG Údolí Kačáku, Reg.211/87, žb, 61,5cm, 10.2, 22.3, 23.1, velmi dobrý
+Big Lužický hvozd « Cedrana Faranda
+Aleš Musil, 538 31 Medlešice 118, d 0455/8864
+BIRT ze Lhoty, Reg.303/88, čb, 62cm, 13.1, 19,2, 20.1, 25.1, velmi dobrý
+Ralborg Labutí řeka - Alta Modrý potok
+Jaroslav Konečný, Bufet u Marcelky, Dol.Morava, 561 69 Králiky, d + p 0446/937J7
+BISKAY Zimní sen, Reg.669/95, čb, 52cm, 13.1, 19.1, 20.2, 22.1, 23.1, velmi dobrý
+Eden Už jedou - Baara Pradědova louka
+Ing Eduard Linzer, K.Šmidkeho 1821, 108 00 Ostrava-Poruba, p 069/6994705
+BLACK Labutí řeka, Reg.106/86, čb, 69cm, Pdld, 4.1, 8.2, 11.3, 13.7-lehčí, 19,1, 21.3, 22.1
+Aragac Kačabka - Atacama Studená-Javořice
+Eva Veitová, 394 96 Těmice 89
+BLEK od Hrčířských luk, Reg.143/86, žb, 64cm, 13.1, 20.1, 22.2
+Artison Severní vítr - Andy od Jankova kopce
+Arnošt Mutzer, Čapkova chata, 542 21 Pec pod Sněžkou 42
+BLESK Jasná záře, Reg.369/99, žb, 64,5em, 21.2, 22.1, 23.1, výborný, CAC
+Cavyk Faranda - Amalthea Hradecký lev
+Rudolf Klein, Hinterschlag 5, A-4162 Julbach, Rakousko
+BOREC UŽ jedou, Reg.199/87, žb, 64cm, Páld, 16.1, výborný
+Artison Severní vítr - Čabina Faranda
+Martin Záboj, Přem.Otakara 6, 350 01 Cheb, d 0166/23301, p 0166/31394
+BREST z Krkonoš, Reg.435/89, čb, 6lcm, 6.1, 10.2, 16.1, 18.4-křivice, 19,l-pravá, 29.1, 21.2, 22,2, 23.1, 25.1,
+Aragac Kačabka - Ajša z Krkonoš velmi dobrý
+Karel Setunský, Labská 11., 543 51 Špindlerův Mlýn, p 0438/93671
+BRITBACK Velká závěj, Reg,128/86, žb, 68cm, Pjph, 19.2, 23.1, 25.2
+Alam-Kuh Labutí řeka - Bělka Paranda
+Petr Kobr, 542 21 Pec pod Sněžkou 42
+BROK Údolí Kačáku, Reg.214/87, žb, 68cm, 8.2, 19.2, 25.1-levá zadní, 26.1, výborný, CAC
+Big Lužický hvozd - Cedrana Faranda
+Ivan Konečný, Královský vršek 66, 586 (1 Jihlava
+BRYX Jasná záře, Reg.370/89, žb, 6ócm, 4.3, 8.3, 21.2, 22.1, 23.1
+Cavyk Faranda - Amalthea Hradecký lev
+Jaroslav Blažek, Dolní Maršov 4, 542 24 Svoboda nad Úpou
+BURAN od Nevěřícího Tomáše, Reg. 447/90, žb, 67cm, ---, výborný
+Boras Pradědova louka - Arvika Stráž nad Nežárkou
+Manfred Leiibner, Rosengrund 4, D-3231 Zinnwald, Německo; kontakt: Karel Fiala, tel: 0417/98101
+BUŠ Psí půle, Reg.759/93, žb, 66cn, 18.1, 19,1, 21.2, 22.1, výborný
+Astiv Zemanex - Elza Už jedou
+Josef Gerych, 759/93 ins u Zlína 150, 067/988231
+CALLY Sněhová závěj, Reg.720/95, čb, Půph, 6.1, 18.1, 21.2, 22.2, 24.1, velmi dobrý
+Adirondak Stráž nad Nežárkou - Fany Faranda
+Petr Matějka, U mlýna 7, 141 00 Praha 4, d 02/168-221
+CAN 2 Podkrkonošské samoty, Reg.710/93, žb, 64cm, 26.3, výborný, Res.CAC
+Brix Ovědada « Anny z Podkrkonošské samoty
+Milan Vodák, U vápenky 546/III, 392 01 Soběslav, d 0363/2682
+CER z Vlažinky, Reg.226/87, čb, 63cm, 13,4pravé, 20,2, 21.2, 22.1
+Artison Severní vítr - Fortuna Třeboň-Kopeček
+Jana Hofhanzlová, Alšova 555, 378 06 Suchdol nad Lužnicí
+CIMBÁL od Nevěřicího Tomáše, Reg.572/91, žb, 62cm, 15.1; 22.1, 26.1
+Boras Pradědova louka - Arvika Stráž nad Nežárkou
+Karel Fiala, 417 32 Cínovec 256, p + d 0417/98101

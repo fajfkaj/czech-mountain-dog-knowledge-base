@@ -1,0 +1,59 @@
+# ZDROJ: Spřežení č. 9, rok 1988, strana nezjištěna
+# SOUBOR: 53-1988-04_sprezeni_c_9.pdf
+# PDF_STRANA: 7
+# TISTENA_STRANA: nezjištěna
+# OCR: tesseract-5.3.4 / ces / conf 88.6
+---
+-= Be
+= chybí Pl vlevo nahoře; koutky tlamy otevřené; srst zkadeřená
+DÁJA Faranda, Reg.114/86, žb, 6lem, 27,3kg = chovná
+9 | Aalborg Labutí řeka - Cácora Faranda
+ch: Dana Kupková
+m: Dana Kupková, Slapy u Tábora
+ALDEBARAN Hradecký lev, Reg.153/86, čb, 6lem, 28,5kg - chovný
+ď Aalborg Labutí řeka - Aracajů Kačabka
+ch: Hynek Lang
+m: Iva Hepnarová, Broumov
+= pohlavní výraz opačný; menší než standard; hlava lehká; agresivní k lidem
+AFRODITA Hradecký lev, Reg.154/86, žb, 60,5em, 33,5kg - chovná
+9 | Aalborg Labutí řeka = Aracajů Kačabka
+ch: Hynek
+m: Vladimír Krejčík, Horní Počernice
+-+ plášťová; srst zkadeřená; povaha nejistá
+AMALTHEA Hradecký lev, Reg.155/86, žb, 61,5em, 30kg = chovná
+9 | Aalborg Labutí řeka - Aracajů Kačabka
+ch: Hynek Lang
+m: Jiří Skrbek, Semily u
+= vytočené tlapky pánevních končetin; plášťová; pohyb neurovnaný
+ANDROMEDA Hradecký lev, Reg.156/86, žb, 59cm, 28kg - chovná
+© © Aalborg Labutí řeka - Aracajů Kačabka
+ch: Hynek Lang
+m: Pavel Kaška, Rokytnice v Orlických horách
+= chybí P3 oboustranně dole
+ARTEMIS Hradecký lev, Reg.157/86, čb, 56cm, 25kg = povolen
+9 | Aalborg Labutí řeka = Aracajú Kačabka 1 vrh
+ch: Hynek Lang
+m: Eva Loučková, Královice
+= chybí Pl vpravo nahoře a oboustranně dole; menší než standard
+ATHÉNA Hradecký lev, Reg.158/86, čb, 59cm, 28,5kg - chovná
+o | Aalborg Labutí řeka - Aracajů Kačabka
+ch: Hynek Lang
+m: Helena Matějeková, Netolice
+-= ojedinělé tečky v bílé barvě
+AMBRA Patnáctý poledník, Reg.140/86, čb, 60,5cm, 3lkg - nechovná
+© Aalborg Labutí řeka - Baltra Studená-Javořice
+ch: Ota Křinecký
+m: Helena Švarcová, Unčín
+= chybí P2 vlevo dole; skus klešťový; krátký nos; uši odstávající, vysoko nasa=
+zené, špatně klopené; plášťová; ojedinělé tečky v bílé barvě
+AYDE Patnáctý poledník, Reg.141/86, čb, 60,5em, 35,5kg - chovná
+$ | Aalborg Labutí řeka - Baltra Studená-Javořice
+ch: Ota Křinecký
+m: Jan Kašpar, Boží Dar
+- chybí Pl oboustranně dole; mírně delší; krátký nos; strmé pánevní končetiny,
+vytočené tlapky; tečky, ale podklad bílý
+BENEVIS Labutí řeka, Reg.105/86, čb, 65em, 36,5kg - chovný
+ď' Aragac Kačabka - Atacama Studená-Javořice
+ch: Jaroslav Říha
+m: Petr Pechek, Vlásenice
+= krátké uši; vytočené tlapky pánevních končetin; melír; srst zkadeřená

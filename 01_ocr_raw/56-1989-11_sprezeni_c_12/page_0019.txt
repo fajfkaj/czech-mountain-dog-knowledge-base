@@ -1,0 +1,50 @@
+# ZDROJ: Spřežení č. 12, rok 1989, strana nezjištěna
+# SOUBOR: 56-1989-11_sprezeni_c_12.pdf
+# PDF_STRANA: 19
+# TISTENA_STRANA: nezjištěna
+# OCR: tesseract-5.3.4 / ces / conf 82.1
+---
+-18 =
+plemeno potomstvo rodíče počet zvířat
+(W292) PxP PxrCh (Chxrteh
+welshterrier P = 76 55 2 = 142
+Ch = 22 45 T
+počet potomků = 67 58 17
+foxterrier P = 75 - = -
+Ch = 25 : . 1%
+počet potomků = 134 - -
+něm.krátkosrstoohař © ©Po= 82 “ "= .
+Ch = 18 - - 1105
+počet potomků = 1105 - -
+Horák.lab.pes P = 69 41 15 = 63
+„Ch =.. 1.9.. 8 Pozn: PxP rodiče
+počet potomků = 19 27 17 výsl.dosud nepubl.
+(Poznámka: P = plnochrupý; Ch = chudozubý rodič; je jedno, je-li otec P a matka
+Ch nebo obráceně)
+Z tabulky je zřejmé, že kvalita (na zuby) potomků je odvislá od kvality ro-
+dičů! To dokazuje další tabulka, kde byl hodnocen jen P4 u plemene Horákův labo-
+ratorní pes:
+rodiče počet potomků počet plnochrupých počet jedinců skupiny
+o m
+PxP 17 16 : = 9% 17
+Pxl 16 9 =56
+Px2 28 17 = 61% 759% 44 Rozdíly- vě
+jsi M Sl 3% 35 nami jsou
+x
+1x1 - - p oak
+lx2 9 0 =
+2 xl 4 0 0% 3
+2x2 26 o
+139 ks
+(Poznámka : P = plnochrupý rodič, ňa prvním místě je otec, na druhém matka;
+číslo 1 nebo 2 udává, že rodiči chybí 1 P4 nebo dva)
+Tato tabulka podává opět důkaz, že kvalita potomků odpovídá kvalitě rodičů,
+tentokrát i když je brán v úvahu jen jeden (kvalitně) zub a to P4! Že jednotlivé
+zuby jsou samostatně podmíněné dokazuje nejen tato tabulka, ale i následující
+schema z chovu: Schema. z chovu Horákova laboratorního psa:
+P = (rodiče) P A x F K
+plný P4od
+Pzod |
+|
+Fi = P91 F92 PFP9j P94 P95 F96 F97 = 7 kusů
+plný © P4od plný plný P4od | P4ápd plný

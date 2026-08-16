@@ -1,59 +1,69 @@
-# ZDROJ: Spřežení č. 7, rok 1987, strana nezjištěna
+# ZDROJ: Spřežení č. 7, rok 1987, s. 5
 # SOUBOR: 51-1987-06_sprezeni_c_7.pdf
 # PDF_STRANA: 7
-# TISTENA_STRANA: nezjištěna
-# OCR: tesseract-5.3.4 / ces / conf 78.1
+# TISTENA_STRANA: 5
+# OCR: vision (AI dočtení, tesseract conf pod prahem)
 ---
--5 =
-U vrhu č.57 se jedná o velmi blízkou příbuzenskou plemenitbu -= je t0 Spo=
-jení otce a dcery. Přesto se narodilo 6 štěňat a všechna životasohopná,
-což svědčí o zdravém genetickém základu rodíčů, zejména otce štěňat,
-U feny Atacama Studená=Javoříce to byl již druhý takto úspěšný vrh, Navíc
-z jejího prvního vrhu pocházejí špičkoví psi jako Alam=Kuh a Aalborg La=
-butí řeka,
-5 štěňat v tomto roce ještě odchovaly feny Guara Třeboň=Kopeček a Cabina
-Faranda, ostatní méně,
+- 5 -
+
+U vrhu č.57 se jedná o velmi blízkou příbuzenskou plemenitbu - je to spo-
+jení otce a dcery. Přesto se narodilo 6 štěňat a všechna životaschopná,
+což svědčí o zdravém genetickém základu rodičů, zejména otce štěňat.
+U feny Atacama Studená-Javořice to byl již druhý takto úspěšný vrh. Navíc
+z jejího prvního vrhu pocházejí špičkoví psi jako Alam-Kuh a Aalborg La-
+butí řeka.
+5 štěňat v tomto roce ještě odchovaly feny Guara Třeboň-Kopeček a Cabina
+Faranda, ostatní méně.
+
 Úhyny štěňat:
-Ze 128 živě narozených uhynulo 26, tje 20,3%. Jednou z příčín úhyny byl
-zarostlý konečník = 7x. Tato vada se vyskytla ve vrzích č. 43, ze PB 98,
-Jako další příčiny úhynu ohovatelé uváděli nedostatečně vyvinutý sací re«
-flex, zápal plic, ardeční vadu; ve většině případů byla příčína úhynu ne-
-známá
-ení = plocha a rozmíst naj š
-Ze že 13001 narozených štěňat (včetně ustvých a sochy bylo 86 zbarveno
-ideáln , tje 51, JB
-Celá bílá byla 2 štěňata, „gónerace Úvrh č o s sb Ze oné
-62 štěňat mělo 35 (23,34) Aždoerote zbarvení, 17 (11,36) příliš malou plo-
-chu skvrn; ostatní měla Svihokně zoneíatěné. Podle „směrnic Pro 56-
-lekci muselo být z těchto štěnat 10 utraceno, navío 5 štěňat 8 nopřípust=
-ným zbarvením se narodilo ete z nebo uhynulo krátoe po narožení,
-Gelkem tedy ze 150ti narozených: čtěňat neodpovídalo zbarvením
-23, tje 15,3%.
+
+Ze 128 živě narozených uhynulo 26, tj. 20,3%. Jednou z příčin úhynu byl
+zarostlý konečník - 7x. Tato vada se vyskytla ve vrzích č. 43, 51, 58.
+Jako další příčiny úhynu chovatelé uváděli nedostatečně vyvinutý sací re-
+flex, zápal plic, srdeční vadu; ve většině případů byla příčina úhynu ne-
+známá.
+
+Zbarvení - plocha a rozmístění znaků:
+
+Ze 150ti narozených štěňat (včetně mrtvých a uhynulých) bylo 86 zbarveno
+ideálně, tj. 57,3%.
+Celá bílá byla 2 štěňata, obě 4.generace (vrh č.44 a 63). Ze zbývajících
+62 štěňat mělo 35 (23,3%) pláštové zbarvení, 17 (11,3%) příliš malou plo-
+chu skvrn; ostatní měla skvrny nevhodně rozmístěné. Podle směrnic pro se-
+lekci muselo být z těchto štěňat 16 utraceno, navíc 5 štěňat s nepřípust-
+ným zbarvením se narodilo mrtvých nebo uhynulo krátce po narození.
+Celkem tedy ze 150ti narozených štěňat neodpovídalo zbarvením směrnicím
+23, tj. 15,3%.
+
 Hmotnost:
-Průměrná hmotnost všech živě ašněáájeh štěňat byla 481,9g. Jak kde vidět
-2 tabulky, ne vždy tato hmotnost závisí na velikosti vrhu. Nejnižší prů-
-měrná hmotnost štěněte ve vrhu byla 275g, Byl to vrh 5tí štěšát (5,58),
-všechna štěnata uhynula, Nejvyšší průměrná hmotnost štěněte byla ve vrhu
-Tmi štěnat (vrh č.61), a to 608g., Nejvyšší hmotnost po narození =- 800g «
-měl pes Alex 2 Údolí Kačáku, který pochází u vrhu Smí štěňat, Přitom ve
-stáří 7 týdnů vážil už „jen“ 7,1kg, což je v tomto věku běžné, Nejmenším
-štěnětem, které se podařilo úspěšně odohovat, byla fena Basca Modrý potok
-z vyhu 11ti štěňat, Po narození vážila pouhých 280g, Při kontrole vrhu v
-6 týdnech vážila 3,60kg, stále ještě málo ve srovnání s ostatními vrhye
+
+Průměrná hmotnost všech živě narozených štěňat byla 481,9g. Jak je vidět
+z tabulky, ne vždy tato hmotnost závisí na velikosti vrhu. Nejnižší prů-
+měrná hmotnost štěněte ve vrhu byla 275g. Byl to vrh 5ti štěňat (č.58),
+všechna štěňata uhynula. Nejvyšší průměrná hmotnost štěněte byla ve vrhu
+7mi štěňat (vrh č.61), a to 608g. Nejvyšší hmotnost po narození - 800g -
+měl pes Alan z Údolí Kačáku, který pochází z vrhu 8mi štěňat. Přitom ve
+stáří 7 týdnů vážil už "jen" 7,1kg, což je v tomto věku běžné. Nejmenším
+štěnětem, které se podařilo úspěšně odchovat, byla fena Basca Modrý potok
+z vrhu 11ti štěňat. Po narození vážila pouhých 280g. Při kontrole vrhu v
+6 týdnech vážila 3,80kg, stále ještě málo ve srovnání s ostatními vrhy.
+
 Těžký porod:
-Byl kláken pouze ve 2 případech z 21 vrhů (č.45, 53).
-Vady, zjištěné při ko | : - věku:
-skus jiný než nůžkový 2x (wrh 8.50, 62)
-pigment na nose z šásti ohybí 4x (51, 57, 61, 65)
-vupeční kýla (vrozená díšpožice) 7x (484 53, 60)
-modrá oko ix (52)
-nízká hmotnost štěňat (vrh č.65)
-Bohužel ne všechny kontroly vrhu byly provedeny pts sně důkledně, U 2 vrh
-kontrolor vrhu štěňata nezvážil, u 1 vrhu neprohlí€! slo2s,
-hd
-Kvalitu štěňat 2 2.86 nalze prozatím nijak hodnotit = rostou a vyvíjejí 58
-Někteří mladí psi a feny m9 ukázali v zimě va závodech, v převážné většině
-vypadali velmí nadějně, Ohodnocení kvality odchovů % 7,86 boha Možný až ©
-po jejich účasti na klubových výstavách A na bouitači,
--=
-„omen ORL A SE PV hy 9 E 7 ES PTE
+
+Byl hlášen pouze ve 2 případech z 21 vrhů (č.45, 53).
+
+Vady, zjištěné při kontrolách vrhů v 6 - 8 týdnech věku:
+
+    skus jiný než nůžkový                   2x  (vrh č.50, 62)
+    pigment na nose z části chybí           4x  (51, 57, 61, 65)
+    pupeční kýla (vrozená dispozice)        7x  (48, 53, 60)
+    modré oko                                1x  (52)
+    nízká hmotnost štěňat                        (vrh č.65)
+
+Bohužel ne všechny kontroly vrhu byly provedeny stejně důkladně. U 2 vrhů
+kontrolor vrhu štěňata nezvážil, u 1 vrhu neprohlédl skus.
+
+Kvalitu štěňat z r.86 nelze prozatím nijak hodnotit - rostou a vyvíjejí se.
+Někteří mladí psi a feny se ukázali v zimě na závodech, v převážné většině
+vypadali velmi nadějně. Ohodnocení kvality odchovů z r.86 bude možné až
+po jejich účasti na klubových výstavách a na bonitaci.

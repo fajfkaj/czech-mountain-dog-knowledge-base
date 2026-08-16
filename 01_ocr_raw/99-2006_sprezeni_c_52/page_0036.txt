@@ -1,0 +1,36 @@
+# ZDROJ: Spřežení č. 52, rok 2006, strana nezjištěna
+# SOUBOR: 99-2006_sprezeni_c_52.pdf
+# PDF_STRANA: 36
+# TISTENA_STRANA: nezjištěna
+# OCR: tesseract-5.3.4 / ces / conf 92.9
+---
+Speciální výstava ČHP 2006
+Lysá nad Labem, 7.5.2006
+Rozhodčí: Zdena Holmerová
+Psi
+Třída: mladých
+IKAR Růžová louka
+O: AKf z Velké Suché
+CH: Kaňský Oldřich
+Třída: otevřená
+ARON Ledová bouře vyloučen
+O: Dong Růžová louka M: Aimee pod Svatou Horou
+CH: Trhlíková Alena M: Petirová Alena
+BADY Jenčíkův les V1, CAC
+O: Jasan Psi už jedou M: Aida z Pixáku
+CH: Nová Drahuše Pivoňková Blanka
+GARRY Netolická obora nedostavil se
+O: Cenda z Láskova M: Dina Netolická obora
+CH: Matějeková Helena M: Charvát Ladislav
+GASTON z Láskova V2, Res. CAC
+O: Nanuk M: Basty z Láskova
+CH: MUDr. Fiedlerová Lenka M: Kyksa Luboš
+Třída: vítězů
+ESKYM z Láskova V1, CAC, Vítěz speciální výstavy
+O: Nanuk M: Basty z Láskova
+CH: MUDr. Fiedlerová Lenka Kmochová Vanda
+Třída: veteránů
+ALF z Řepíku V, Nejlepší veterán
+O: Eden Už jedou M: Bára Třináctá míle
+CH: Holub Zdeněk M: MUDr. Fiedlerová Lenka
+26

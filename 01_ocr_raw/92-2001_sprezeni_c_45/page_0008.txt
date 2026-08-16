@@ -1,0 +1,54 @@
+# ZDROJ: Spřežení č. 45, rok 2001, strana nezjištěna
+# SOUBOR: 92-2001_sprezeni_c_45.pdf
+# PDF_STRANA: 8
+# TISTENA_STRANA: nezjištěna
+# OCR: tesseract-5.3.4 / ces / conf 92.8
+---
+Třída: otevřená
+Hlava dobře vyjadřuje pohlaví, těsný nůžkový skus, chybí P1 oboustranně dole, volné pysky, dostatečně
+dlouhé uši, pevný hřbet, výrazné předhrudí, plný záběr obou párů končetin, lehce římský nos, vyrovnaná
+povaha.
+Ocenění: výborná
+Tituly: CAC
+Jméno psa: AGAR od Vandy z Hájů
+Pohlaví: pes
+Číslo zápisu: CMKU/CHP Reg 731/93
+Datum narození: 2.6.93
+Otec:Eden Už jedou
+Matka: Cácora od Nevěřícího Tomáše
+Chovatel: Kmochová Vanda
+Majitel: Kmochová Vanda
+Třída: vítězů
+Bilý pes s černými plotnami, tmavé oko, nůžkový skus, rovný nosní hřbet, uši trochu níže nasazeny,
+dosahují ke koutkům, dobře utvářená čenichová partie, lehce obdélníkový formát těla, dostatečně silná
+kostra, plný záběr obou párů končetin, srst v línání, povaha vyrovnaná, pes byl majitelkou výborně
+předveden.
+Ocenění: výborná
+Tituly: CAC, vítěz spec. výstavy
+Jméno psa: DEJZI Přeštická luka
+Pohlaví: fena
+Číslo zápisu: N Reg/CHP/1180/00
+Datum narození: 25.5.00
+Otec:Atol Žlutá trojka
+Matka: Akina Přeštická luka
+Chovatel: Kónig František
+Majitel: Kónig František
+Třída: mladých
+Hlava správně vyjadřuje pohlaví, nůžkový skus, oválné tmavé oči, uši vysoko nasazené dostatečné délky,
+pevný hřbet, záď lehce vyšší než kohoutek, ocas správně nasazen, dobře nesen, dlouhý lehký krok, srst
+není výstavní, povaha klidná, přátelská.
+Ocenění: výborná II.
+Jméno psa: Kytka Psi už jedou
+Pohlaví: fena
+Čislo zápisu: N Reg/CHP/1166/00
+Datum narození: 1.3.00
+Otec: Atak z Hradního ochozu
+Matka: Juta Psi už jedou
+Chovatel: Loučková Eva
+Majitel: Včelišová Ivana
+Třída: mladých
+Dobře stavěná fena, lehce delší čenichová partie, nůžkový skus, dobře nasazené ucho, správně nesené,
+pevný hřbet, výrazný kohoutek, správná záď, dobře úhlené končetiny, dlouhý pružný krok, fenka má
+černou hlavu, bílé tělo kde chybi alespoň jedna plotna, tak jak předepisuje standard.
+Ocenění: velmi dobrá !II.
+Ro- Mě meotu

@@ -1,0 +1,131 @@
+# ZDROJ: Spřežení č. 29, rok 1995, strana nezjištěna
+# SOUBOR: 76-1995-05_sprezeni_c_29.pdf
+# PDF_STRANA: 32
+# TISTENA_STRANA: nezjištěna
+# OCR: tesseract-5.3.4 / ces / conf 87.3
+---
+Populace a genetické
+vlohy čistokrevného psa
+Vyšetření
+skutečných
+poměrů
+Abychom mohli teoretickou
+hodnotu dosažitelné efektivní
+velikosti populace rozumně
+zobrazil ve srovnání se sku-
+tečnou efektivní velikosti po-
+pulace, musímé vycházel ze
+skulečných paměrů v cho-
+vech. To ale s sebou přináší
+dva problémy:
+1, Populace čistokrevných
+psů jako celková hodnota na-
+příklad v Německu již z orga-
+nizačních důvodů prakticky
+neexistuje, protože pro jed-
+natlivá plemena existuje vice
+svazů, které si vedou vlastní
+plemenné knihy.
+2. Výpočty nebo i jen přibliž-
+né odhady stupně příbuzen-
+ské plemenitby jsou u jednol-
+livých plemen prakticky ne-
+známé.
+Rozhodli jsme se pro násle-
+dujicí konkrétní příklady:
+1. Bernský salašnický pes,
+jednotná populace ve Svý-
+carsku; koeficient příibuzen-
+ské plemenitby lze zjistit (ide-
+ální případ).
+2, Bulteriéři, velká chovatel-
+ská oblast v Německém klu-
+bu pro Bulleriéry (Deutscher
+Club fůr Bullterrier e.V.0) stu-
+peň příbuzenské plemenitby
+byl vypočitán.
+Způsob zjištění velikosti po-
+pulace lze použit pro liboval-
+né plemeno v libovolné cho-
+vatelské oblasti. Musíte znát:
+1. Kolik vrhů se uskutečnilo
+ve sledovaném obdobi (cho-
+valelský rok)?
+2. Kolik fen se na lom podile-
+lo?
+3, Kolik psů přineslo jaký po-
+čet štěňat?
+4. Jak vysoký je stupeň pří-
+buzenské plemenitby v popu-
+laci (přibližně) ?
+Předvádění tažných psů je - zde ve Švýcarsku - vždy atrakci.
+Mnoho skutečností, vyslove-
+ných v souvislosti s oběma
+příklady, plati téměř pro
+všechna plemena a jejich po-
+pulace.
+Kritické výroky k chovatel-
+ským praktikám jsou - podle
+stavu věcí - rovněž přenosi-
+telné.
+Výpočet skulečné efektivní
+velikosti populace (vzoreček
+ePy) vyžaduje sledování vlivu
+dvou veličin, které omezují
+objem 6P (geneticky účinné
+velikosti populace):
+1. Sledování různé četnosli
+i K
+3 ich
+Jejich genetický podil je (sle-
+Za život a za to, jak čistokrevný pes
+prospivá, se stal plně zodpovědným sám
+člověk, Člověk rozhoduje
+o rozmnožování psů, mění je podle své-
+ho vkusu., Lidé tak ruči za biologické udr-
+žení zvířat, za jejich zdravotní stav,
+dujeme-li jej relativně) lim
+menší, čím vice fen oplodnili.
+Vzoreček ePy
+2.„Sledování stupně příbu-
+n
+Se stoupajícím koeficientem
+příbuzenské plemenitby se
+snižuje genetická peslrost,
+protože následkem vyšší při-
+buznosti se častěji vyskytují
+stejné geny,
+Vzoreček eP;
+Vzorec pra skutečnou efek-
+tivní velikost populace - eP; -
+lze tedy definitivně použít až
+tehdy jsou-li oba zbývající vý-
+počty (eP,, a eP,) hotovy a
+lze je do výpočtu eP, zahr-
+nout.
+Tabulka 1:
+Plemeno: Berner Sennenhund, Oblast chovu: Švýcarsko
+Výpočet skutečné efektivní velikosti populace
+1.část :
+(Sledování různé četnosti využití chovných krycích psů)
+Rok Počet Počet Vrhy % zcelku výsledná
+psů vrhů/osa celkem ePyy
+1992 1 16 16 11,03 3,8
+1 15 15 10,34 3,7
+2 13 26 17,93 74
+Mezisoučet-
+pro 4 N14,25 57 39,3 14,9
+4 psy
+1 9 9 6,2 28
+4 7 28 19,3 14,0
+2 6 12 83 6,9
+3 5 15 10,3 10,0
+1 4 4 2,8 3,2
+3 3 9 6,2 9,0
+2 2 4 28 5,3
+7 1 7 4,8 14,0
+celkem 27 N5,37 145 100,0 80,1
+Příklad pra jednatlivý výpočet ePyy:
+viz. 1. řádek tabulky 1 pes, 16 vrhů(t16 H.), ePy1 = 3,8
+4x 1x16 = 64 = 3,76, zaokrouhleno 3,8)
+1 +16 17

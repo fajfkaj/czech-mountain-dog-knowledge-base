@@ -1,0 +1,9 @@
+# ZDROJ: Spřežení č. 48, rok 2003, strana nezjištěna
+# SOUBOR: 95-2003_sprezeni_c_48.pdf
+# PDF_STRANA: 1
+# TISTENA_STRANA: nezjištěna
+# OCR: tesseract-5.3.4 / ces / conf 71.5
+---
+. RO P-o1k č. 48
+SPŘEZŽENÍ
+Klub českého horského psa 2003

@@ -1,0 +1,63 @@
+# ZDROJ: Spřežení č. 13, rok 1990, strana nezjištěna
+# SOUBOR: 57-1990-06_sprezeni_c_13.pdf
+# PDF_STRANA: 5
+# TISTENA_STRANA: nezjištěna
+# OCR: tesseract-5.3.4 / ces / conf 92.0
+---
+-3 =
+Lang Hynek, Zahradní 289, 547 O1 Náchod
+Loučka Redko, Královice 105, 104 00 Prahe 10
+Loučková. Eva, Královice 105, 104 00 Praha 10
+Mesojídek Jiří, Táboritská 1102, 379 01 Třeboň
+Matějek Josef, Hornická 659, 384 11 Netolice
+Matějeková Helena, Hornická 659, 384 11 Netolice
+Matoušek Antonín, Provodín 10, 471 61 Jestřebí
+Michalová Alena, Horky 170, 390 01 Tábor
+Motejlek Miroslav, Bítouchov 89, 513 01 Semily
+Mudra. Václav, 394 O1 Hynárec 1
+Musil Pavel, Medlešice 118, 538 31 Chrudim
+Nebeská Helena, Dráchov|10, 394 96 Těmice
+Novák Jiří, Havlíčkova 386/19, 417 42 Bohosudov
+Nováková Petra., Fojtka 175, 463 22 Mníšek u Liberce
+Otmarová Jana, Tyršova 410, 512 63 Rovensko pod Troskami
+Pechek Pavel, Vlásenice 12, 394 70 Kamenice nad Lipou
+Pechek Vladimír, Vlásenice 16, 394 70 Kamenice nad Lipou
+Pikrtová Ludmila, U Jakuba, Vidžín, 330 40 Úterý
+Pokorný Jan, nám. Míru 138, 377 O1 Jindřichův Hredec
+Pospíšilová Pavla, Horní Černá Studnice 122, 468 27 Nová Ves nad Nisou
+Rašín Iva, Ne Kamenci 1297, 295 01 Mnichovo Hradiště
+Redlich Miroslav, 351 22 Krásná 255
+Re jhonsová Pavla, Žižkova bouda, 542 21 Pec pod Sněžkou
+Reichl Zdeněk, Raškov 141, 789 64 Bohdíkov
+Rúčka Vlastimil, Komenského 33, 373 33 Nové Hrady
+Řádek Kamil, Sokolnická 73, 620 00 Brno
+Říha Jaroslav, Pod vodojemem 587, 394 70 Kamenice ned Lipou
+Samková Zuzana, Školská 14, 110 00 Praha 1
+Seifert Petr, Zahrádky 44, 542 21 Pec pod Sněžkou
+Seifertová Marie, Rudé armády 89, 549 54 Police nad Metují
+Semrád Emil, Dvorská 1344, 396 O1 Humpolec
+Skrbek Jindřich, Chuchelne 294, 513 01 Semily
+Skrbek Jiří, Pipice 7, 513 01 Semily
+Sláma Petr, hostinec U Slámů, Horní Skrýchov 1, 377 O1 Jindřichův Hradec |
+Slavatová Jarmila, Selská 10, 102 00 Praha 10
+Straka Miloslav, Wonkova 4, 591 01 Ždár nad Sázavou
+Svoboda Pavel, Kostelní 567, 468 51 Smržovka '
+Svobodové Jindřiška, 517 57 Pěčín u Rychnova nad Kněžnou 162
+Sanovec Jan, Březová 671, 252 29 Dobřichovice
+Sanovec Vít, Březová 671, 252 29 Dobřichovice
+Šena Jaroslav, Sosnová 141, 470 02 Česká Lípa
+Šobánová Hana, Chorézova 3, 602 00 Brno
+Štěpánek Stanislav, Lelekovice 347, 664 31 Česká
+Štětka Jiří, Baranova 13, 130 00 Praha 3
+Švac Peter, 935 22 Kozárovce 369
+Tomášová Alena, Horská 465, 543 02 Vrchlabí
+Tunkl Pavel, Nová Buková 1, 394 03 Horní Cerekev
+Tylínek Erich, Školská 14, 110 00 Praha 1
+Vacek Slavomír, Pražská bouda, 543 44 Černý Důl
+Valášek Oldřich, Sportovní 180, 543 02 Vrchlabí
+Vandas Jindřich, 262 13 Nečín 76
+Vinkler Jaroslav, 378 56 Studená 24
+Vystrčil Jaroslav, Žižkova 131, 586 01 Jíhlava
+Záboj Martin, Přemvsla Otakara 6, 351 01 Cheb
+Záhorková Alene., Zadov 24, 384 73 Stachy ©
+Zachleder Vilém, 9.května 150, 379 01 Třebon

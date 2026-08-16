@@ -1,0 +1,43 @@
+# ZDROJ: Spřežení č. 51, rok 2006, strana nezjištěna
+# SOUBOR: 98-2006_sprezeni_c_51.pdf
+# PDF_STRANA: 23
+# TISTENA_STRANA: nezjištěna
+# OCR: tesseract-5.3.4 / ces / conf 91.2
+---
+Třída otevřená feny
+25 Azra Z Láskova
+Tletá, jemná představitelka, nečistá základní barva, plošší hlava, správný chrup, krátké
+ne vždy správně formované ucho, příkladné oko, pevná hřb. Linie, sráznější záď, ocas je
+krátký, jen dobře formovaný hrudník, končetiny s volnými lokty, měkké nadprsti, nejistá
+Známka: dobrá
+26 Enny Z Láskova
+3letá, kvalitní srst, lehká hlava, plošší čelo, správné oko, korektní chrup. krátká srst,
+dobrá hřbetní linie, správné úhleni, volnější lokty za pohybu, zalomený ocas
+Známka: dobrá
+M27 Bessy Z Křenovské remízky
+2letá, kvalitní srst, dobře formovaná hlava, výraznější čelo, správný chrup, dobře for-
+mované ucho, příkladná hřbetní linie, dobře široká záď, hrudník výrazně široký, plná
+žebra, ocas krátký,
+Známka: velmi dobrá
+29 Bára Artyčok
+4letá, dobře vysoká, kvalitní srst, správný profil hlavy, korektní chrup, výše formované
+ucho, správné oko, dobrá hřbetní linie, srázná záď
+Známka: výborná, 1
+30 Andulka Myši díra
+3letá, dobře utvářená srst, výraznější hlava, výraznější mozkovna, korektní chrup, dobře
+formované ucho, ostřejší, ale zvládnutá povaha, příkladný hřbet, výrazně srázná zád,
+volné nadprstí kazí pohyb, lokty nejsou za pohybu přilehlé
+Známka: velmi dobrá. 2
+n A
+31 Apolenka Myší díra
+3letá, tučná, dobře formovaná hlava,
+RS správně nasazené ucho, korektní chrup,
+ki dobrá hřbetní linie, srázná záď, stálý
+, mimochod,
+Známka: velmi dobrá, 3
+silnější čenichová partie, dobrý profil halvy,
+korektní chrup, dobře formované ucho,
+správný krk, hřbet, delší bedra, sráznější
+zád, dobře úhlené končetiny, správný postoj,
+úzký posun vzadu, volné lokty
+Známka: velmi dobrá, 4

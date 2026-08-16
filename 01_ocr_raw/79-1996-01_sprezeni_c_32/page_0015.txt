@@ -1,0 +1,49 @@
+# ZDROJ: Spřežení č. 32, rok 1996, strana nezjištěna
+# SOUBOR: 79-1996-01_sprezeni_c_32.pdf
+# PDF_STRANA: 15
+# TISTENA_STRANA: nezjištěna
+# OCR: tesseract-5.3.4 / ces / conf 92.3
+---
+kategorie Bl
+- 13 -=
+1. Sedláček Vít 6SH 17:41 17:34 35:15
+12. Job Milan 6SH 32:14 29:15 1:01:29
+kategorie C
+1. Novotný Jiří 4AH 17:56 18:29 36:25
+3. Blažek Jiří 2AH+2SH 19:39 20:30 40:09
+kategorie C1
+1. Necuda Václav 4SH 18:22 18:28 36:50
+38. Sýkorová Ivana . 3SH 32:23 36:06 1:08:28
+kategorie Skj
+1. Procházka Vít bel.ovčák 17:13 17:04 34:17
+2. Suchý Jiří ČHP 18:14 18:28 36:42
+5., Procházka Jan ČHP 19:47 21:05 40:52
+7. Vovsík Radek ČHP 20:58 20:25 41:23
+11. Loučka Jakub ČHP 23:28 21:14 44:42
+13. Holub Zdeněk ČHP 23:33 22:56 46:29
+15. Čermák Roman ČHP 22:24 24:52 47:16
+22. Jirák Jan ČHP 22.51 29:55 52:46
+35. Šanovec Jan ČHP 26:43 38:14 1:04:57
+kategorie B2
+1. Brož Ladislav 6AM 21:34 22:11 43:45
+5. Němec Michal 6AM 28:40 28:26 57:06
+kategorie C2
+1. Kmochová Vanda 4ČHP 18:48 20:06 38:54
+9. Trdla Tomáš 4ČHP 26:24 25:52 52:16
+16. Vodák MIlan 2ČHP 30:37 31:17 1:01:54
+18. Hýsek Pavel 3AM 33145 34:05 1:07:50
+B SADSKÁ 21/22.10.95
+vzdálenost: 5,1 km
+kategorie Skj - muži
+1. Procházka Vít BO 10:58 10:25 21:23
+3. Procházka Vit ČHP 10:56 10:46 21:42
+9. Loučka Jakub ČHP 12:45 11:28 24:13
+10. Holub Zdeněk ČHP 13:04 12:18 25:22
+11. Holub Zdeněk ČHP 13:29 12:39 26:08
+13. Kořínek Jiří ČHP 13:41 12:49 26:30
+14. Loučka Radko ČHP 13:17 13:17 26:34
+22. Šanovec Jan ČHP 15:27 15:24 30:51
+23. Vodák MIlan ČHP 15:57 14:57 30:54
+24. Jirák Jan ČHP 15:45 18:40 34:25
+25. Kubíček Petr ČHP 16:28 18:40 35:08
+26. Doležal Jan SH 19:28 17:44 37:12

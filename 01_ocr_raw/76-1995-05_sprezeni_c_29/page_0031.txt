@@ -1,0 +1,118 @@
+# ZDROJ: Spřežení č. 29, rok 1995, strana nezjištěna
+# SOUBOR: 76-1995-05_sprezeni_c_29.pdf
+# PDF_STRANA: 31
+# TISTENA_STRANA: nezjištěna
+# OCR: tesseract-5.3.4 / ces / conf 86.5
+---
+Nm = počet samců (maskulina)
+NÍ = počet samic (lerminina)
+Vysvětlit musime i koeficient 4
+Slovní vyjádření vzorce, které
+uvádime dále, nám při vysvětlení
+pomůže
+Ne = 2 sady genů x počet psů
+x 2 sady genů x počet fen děleno
+součtem počtu psů s počtem ten,
+Namísto toho, abychom počet
+psů a počel len násobili vždy
+dvěma, napsali jsme před náso-
+bek koelicient 4 (=2x2),
+Téměř
+k neuvěření
+Výpočty s překvapivými vý-
+sledky
+Abychom zvýšili čitelnost tohoto
+vzarce, budeme v dalším textu
+používat narnisto označení Ne =
+efektivní velikost populace použí-
+vat eP. N jako počet psů a len
+nahradime konkrétními čísly
+Výchozí příklad:
+Výpočel chovné základny o 16
+do chovu zařazených psech
+a 100 do chovu zařazených fe-
+nách = 116 zvířat celkem, Přitom
+se předpokládá, že všichni psl se
+k chovu využijí přibližně slejně,
+tedy šest- až sedmkrát.
+Efektivní velikost populace je:
+eP = 4x16 Růiden x 100 Hůndinnen
+15 Růden + 100 Hůndinnén
+= 64x 100 — 6400 - 55,17 — 35
+18 +100. 116
+tedy celková efeklivní velikost
+chovné základny je mnohem
+menši, než celkový počet k cho-
+vu použitých zvířat; efektivní veli-
+kos! populace odpovídá zhruba
+polovině skutečného počtu chov-
+ných zvířat,
+Zvýšení počtu psů o dva (z 16
+a 18) dává výsledek:
+eP = 4x18 x 100 = 72 x 100
+15x 118
+M
+Vliv různého počtu psů a fen na změnu geneticky účinné
+velikostí populace (eP).
+- 29|m
+Zvýšení počtu ten o 2 však zvýší
+výslednou hodnotu pouze nepa-
+trně (0 0.15)
+„Axlóx 102. 64x 102
+lý + 102 118
+= 6528 - 55,32 - 55
+li8
+eP
+Abychom zvýšením počtu fen
+dosáhli stejného zvýšení eP jako
+při zvýšení psů o 2 (tedy o 6=11
+%% eP z 55 na 61), musíme jejich
+počet zvýšit o celých 228 ten !
+(znázorněno na obrázku 1),
+Pokud se zvýší počel psů o 4, lé-
+dy z 16 na 20, zvýší se elektivní
+velikost populace se 100 fenámi
+na eP = 67. Této hodnoty nemů-
+žeme dosáhnout žádným zvýše-
+nim počtu chovných fen, protože
+efektivní velikost populace ne-
+může nikdy překročit zhruba
+čtyřnásobek počtu psů (Wach-
+tel). Při nasazení 16 psů je to te-
+dy oněco méně než 4x 16 =64,
+K tomu jednoduchý příklad:
+zvýšení počtu fen na 1000 (tisic)
+zvýší etektivní velikost populace
+eP na 63.
+Tim jsme zjistili následující sku-
+tečnost ,
+Důležitým bodem je počet psů
+(samců)l
+Ačkoliv tyto výsledky působí tak
+„ jsou správné! Pro etek-
+tivní velikost populace, která je
+geneticky účinnou základnou
+každé chovně základny, má po-
+čet psů, zapojených do chovu,
+rozhodující význam a to bez
+ohledu na to, že chovný pes mů-
+Že za dobu svého využití v chovu
+vyprodukovat podstatně vice po-
+tomstva, než jakákoliv fena.
+Nezametat tolik
+smetí pod
+koberec
+Použití vzorce pro výpočet sfek-
+tivní velikosti populace
+nebo stejného vzorce:
+4 x počet psů x počet fen
+oP oet psů + početlen
+lze skutečný stav populace vypo-
+čitat jen velice nepřesně, Základ
+pro výpočet vyžaduje v praxi do-
+plnění,
+S ohledem na předpokládanou
+genetickou rozmanitost rozezná-
+váme tři druhy (stupně kvality)
+efektivní velikosti populace (srov-
+nej obr. 2)

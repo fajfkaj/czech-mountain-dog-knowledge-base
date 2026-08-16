@@ -1,0 +1,52 @@
+# ZDROJ: Spřežení č. 13, rok 1990, strana nezjištěna
+# SOUBOR: 57-1990-06_sprezeni_c_13.pdf
+# PDF_STRANA: 22
+# TISTENA_STRANA: nezjištěna
+# OCR: tesseract-5.3.4 / ces / conf 86.1
+---
+= 20 =
+A = Orlický medvěd
+Aalborg Labutí řeka —- Andromeda Hradecký lev
+ch: Pavel Kaška
+9 ANDRIA, Reg.342/88, žb, 57cm, 29kg - povolen 1 vrh
+m: Jan Šanovec, Březová 671, 252 29 Dobřichovice
+chybí PI oboustranně dole, +tmenší než standard, krétké ucho
+A - Fifanka
+Athos Už jedou —  Athabaska Stráž nad Nežárkou
+ch: Tomáš Zámostný
+9 ANEŽKA, Reg.284/B8, žb, 64cm, 38,5kg - chovná
+m: Luděk Novotný, Dalešická 413, Kokonín
+krátké ucho, vybočené lokty, plášt, při pohybu nohe vybočuje
+A - Blanský les š :
+Eiger Třebon=Kopeček - Axa z Vlažínky
+ch: Bedřich Krákora
+© ALKA, Reg.2G8/88, čb, 62cm, 32,5kg = chovné
+m: Miloslav Vrba, Defarovy Lažany 70, 341 52 Chanovice —
+typ odpovídající, krátké ucho, ocas příliš stočený, plášt, ojedinělé teč-
+ky, srst mírně zkadeřená, pohyb neurovnaný, nejistá povsha
+A - Jasná záře
+Dar Faranda —- Amalthea Hradecký lev
+ch: Jiří Skrbek
+9 AXA, Reg.258/88, žb, 63,5cm, 29,5kg - chovná
+m: Pavel Bičík, Chuchelna-Lhota 34, 513 01 Semity
+složené ucho, vybočené lokty, ojedinělé tečky
+C - Už jedou
+Artison Severní vítr = Cabína Faranda
+ch: Eva Loučková
+o" COP, Reg.276/88, žb, 66,5cm, 40,5kg - chovný
+m: Petra Nováková, 463 22 Fojtka 175.
+užší mozkovna, složené ucho, růžová skvrna na čenichu
+d" DAK Labutí řeka - bonitace odložena — nesplnění podmínky výstavy
+o" BREN ze Lhoty - bonitace odložena - není možné zkontrolovat chrup pro nezvlád-
+nutelnost psa
+ZOP —- Kardašova Řečice 26.5.1990 = rozhodčí: MUDr Bechyně
+body
+disciplíny pro
+pes psovod l. 2. 3. 4. 5. celk. hodnocení | pohér
+1. Aalborg Labutí řeka © Petr Hanzlík 9 1015 10 5 45 výborný 10
+2. Andria Orlický medvěd Marie Šanovcová 4 915 9 5 42? | výborná €
+3. Dar Faranda. Eva Loučková 4 913 9 5 40+ velmi dobrý 7
+4, Ciran Faranda Václav Kůrka 4 815 9 4 40. velmi dobrý 6
+5., Athí ze Lhoty Jaroslav Konečný 5 912 9 4 39+ velmi dobrá 5
+6, Birt ze Lhoty S.Konečná 5 815 8 3$ 39. velmi dobrý 4
+7. Beluga Labutí řeka Jaroslav Ríha 4 812 9 4 37. velmi dobrá 3

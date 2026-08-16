@@ -1,0 +1,37 @@
+# ZDROJ: Spřežení č. 42, rok 1999, strana nezjištěna
+# SOUBOR: 89-1999_sprezeni_c_42.pdf
+# PDF_STRANA: 20
+# TISTENA_STRANA: nezjištěna
+# OCR: tesseract-5.3.4 / ces / conf 94.0
+---
+Třídy:
+Rozdělení do tříd podle výstavního řádu ČMKU uvedeny v přihlášce.
+Tituly:
+Vítěz třídy, oblastní vítěz.
+Pro speciál. výstavu navíc: CAJC, CAC, Vítěz speciál. výstavy a BOB.
+Soutěže:
+Nejlepší pár psů: pes a fena jednoho majitele, kteří byli posouzeni.
+Chovatelská skupina: min. 3 psi z 1 chov. stanice z různých spojení
+Vítěz Mladé Boleslavi bude vyhlášen při závěrečné přehlídce oblastních
+vítězů a BOBů.
+Mladý vystavovatel: Věkové skupiny: I. od 14-17 let a II. od 9-13 let.
+Soutěží se psem zapsoným v některé z plemenných knih států FCI, nemusí
+být na výstavě posouzen. Hodnotí se předvádění psa, není důležitá kvalita.
+Doklady k účasti na výstavě:
+Průkaz původu psa, nebo potvrzení plemenné knihy, že bude průkaz vydán
+(platí pouze pro třídu dorostu)
+e Veterinární osvědčení a očkovací průkaz
+e Vstupní list
+Veterinární podmínky:
+e Psi budou mít ve veterinárním průkoze osvědčení o klinickém zdraví,
+potvrzené veterinárním lékařem ne starší 3 dnů
+e Psi budou očkování proti vzteklině nejméně před 14-ti dny a ne déle
+než v období 1 roku a budou v imunitě proti psince a parvoviróze.
+e Psi narození po 1. 7. 1993, nesmí mít kupírované uši za účelem
+změny vzhledu.
+Protesty:
+Protest proti rozhodnutí rozhodčího není přípustný. Protestovat lze pouze
+z formálních důvodů pro porušení výstavních předpisů a propozic. Protest
+musí být podán písemně, současně se složením jistiny 300 Kč pouze v prů-
+běhu posuzování v kruzích. Nebude-li protest uznán, jistina propadá ve
+prospěch pořadatele výstavy.

@@ -1,0 +1,47 @@
+# ZDROJ: Spřežení č. 42, rok 1999, strana nezjištěna
+# SOUBOR: 89-1999_sprezeni_c_42.pdf
+# PDF_STRANA: 14
+# TISTENA_STRANA: nezjištěna
+# OCR: tesseract-5.3.4 / ces / conf 81.6
+---
+Český pohár ve SKJ.
+XII.98 XII.98 1.99. 19 19 19 I9 19 19 19 II99 Celkem
+plemeno Bem. K.V. Pust.  Zad. KV Dešt. Bub. | Ed. Mol. Pust. Stud.
+1. Jan Horák SH 2000 2000 2000 2000 2000 6000
+2. Jar. Sluka DOB 2000 1968 2000 1938 5968
+3. Jiří Suchý ČHP 1935 2000 1793 1640 1700 5728
+4, Jan Zima AH 1759 1822 1071. 1710 5291
+5, J. Krkoška SH 2000 1576 | 1405 1553 5129
+6, Michal Merhaut NO 1750 1322 1771 4843
+7, Jiří Střalka 1819 1381 1548 4748
+8. Michal Fiedler ČHP 1367 1370. 898 0 0 1078 2000 126 4737
+9, Vít Procházka © BO 1717 1445 64 1570 4732
+10, Norbert Hnátek AH 1562 1378 1491 4429
+14. Fr. Burda ČHP 1851 1644 3495
+2. JiříKořínek — ČHP 1129 869 1998
+36, Petr Hanzlík © ČHP 1062 1062
+38. Pavel Žníšek ČHP 798 798
+39, R. Čermák ČHP 588 588
+44, Zdeněk Keken | ČHP 0
+45. Zoltán Keken — ČHP 0
+Ženy
+1. Jana Macháčková SH 2000. 1941. 1913 2000 1898 1963 2000 6000
+2. Soňa Klikarová ČHP 1987 2000 2000 | 5987
+3. Leka Fiedlerová ČHP 1863 2000 2000 1478 1772 531 5863
+4, Šárka Skalická — SH 1838 1807 2000 2000 5838
+5, Iva Valtrová AH 1922 1738 0 1867 5527
+6. Renata Horáková SH 1203 2000 Váh 4914
+7. Jindra Hnátková SH 1686 940. 1517 4143
+8. Anna Roháčková SH 988 264 1413 2665
+9, Linda Keltnerová SH 1025 566 0 657 2245
+10. Bohunka Suchá — SH 895 895
+Ondř. - Ondřejník
+KV. - Komáří Vížka
+Pust. - Pustevny
+Zad. |- Zadov
+Dešt.  - Deštné v Orlických horách
+Bub. | - Bublava MR v MIDu
+Ed. - Eduard u Jáchymova MR ve SPRINTu
+Mol. | - Moldava
+Stud. | - Tři Studně
+12

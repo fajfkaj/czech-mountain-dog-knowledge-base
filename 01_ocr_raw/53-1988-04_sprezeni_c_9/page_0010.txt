@@ -1,0 +1,50 @@
+# ZDROJ: Spřežení č. 9, rok 1988, strana nezjištěna
+# SOUBOR: 53-1988-04_sprezeni_c_9.pdf
+# PDF_STRANA: 10
+# TISTENA_STRANA: nezjištěna
+# OCR: tesseract-5.3.4 / ces / conf 91.2
+---
+než standard; hlava těžká, hrubá, široká lebka; oči otevřené; uši složené;
+krk krátký; ocas krátký; melír; srst zkadeřená
+BESSY Bačova koliba, Reg.176/86, čb, Glcm, 3Okg - chovná
+9 Back Lužický hvozd - Ahessy Bačova koliba
+ch: František Géci
+m: Dagmar Fošenbauerová, Ostrov nad Ohří
+= tečkování, ale podklad bílý; srst zkadeřoná
+Bylo obonitováno 32 jedinců: 18 psů a 14 fen.
+17 psů bylo uznáno chovnými a 5 jich neprošlo. U fen bylo 13 uznáno chovnými, z to
+ho jedné byl povolen zatím jen jeden vrh a E fena bonitací neprošla,
+Do chovu bylo tedy zařazeno na této bonitaci z 32 jedinců 26; bonitací neprošlo
+6 jedinců,
+Na bonitaci bylo pozváno 43 mladých; zúčastnilo se 3O mladých a 2 starší ročníky.
+chovná stanice šť.ve vrhu účast
+Faranda 4 4
+Hradecký lev 6 6
+Patnáctý poledník 3 2
+labutí řeka 6 5
+Už jedou 5 3
+Velká závěj 5 4
+Zbloudilec 3 1
+Podcesný mlýn 8 4
+Bačova koliba 3 1
+Modrý potok starý 1
+Studená=Javořice ročník 1
+100% účast měly chovné stanice Faranda a Hradecký lev; 50% a méně Podcesný mlýn,
+Zbloudilec a Bačova koliba. Doufejme, že se zbývající jedinci ještě předvedou na
+některé další bonitaci, aby přehled o odchovech byl co nejúplnější,
+©
+BONITAČNÍ SMĚRNICE KCHČHP
+Tyto bonitační směrnice jsou platné od
+1.1.1988
+Účast na bonitaci - minimální stáří 15 měsíců
+Použití do chovu -= psi | od 15 měsíců
+feny od 18 měsíců
+Každý bonitovaný jedinec se zváží a změří (viz. tabulka na bonitáčním listě).
+Obvod předloktí se měří v polovině délky předloktí. Potom se jedinec hodnotí pod-
+le položek 01 až 26 bonitačního listu. Jednotlivé položky se hodnotí kódovým čís=
+lem, Chodnocení „O" každé této položky označuje ideální stav, další čísla jsou
+kódová označení různých vad pro potřeby počítačového zpracování.
+Hrubé vady jsou označeny křížkem = např. „j+atypický“.
+Povaha se hodnotí během vážení, měření a vlastního posuzování, Agresivita ke psům
+se zjišťuje navíc tak, že bonitovaný jedinec se předvede společně se dvěma jedinci
+stejného pohlaví, Psi se nesmějí vzájemně napadat.

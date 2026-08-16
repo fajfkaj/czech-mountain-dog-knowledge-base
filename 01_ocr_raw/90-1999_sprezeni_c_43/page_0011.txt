@@ -1,0 +1,54 @@
+# ZDROJ: Spřežení č. 43, rok 1999, strana nezjištěna
+# SOUBOR: 90-1999_sprezeni_c_43.pdf
+# PDF_STRANA: 11
+# TISTENA_STRANA: nezjištěna
+# OCR: tesseract-5.3.4 / ces / conf 91.3
+---
+zdá 2: EPT en
+Čogolisa Třeboň Kopeček
+0 1
+Adhara Od bublajíciho potůč 7 3
+Abana Jizerskohorská vánice 3 1
+Barten Labutí řeka 5 "
+Beluga Labutí řeka 4 2
+Čehooyn | Třeboň Kopeček 1 3
+Dája Faranda 1 5
+Agama Faranda 5 2
+Aska Podcesný mlýn 0 1
+Alina z Milety 2 1
+Bonita Velká závěj 0 1
+Alka Faranda 8 6
+Ayde Patnáctý poledník 5 3
+Od Hrčířských luk 1 1
+Alta Modrý potok 1 2
+Aneta Modrý potok 0 1
+Ara Faranda 1 1
+Bany z Milety 0 1
+Afrodita Hradecký les 2 1
+Amalthea Hradecký lev 2 VA
+Andromeda | Hradecký lev 1 1
+Arthemis Hradecký lev 0 1
+Athéna Hradecký lev 8 3
+Dangeri Třeboň Kopeček 0 2
+Basca Modrý potok 1 1
+Cilka od Jankova kopce 0 1
+Athabaska | Stráž nad Nežárkou 0 1
+Dikte Třeboň Kopečk 0 2
+Arvika Stráž nad Nežárkou 1 3
+Asta Údolí Kačáku 1 1
+Bessy Bačova koliba 0 1
+Dombaj Třeboň Kopeček 0 2
+Alka Na Mělích 0 2
+Denisa Třeboň Kopeček 0 1
+Axawa Pradědova louka 0 1
+Eda Faranda 0 1
+Ela Faranda 4 2
+Etna Faranda 1 4
+Fudžijama | Třeboň Kopeček 0 1
+Ditke od Jankova kopce 3 2
+Centa Z Vlažinky 8 z
+Fortuna Třeboň KOpeček 4 4
+Athi ze Lhoty 2 1
+Bessi Lužický hvozd 1 3
+Arge Božidarské rašelin. 2 1
+Elza Už jedou 0 2

@@ -1,0 +1,10 @@
+# ZDROJ: Spřežení č. 46, rok 2001, strana nezjištěna
+# SOUBOR: 93-2001_sprezeni_c_46.pdf
+# PDF_STRANA: 5
+# TISTENA_STRANA: nezjištěna
+# OCR: tesseract-5.3.4 / ces / conf 91.3
+---
+Stojící zleva: Klír, Štěpánek, Doležal, Hanzlík, Pechek Pavel, Pokorný, Elster Petr, Elster Josef, Sládek
+Klečící: Pechek Vladimír
+„Sedmdesátka“ po hřebenech Krkonoš
+družstvo klubu CHP

@@ -1,0 +1,48 @@
+# ZDROJ: Spřežení č. 12, rok 1989, strana nezjištěna
+# SOUBOR: 56-1989-11_sprezeni_c_12.pdf
+# PDF_STRANA: 7
+# TISTENA_STRANA: nezjištěna
+# OCR: tesseract-5.3.4 / ces / conf 86.4
+---
+"A
+DÍLČÍ PLEMEKNÁ KNIHA ČESKÝCH HORSKÝCH PSŮ
+POLEDNÍK 02.01.1969 F6
+Jaroslav Čumpelík, 543 61 Kunčice nad Labem 106
+Blesk Už jedou Agama Faranda
+reg. 198/87, žb reg. 12/81, žb
+349 BODY. © žb 350 BÁRA žb
+351 BAŠKA žb
+352 BĚLA ©, žb
+OD FÍKA 09.02.1989 F7
+Marcela Růžičková, 468 23 Loužnice 39
+Akela na Mělích Ela Faranda
+reg. 185/86, žb reg. 207/87, žb
+253 ADRA žb
+354 úhyn
+355  APOLA žb
+356 ARIEL žb
+357  ARNIKA žb
+ÚDOLÍ DUHOVÉHO POTOKA 15.03.1969 F6
+Jindřích Skrbek, Chuchelna 294, 513 01 Semily
+Akela Labutí řeka Dikte od Jankova kopce
+reg. 88/84, čb reg. 225/87, čb
+3586 AKIM čb 359. AILA žb
+360 AIM žb
+361. AJA čb
+362 ASJA čb
+OD ČERTOVY ZDI 03.04.1989 F7
+Josef Erb, 463 52 Osečná 163
+Ciran Faranda Beny z Milety
+TC- 82/84, žb reg 152/86, čb
+363 ARGO žb 365 AJKA žb
+364 AX žb 366 ALKA žb
+JASNÁ ZÁŘE 16.04.1989 F7
+Jiří Skrbek, Pipice 7, 513 01 Semily
+Cavyk Faranda Amalthea Hradecký lev
+reg. 81/B4, žb reg. 155/86, žb
+367 BART žb 371 BETY žb
+368 BENNY žb 372 BRYTA žb
+369 BLESK žb “
+370 BRYX žb
+DO NEZNÁMA 26.04.1989 F7
+Ivan Filipčuk, 790 57 Bernartice u Javorníka 116

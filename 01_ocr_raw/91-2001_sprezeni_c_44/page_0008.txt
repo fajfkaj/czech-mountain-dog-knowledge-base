@@ -1,0 +1,32 @@
+# ZDROJ: Spřežení č. 44, rok 2001, strana nezjištěna
+# SOUBOR: 91-2001_sprezeni_c_44.pdf
+# PDF_STRANA: 8
+# TISTENA_STRANA: nezjištěna
+# OCR: tesseract-5.3.4 / ces / conf 79.7
+---
+V popisu linií udává číslo za písmenem pořadí filiální generace za provedeným spojením. Pro ilustraci
+přikládám stručný přehled základního rozdělení:
+Rozdělení do linii pro rok 2001 Český horský pes FENY
+Strakoš sibiřská husky čuvač bernardýn ČHP
+E1 E22. E3. E4 [D1 D2 D3. D4 |C1. C2 C3 (G4 |B1 B2 B3  B4 (A
+663 819 1032 868 1037 800 1044 917 695 823 74
+909 1033 869 1040 801 1045 919 783 B24 778
+1017 1034 1047 960 856 785 ž
+PRE 1085 857 864 |
+PR19 858 893 u
+B60 8% t
+972 9644
+1064. 976
+pŘ8Ě
+872 670
+706 950 736 č
+965 1097 718 951 830 e
+722
+Rozdělení do linii pro rok 2001 Český horský pes PSI
+Strakoš sibiřská husky bernardýn HP
+E12 E34 |D1. D2 D3. D4 [C1 C2 C3 A4 |B1 BZ
+662 1015 867 1010 112
+906 866 1011 1006 708 722
+1024 1008 710 620 B29ž
+921 697 397 7%|
+920

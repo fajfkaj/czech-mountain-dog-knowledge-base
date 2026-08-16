@@ -1,0 +1,9 @@
+# ZDROJ: Spřežení č. 42, rok 1999, strana nezjištěna
+# SOUBOR: 89-1999_sprezeni_c_42.pdf
+# PDF_STRANA: 2
+# TISTENA_STRANA: nezjištěna
+# OCR: tesseract-5.3.4 / ces / conf 36.0
+---
+a
++
+P

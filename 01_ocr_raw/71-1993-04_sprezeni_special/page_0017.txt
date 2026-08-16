@@ -1,0 +1,44 @@
+# ZDROJ: Spřežení č. zvláštní (1993-04), rok 1993, strana nezjištěna
+# SOUBOR: 71-1993-04_sprezeni_special.pdf
+# PDF_STRANA: 17
+# TISTENA_STRANA: nezjištěna
+# OCR: tesseract-5.3.4 / ces / conf 81.9
+---
+= i5 =
+Černý jedinec může mít vlohové založení:
+a) ASAS — dominantní homozygot — všichni jeho potomci - i při spo-
+jeni se žlutým partnerem - budou černí
+(v chovu ČHP např. Fortuna Třeboň-Kopeček, Adirondak
+Stráž nad Nežárkou)
+rodiče ASA x ayYayY
+černý pes žlutá fena
+potomci  APay ASay APay ABay
+černá černá černá černá
+b) ASayYy - heterozygot - může mít černé i žluté potomky
+ASav“ jE ABay
+černý pes černá fena
+heterozygot heterozygot
+ASA AFavy ayÁ= aYay - černá a žlutá ště-
+černá černá černá. žlutá ňata v poměru 3:1
+(homozygot) (heterozygoti) (homozygot)
+(štěpné poměry plá-
+tí až při statis-
+ticky významném
+počtu)
+AFayY x aYayY
+černý pes žlutá fena
+heterozygot homozygot
+AFay ASay ayay aYay — černá a žlutá ště-
+černá černá žlutá žlutá ňata v poměru 1:1
+Žlutý jedinec může mít vlohové založení pouze aYay (recesivní homo-
+zygot:
+avYaY x aYay
+žlutý pes šlutá fena
+avay“ a“ my aAYAY ayay - pouze žlutá štěňata
+Ze dvou žlutých rodičů se nemůže narodit černé štěně !!
+Tečkování - genetické založení
+T — označení vlohy pro tečkování - ticking
+Tato vloha je dominantní nad zbarvením bez tečkovánií. Domi-
+nance ale v tomto případě není tak výrazná jako např. u černé
+barvy.
+t - vloha pro zbarvení bez teček, recesivní vůči T.

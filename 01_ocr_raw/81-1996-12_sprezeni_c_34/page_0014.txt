@@ -1,0 +1,61 @@
+# ZDROJ: Spřežení č. 34, rok 1996, strana nezjištěna
+# SOUBOR: 81-1996-12_sprezeni_c_34.pdf
+# PDF_STRANA: 14
+# TISTENA_STRANA: nezjištěna
+# OCR: tesseract-5.3.4 / ces / conf 85.5
+---
+20 - OCAS: ) - standardní, 1 - krátký, 2 - příliš stočený, J - nízko nesený, 4 - položený na hřbetě, 5 - jinak
+vadný
+41 - ZNAKY: 0 - standardní, ] - malá plocha, 2 - plášť, 3 - souvislý plášť, 4 - na těle chybí, 5 - obě oči
+nejsou ve skyrné
+22 - BÍLÁ BARVA: 0 - čistá, 1 - tečky ojediněle, 2 - tečkování, ale podklad bílý, 3 - melír, 4 - silný melír,
+© ohraničení skvrn mizí
+23 - SRST: 0 - standardní, 1 - mírně zkadeřená, 2 - krátká, 3 - vlajka na ocase, 4 - pěšinka na hřbetě, 5 -
+otevřená, 6 - jemná, ) - řídká, 8 - silně zkadeřená
+24 - VALY: 0 - pevné, 1 - měkké záprstí, 4 - otevřené tlapky, 3 - medvědí tlapy, 4 - všeobecné uvolněné
+45 - POHYB: 0 - prostorný, | - noha vybočuje, 2 - neurovnaný, 3 - málo hn 4 - těžkopádný
+26 - POVAHA: 0 - sebevédomá, přátelská, temperament živý, 1 - nejistá, 2 - bázlivá, J - ostřejší, 4 - agresiv-
+ní k lidem, 5 - flegmatický temperament
+majitel, adresa, telefon: d = domů, p = do práce; směrovací číslo/telefonní číslo/lirka
+ABAS Pradědova louka, Reg.189/87, čb, 67,5cm, 8.2, 11.4, 12,1, 21.1, 26, l
+Artison Severní vítr - Bessi Lužický hvozd
+František Stolička, 790 57 Bernartice u Javorníka 40
+ADAN Netolická obora, Reg.336/88, žb, 64,5cm, 13.1, 19.2, 24.2, 25.3, velmi dobrý
+Dar Faranda - Athéna Hradecký lev
+Josef Matějek, Hornická 659, 384 11 Netolice, d 0338/82385, p 82321
+ADDIS Ovědada, Reg.241/87, čb, Gjem, Plld, 3.2, 6.1, 10,3, 11.3, 19.1,2,4, 22.1, 23,1, 24,2, 25.2
+Aragac Kačabka - Adhara od Bublajícího potůčku
+Anna Záhorková, Zadov 24, 384 73 Stachy, p 0339/93203
+AGAR od Vandy z Hájů, Reg.731/93, čb, 6lcm, 9.1, výborný, 2xRes.CAC, Pes r.95
+Bden Už jedou - Cácora od Nevěřicího Tomáše
+Vanda Kmochová, Pod vrchem 20, 405 05 Děčín 20, 0412/0 514 40x
+AIKEN na Mělich, Reg.184/66, žb, Gócm, ---
+Artison Severní vitr - Arvica Kačabka
+Pavel Kobr, chata Racek, 542 21 Pec pod Sněžkou
+AIKEN od Erčířských luk, Reg.101/85, žb, 65cm, 10.2, 11.3, 19.2, 21.2
+Artison Severní vítr - Andy od Jankova kopce
+Karel Setunský, Labská 111, 543 51 Špindlerův Mlýn, p 0438/93671
+ALKIDO Údolí kamarádů, Reg.332/98, čb, 64cm, 4.2, 18.1, 20.1, 22.1, 23.1
+Aiken od Hrčířských luk - Barter labutí řeka
+Ludmila Pikrtová, Branišov 8, 330 41 Bezvěrov
+AKATAM Do neznáma, Reg. 374/89, čb, 6jem, 21.2, 22.1, výborný
+Akky Zbloudilec - Axawa Pradědova louka
+Martina Kostková, Ledenická 112, 370 06 České Budějovice, d 038/63383
+AKIM Údolí Duhového potoka, Reg.356/89, čb, 67cm, 22.3, 23.1, výborný :
+Axela Labutí řeka - Ditke od Jankova kopce Čy
+Jindřich Skrbek, Chachelna 294, 513 01 Semily, p 0431/2051 -
+ALAKANUK Pátý dráp, Reg.329/86, žb, 65cm, 23.1, 26.1, výborný
+Boro z Milety « Artana Kačabka
+Petr Heidenreich, Písek 2, 330 35 Lišťany, d 019/791-50-49, p 019/274-357
+ALAN Údolí Kačáku, Reg.171/86, žb, 65cm, 2xP3h, 8,1,2
+Big Lužický hvozd - Cedrana Faranda
+Vladimír Středa, Zahradní 369, 549 54 Police nad Metují
+ALERT Netolická obora, Reg.338/B8, čb, 62cm, 21,2, velmi dobrý
+Dar Faranda = Athéna Hradecký lev
+Gabriela Asficirová, Samoty 115, 734 (1 Karviná - Ráj
+ALF Růžová louka, Reg.816/94, čb, 6ácm, 42ko, 21.2, výborný, Res.CAC, CAC
+Birt ze Lhoty - Aida z Dubových pasek
+Marie Kubíčková, Gagarinova 1898, 288 02 Nymburk, d 0325/6280
+ALF u Roubířských skal, Reg.716/93, žb, 70cm, 45,5kg, 12,6, 13.4, výborný
+Brix Ovědada - Betty Údolí Duhového potoka
+Silvia Thiel, Wachbergstr. 6g, D-01458 Ottendorf-Okrilla

@@ -1,0 +1,43 @@
+# ZDROJ: Spřežení č. 52, rok 2006, strana nezjištěna
+# SOUBOR: 99-2006_sprezeni_c_52.pdf
+# PDF_STRANA: 24
+# TISTENA_STRANA: nezjištěna
+# OCR: tesseract-5.3.4 / ces / conf 92.4
+---
+a) Potomci jedinců zapsaných v pomocném registru, nejde-li o plemeno
+vedené v N Regu.
+b) Jedinci importovaní z nečlenských zemí FCI, pokud jsou tyto země
+zeměmi původu dotyčného plemene (např. azavak z Mali).
+c) Jedinci ze zahraničních registrů FCT na úrovni zvláštního registru, jestliže
+tito psi postrádají 3 kompletní generace.
+d) Jedinci importovaní ze zemí FCI, kteří nemají doloženy 3 generace předků
+FCI.
+Štěňatům, narozeným ve zvláštním registru, se vystavuje PP se všemi běžnými
+identifikačními údaji a všemi předky, kteří jsou v dokladech rodičů uvedení.
+Zápis do zvláštního registru se provádí v souvislé řadě čísel spolu s řádnými
+zápisy daného plemene způsobem: |
+Z Reg/zkratka plemene/číslo zápisu/-event. rok importu/rok
+narození
+Psi importovaní ze zemí bývalého Sovětského svazu zapsaní v ČR do roku
+1990 mající úplné PP nejsou vedení v Z Reg. Všichni takoví psi zapsaní po
+1.1.1991 jsou v Z Reg, není-li vydaný PP již zaregistrován v FCI uznané
+plemenné knize těchto zemí či nejde-li o národní plemeno (N Reg).
+3. Národní registr (N Reg)
+Do národního registru se zapisují plemena nebo rázy neuznané FCI (český
+horský pes, moskevský toy terier, chodský pes, pražský krysařík, vícebarevný
+pudl atd.), a to i tehdy, nemají-li zapisovaní psi kompletní 3 generace.
+Pro jedince v národním registru je vystavován PP sc všemi identifikačními
+údaji, nezbytnými pro chov plemene, jak u štěňat, tak u předků podle
+požadavků chovatelského klubu. PP je dle nařízení FCI označen nápisem
+„breed not recognized by the FCI“
+Zápis se provádí v separátní řadě čísel pro každé plemeno nebo neuznaný ráz
+způsobem:
+N Reg/zkratka plemene/číslo zápisu/-event. rok importu/ro!
+narození |
+XII. Vydávání přepisu a duplikátu průkazu původu
+á, Přepis i duplikát vydává ta plemenná kniha, která vystavila
+originál PP.
+2. Přepis PP se vydává v případě, kdy dojde k poškození čí znehodnocení
+originálního PP, K jeho vydání je nutno předložit příslušnému pracovišti
+plemenné knihy poškozený či znehodnocený PP.
+3. Duplikát PP se vystavuje v případě, kdy byl původní PP ztracen, případně

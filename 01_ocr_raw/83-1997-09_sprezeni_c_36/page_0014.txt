@@ -1,0 +1,31 @@
+# ZDROJ: Spřežení č. 36, rok 1997, strana nezjištěna
+# SOUBOR: 83-1997-09_sprezeni_c_36.pdf
+# PDF_STRANA: 14
+# TISTENA_STRANA: nezjištěna
+# OCR: tesseract-5.3.4 / ces / conf 90.6
+---
+C Dílčí plemenná kniha ČHP | C)
+BUBLAVSKÉ VODOPÁDY 09.01.1997 4/1 F8
+Aranka Červená, Souvlastní 45, 517 16 Zdobnice
+REG.450/90 Bard Netolická obora, žb, F7
+REG.547/91 Bela Bublavské vodopády, žb, F7
+N Reg./CHP p 981 ENDY žb
+f 982 úhyn
+f 983 ENY žb
+Z AND 29.01.1997 4/0 F10
+Jan Jirák, Jižní 53, 370 10 České Budějovice
+REG.629/92 Ir Faranda, žb, F7
+REG.783/93 Jiskra Faranda, žb, F9
+N Reg/CHP | p 984 BENGALÍ žb
+p 985 BUCK žb
+U POSLEDNÍ BOUDY 13.02.1997 5" F10
+Anna Vybíralová, 789 82 Moravičany 12
+REG.829/94 Atrek Ribalbo, žb, F9
+REG.778/93 Cora Poledník, žb, F9
+N Reg./CHP p 986 ARGO žb
+f 987 AJDA žb
+f 988 úhyn
+f 989 ANNIE žb
+JIHOZÁPADNÍ 20.04.1997 1/5 F7
+Ing Viktor Mráček, Nový Dvůr 67, 384 72 Zdíkov
+10

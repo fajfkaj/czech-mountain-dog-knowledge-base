@@ -1,0 +1,11 @@
+# ZDROJ: Spřežení č. zvláštní (1992-11), rok 1992, strana nezjištěna
+# SOUBOR: 68-1992-11_sprezeni_special.pdf
+# PDF_STRANA: 2
+# TISTENA_STRANA: nezjištěna
+# OCR: tesseract-5.3.4 / ces / conf 94.0
+---
+Většina článků je vybrána ze starších čísel Spřežení Klubu českého
+horského psa a Klubového oznamovatele Klubu chovatelů psů sever-
+ských plemen.
+Oldřich Kupka, 391 76 Slapy u Tábora 45
+listopad 1992

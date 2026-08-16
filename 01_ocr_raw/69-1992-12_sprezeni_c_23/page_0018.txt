@@ -1,0 +1,9 @@
+# ZDROJ: Spřežení č. 23, rok 1992, strana nezjištěna
+# SOUBOR: 69-1992-12_sprezeni_c_23.pdf
+# PDF_STRANA: 18
+# TISTENA_STRANA: nezjištěna
+# OCR: tesseract-5.3.4 / ces / conf 94.3
+---
+Mnoho štěstí, spokojenosti, klidu, chovatelských,
+cvičitelských a sportovních úspěchů v roce 1993
+přejí členové výboru Klubu českého horského psa

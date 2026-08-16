@@ -1,0 +1,44 @@
+# ZDROJ: Spřežení č. 42, rok 1999, strana nezjištěna
+# SOUBOR: 89-1999_sprezeni_c_42.pdf
+# PDF_STRANA: 15
+# TISTENA_STRANA: nezjištěna
+# OCR: tesseract-5.3.4 / ces / conf 87.2
+---
+Výsledky Železný pes 22. 08. 1999 - Sadská
+VÝSLEDKY SKJ délka tratě 9 200m
+Por. St.č. Závodník Plemeno Celkem Odstup Prům.
+1. 83 | ZimaJan AH 31:20 0:00 17,62
+2. 72. SuchýjJiří ČHP 31:31 0:11 17,51
+3, 68 Toncar Petr SH 32:27 1:07 17,01
+4. BO Merhaut Michal NO 33:44 2:24 16,36
+5. 77 Porubský Pavel SH 34:09 2:49 16,16
+6. 62 Klikarová Soňa ČHP 34:41 3:21 15,92
+7. 67 | Hanzlík Petr ČHP 35:04 3:44 15,74
+8. 61. Hanzlík Petr NO 35:52 4:32 15,39
+9, 84 | Skalická Šárka AH 36:41 5:21 15,05
+10. 75 — Hnátek Norbert AH 37:27 6:07 14,74
+11. 55 | Carda Jan ZR 37:31 6:11 14,71
+12. (65 Novotný Milan CHO 37:34 6:14 14,69
+13. 56 Starman Miroslav SH 38:02 6:42 14,51
+14. 58 | Dolejš Zdeněk SH 39:24 8:04 14,01
+15. 63 | Trdla Tomáš ČHP 39:25 8:05 14,00
+16. 76 | Fiedler Michal ČHP 39:28 8:08 13,99
+17. 64 | Mikulová Markéta ZR 39:29 8:09 13,98
+18. 60 | Dolejš Libor SH 39:33 8:13 13,96
+19. 66 | Blazo Lukáš ČHP 40:42 9:22 13,56
+20. 54 | Porubská Jana SH 40:50 9:30 13,52
+21. 74 | Feidlerová Lenka ČHP 40:51 9:31 13,51
+22. 73. Kánská Kateřina ČHP 40.58 9:38 13,47
+23. 59 Dolejš Zdeněk ml. SH 42:08 10:48 13,10
+24, 51. Nešněrová Dáša SH 42:14 10:54 13,07
+25. 70 | Kořínek Jiří ČHP 42:27 11:07 13,00
+26. 85 © Čermák luděk RW 44:36 13:16 12,38
+27. 82 | Šrámek Rudolf ČHP 46:56 15:36 11,76
+28. 78. Jandlová Lenka NO 47:34 16:14 11,60
+29. 71 Bouček Ludvík NO 50:22 19:02 10,96
+30. 52 © Raab Jan NO 51:20 20:00 10,75
+31. 53 | Kotrliková lenka RW 55:55 24:35 9,87
+32. 79 Kohoutová Pavla AH 174:00 142:40 3,17
+33. 87 | Holub Zdeněk jr. ČHP 189:00 157:40 2,92
+34. 86 Huserová Kateřina BR 190:00 158:40 2,91
+l3

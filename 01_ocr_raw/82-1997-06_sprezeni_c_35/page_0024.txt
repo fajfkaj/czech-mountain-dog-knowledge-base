@@ -1,0 +1,32 @@
+# ZDROJ: Spřežení č. 35, rok 1997, strana nezjištěna
+# SOUBOR: 82-1997-06_sprezeni_c_35.pdf
+# PDF_STRANA: 24
+# TISTENA_STRANA: nezjištěna
+# OCR: tesseract-5.3.4 / ces / conf 94.6
+---
+18
+Kontaktní adresy na členy výboru
+Klubu českého horského psa
+předseda:
+Radko Loučka
+U svodnice 105, 104 00 Praha 10 - Královice
+tel. d: 02/67 71 12 53, p: 02/67 71 17 47
+poradce chovu:
+Dana Kupková
+391 76 Slapy u Tábora 45
+tel. d: 0361/ 256 276
+jednatel:
+Adam Sedláček
+Žárovice 68, 798 03 Plumlov
+tel, d: 0508/935 23
+pokladník:
+Ivo Rašín
+Pod koupalištěm 712, 293 06 Kosmonosy
+tel. d: 0326/217 63
+členové:
+Tomáš Trdla
+Vrší 745, 468 22 Železný Brod
+tel. d: 0428/389 697
+Oldřich Kupka
+391 76 Slapy u Tábora 45
+tel. d: 0361/256 276, p: 0361/495 290

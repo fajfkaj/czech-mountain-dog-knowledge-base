@@ -1,0 +1,57 @@
+# ZDROJ: Spřežení č. 35, rok 1997, strana nezjištěna
+# SOUBOR: 82-1997-06_sprezeni_c_35.pdf
+# PDF_STRANA: 16
+# TISTENA_STRANA: nezjištěna
+# OCR: tesseract-5.3.4 / ces / conf 93.6
+---
+Protivanovský závod psích spřežení
+Výsledková tabulka jednotlivých kol závodu
+Délka tratě 12 000 m
+Kategorie A
+1 Rzidky Jaroslav
+2 Ježek Vladimir
+3 Kastner René
+Kategorie B
+Gamba Milan
+Kategorie BI
+1 Sedláček Jindřich
+2 Tekeljak Peter
+3 Janeček Miroslav
+Kategorie B2
+1 Dědičová Olga
+2 Kvapil Jaroslav
+3 Tůma Karel
+Kategorie C
+1 Stejskal Milan
+2 Kittner Jiří
+3 Diblík Zbyněk
+14
+4. = 5, j 1997
+1. kolo 2. kolo
+0:27:11 0:27:58
+0:29:01 0:31:22
+0:36:31 0:38:40
+0:50:36 0:53:23
+0:28:51 0:28:48
+0:29:31 0:30:08
+0:30:26 0:32:11
+0:45:50 0:45:11
+0:47:24 0:48:25
+0:45:56 0:53:06
+0:30:48 0:32:48
+0:34:22 0:35:56
+0:36:34 0:39:18
+celkem
+0:55:09
+1:00:23
+1:15:11
+1:43:59
+0:57:39
+0:59:31
+1:02:37
+1:31:01
+1:35:49
+1:39:02
+1:03:36
+1:10:18
+1:15:52

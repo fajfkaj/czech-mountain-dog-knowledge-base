@@ -2,27 +2,29 @@
 # SOUBOR: 51-1987-06_sprezeni_c_7.pdf
 # PDF_STRANA: 1
 # TISTENA_STRANA: nezjištěna
-# OCR: tesseract-5.3.4 / ces / conf 75.5
+# OCR: vision (AI dočtení, tesseract conf pod prahem); titulní strana s kresbou saňové spřežky, v pravém horním rohu rukopisná poznámka [nečitelné]
 ---
-| č.7
-lub chovatelů čes |
-„=
--
-EB.
-Dílčí plemenná kniha českých horských psů
-Nové chovné stanice R:
-Chovatelská zpráva za rok 1986
-Za schůzky chovatelské komise dne 16.5.87
-Celostátní klubová výstava = Litoměřice 16.5.87
-Škrkavky © ©
-5.ročník přejezdu Českomoravské vrchoviny
-Kleť
-Výsledková listina sezony 86/87
-Memoriál Dr Václava Vojtěcha
-Závody a co dál 7
-Výcvik lendra
-Vůže strannost (lateralite) ovlivnit výkon psa?
-Oznámení
-ého horského psa
-: červen 1987
-pou L tao né AÁMÁNÁÍ dn dě ko
+ČSCH
+
+SPŘEŽENÍ
+
+Klub chovatelů českého horského psa
+
+č.7                                    červen 1987
+
+OBSAH:  Dílčí plemenná kniha českých horských psů         1
+        Nové chovné stanice                                4
+        Chovatelská zpráva za rok 1986                     4
+        Ze schůzky chovatelské komise dne 16.5.87           8
+        Celostátní klubová výstava - Litoměřice 16.5.87     9
+        Škrkavky                                           17
+        5.ročník přejezdu Českomoravské vrchoviny          19
+        Kleť                                                20
+        Výsledková listina sezony 86/87                    22
+        Memoriál Dr Václava Vojtěcha                        29
+        Závody a co dál ?                                  31
+        Výcvik leadra                                       33
+        Může strannost (lateralita) ovlivnit výkon psa?    33
+        Oznámení                                           35
+
+[rukopisná poznámka vpravo nahoře: nečitelné]

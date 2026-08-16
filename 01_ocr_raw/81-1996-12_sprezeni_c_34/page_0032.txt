@@ -1,0 +1,54 @@
+# ZDROJ: Spřežení č. 34, rok 1996, strana nezjištěna
+# SOUBOR: 81-1996-12_sprezeni_c_34.pdf
+# PDF_STRANA: 32
+# TISTENA_STRANA: nezjištěna
+# OCR: tesseract-5.3.4 / ces / conf 88.9
+---
++ D6.
+psi - třída otevřená
+ALF Růžová louka, * 02.08.94 - výborný 1.
+Birt ze Lhoty - Aida z Dubových pasek CAC
+ch: 0,Kaňský, m: M.Kubíčková, Gagarinova 1898, Nymburk
+Pes v pevné konstituci, dobré kondici, správný rámec, výborně osvalen, s dobrým výrazem hlavy, se správným
+postavením zaúhlením a funkcí končetin,
+BACK, * 07.02.95
+Athos z Dubových pasek - Betty na Salabce - velmi dobrý
+ch: S.Pfeifer, m: L.Kyksa, 463 41 Dlouhý Most 164
+Pes dobré konstituce, kondice, dovbrý výraz hlavy, dobré úhlení a postavení hrudních končetin, pánevní kon-
+četiny v pohybu krátký krok, při pohybu uvolněn v bedrech a zádi.
+BAD Vera Libiš, * 04.06.95 - nepřišel
+Bey Údolí Duhového potoka - Asja Údolí Duhového potoka
+ch: R,Šrámek, m: Máckovi
+DAR Jahodovka, * 31.04.94 - výborný 3.
+Ašky Zlatá trubka - Ayde Patnáctý poledník ,
+chtm: J.Kašpar, 362 62 Boží Dar 150
+Pes v suché konstituci, horší kondice, správný rámec, dobrý výraz hlavy, správné postavení a úhlení zadních
+končetin - dobrá funkce,
+KELT Faranda, * 17.11.94 - výborný 2.
+Can z Podkrkonošské samoty - Dája Paranda
+ch: Mgr.Kapková, m: J.Suchý, 588 51 Batelov 446
+Pes pevné konstituce, dobré kondice, správný rámec s lehčí hlavou, dobře postavení úhlení zadních končetin,
+pánevní končetiny v poměru k hrudním delší.
+BRISTOL Psí půle, * 10.07.93 - nepřišel
+Astix Žemanex - Elza Už jedou
+ch: V.Procházka, m: 0.Kahlert, Liebigstr.12, D-03130 Spremberg-NWeskow
+psi - třída pracovní
+BENNO v.Hinterschlag, * 26.05.93 - výborný 2.
+Blesk Jasná záže - Hvězda Faranda i Res.CAC
+ců: R.Klein, A, m: Gudrun Dusel, Eidenberg 123, A-4210 Gramástetten
+Pes hrubší konstituce, výborné kondice, správný rámec, typický výraz hlavy, správné postavení úhlení zadních
+končetin, v pohybu mírně uvolnén v zádi. :
+DÁREK od Fíka, * 31.08.93 - výborný 1.
+Alan Zemanex = Arnika od Píka i CAC
+ch: Růžičkovi, m: K.Novák, Žižkův kopec 445, 552 03 Česká Skalice BOB
+Pes pevné kenstituce, výborné kondice, dobrý výraz hlavy, vadně nesené ucho, výborné postavení úhlení
+zadních končetin.
+psi - třída vítězů
+IR Faranda, * 29.03.92 - výborný 1.
+Arekus Sněžník - Dája Faranda :
+ch: Mgr.Kupkové, m: T.Trdla, Vrší 745, 466 22 Železný Brod
+eny - třída štěňat
+CAJDA, * 15.04.96 = velmi nadějná
+Aron Psí půle - Asja Údolí Duhového potoka
+ch: R.Šrámek, m: M.Rubeš, Tépeře 86, 468 22 Železný Brod
+Dostatečně vyvinutá na svůj věk, bez zjevných vad a nedostatků v růstu a vývinu, bez rachitických známek.

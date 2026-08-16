@@ -1,0 +1,53 @@
+# ZDROJ: Spřežení č. 40, rok 1998, strana nezjištěna
+# SOUBOR: 87-1998-11_sprezeni_c_40.pdf
+# PDF_STRANA: 34
+# TISTENA_STRANA: nezjištěna
+# OCR: tesseract-5.3.4 / ces / conf 89.4
+---
+Brázdilová Alena, Zahradní 393, 769 01 Holešov
+Burda František, Boloňská 305, 109 00 Praha 10 d: 02/71750570 p: 02/67149763
+Čermák Roman, K rozvodně 491, 154 00 Praha 5 - Slivenec d: 02/5811150
+Dietrich Marcel, Englišova 48, 746 01 Opava d: 0653/212272 p: 0653/624280
+Divoká Dagmar, Nádražní 612, 382 32 Velešín d: 0602/104421
+Dlabolová Marta, Budčická 397, 190 16 Praha 9 d:02/81971190, 7881135
+Dosedlová Leona, Malá Úpa 43, 542 27 Trutnov
+Drbohlav Jan, Víska 10, 463 31 Nová Ves u Chrastavy p: 0425/55055 (6-14 h)
+Drobná Zdeňka, 463 67 Dolní Řasnice 229. d: 0427/94220
+Fiala Karel, 417 32 Cínovec 256 d: 0417/98101
+Fiedlerová Lenka, V. Klementa 1237, 293 01 Mladá Boleslav d: 0326/20261
+Formánková Marie, El. Krásnohorské 212, 563 01 Lanškroun d: 0467/6773 p: 0467/521120
+Fotr Jaromir, Dalešice 28, 468 02 Rychnov n/N  d: 0602/446316
+Fotrová Milena, Dalešice 28, 468 02 Rychnov n/N p: 0428/21423 ČÉ
+Fučíková Marie, Markvartice 75, 675 25 Rokytnice nad Rokytnou d:0618/870513 p: 0618/893103
+Gazdíková Božena, Loktuše 16, 512 54 Mirová pod Kozákovem d: 0436/320233 p: 0463/24504
+Gogová Monika, Fibichova ul., 796 07 Prostějov - Držovice d: 0508/365004
+Hejduk Stanislav, Sokolovská 122, 570 01 Litomyšl d: 0464/3910 p: 0464/3910
+Hlinovská Hana, Dudov 3, 391 75 Skrýchov u Malšic
+Hraba Jaroslav, Ke mlýnu 8, 250 63 Veleň d: 02/6870229 p: 0202/803325, 0602/323382
+Hučík Jiří, 756 24 Mikulůvka 244
+Jeleňová Andrea, 267 03 Hudlice 415 d: 0311/693670 p: 0311/625887
+Jirák Jan, Jižní 53, 370 10 České Budějovice d: 038/7221677 p: 0334/421733
+Jirka Jaroslav, Hotel Měřín, 257 44 Netvořice p: 0301/91134-5
+Kadlec Miroslav, Hostín 12, 277 32 Byšice d: 0206/696555
+Kadlecová Olga, Hostín 12, 277 32 Byšice d: 0206/696555
+Kadlečková Helena, K lipám 297, 190 00 Praha 9 - Prosek d: 02/889979
+Kaňský Oldřich, 561 22 Ostrov u Lanškrouna 59 d: 0467/8352 p: 0467/521084-85
+Kavka Jaromír, Kalamárská 229, 747 62 Mokré Lazce p: 0653/622264
+Keken Zoltán, Vimperská 200, 341 92 Kašperské Hory
+Klein Rudolf, Hinterschlag 5, A - 4162 Julbach d: 0043/7288/2607 p: 0043/6644111168
+Klikarová Soňa, Koštofranská 107, 513 01 Semily
+Kmoch Petr, Martiněves 39, 407 01 Jílové u Děčína d: 0412/551383 p: 0412/584605
+Kmochová Vanda, Martiněves 39, 407 01 Jílové u Děčína d: 0412/551383
+Kónig František, Husova 983, 334 01 Přeštice p: 019/7982413 (-ová)
+Kořinek Jiří, Kamenická 1, 170 00 Praha 7 d: 02/33370454 p: 02/20144057
+Králová Dana, 335 63 Nové Mitrovice 25 d; 0185/97237
+Krampla Jan, 267 29 Zadní Třebaň 116 p: 0601/226697
+Kubínová Hana, Zborovské nám. 1406, 530 02 Pardubice d: 040/36697
+Kupka Oldřich, 391 76 Slapy u Tábora 45 d:0361/318276 p: 0361/495290
+Kupková Dana, 391 76 Slapy u Tábora 45 d: 0361/318276
+Kutnar Rudolf, Na višňovce 1, 160 00 Praha 6 - Bílá Hora d: 02/20982232 p: 02/324686
+Lang Hynek, Zahradní 289, 547 01 Náchod d: 0441/21030 p: 0441/448233
+Lenk Petr, V. Nováka 9, 370 07 České Budějovice d: 038/54781
+Loučka Radko, U svodnice 105, 104 00 Praha 10 - Královice d: 02/67711253 p: 02/67711747
+Loučková Eva, U svodnice 105, 104 00 Praha 10 - Královice d: 02/67711253
+30

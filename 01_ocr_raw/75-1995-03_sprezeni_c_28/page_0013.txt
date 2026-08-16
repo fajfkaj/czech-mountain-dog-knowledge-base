@@ -1,0 +1,48 @@
+# ZDROJ: Spřežení č. 28, rok 1995, strana nezjištěna
+# SOUBOR: 75-1995-03_sprezeni_c_28.pdf
+# PDF_STRANA: 13
+# TISTENA_STRANA: nezjištěna
+# OCR: tesseract-5.3.4 / ces / conf 84.9
+---
+DÍLČÍ PLEMENNÁ KNIHA ČESKÉHO HORSKÉHO PSA
+naroz.
+| -úhyn
+BOŽIDARSKÉ RAŠELINIŠTĚ 16.04.94 8/0 F7
+Martin Záboj, Přem.Otakara 6, Cheb
+REG.199/87 Borec Už jedou, žb, F5
+REG.316/88 Arva Zlatá trubka, čb, F6
+CMKU/CHP REG
+p. 843
+p 844 - vrh nezapsán pro nesplnění podmínek pro vydání PP
+NA LOUPEŽNÍKU 01.11.94 3/0 F7
+Miroslav Redlich, 351 22 Krásná 255
+REG.251/88 Arekus Sněžník, žb, F6
+REG.209/87 Etna Faranda, žb, F6
+CMKU/CHP REG
+p 845 DON žb
+p 846  DAK žb
+f 847 DITA žb
+ČEJIVA 10.11.94 12/5 F8
+Jitka Čechurová, K jatkám 166, 388 01 Blatná
+REG.374/89 Akatam Do neznáma, čb, F7
+REG.542/91 Aska od Prosetické stráně, čb, F7
+CMKU/CHP REG
+p 848 BACK čb
+p 849 BART čb
+p. 850 BEN čb
+p 851 BENDI čb
+p 852 BENJI čb
+f 853  BENIE čb
+f 854  BESSY čb
+FARANDA u ky Z daN S | 8/0 F8
+Dana Kupková, 391 76 Slapy u Tábora 45
+REG.710/93 Can z Podkrkonošské samoty, žb, F7
+REG.114/86 Dája Faranda, žb, F6
+CMKU/CHP REG
+p 855 KELT žb
+f 856  KÁČA žb
+f 857  KÁJA žb
+f 858  KAZI žb
+f 859  KOMTESA žb
+f 860 KRÁSKA žb
+f 861  KVILDA žb

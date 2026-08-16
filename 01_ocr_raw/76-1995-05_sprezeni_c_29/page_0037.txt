@@ -1,0 +1,159 @@
+# ZDROJ: Spřežení č. 29, rok 1995, strana nezjištěna
+# SOUBOR: 76-1995-05_sprezeni_c_29.pdf
+# PDF_STRANA: 37
+# TISTENA_STRANA: nezjištěna
+# OCR: tesseract-5.3.4 / ces / conf 90.1
+---
+EEE LE] 136 (Et,
+Populace
+a genetické vlohy
+čistokrevného psa
+Vztahy mezi
+příbuzenskou
+plemenitbou
+a efektivní
+velikostí
+populace
+Skutečné poměry v praxi vy-
+žadují pří propočtu efeklivní
+velikosti populace zohlednění
+stupně příbuzenské plemenit-
+by v populaci. Později k lo-
+muto tvrzení opět uvedeme
+příklad. Po promítnutí stupně
+příbuzenské plemenitby do
+vzorce je výsledek definitivní.
+Nejprve je ale třeba zmínit se
+o následujících úvahách:
+Následujicí teoretický případ
+je zvolen tak, aby byl přehled-
+ný, umožňoval nekomplikova-
+ný výpočet, který lze snadno
+odvodit, a diky tomu je celý
+princip snadno pochopitelný.
+Příbuzenská
+plemenitba
+zužuje cestu
+Pokud by byl k dispozici pro
+nekonečný počet krevně na-
+| prosto nepříbuzných fen jedi-
+ný nepřibuzný pes, byly by po
+1. generaci v těto skupině
+možné jen tři druhy párování:
+1, Rodiče s dětmi: olec se
+dcerami, matky se syny
+2. Bourozenci mezi sebou
+3. Poloviční sourozenci mezi
+sebou
+Oba první druhy párování dá-
+vají za výsledek stupeň pří-
+buznosti 25%. To odpovídá
+ztrátě alel a na druhou stranu
+zase zvýšení počtu shodných
+jedinců o čtvrtinu,
+Po takovém párování bude
+výsledkem 25
+% stejných genů. Při celkem
+Vítěz výstavy se hrdě předvádí.
+Za život a za to, jak čistokrevný pes
+prospívá, se stal plně zodpovědným
+4 možnostech kombinací je to
+snižení o 1/4, tedy 4-1=3.
+Jinak řečeno: pokud je koefi-
+cient příbuznosti 25%, popi-
+suje tato hodnota tu pravdě-
+podobnost, že čtvrtina lokusů
+genů bude obsazena shodný-
+mi geny. Tím je rozmanitost
+populace snížena o 1/4. Při
+propočtu efektivní velikosti
+populace se namísto hodnoty
+4 použije hodnota 3.
+Použijeme-li jako příklad opět
+výchozí čísla (16 psů a 100
+pro
+0%IKeP= krá 55,17
+pro
+25% IK eP = m 41,38
+fen), můžeme provést srov-
+nání:
+Pak odpovídá zmenšení efek-
+tivní populace 13,79 dílům
+neboli 25 %. Můžeme vychá-
+zet z toho, že počet procent,
+o které se sníží velikost popu-
+lace následkem příbuzenské
+plemenitby, odpovidá procen-
+tu koeficientu příbuzenské
+pro
+125% 1K ep -6x10 9,
+plemenitby.
+3. Párování polovičních sou-
+rozenců naproti tomu dává
+procento příbuzenské plemé-
+nitby 12,5%, tedy 4 - 0,5 =
+3,5; dosadíme-li tuto hodnotu
+do našeho příkladu, dostane-
+me:
+Efektivní velikost populáce se
+při stupni příbuznosti 12,5 %
+sníží z 55,17 (bez příbuzen-
+ské plemenitby) na 48,27, To
+je 1/8 celkového genetického
+potenciálu.
+Udaná procenta jsou teoretic-
+ké hodnoty. Diky mnoha ge-
+sám člověk. Člověk rozhoduje
+o rozmnožování psů, mění je podle
+svého vkusu. Lidé tak ručí za
+biologické udržení zvířat, za jejich
+zdravotní stav.
+neticky rozdílným potomkům
+v rámci vrhů se opět trochu
+relativizují protože při oplod-
+nění se geny předávané ot-
+cem a matkou u každého po-
+tomka kombinují odlišně
+a mohou být zcela jedinečné.
+Následná elekce chovných
+zvířat však opět působí proli
+rozmanitosti zvířat, V této
+souvislosti jsou příbuzenská «
+plemenitba a selekce různými
+stranami jedné mince: Obě
+omezují genetickou různoro-
+dost,
+Při všech výpočtech nezáleží
+až tolik na několika málo
+procentech, ale jde spíše
+o základní | skutečnost:
+Přibuzenská © plemenitba
+snižuje genetickou pestrost -
+málo příbuzenské plemenitby
+méně a vice příbuzenské
+plemenitby úměrně více.
+Nebezpečí
+zhroucení
+Příbuznost vyúsťuje ve vznik
+homozygotů s alelami, které
+ovlivňují žádoucí vlohy, ala
+i takové, které způsobují ne-
+žádoucí vlastnosti nebo je po-
+silují. Pokud jde o dědičné
+nemoci nebo defekty, je to
+pro plemeno špatné. To je
+ale jen jedno nebezpečí. Sou-
+časně to znamená, že klesá
+celková různorodost genů.
+A konečně se mění i ty systé-
+my genů, které | při vysoké
+zátěží garanlují vitalitu, a pro-
+to jsou nezbytné pro život.
+Klesá účinnost tak zvaných
+genetických obranných me-
+chanismů nebo tyto mecha-
+nismy zcela odpadají.
+Uvedené souvislosti jsou dů-
+ležité pro praktické důsledky
+vycházející z úvah o efektivní
+valikosti populace: použití při-

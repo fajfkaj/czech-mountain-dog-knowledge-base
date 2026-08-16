@@ -1,0 +1,11 @@
+# ZDROJ: Spřežení č. 32, rok 1996, strana nezjištěna
+# SOUBOR: 79-1996-01_sprezeni_c_32.pdf
+# PDF_STRANA: 36
+# TISTENA_STRANA: nezjištěna
+# OCR: tesseract-5.3.4 / ces / conf 90.3
+---
+TISKÁRNA
+S PO ČESKÁ KAMENICE
+KOMENSKÉHO 288
+BAREVNÝ OFSETOVÝ TISK DO FORMÁTU 50 x 35 CM, JEHO
+ZAJIŠTĚNÍ A DOKONČUJÍCÍ ZPRACOVÁNÍ TEL.: 0412/952605

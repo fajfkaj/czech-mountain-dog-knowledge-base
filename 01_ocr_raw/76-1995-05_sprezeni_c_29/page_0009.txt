@@ -1,0 +1,13 @@
+# ZDROJ: Spřežení č. 29, rok 1995, strana nezjištěna
+# SOUBOR: 76-1995-05_sprezeni_c_29.pdf
+# PDF_STRANA: 9
+# TISTENA_STRANA: nezjištěna
+# OCR: tesseract-5.3.4 / ces / conf 85.4
+---
+mimo
+Zařazování
+do linii:
+- kamkoliv
+W - v žádné linii nemá žádné společné předky
+TI - má společného předka IK v linii č.2
+"I" —- má společné předky ve dvou liniích

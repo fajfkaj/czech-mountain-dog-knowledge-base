@@ -1,0 +1,56 @@
+# ZDROJ: Spřežení č. zvláštní (1992-11), rok 1992, strana nezjištěna
+# SOUBOR: 68-1992-11_sprezeni_special.pdf
+# PDF_STRANA: 25
+# TISTENA_STRANA: nezjištěna
+# OCR: tesseract-5.3.4 / ces / conf 89.6
+---
+= 9 s
+SANĚ
+Saně - jsou vyrobeny nejlépe z vyzrálého dřeva jasanu, dubu, břízy nebo javoru. Nejdůle-
+žitějšími vlastnostmi saní jsou lehkost, pevnost, ovladatelnost a dobrá brzdící schop-
+nost. Závodní saně mají hmotnost 13 — 15 kg« Saně expediční (nákladní) mají konstrukci
+stejnou, liší se jen rozměrově a profilem použitého dřeva (hlavně stavky) Buočnost se
+pak úměrně uj
+Spoje = jsou většinou volně čepované (nelepené a nešroubované), „převázané nylonovou
+Šhrou nebo syrovou hovězí kůží, .
+Sanice - musí být z dobrého materiálu, nebot nesou hmotnost saní, nákladu a psovoda.
+Jsou namáhány nejvíce na nerovných místech terénu a hlavně pak v zatáčkách. Pro lepší
+pevnost můžeme použít sanic zdvojených, kdy falešná sanice (kratší) leží na pravé sani-
+ci v místech ložné plochy a stání mushera. Místo na saních, kde stojí musher je poněkud
+rozšířené (ne více, jak šíře skluznice) a má hrubý povrch
+Skluznice - na sanice se lepí nebo Šroubují (je možná i kombinace obojího) podle druhu
+a kvality sněhu. Firmy, osově bb saně pro psí zápřahy, používají několik typů umělých
+hmot na skluznice. Obvyklý je žlutý Petex nebo teflon. Při teplotách kolem OC je z
+hlediska rychlosti nejvhodnější pérová ocel,
+Brzda = je vlastně prkno (t1, 1,6 a široké 6- 9cm), které je na silném planovém
+pantu příchyceno v první třetině délky saní ke středu příčné vzpěry. Volný zadní konec
+je upevněn na horní příčné výztuží pod madlem párem pružin (ze svalového posilovače)
+nebo gumovými lany. Upevnění pružin ke konci brzdy nesmí překážet noze pří brždění. Ko-
+vání brzdy je vyrobeno z kusu těžkého úhlového železa. Na brzdné části kování jsou záře-
+zy. V druhé části úhelníku jsou provrtány otvory pro přišroubování k prknu brzdy.
+Čelní oblouk (nárazník) = je z ohnutého nebo lepeného dřeva, doporučuje se též liana.
+Jeho konce jsou přivázány k prvnímu nebo druhému sloupku v místech čepu sa sanicí a
+šikmo poračuje k první příčné vzpěře. Před saně vybíhá asi v délce 50 cm a slouží pře-
+vážně jako pružný nárazník, chránící saně před čelným nárazem (na strom, značkovací
+směrovou tyč)
+Madlo = je vyrobeno z podobného materiálu jako nárazník. Do sanice je začepováno a při-
+vázáno jako sloupek asi 10 cm před předposlední stojkou» v
+Uzda = lano, které je posuvnými smyčkami omotané r jednotlivých sloupků pod sanovým
+košem tak, aby začátek a konec končil v jednom ocelovém oku asi v místech první příčné
+vzpěry (jen pro zápřah vedle sebe). Do tohoto oka je pak karabinou chyceno středové
+tažné lano. (U zápřahu za sebou pak bude každý konec uzdy opatřen okem pro pravý a levý
+postraněk.)
+Obr.č.j Petr Hanzlík
+SKAND INÁVSKÁ DISCIPLÍNA — PULKA
+Na závěr se zmíním o způsobu zápřahu, používaném hlavně ve Skandinávii, kde se nazývá
+-Nordish style=. Jedná se o zapřažení psů za sebou =tandem hitch= v počtu od jednoho do
+čtyř psů. Používá se nyní pro rodinné výlety na lyžích, kdy pes nebo psí táhnou spolu-
+zavazadlo, děti, jakož i pro transport raněných v lyžařských oblastech, ale i k spor-
+tovnímu klání. Tato disciplína se jmenuje Skandinávská, Saně jsou přizpůsobeny pro tyto
+nároky a nazývají sePulka, což je vylepšená Ackja -= sobí saně, u nás dříve často použ íva-
+né Horskou službou. = víz obr.čo4
+Tento zápřah je velice starý, Psovod doprovází spřežení na lyžích. Na rozdíl od Eskymá-
+ků a Indiánů, znali lyže již Laponci. Práce se saněmi a spřežením současně na lyžích,
+byla velmi podrobně rozpracována norským polárním badatelem Fridjofem Nansenem. Psi jsou
+zapřežení za sebou, ale spojeni se sanání Vianovými nebo skolaminátovými tyčemi na místo
+postranních lano

@@ -1,55 +1,67 @@
-# ZDROJ: Spřežení č. 7, rok 1987, strana nezjištěna
+# ZDROJ: Spřežení č. 7, rok 1987, s. 4
 # SOUBOR: 51-1987-06_sprezeni_c_7.pdf
 # PDF_STRANA: 6
-# TISTENA_STRANA: nezjištěna
-# OCR: tesseract-5.3.4 / ces / conf 75.7
+# TISTENA_STRANA: 4
+# OCR: vision (AI dočtení, tesseract conf pod prahem)
 ---
--4 =
-NOVÉ CHOVKÉ STANICE
+- 4 -
+
+NOVÉ CHOVNÉ STANICE
+
 UŽ JEDOU CS, reg.č. 4177/86
-Eva Loučková, Královice 105, 104 00 Praha 10 -+ Uhříněves
+    Eva Loučková, Královice 105, 104 00 Praha 10 - Uhříněves
+
 ÚDOLÍ KAČÁKU CS, reg.č. 4321/86
-Antonín Jehlička, Jánská 91, 267 12 Loděnice
+    Antonín Jehlička, Jánská 91, 267 12 Loděnice
+
 NA MĚLÍCH CS, reg.č. 4226/86
-Blanka Kučerová, Mokré 87, 517 73 Opočno
+    Blanka Kučerová, Mokré 87, 517 73 Opočno
+
 PRADĚDOVA LOUKA CS
-Jaroslav Halama, Havlíčkova 56, 790 70 Javorník
+    Jaroslav Halama, Havlíčkova 56, 790 70 Javorník
+
+
 CHOVATELSKÁ ZPRÁVA ZA ROK 1986
-7
-Z celkového počtu chovných jedinců = 18 paů a 32 fen « bylo s vovs 1986
-použito v chovu 11 krycích pel a 25 fen. Vícekrát byli použití wvyaí psi:
-Alan-Kúh Labutí řeka 5x
-Aalborg Labutí řeka 4x
-Aragae Kačabka 2x
-Berrio Vlažínka 2x
-Artison Sevézní vítr 2x
-Bylo vystaveno 29 kvycích listů, nahlášeno 25 krytí. Nezabřezly “ fuzy,
-4 krycí lísty byly vrácený nepoužité,
-V roce 1986 se uskutečnilo 21 vshů, Zoela neúspěšné byly 3 wi, Ž erhy
-přešly do roku 1937. Určováno podle fen, byly to vrby 3., 44 « vgoňéřaše:
-P 3
-75 ŽB
-Celkem bylo odchováno a zapsáno za rok 86 do ČekPK 81 štěňat,
-Průměrný počet narozených štěňat ve vrhu“ ",14, což je pro velké plems=
-no odpovídající, Veny jsou tady dostat "plodné s v tomto směru k žádné
-inbridinkové doprosi nedochází. Situace alé není zdaleka teak příznivá,
-když s1 všímneune počtu fíztvě narozených štěňat (22 = 14,674) s štěnat uhy«
-nulých (26 m 20,3%), Poměraš nízký mý počet zapsaných štěnst na je=
-den vrh = 3,86 = je navíc ovlivněn i tím, musímo utrácet štěnata 3 n6=
-vyhovující plochou a rozmístěním znaků, které jsou jinak uucvojtu života=
-schopná,
-Z hlediska živatascnopnosti jsou mezi jednotlivými vrhy Věmás zožužáje VS
-dvou vrzích např. uhynula všechna navozená Štěnnte, u 1141 viní "yl Sa
-opak hlášen úhyn žádný, Pokud jeko kritérium úspěšnosti vrbu vote Žívo=
-taschopnost narozených štěňat a počet zapganých Štěnst ve 7“ b: y sale
-úspěšnější vrhy č. 50, 52, 42, 47, 37, 61, Jsou to vrhy po 160%:
-Dombaj TřeboneKopeček (bernardýn x Askó Třeboň=Kopeček)
-Atacama Studená+Javořice (árarat Tel x Díkté T-K)
-Arcona Kačabka (Artison Severní vítr x Ara Faranda)
-Aracajú Kačabka (A4rtison Soverní víte X Ara Faranda)
-Arvioa Kačabka (4rtison Seyarní vítr x Ara Feyanda)
-Bělka Paranda (Eiger Uřoboa-Kopeček x Čehooyu Třeboňejí c jež
-$ v piý
-stěmat
-UMU AMY O. 0:
-m
+
+Z celkového počtu chovných jedinců - 18 psů a 32 fen - bylo v roce 1986
+použito v chovu 11 krycích psů a 25 fen. Vícekrát byli použiti krycí psi:
+
+    Alam-Kuh Labutí řeka       5x
+    Aalborg Labutí řeka        4x
+    Aragac Kačabka              2x
+    Berrio Vlažinka             2x
+    Artison Severní vítr        2x
+
+Bylo vystaveno 29 krycích listů, nahlášeno 25 krytí. Nezabřezly [nečitelné] feny,
+4 krycí listy byly vráceny nepoužité.
+
+V roce 1986 se uskutečnilo 21 vrhů. Zcela neúspěšné byly 3 vrhy. 2 vrhy
+přešly do roku 1987. Určováno podle fen, byly to vrhy 3., 4. a 5.generace:
+
+    F3      3 vrhy
+    F4     13 vrhů
+    F5      5 vrhů
+
+Celkem bylo odchováno a zapsáno za rok 86 do ČsHPK 81 štěňat.
+
+Průměrný počet narozených štěňat ve vrhu byl 7,14, což je pro velké pleme-
+no odpovídající. Feny jsou tady dostatečně plodné a v tomto směru k žádné
+inbrídinkové depresi nedochází. Situace ale není zdaleka tak příznivá,
+když si všimneme počtu mrtvě narozených štěňat (22 = 14,67%) a štěňat uhy-
+nulých (26 = 20,3%). Poměrně nízký průměrný počet zapsaných štěňat na je-
+den vrh - 3,86 - je navíc ovlivněn i tím, že musíme utrácet štěňata s ne-
+vyhovující plochou a rozmístěním znaků, které jsou jinak naprosto života-
+schopná.
+
+Z hlediska životaschopnosti jsou mezi jednotlivými vrhy velké rozdíly. Ve
+dvou vrzích např. uhynula všechna narozená štěňata, u 11ti vrhů [nečitelné]
+naopak hlášen úhyn žádný. Pokud jako kritérium úspěšnosti vrhu vezmeme života-
+schopnost narozených štěňat a počet zapsaných štěňat ve vrhu, byly nej-
+úspěšnější vrhy č. 50, 52, 42, 47, 57, 61. Jsou to vrhy po [nečitelné]:
+
+Dombaj Třeboň-Kopeček (bernardýn x Askó Třeboň-Kopeček)                8 zapsaných
+Atacama Studená-Javořice (Ararat T-K x Dikté T-K)                      6 štěňat
+Arcona Kačabka (Artison Severní vítr x Ara Faranda)                    7
+Aracajú Kačabka (Artison Severní vítr x Ara Faranda)                   6
+Arvica Kačabka (Artison Severní vítr x Ara Faranda)                    5
+Bělka Faranda (Eiger Třeboň-Kopeček x Čehocyn Třeboň-Kopeček)          5

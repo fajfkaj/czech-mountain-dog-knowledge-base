@@ -1,0 +1,54 @@
+# ZDROJ: Spřežení č. 10, rok 1988, strana nezjištěna
+# SOUBOR: 54-1988-08_sprezeni_c_10.pdf
+# PDF_STRANA: 32
+# TISTENA_STRANA: nezjištěna
+# OCR: tesseract-5.3.4 / ces / conf 86.9
+---
+- 30 =
+d' CING, Reg.228/87, čb, 62 cm, 32 kg - chovný
+ms: Petr Elster, Dačice 7707
+pravé ucho složené, ojedinělé tečky
+9 GČITA, Reg.230/87, čb, 55,5 cm, 27 kg - chovná
+m: Bohumil Šedina, Karlovy V 777
+menší než standard, rámec mírně delší, ojedinělé tečky
+B - Už jedou —- ze 7 předvedeni 3
+Artison Severní vítr — Cabina Faranda
+ch; Bva Loučková
+G BLESK, Rez.198/87, žb, 70 om, 51 kg - chovný
+m: Jaroslav Čumpelík, Kunčice n.Labem n.
+lymfatie - převislé pysky, otevřené koutky tlamy, plášť,
+ostřejší povaha
+9 BOBINA, Reg.202/87, žb, 58,5 cm, 30,5 kg - chovná
+m: Zdena Třísková, Praha - západ
+pravé ucho složené, plášť, melír
+© BODLINA, Reg.203/87, žb, 65 cm, 38 kg - chovná
+m: Jana Otmarová, Rovensko p.Troskami
+chybí P4 vlevo dole, typ E a převislé pysky,
+otevřené koutky tlamy, plášť, silný melír
+E - Faranda —- ze 7 předvedeni 4
+ATam-Kuh Labutí řeka - (ácora Faranda
+ch; Dana Kupková
+© EDA, Reg.206/87, žb, 61,5 cm, 36,5 kg - chovná
+m: Emil Semrád, Humpolec
+chybí Pl vlevo dole, plášť, pohyb méně vydatný
+© ELA, Reg.207/87, žb, 66 cm, 36,5 kg - chovná
+m; Marcela Růžičková, Loužnice ši
+ojedinělé tečky
+© EMA, Reg.208/87, žb, 63 cm, 33 kg - chovná
+ms: Alex Pormáček, Ostrov nad Ohří
+melír
+© ETNA, Reg.209/87, žb, 60 cm, 36,5 kg - chovná
+m: Miroslav Redlich, Krásná
+mírně delší, silný melír, ohraničení skvrn mizí
+G - Severní vítr —- ve vrhu 1 štěně
+Atlas Studená-Javořice - Alka PRaranda
+ch: Vít Švancara
+© GIVETTA, Reg.159/86, žb, 60 cm, 39 kg - chovná
+m: Jaroslav Čumpelík, Kunčice nad Labem
+chybí P3 vlevo nahoře, plášť, silný melír, ohraničení
+skvrn mizí
+ch: Vít Švanoara
+ď DRY, Reg.219/87, čb, 62 cm, 36 kg - chovný
+m: Jan Chlum, Vrchlabí
+mírně delší, rozbíhavý postoj pánevních končetin, plášt,
+ojedinělé tečky

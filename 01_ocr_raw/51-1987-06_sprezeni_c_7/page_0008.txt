@@ -1,49 +1,73 @@
-# ZDROJ: Spřežení č. 7, rok 1987, strana nezjištěna
+# ZDROJ: Spřežení č. 7, rok 1987, s. 6
 # SOUBOR: 51-1987-06_sprezeni_c_7.pdf
 # PDF_STRANA: 8
-# TISTENA_STRANA: nezjištěna
-# OCR: tesseract-5.3.4 / ces / conf 41.6
+# TISTENA_STRANA: 6
+# OCR: vision (AI dočtení, tesseract conf pod prahem); strana otočená tabulka na šířku "Přehled vrhů ČHP v r. 1986" (1. část, krycí listy 42-53), sloupce: krycí list č. / datum narození / chovná stanice / majitel feny / generace po feně / rodiče / štěňata narozeno-živá-mrtvá-úhyn-utraceno (pes/fena) / ideál. zbarvení / přihl. k zápisu / průměrná hmotnost živě narozených štěňat / věk v týdnech-průměr v kg / poznámka
 ---
-1986
-Přehled vrhá pani P
-mt EN ks 3 3
-EEA IKNÉ NA
-ME HPE: dd
-| pl) Ň 5
-UE n dal.
-Ssálskěj“ RUR hsšl
-Fis|žěsj A, (riki ře
-p ; šedi iš a 9:
-ŠxÍ v
-př otn, .
-- vě
-„št v
-M
-|
-: =
-2/
-BE
-a
-a
-ef
-2 nut k
-eu
-T žb
-žily u
-ARAGAO Kačebka F5 čb
-x
-ATACANA Stud=Javo
-P A be rt ba
-;
-E: 4
-3 váš
-i amnnnnMn
-8
-Já | 3
-M g ň
-: 3
-IB i s j
-Od s
-[ECN
-kaj
-16.07,
+Přehled vrhů ČHP v r. 1986
+
+krycí list č. 42 | dat.nar. 14.04. | chovná stanice: Labutí řeka | majitel feny: Jaroslav Říha, Kamenice n.L. | generace po ♀: F6/F4
+  rodiče: ARAGAC Kačabka F5 čb x ATACAMA Stud-Jav. F3 žb
+  štěňata: narozeno 3/6, živá 2/6, mrtvá 1/0, úhyn -, utraceno 0/2, ideál.zbarv. 1/2, přihl.k zápisu 2/4
+  průměrná hmotnost živě nar.št.: 576g; věk v týdnech/průměr v kg: neuveden
+  poznámka: vynikající vrh - početný, životaschopný, nadprůměrná porodní hmotnost
+
+krycí list č. 43 | dat.nar. 23.04. | chovná stanice: Vlažinka | majitel feny: Petr Elster, Dačice | generace po ♀: F3
+  rodiče: ALAM-KUH Lab.řeka F5 žb x FORTUNA T-K F2 čb
+  štěňata: narozeno 4/4, živá 4/3, mrtvá 0/1, úhyn 4/3, utraceno -, ideál.zbarv. 2/4, přihl.k zápisu -
+  průměrná hmotnost živě nar.št.: neuvedena; věk v týdnech/průměr v kg: -
+  poznámka: neúspěšný vrh, št.uhynula, dobře zbarvena, 3x zarostlý konečník, porod.váhy chov.neuvedl
+
+krycí list č. 44 | dat.nar. 16.07. | chovná stanice: - | majitel feny: Milan Kuno, Těmice | generace po ♀: F4
+  rodiče: EIGER T-K F3 žb x AFRÉ Luž.hvozd čb
+  štěňata: narozeno 1/-, živá -, mrtvá -, úhyn -, utraceno -, ideál.zbarv. -, přihl.k zápisu -
+  průměrná hmotnost živě nar.št.: neuvedena; věk v týdnech/průměr v kg: -
+  poznámka: narodil se pouze 1 pes - celý bílý
+
+krycí list č. 45 | dat.nar. 06.07. | chovná stanice: Patnáctý poledník | majitel feny: Ota Křinecký, J.Hradec | generace po ♀: F6/F4
+  rodiče: AALBORG Lab.řeka F5 čb x BALTRA Stud-Jav. F3 čb
+  štěňata: narozeno 5/5, živá 3/4, mrtvá 2/1, úhyn -/1, utraceno 1/1, ideál.zbarv. 0/2, přihl.k zápisu 1/2
+  průměrná hmotnost živě nar.št.: 421g; věk v týdnech/průměr v kg: 6/5,50
+  poznámka: těžký porod, velký poč.št., ale odchov. 3, skus v 6-8týdnech nekontrolován
+
+krycí list č. 46 | dat.nar. 02.06. | chovná stanice: Už jedou | majitel feny: Eva Loučková, Královice | generace po ♀: F6/F4
+  rodiče: ALAM-KUH Lab.řeka F5 žb x CABINA Faranda F4 žb
+  štěňata: narozeno 4/5, živá 4/5, mrtvá -, úhyn -/2, utraceno -/2, ideál.zbarv. 2/1, přihl.k zápisu 4/1
+  průměrná hmotnost živě nar.št.: 542g; věk v týdnech/průměr v kg: 6/5,79
+  poznámka: početný vrh, nadprůměr.porod.hmot, št.většinou pláštová, v 6 týdnech bez vady
+
+krycí list č. 47 | dat.nar. 09.08. | chovná stanice: Hradecký lev | majitel feny: Hynek Lang, Hr.Králové | generace po ♀: F6/F5
+  rodiče: AALBORG Lab.řeka F5 čb x ARACAJŮ Kačabka F5 žb
+  štěňata: narozeno 2/6, živá 2/6, mrtvá -, úhyn 1/-, utraceno -/1, ideál.zbarv. 1/3, přihl.k zápisu 1/5
+  průměrná hmotnost živě nar.št.: 415g; věk v týdnech/průměr v kg: 6,5/5,26
+  poznámka: vynikající vrh, početný, nižší porod.hmot, v 6týdnech bez vady, bílá naprosto čistá
+
+krycí list č. 48 | dat.nar. 21.06. | chovná stanice: Bačova koliba | majitel feny: František Géci, Čeladice | generace po ♀: F5/F4
+  rodiče: BACK Lužický hvozd F3 čb x AHESSY Bač.koliba F4 čb
+  štěňata: narozeno 2/1, živá 2/1, mrtvá -, úhyn -, utraceno -, ideál.zbarv. 2/1, přihl.k zápisu 2/1
+  průměrná hmotnost živě nar.št.: 470g; věk v týdnech/průměr v kg: 6/4,65
+  poznámka: málopočetný vrh, št.životaschop. a ideál.zbarv, v 6týdnech bez vady
+
+krycí list č. 50 | dat.nar. 29.05. | chovná stanice: Podcesný mlýn | majitel feny: Josef Cvrček, M.Pěčín | generace po ♀: F5/F3
+  rodiče: BERRIO Vlažinka F4 čb x DOMBAJ T-K F2 žb
+  štěňata: narozeno 5/5, živá 5/5, mrtvá -, úhyn -, utraceno 1/1, ideál.zbarv. 4/3, přihl.k zápisu 4/4
+  průměrná hmotnost živě nar.št.: 480g; věk v týdnech/průměr v kg: 8/5,63
+  poznámka: vynikající vrh, 8! odchov.št. žádný úhyn, téměř všechna ideál.zbarv, 1x předkus
+
+krycí list č. 51 | dat.nar. 29.06. | chovná stanice: Zbloudilec | majitel feny: Miroslav Holeček, Police n.Met. | generace po ♀: F6/F4
+  rodiče: ALAM-KUH Lab.řeka F5 žb x BREVENT Vlažinka F4 čb
+  štěňata: narozeno 6/4, živá 5/3, mrtvá 1/1, úhyn 1/1, utraceno -/2, ideál.zbarv. 3/1, přihl.k zápisu 4/0
+  průměrná hmotnost živě nar.št.: 415g; věk v týdnech/průměr v kg: 8/7,15
+  poznámka: z hlediska porod.váhy značně nevyrovnaný vrh, 2x zarostlý konečník, 1x část.růžový nos
+
+krycí list č. 52 | dat.nar. 25.09. | chovná stanice: Zděřina | majitel feny: Josef Zmátlo, Police n.Met. | generace po ♀: F6/F5
+  rodiče: AKSAS od Jank.kop. F4 žb x ARCONA Kačabka F5 čb
+  štěňata: narozeno 3/7, živá 3/6, mrtvá -/1, úhyn -, utraceno -/2, ideál.zbarv. 3/5, přihl.k zápisu 3/4
+  průměrná hmotnost živě nar.št.: 493g; věk v týdnech/průměr v kg: 7/6,61
+  poznámka: vynik.vrh, početný, životasch, porod.hmot.vyšší, ideál.zbarv, 1x modré oko, 2 utrac - nadpoč.
+
+krycí list č. 53 | dat.nar. 08.10. | chovná stanice: od Jankova kopce | majitel feny: Jan Chlum, Vrchlabí | generace po ♀: F6/F3
+  rodiče: AALBORG Lab.řeka F5 čb x FURKA T-K F2 čb
+  štěňata: narozeno 3/1, živá 2/1, mrtvá 1/-, úhyn -, utraceno -, ideál.zbarv. 1/0, přihl.k zápisu 2/1
+  průměrná hmotnost živě nar.št.: 537g; věk v týdnech/průměr v kg: 6/6,00
+  poznámka: těžký opožděný porod, menší počet štěňat nadprůměrné hmotnosti

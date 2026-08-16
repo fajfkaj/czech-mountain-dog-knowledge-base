@@ -1,0 +1,56 @@
+# ZDROJ: Spřežení č. 33, rok 1996, strana nezjištěna
+# SOUBOR: 80-1996-01_sprezeni_c_33.pdf
+# PDF_STRANA: 30
+# TISTENA_STRANA: nezjištěna
+# OCR: tesseract-5.3.4 / ces / conf 88.3
+---
+. =
+Nejúspěšnější závodníci českého skijUringcu
+Přehled úspěšnosti je vypracován na základě bodového ohodnocení
+umístění závodníků v jednotlivých závodech konaných v letech 1985
+až 1996,
+Pechek Vladimír /9/ 136 bodů "ČHP"Adíd
+Burda František /5/ 199 ČHP Bering Zímní sen
+Kůrka Václav /6/ 97 ČHP Ciran Faranda
+Procházka Vít /5/ 93 ČHP Elza Už jedou
+Hanzlík Petr /8/ 90 ČHP Aalborg Labutí řeka
+Kobr Ivan /6/ 82 ČHP Canek Třeboň-Koneček
+Kyncl Martin /8/ 75 ČHP Bard Netolické obora
+Beneš Dalibor /V 15 ČHP Art Peřeje
+Žák Milan /5/ 69 SH Black
+Flster Petr /5/ 59 ČHP Albion Vlažínka
+Horák Jan [34 58 SH Čibí
+Emíchel Jíří /3/ 55 ČHP Aksas od Jankova kopce
+Šanovec Vít /6/ 54 ČHP Adirondak Stráž n, Než.
+Nekvinda Alexandr. /3/ 53 SH A-Nyang Wellův dům
+Kobr Pavel /4/ 50 ČHP Artison Severní vítr
+Psi: Adid - 100 bodů, Círan - 97, Aalborg - 75, Bard - 75
+Feny: Elza - 66 bodů, Baara Pradědóva louka /Burda/ - 59, BO
+Mikyna /Procházka/ - 44
+Bodování: "závody sezóny“ /Zadov, Harrachov, Vysoké 92, Jánské
+Lázně 93, Nové, Město, 96/: 15, 14, 13 až 1
+významné závody /Pec, Sv.Kateřina, Vysoké 89, Tři studně,
+Komáří Vížka, Jánské Lázně 92, Jizerka,
+Vrchlabí 95, Děčínský Sněžník 96, Přebuz 96/
+10, 9, 8 ež 1 bod
+ostatní závody: 5, 4, 3, 2 a l bod
+Hodnocení: každému závodníkovi jsou započítány dva nejvyšší bodové
+zisky z každé zimní sezony
+U každého závodníka je v přehledu uvedeno jméno psa, se kterým
+získal nejvíce bodů. Bodování a hodnocení psů a fen je stejné jako
+u závodníků. ČHP = český horský pes, SH = siberian husky, BO = bel-
+gický ovčák,
+Číselný nvně, v závorce za jménem udává počet zimních sezon, ve kte-
+rých závodník startoval ve skijUringu.
+Účast v závodech: © 27x © Burda František
+20x Horák Jan
+19x | Kyncl Martin
+168x Procházka Vít
+17x  Pechek Vladimír, Horéková Renata
+léx © Říha Jaroslav
+15x Loučka Radko
+13x Hanzlík Petr, Beneš Dalibor
+l2x Pechek Pavel
+llx Kůrka Václav
+10x Elster Petr
+Zpracováno k 4. 3. 1996

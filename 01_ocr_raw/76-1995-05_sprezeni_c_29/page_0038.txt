@@ -1,0 +1,172 @@
+# ZDROJ: Spřežení č. 29, rok 1995, strana nezjištěna
+# SOUBOR: 76-1995-05_sprezeni_c_29.pdf
+# PDF_STRANA: 38
+# TISTENA_STRANA: nezjištěna
+# OCR: tesseract-5.3.4 / ces / conf 88.3
+---
+měřeného počlu psů a fen
+v chovu je tedy vhodné řídit
+tak, aby nedocházelo k nežá-
+doucim a nechléným zůže-
+nim chovalelsky účinné chov-
+né základny.
+Dva konkrétní
+příklady vlivu
+stupně
+příbuzenské
+plemenitby na
+efektivní velikost
+populace
+1. Bernský proc Sa
+Chovatelská oblast - Švýcar-
+sko, chovatelský rok 1992
+V rámci své disertace zjistila
+Barbara Meyerová (1990)
+v populaci ve Švýcarsku prů-
+měrný koeficient příbuznosti
+12,7%.
+Tato vysoká hodnota odpoví-
+dá párování polovičních sou-
+rozenců a omezuje skuteč-
+nou efektivní velikost popula-
+ce ještě vice, než jednostran-
+né nasazení vynikajících psů
+(viz tab. 1).
+Stupeň příbuzenské pleme-
+nitby 12,7% odpovídá ztrátě
+genů v objemu zhruba 1/8.
+To znamená, že od propoči-
+taného předběžnho výsledku
+(ePy4) v tabulce 1 musime
+odečist 12,7 % nebo přibližně
+1/8
+Předběžný výsledek podle
+tabulky 1
+(výpočet eP+4 s ohledem na
+četnost využití jednotlivých
+krycích psů v chovu)
+ePy4 = 80 mínus 12,7 *% =
+zhruba 70
+nebo
+eP+4 = 80 minus přibližně 1/8
+= zhruba 70
+Koeficient příbuzenské ple-
+menitby vyjadřuje podíl geno-
+vých lokusů, které se staly
+homozygotnimi. V tomto pří-
+padě to znamená, že genetic-
+ká různorodost je omezena
+o 12,7 % neboli zhruba o 1/8.
+V daném vzorci již nemůže-
+me počítat s koeficientem 4,
+ale jen S koeficientem 4 - 1/8
+5
+Ne (eP) „4NMNI 4x27 Rx 145H
+Nm FNE" 27R+145H
+Výsledek po 1. kroku korekce: ře-
+s ohledem na různý podíl krycích psů ný
+na celkovém počtu produkovaných
+dostaneme vý
+populace o hodnotě pouze
+štěňat
+Rozdíl mezi skutečnou efektivní velikostí populace
+a (teoreticky) dosažitelnou efektivní velikostí populace
+dosahuje ve výše
+uvedeném příkladu hodnoty 21 (91-70).
+Řečeno jinak: chovatelský potenciál je podle přesného
+výpočtu o calých 23 % nižší.
+Souhm: s ohledem na danou
+skutečnost - 1. různý podil
+krycích psů na chovu a 2. stu-
+peň příbuzenské plemenitby -
+byla definitivní korigovaná
+a timto i skutečně elektivní
+velikosi populace bemského
+salašnického psa ve Švýcar-
+sku v roce 1992: ePy4 = 70.
+Vidíme, že jde o mimořádné
+omezení.
+Chovatelská kniha DCBT
+e.V., chovatelský rok 1992
+Hermann FůfBer spočítal za
+pomoci výpočetní techniky
+koeficienty příbuzenské ple-
+menitby za období zhruba
+100 let. 33% přibuzenské ple-
+menitby, které zjistil, tvoří zá-
+klad pro definitivní výpočet
+skutečné efektivní velikosti
+populace.
+Předběžný výsledek odpoví-
+dá tabulce 2:
+ePyy = 67,82
+Skutečná hodnota eP, je po
+zohlednění stupně příbuznos-
+ti:
+ePt = 67,82 - 33 % = 67,82 -
+22,38 = 45,44
+Mnoho nezbývá.
+Souhrnný přehled (čísla jsou
+zaokrouhlena):
+ePe=73
+ePti = 68
+ePt =45
+Výsledek: skutečné poměry
+v populaci v chovatělském ro-
+ce 1992 odpovídají ePt = 45 -
+po srovnání s možnou (teore-
+tickou) efektivní populací, vy-
+počítanou podle základního
+vzorce, která dosahuje hod-
+Štěstí a naděje
+noty ePe = 79, je a 43 nižší,
+To je jen o něco vic, než po-
+lovina původní hodnoty,
+Jak velká
+by měla být
+chovatelsky
+účinná
+populace ?
+V literatuře se pro populaci
+v chovu používaných zvířat
+pokládá za dlouhodobě do-
+stačující hodnotu efektivní po-
+pulace podkládá eP zhruba
+rovná 100 (Beuing). S tako-
+vým genetickým potenciálem
+by byla dlouhodobě zajištěna
+budoucnost plemene. Jako
+mez pro velikost stupně při-
+buzenské plemenitby, která
+se nesmí překročit, se dnes
+udává hodnota zhruba 6 %,
+čož v uvědené souvislosti ra-
+ději nebudeme komentovat,
+Srovnání s hodnotami u obou
+plemen
+1. Efektivní velikosti populace
+jsou velmi podstatně nižší,
+než doporučovaná hodnota
+100.
+2. Stupeň příbuznosti je
+u obou populací podstatně
+vyšší, než 6%.
+Tato dvě fakta sama o sobě
+ukazují, jak je důležité
+zaobírat se | důkladně
+záležitostmi | chovateisky
+účinné populace a v rámci
+chovu podniknout příslušná
+opatření, nutná k uchování
+zdravého plemene.
+Automatický
+nárůst
+příbuzenské
+plemenitby
+v populaci
+V uzavřené populaci dochází
+- nezávisle na chovatelském
+ovlivňování stavu plemeneé -
+nutné k jistému druhu příbu-
+zenské plemenitby, kterému
+nelze zabránit. Důvodem je,

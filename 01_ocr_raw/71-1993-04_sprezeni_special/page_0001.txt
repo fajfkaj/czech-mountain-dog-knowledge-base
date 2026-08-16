@@ -1,0 +1,15 @@
+# ZDROJ: Spřežení č. zvláštní (1993-04), rok 1993, strana nezjištěna
+# SOUBOR: 71-1993-04_sprezeni_special.pdf
+# PDF_STRANA: 1
+# TISTENA_STRANA: nezjištěna
+# OCR: tesseract-5.3.4 / ces / conf 81.9
+---
+== P- od
+SPŘEŽENÍ
+Klub českého horského psa
+SPECIÁL -
+MÁME DOMA ŠTĚNĚ
+VÝSTAVY. (CHOV
+GENETIKA
+STANDARD
+Z HISTORIE ČHP

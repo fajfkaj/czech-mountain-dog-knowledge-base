@@ -1,0 +1,7 @@
+# ZDROJ: Spřežení č. 44, rok 2001, strana nezjištěna
+# SOUBOR: 91-2001_sprezeni_c_44.pdf
+# PDF_STRANA: 2
+# TISTENA_STRANA: nezjištěna
+# OCR: tesseract-5.3.4 / ces / conf 41.0
+---
+o

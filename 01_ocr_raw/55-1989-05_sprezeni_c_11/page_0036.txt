@@ -1,0 +1,118 @@
+# ZDROJ: Spřežení č. 11, rok 1989, strana nezjištěna
+# SOUBOR: 55-1989-05_sprezeni_c_11.pdf
+# PDF_STRANA: 36
+# TISTENA_STRANA: nezjištěna
+# OCR: tesseract-5.3.4 / ces / conf 34.4
+---
+U1:po:T HS
+LT:L6
+potts
+Lo:cg
+vS:a6
+Sa:26
+0:26
+20:9+
+90:1y
+va*t+
+8S:ch
+Se:6£
+8t:ot:T
+SS*00:T
+ST:69 Wy
+00:6%
+bo:8g
+92+LS
+69:96
+OT*2S
+py:TS
+ST:TS
+SO:TS
+8t'8ř
+T2:84
+ASA: 14
+62:Ly WHY
+90:Ly
+£S:94
+12:94
+9y:G+
+9£:p+
+BS:zt
+K
+64:0b
+oyte£
+x
+T + dHg £ H9TAPTO Wdny *ZT
+dH9 % IH X9gD3 *TT
+dH9 + OAPSH VADNOT *OL
+dH9 + wep mMTYD *6
+dH9 £ xowán ZueT *9
+dH9 + wep Jedyvy *L
+dH9 £ wep JI *9
+dH9 + $os0p Jeudey *G
+ES % $w9y domzsvy *y
+HS 9 Nogrywe gfoToG *£
+HS % ATUFPETA Nez9C *Z
+HS S AvTsoxep ujmoy *T
+u VT 4 Op05030y - pmezejds
+HS £ 1exs10,Jy?usp pz
+dHg £ A8TSodpy UoTIPOH *CZ
+č + dHo T FAFC vzrdA "ZZ
+WV £ ABTO$A 830x "TZ
+dH9 £ Jos0r jeuzaTIN *0Z
+dH9 2 Joso( xef9381. *6T
+ny £ A9STIWE4J UBTUD "AT
+HY £ XA2u9pz JpT0X *LT
+Wy £ AgU9PZ A9ZeP *9T
+HS £ Trunyog ardey *ST
+XY £ JTUupP8TA XPZ0 "PT
+dH9 Z 4494 ApizweH *CT
+WV Z upydew edry *2T
+dHg £ A8T0YA ©4 "IT
+T+HSC 4494 X927T593S "OT
+M £ 40304 fA8a0xz01Y +6
+my £ xeaey swnr *8
+dH9 £ T9ABS Ja0Y *L
+HS £ T9aBg JeJTeJa 9
+dH9 Z ZTUTPUTA X9uo94 *C
+dH9 £ IS Teuorar *+
+HS £ Terey xsTang *£
+HS £ JTopny $xazeaTex *Z
+HS £ Jjesofr s590N *T
+dHý
+gouoyry z o8ry ZH9
+BABTSOJTA RAOXING
+BU9IT PAOXTYSIUH
+Lp:po:T *potod fj0yuzed Blgwy ZHO | PUSTOH PAODIBAS OT
+£2:po:T epuere VUTGBY AHO BAT BAONONOT "6
+Ty:66 dH) | BIvueg pAopeTU) *8
+L2:pG NOT SAOP2PVIT JBJOPY AH) | BTABA BAOXUYdSYS "L
+Ly:zg xozod Zapoj 93Tv dH) | VUeTY PAOXTUIEC *9
+LO:6y ufTU 4usoopog exfy dHý vutTy paoyroupz *G
+60:94 spwerej €W3T JH) | PTTUPNT PAOXPOT +4
+TE:*TY nopof zn 904+Y dH9 BTFNoJgog paodesTi *£
+£z:0v VUT42PZ SAfY dH) FUTAOJVY PAOSIPUY "Z
+VS:6£ ANT UOÁXSIT9JH PO MOXTY JH) | MIPS PaoTOYOTEA "T
+W OT - Jwěz - sed v jezN
+8C:Gz:T HS xoTex gnueH *YG
+62:pT:T Ni9a08 €JZgy RXESPIY HS  JopmexeTy JeTTey (G
+82: CT:T dH9 ABTSOIBP BYTE *2G
+6£:80:T HS A9STYNUJI XOTIPBS *TG
+£S:L0:T spuere Uf9T dH9 YOTAPTO Widny *0G
+64:L0:T —A4g7sS 9% XFEI HS JSFO Smygoaoj "64
+ST:L0:T vuT3TA 4H9 geTy xedpxoda *8b
+82:90:T HS dy0d JPA2PA "LY
+ZZ:yO:T | AST $A09P8IH SU9Y1V dH9 zosop xefsgex *94
+Sy:CO:T dH9 wep oeaoweS *S+
+ca:£o:T wuT4sPZ JÁssy dH9 J0gpTeG soueg pb
+02:00:T XFUz9u9 sNxedy JH) | ABTSOJTN UOTIPOH *C+
+9T:00:T. UfTU fusoopog souzy dH) wear fugeuoy *Z4
+G0:00:T 437A judeaeg TT9A dH9 J950( neHBATIM ITW
+S4:66 XTUZEUS ASPY dHJ TeJBY XBOT +04
+£0:66 v X2uopz xezer *6C
+LS:LS ©419z puse( BXY dHO Tea84 XI2TA "8
+pT:LS vpusre XÁABY JH) ABTSOJTA XOTČOOK LE
+Ly:9G Uyg828y oEŽsy TJH9 uef JITX *9£
+Ty:9g Á40y1 07 TU3V dH) | ABTSOrep $upouoy *GE
+62:96 dH) ABISOIT ASSPTOXTR "PE
+TTt9G YOTTEH VU BTSXY HO d394 zdeJTeS *CE
+<o:9g BAXTTY UTSJBA KV TeJBy UoBGOPJY "ZE

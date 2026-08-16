@@ -1,0 +1,53 @@
+# ZDROJ: Spřežení č. 9, rok 1988, strana nezjištěna
+# SOUBOR: 53-1988-04_sprezeni_c_9.pdf
+# PDF_STRANA: 13
+# TISTENA_STRANA: nezjištěna
+# OCR: tesseract-5.3.4 / ces / conf 88.7
+---
+Hodnocení některých položek:
+RÁMEC 110-0 =- správný = délka / výška 10 : 9,1 až 9,9
+-1 - kvadratický, krátký 10 : 10 a více
+-2 = mírně delší 10 : 9
+=3 -= dlouhý 10 : 8,9 a méně
+HLAVA 11=3 — krátký nos = délka nosu / délka hlavy l: 2,41 a více
+-5 = široká lebka = délka — šířka mozkovny 0
+Vyřazující vady:
+02-1 + kryptorchid
+03=4 + u psů chybí 2 a více zubů
+u fen chybí 3 a více zubů
+04=4 + podkus
+=5 + předkus
+063 + atypický :
+21-3 + souvislý plášť
+"4 + na těle znaky chybí
+=5 + obě oči nejsou ve skvrně
+Pokud má jedinec některou z těchto vad, je vždy nechovný.
+Hrubé vady:
+hmotnost psů nad 45 kg
+fen nad 40 kg
+03 -= u psů chybí 1 zub
+u fen chybí 2 zuby
+04=2 + skus nepravidelný
+-3 + klešťový skus
+091 + menší než standard
+=2 + větší než stendard
+l2-2 + avětlé oko - dravčí
+14-4 + pigment na čenichu z větší části chybí
+19=5 + kravský postoj
+23-38 + srst silně zkadeřena
+26=4 + agresivní k lidem
+Každá z těchto hrubých vad může mít za následek nezařazení jedince do chovu.
+V případě výskytu jedné hrubé vady je možné podle rozhodnutí bonitační komise po=
+volit jeden zkušební vrh nebo krytí, pokud se po ostatních stránkách jedná o vyni=-
+kajícího jedince. (Případný další vrh nebo krytí je možno povolit až po vyhodnoce=
+ní vrhu - tje po předvedení potomků na klubové výstavě nebo bonitaci.)
+Chovnost se označuje slovem „chovný“ - kód 290
+nebo „nechovný"“ = kod 29=1
+Povolení jednoho vrhu nebo krytí se vypíše slovy pod vyjádření chovný.
+Bonitační poplatek činí pro členy klubu 20,- Kčs, pro nečleny 50,- Kčs. Pokud je
+bonitovaný jedinec ohodnocen jako nechovný, bonitační poplatek se vrací.
+V případě, že bonitovaný jedinec je neovladatelný a nelze ho změřit, zvážit nebo
+prohlédnout zuby, bude mu bonitace odložena na další klubem vyhlášený termín. Bo-
+nitační poplatek se v tomto případě nevrací,
+Znovu opakuji, že tyto bonitační směrnice platí od 1.1.88 , tzn. že se nevztahují
+na jedince, bonitované před tímto datem !!!

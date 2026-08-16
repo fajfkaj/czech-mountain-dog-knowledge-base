@@ -1,0 +1,64 @@
+# ZDROJ: Spřežení č. 34, rok 1996, strana nezjištěna
+# SOUBOR: 81-1996-12_sprezeni_c_34.pdf
+# PDF_STRANA: 15
+# TISTENA_STRANA: nezjištěna
+# OCR: tesseract-5.3.4 / ces / conf 87.4
+---
+- 13-
+ALF z Podkrkonošské samoty, Reg.295/88, čb, 65,5cm, 12.1, 21.2, 22.3, 26.1, výborný
+Aklavik Labutí řeka - Blacky od Jankova kopce
+Josef Hrdý, 54j 4) Lánov 3, p 0438/32241
+AMUR z Vodáckého hnizda, Reg.693/92, žb, 66cm, 19.1, 21.2
+Dar Faranda - Bessy Údolí Dahového potoka
+Stanislava Kusová, Bacháčkova 1759, 530 09 Pardubice, d 040/30322, p 040/30658
+ANDY Bublavské vodopády, Reg.498/90, žb, ?cm, 8.2, 18,1, 19.2, 24.4, velmi dobrý
+Arekus Sněžník - Alfa Zlatá trubka
+Aranka Červená, Souvlastní 45, 517 15 Zdobnice
+ANDY Jahodovka, Reg,423/89, žb, 61,5cm, 21.2, 25.1
+Alatyr ze Lhoty - Ayde Patnáctý poledník
+Karel Palička, 756 05 Karolinka 681
+ANDY od Suchého buku, Reg,821/94, žb, 63cm, 35kg, 19,6, 26.4, výborný
+Huňáč Faranda - Aika Zemanex
+Luděk Hvězda, Kryrská 30, 439 82 Vroutek, p 0399/618017
+ANDY z Údolí běsů, Reg.596/91, žb, Gicm, Plld, 5.1, 7.2, 19.1, 20.1, 21.2, 24.1
+Birt ze Lhoty - Athi ze Lhoty
+Ladislav Schejbal, V Lipách 154, 295 01 Mnichovo Eradiště, d 0329/2954
+APRÍL Havlbrod, Reg.592/91, žb, 66cm, 8.2, 13.4, 19.1, 25.2, 26.3, výborný, Res,CAC
+Dar Faranda - Cerka Už Jedou
+čdeněk Lukšík, 739 36 Sedliště 237, d 0658/8436
+ARAM z Hradního ochozu, Reg.703/93, čb, 68 cm, ---, výborný, Nár.vít,94, Klub,vít.95, 2xVít,Brna, Šamp.ČR
+Aalborg Labutí řeka - Fudži Severní vítr
+Adam Sedláček, Žárovice 68, 798 03 Plumlov, d 0508/93523
+ARBKUS Sněžník, Reg.251/88, žb, 69cm, 18.l-levý, výborný, VT
+Aalborg Labutí řeka - Borka Faranda
+Miroslav Redlich, 351 22 Krásná 255, p 0166/926-401, d sestra 925-692
+ARG) z Krkonoš, Reg.238/87, žb, $4,5cm, Plld, 3.1, 5.1, 6.1, 11.1, 23.8
+Ganek Třeboň-Kopeček - Alina z Milety
+Irena Maršálková, Valteřice 174, 512 36 Horní Branná
+ARIX Blanský les, Reg.266/88, čb, 64,5cm, 2xP4d, 3.3, 13,4, 22,2- jediný pes bez krve bernardýna !, výborný
+Biger Třeboň-Kopeček - Axa z Vlažinky
+Miroslav Kajan, 3řilice 175, 379 01 Třeboň, p 0333/2766, 2767
+ARKO Sněhová závěj, Reg.580/91, čb, 6lem, 22.1
+Adirondak Stráž nad Nežárkou - Fany Faranda
+Marta Štiková, V Luhu 604, 252 29 Dobřichovice, d 20/991-1313
+ARNI na Loupežníku, Reg,456/90, žb, 6jcm, 13.1, 19.3, 21.2, 22,4
+Areku Sněžník - štna Faranda
+Šárka Fetterová, Pivovarská 659, 552 0 Česká Skalice, d 0441/52473
+ARON od Suchého buku, Reg.822/34, žb, 67cm, 45kg, Piph, 8.2, 19.1, 26.3, výborný
+Huňáč Paranda - Alka Zemanex
+Alena Horváthová, ilatá 9, 466 02 Jablonec nad Nisou, d 0428/24518
+ARON Psí půle, Reg.641/92, čb, 6Bcm, 19.1, 21.2, 22.3, velmi dobrý
+Adirondak Stráž nad Nežárkou - Elza Už jedou
+Jiří Kořínek, Kamenická 1, 170 00 Praha 7, d 02/377-594; adr.psa: J.Kořínek, 582 33 Dolní Město 46
+ART Zlatá trubka, Reg.312/88, čb, 63cm, 13.1, 21.2, 22.3, 26.1
+Aalborg Labutí řeka - Bessy Bačova koliba
+Vratislav Večerka, Bílý Kříž, 739 15 Staré Hamry
+ASTIX Zemanex, Reg.521/$1, žb, údem, ---
+Alan Údolí Kačáku - Bety Jasná záře
+Radomír Psota, 512 31 Rostoky u Jilemnice 312, d 0432/87236
+AŠKÝ Zlatá trubka, Reg.313/88, čb, 57cm, Pllh, 9,1, 6.1, 11.3, 15.1, 18.3, 22. 2, výborný
+Aalborg Labutí řeka « Bessy Bačova koliba
+Radovan Svoboda, Dukelských hrdinů 814, 362 51 Jáchymov, d 9164/911-394, p 9131 (kuchyň)
+ATAX z Hradního ochozu, Reg.704/53, čb, 6fcm, 21.2, výborný, CAC
+halborg Labutí řeka - Fudži Severní vítr ,
+Petr Hanzlík, Smetanova 648, 378 21 Kardašova Rečice

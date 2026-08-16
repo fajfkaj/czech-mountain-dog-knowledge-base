@@ -1,0 +1,30 @@
+# ZDROJ: Spřežení č. 31, rok 1995, strana nezjištěna
+# SOUBOR: 78-1995-09_sprezeni_c_31.pdf
+# PDF_STRANA: 24
+# TISTENA_STRANA: nezjištěna
+# OCR: tesseract-5.3.4 / ces / conf 92.6
+---
+- 22 =
+Aplikace a dávkování:
+Ecovit pro psy je aplikován perorálně v dávce | g Ecovitu na 10 kg živé hmotnosti.
+Připravek je možné podávat přímo na kořen jazyka nebo prostřednictvím krmiva,
+případně i v nápoji W období mimořádné fyzické zátěže psů, stresů a
+rekonvalescence je doporučeno uvedené dávkování krátkodobě(5 - 7 dnů) zvýšit
+na dvojnásobek.
+Stabilita a skladování:
+Ecovit pro psy vyžaduje skladování v suchu a chladu (nejlépe v chladničce) při
+teplotách do +15"C. Při dodržení těchto podmínek je Ecovit stabilní 12 měsíců od data
+výroby.
+Ecovit pro psy ad usum veterinarium neobsahuje žádné cizorodé látky a při jeho
+podávání nehrozí nebezpečí z předávkování. Použití Ecovitu pro psy nesnižuje
+účinky léčebně podávaných antibiotik či chemoterapeutik.
+Balení:
+Ecovit pro psy je výrobcem distribuován v následujícím balení:
+- alufanový sáček 100 g a 250 g
+- papirový pytel 5 kg
+Výroba a distribuce:
+Medipharm CZ s.r.o.
+Box 28
+693 01 Hustopeče u Brna
+tel.: 0626 / 411150, 411189
+fax: 0626 / 411432

@@ -1,0 +1,47 @@
+# ZDROJ: Spřežení č. 33, rok 1996, strana nezjištěna
+# SOUBOR: 80-1996-01_sprezeni_c_33.pdf
+# PDF_STRANA: 24
+# TISTENA_STRANA: nezjištěna
+# OCR: tesseract-5.3.4 / ces / conf 84.5
+---
+- 22 =
+Zařazené pohárové závody jsdu rozděleny do tří skupin.
+Vítěz zévodu 1. třídy /otevšené mistrovství republiky/ získává
+2303 bodů, 2. třídy 1500 bodů a 3. třídy 10)) bodů.
+Dslším zévodníkům v pořadí se odečíté jeden cod za každou vteřinu
+ztráty na vítěze,
+Každému závodníkovi se da celkového součtu započítávají tři nej-
+vyšší bodové zisky.
+Přehled závodů:
+A 9.-10, 12. 95 Komáří Vížka /2/
+3 29.-39. 12. 95 Vrchlabí /2/
+Č 293.-21. 1. 9 Xomáří Vížka /2/
+D 27.-28. 1. 96 Děčínský Sněžník /[2/
+E 3.- 4. 2. 96 Nové Město na koravš /U
+F 10.-11. 2. 96 Pohořany u Olomouce [3/
+C 17.-18. 2. 96 Ondřejník [31
+H 17.-18. 2. 96 Výhledy u Doražlic /3/
+18 24.-25. 2. 96 Přebuz A
+J 2.- 3. 3. 9 Komáří Vížka /2/
+Nebodovali: Klockewicz Martin
+Kyncl Stanislav
+Montag Cerd
+Fiedler Michael
+Novék Miroslav
+Stalmach Ladislav
+Vejrostová Božena
+Hanus Bohumil
+Fousek Vít jr.
+Marek Jaroslav
+anovec Vít
+Dědič Tamáš
+Drtil J
+Šicutová Z
+Andrle J
+Kaudelka Tamáš
+Zima Jiří
+Bříza Libor
+Kapoun Vladimír
+Zima Pavel
+Pecha Libor
+Zpracoval: František Burde, Boloňská 395, 199 993 Preha 10

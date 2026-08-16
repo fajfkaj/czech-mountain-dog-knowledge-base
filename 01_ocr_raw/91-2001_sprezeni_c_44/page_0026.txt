@@ -1,0 +1,44 @@
+# ZDROJ: Spřežení č. 44, rok 2001, strana nezjištěna
+# SOUBOR: 91-2001_sprezeni_c_44.pdf
+# PDF_STRANA: 26
+# TISTENA_STRANA: nezjištěna
+# OCR: tesseract-5.3.4 / ces / conf 86.1
+---
+Termínová listina závodů 2001
+Schválená Schůzí SSPS 4.9. 1999 v Praze
+Kategorie: sprint saně
+Datum Místo Adresa pořadatelů, Telefon Výsl. Prop.
+27.- 28. 1.2001 Deštné v O. Horách Pavel Kučera, P.O.Box 35, 384 01 Volary
+0602/109 583 N A
+27.- 28.1.2001 Děčínský Sněžník Dáša Nešněrová, U křížku 28, 405 05 Děčín 20
+0603/518 907, 0412/544360, e-mail: jnesnera8volny.cz N A
+3.-4.2.2001.— Moldava v K. Horách © Marek Novák, Moldava v K. H. 142, 417 81
+0417 /878 057 N A
+3.- 4.2.2001. Rejvíz Zbyněk Diblík, Hrdinů 242, 790 55 Vidnava
+0645/435124 NN
+17.- 18.2.2001 Olšany u Rousínova Humpolíček Pavel, Myslivecká 67 / A, 620 00 Brno
+05/45220753, e-mail:ivahAecon.mini.cz NN
+24. - 25. 2.2001 Tři Studně Helena Levíčková, Samota 178, 664 45 Silůvky
+05/47226440, e-mail:levicekémushing.cz NN
+Kategorie: Mid saně
+5.-7.1.2001 | Moldava v K.H. Marek Novák, 41781, Moldava v K. H. 142, 417 81
+0417/878057 N A
+19,- 21.1.2001 Jetřebí Hory Hanuš Jaromír, Za občinou 1148, 549 41 Červený Kostelec,
+0441 /461 391, 0607/856 266 N A
+24. - 25. 1.2001 Deštné v OH. Pavel Kučera, P.O.Box 35, 384 51 Volary
+0602/109 583 N A
+24. - 26. 1.2001 Deštné jen PULKA Pavel Kučera, P.O.Box 35, 384 51 Volary
+0602/109 583 NN
+3.-4.2.2001 | Kraslice Miroslav Novák, Pod nádražím 1852, 358 01 Kraslice © N N
+10.- 11.2.2001 Eduard u Jáchymova Roman Habásko, K.H. Borovského 629, 441 01 Podbořany
+0607 /807564, 0399/215827 NA
+24. - 25. 2.2001 Zadov - družstva Petr Hanzlík, Nám. Svobody 109, 378 21, Kardašova Řečice,
+031/383054 NA
+Kategorie: Long saně
+10. - 13. 1.2001 Capartice - Výhledy A. Foistová, Ostřekov 157, 345 35
+0189/796548 NN
+24.- 27.1.2001 Deštné v OH. Pavel Kučera, P.O.Box 35, 384 51 Volary
+0602/109583 NA
+15.- 18.2.2001 Ledová jízda Jiří Vondrák, Rudník 121, 543 72 Rudník
+0438,/440524 NN
+24

@@ -1,0 +1,64 @@
+# ZDROJ: Spřežení č. 34, rok 1996, strana nezjištěna
+# SOUBOR: 81-1996-12_sprezeni_c_34.pdf
+# PDF_STRANA: 13
+# TISTENA_STRANA: nezjištěna
+# OCR: tesseract-5.3.4 / ces / conf 88.1
+---
+-= 1i -
+VON DEN BARTL-BUAM 15.09.1996 5/0
+Rudolf Klein, Hinterschlag 5, A-4162 Julbach
+REG.710/93 Can z Podkrkonošské samoty, žb, F7
+REG.497/90 Hvězda Faranda, žb, F7
+N Reg./CHP
+f£ 977 ONJA žb
+£ 978  ONKA žb
+ĎÁBELSKÁ 28.09.1996 6/0
+Pavla Ženíšková, 341 65 Strašín - Lazna 118
+REG.329/88 Alakank Pátý dráp, žb, F7
+REG.615/92 Cirta Netolická obora, čb, F7
+N Reg./CHP
+p 979  BERT čb
+-—- 03.01.1992
+Stanislav Pfeifer, Jaselská 300, 293 01 Mladá Boleslav
+P Reg./CHP
+f 980 BETTY žb
+F8
+F8
+| Seznam chovných psů
+Jméno psa, č.záplsu, zbarvení, kohoutková výška, bonitační kód - viz bonitační listy
+vlevo nahoře, 11.5 = hlava - široká lebka, apod.):
+(např.: Pllh = chybí Pl
+04 - SKUS: 0 - nůžkový, 1 - volný nůžkový, 2 - těsný nůžkový, 4 - klešťový, 4 - podkus, 5 - předkus, 6 - re-
+(5
+š
+07
+03
+09
+1
+I
+l
+Ji
+H
+l5
+lb
+l
+pravidelný
+- POHLAVNÍ VÝRAZ: 0 - odpovíčající, 1 - nevyjádřený, 2 - opačný
+- TYP: 0 - ideální, 1 - odpovídající, 2 - málo typický, 3 - atypický
+- KOSTRA: 0 - silná, pevná, 1 - hrubá, 2 - jemná, 3 - slabá
+- LEMFATIB: 0 - není, 1 - ektropium, 2 - převislé pysky, 3 - koutky tlamy otevřené, 4 - volná kůže
+- VÝŠKA: 0 - standardní - pes 62 - 70, fena 58 - 66 cm, | - menší než standard, 2 - větší než standard
+- RÁMEC: 0 - správný, 1 - kvadratický, 2 - mírně delší, ) - dlouhý
+- HLAVA: 0 - typická, 1 - lehká, 2 - těžká, hrubá, ) - krátký nos, 4 - strmý stop, 5 - široká lebka
+- 0X0: 0 - tmavé, správný tvar, velikost, umístění, 1 - světlejší, 2 - žluté-dravčí, 4 - zapadlé, 5 - en-
+troplum, 6 - otevřené
+- UCHO: 0 - standardní, 1 - krátké, 2 = dlouhé, 3 - odstávající, 4 - složené, 5 - vysoko nasazené, 6 - níz-
+ko nasazené, 7 - špatně klopené
+- PIGKENT: 0 - sytý, 1 - barva srsti u žb světlá, 2 - růžová skvrna na čenichu, 3 - čenich, pysky světlej-
+ší, 4 - na čenichu z větší části chybí
+- KRK: 0 - vysoko nasazený, středně dlouhý, 1 - krátký, 2 - nízko nasazený
+- HŘBET: 0 - rovný, pevný, | - měkký, 2 - prohnutý, 3 - bedra slabá, 4 - záď strmá, 5 - záď níž než kohou-
+- HRUDNÍK: 0 - dosahuje k lokti, 1 - mělký, 2 - příliš hluboký, 3 - úzký, 4- sudovitý, 5 - širší
+19 - HRUDNÍ KONČETINY: 0 - korektní, 1 - vybočené lokty, 2 - širší postoj, 3 - sbíhavý postoj
+19 - PÁNEVNÍ KONČETINY: 0 - korektní, l - vytočené tlapky, 2 - sbíhavá hlezna, 3 - úzký postoj, 4 - široký po-
+stoj, 5 - kravský postoj, 6 - strmé zaúhlení
