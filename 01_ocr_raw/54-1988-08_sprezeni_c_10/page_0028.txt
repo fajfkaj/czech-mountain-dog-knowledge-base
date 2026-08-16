@@ -1,35 +1,29 @@
-# ZDROJ: Spřežení č. 10, rok 1988, strana nezjištěna
+# ZDROJ: Spřežení č. 10, rok 1988, s. 26
 # SOUBOR: 54-1988-08_sprezeni_c_10.pdf
 # PDF_STRANA: 28
-# TISTENA_STRANA: nezjištěna
-# OCR: tesseract-5.3.4 / ces / conf 75.3
+# TISTENA_STRANA: 26
+# OCR: vision (AI dočtení, tesseract conf pod prahem)
 ---
-- 26 —-
+- 26 -
+
 robným vyúčtováním, pod které se podepíše hlavní pořadatel a ře-
 ditel závodu. To obratem odešlete pokladníkovi klubu ČHP:
 Jaroslav Říha, Pod vodojemem 587, 394 70 Kamenice nad Lipou
+
 Je pochopitelné, že stokorunové rozdíly uhradí eventuelně klub
 a ne pořadatel. Revizní komise však bude žádat kopii vyúčtování
 s vysvětlením. Zisk pořadatel převádí přes pokladníka na účet
 klubu.
 Z toho všeho je patrné, že pořádání závodů je náročná, zodpověd-
 ná a dobrovolná neplacená práce. Když se však věc podaří, je to
-radostný zážitek, který mnohé vynahradí, Ti z vás, kteří se roz-
-hodnou závody pořádat, prosím o důkladné zhodnocení svého před=
+radostný zážitek, který mnohé vynahradí. Ti z vás, kteří se roz-
+hodnou závody pořádat, prosím o důkladné zhodnocení svého před-
 sevzetí, protože případným nezdarem utrpí na solidnosti celý cho-
 vatelský klub ČHP. To, že začínajícím celá naše sportovní komise
 bude radou nápomocna, je samozřejmostí.
-Petr Hanzlík
-Kardašova Řečice - 7.7.88
-jee 4“ H ý
-n ") 3 "M
-Pe ad ,
-v 07
-SRÍ až ký 2 i 4 sty
-4 P > 1 S ze vÉe
-hi *
-s: dry; ze 73 BU Ar M
-fn a LM) Mac jd
-, a Sb
-; Vi Na $b: 5 pá
-foto J.Klír
+                                                     Petr Hanzlík
+                                            Kardašova Řečice - 7.7.88
+
+[fotografie: štěně ČHP ležící v trávě, detail hlavy a předních tlapek]
+
+foto J. Klír

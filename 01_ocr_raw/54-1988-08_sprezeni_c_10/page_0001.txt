@@ -2,25 +2,32 @@
 # SOUBOR: 54-1988-08_sprezeni_c_10.pdf
 # PDF_STRANA: 1
 # TISTENA_STRANA: nezjištěna
-# OCR: tesseract-5.3.4 / ces / conf 74.4
+# OCR: vision (AI dočtení, tesseract conf pod prahem); titulní strana bez tištěného čísla
 ---
-—
-jěku d Mb a dt] ČSCH
--——— - — — n o n — r em jsa -
-SPŘEŽ
+ČSCH
+
+SPŘEŽENÍ
+
 Klub chovatelů českého horského psa
-č.10 srpen 1988
-OBSA+: Výbor KCHŮHP 1
-« Bonitace + ZOP + Královice 88 2
-Litoměřice - klubová výstava 983 8
-Mezinárodní výstava v Brně 14
-seznam krycích psů 17
-Klubová výstava 89 18
-Zpráva o pušití ČHP pro účely HS 19
-Ještě pulka + Brašny 20
-Jak a kdy pořádat sportovní akce 24
-Podzimní ježdění —- terminář 27
-Bonitace v Královicích u Prahy 2.10.88 29
-Na skok do Orav.Beskyd a Fvsuo.,vrchoviny 21
-č Zápis ze schůze sportovní zomlne 34
-5 gp Termínový kalendář závod? 33,39 36
+
+č.10                                                    srpen 1988
+
+[fotografie: štěně ČHP ve stanu, na pozadí saně a lyže]
+
+OBSAH:
+Výbor KCHČHP                                            1
+Bonitace + ZOP + Královice 88                           2
+Litoměřice - klubová výstava 88                         8
+Mezinárodní výstava v Brně                              14
+Seznam krycích psů                                      17
+Klubová výstava 89                                      18
+Zpráva o použití ČHP pro účely HS                       19
+Ještě pulka + Brašny                                    20
+Jak a kdy pořádat sportovní akce                        24
+Podzimní ježdění - terminář                             27
+Bonitace v Královicích u Prahy 2.10.88                  29
+Na skok do Orav.Beskyd a Kysuc.vrchoviny                31
+Zápis ze schůze sportovní komise                        34
+Termínový kalendář závodů 88/89                         36
+
+[rukou psaná poznámka vlevo dole: "Dodatek"]

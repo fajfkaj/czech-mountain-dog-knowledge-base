@@ -1,46 +1,62 @@
-# ZDROJ: Spřežení č. 10, rok 1988, strana nezjištěna
+# ZDROJ: Spřežení č. 10, rok 1988, s. 36
 # SOUBOR: 54-1988-08_sprezeni_c_10.pdf
 # PDF_STRANA: 38
-# TISTENA_STRANA: nezjištěna
-# OCR: tesseract-5.3.4 / ces / conf 80.0
+# TISTENA_STRANA: 36
+# OCR: vision (AI dočtení, tesseract conf pod prahem)
 ---
-- 36 — s
+- 36 -
+
 prospěch pořadatele je možné pouze v případě nekonání závodů
 z důvodů neočekávaných a nezaviněných pořadatelem.
+
 ZÁVAZNÉ pro všechny pořadatele je vyhlášení výsledků v absolut-
-ním pořadí bez rozdílu plemen a zaslání výsledkové listiny pořa=
-aa všech následujících mistrovských závodů /kontrola kvali-
+ním pořadí bez rozdílu plemen a zaslání výsledkové listiny pořa-
+datelům všech následujících mistrovských závodů /kontrola kvali-
 fikace/.
-JUDr Karel Kocourek
-předseda sportovní komise
-ÚOK chovatelů psů
-V Praze dne 3.9.1988
-Termínový kalendář závodů psích spřežení
-pro sezonu 1988-89
-—— ———— —— ————— — m
-—— ——
-——————————— —— ——
-14.-15. 1.89 | Kokava KCHŮSV Marién Balaj -=
-Februárového vítčazstva 223
-987 01 Poltár
-28.-29. 1.89 Zadov KCHŮČHP Petr Hanzlík
-/ 44— 5. 2.89/ Smetanova 648
-378 21 Kardašova Řečice
-18.-19. 2.89 | Sv.Kateřina KCHČHP Petr Elster
-/jen skijoring/ 380 01 Dačice 93
-25-26. 2.89 Harrachov KCHPSP ing Jiří Krejčí
-lanová dráha
-512 46 Harrachov
+
+DÉLKY TRATÍ pro rok 1989 zůstávají na uvážení pořadatele závodů.
+
+                                                    JUDr Karel Kocourek
+                                                    předseda sportovní komise
+V Praze dne 3.9.1988                                ÚOK chovatelů psů
+
+
+                Termínový kalendář závodů psích spřežení
+                            pro sezonu 1988-89
+
+
+Mistrovské závody
+
+14.-15. 1.89   Kokava                      KCHČSV   Marián Balaj
+                                                     Februárového víťazstva 223
+                                                     987 01 Poltár
+
+28.-29. 1.89   Zadov                       KCHČHP   Petr Hanzlík
+ / 4.- 5. 2.89/                                      Smetanova 648
+                                                     378 21 Kardašova Řečice
+
+18.-19. 2.89   Sv.Kateřina                 KCHČHP   Petr Elster
+               /jen skijöring/                       380 01 Dačice 93
+
+25.-26. 2.89   Harrachov                   KCHPSP   ing Jiří Krejčí
+                                                     lanová dráha
+                                                     512 46 Harrachov
+
+
 Kvalifikace
-7,- 8. 1.89 Kunčice p.Ondř. KOHPSP Přemysl Škuta
-14.-15. 1.89 | N.Město n.Mor. KCHPSP Petr Šteflíček
-21.-22. 1.89. Moldava KCHPSP František Topinka
-28.-29. 1.89 Lopeník KCHPSP René Kastner
-40- 5. 2.89 | Trenčín KCHŮSVY Marián Balaj
-11.-12. 2.89 Bedřichov KCHPSP Dr Ivan Brabec
-16.-19. 2.89 | SvKateřina KCHŮHP Petr Elster
-40— 5. 3.89 Martin KCHŮSV Marián Balaj
-přejezdy
-7.- 9.10.886 | Český Ráj EGHŮHP Dobra Fišerová
-Doubravice 120
-512 62 Sedmihorky
+
+ 7.- 8. 1.89   Kunčice p.Ondř.             KCHPSP   Přemysl Škuta
+14.-15. 1.89   N.Město n.Mor.              KCHPSP   Petr Šteflíček
+21.-22. 1.89   Moldava                     KCHPSP   František Topinka
+28.-29. 1.89   Lopeník                     KCHPSP   René Kastner
+ 4.- 5. 2.89   Trenčín                     KCHČSV   Marián Balaj
+11.-12. 2.89   Bedřichov                   KCHPSP   Dr Ivan Brabec
+18.-19. 2.89   SvKateřina                  KCHČHP   Petr Elster
+ 4.- 5. 3.89   Martin                      KCHČSV   Marián Balaj
+
+
+Přejezdy
+
+ 7.- 9.10.88   Český Ráj                   KCHČHP   Dobra Fišerová
+                                                     Doubravice 120
+                                                     512 62 Sedmihorky

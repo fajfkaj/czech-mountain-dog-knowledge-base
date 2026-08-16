@@ -1,50 +1,56 @@
-# ZDROJ: Spřežení č. 10, rok 1988, strana nezjištěna
+# ZDROJ: Spřežení č. 10, rok 1988, s. 6
 # SOUBOR: 54-1988-08_sprezeni_c_10.pdf
 # PDF_STRANA: 8
-# TISTENA_STRANA: nezjištěna
-# OCR: tesseract-5.3.4 / ces / conf 84.2
+# TISTENA_STRANA: 6
+# OCR: vision (AI dočtení, tesseract conf pod prahem)
 ---
-čs "B =
-zůstaňí a vzdálil se asi na 30-50 kroků, Pes musel zůstat na místě po celou A
-dobu ovičení dalšího. Nesměl vstát, ani se plížit k majiteli, Body 10-15,
-kolonka 3,
-Hodnocení podle získaného počtu bodů = klasifikace:
-41 - 45 bodů —- výborný
-36 = 40 bodů =- velmi dobrý
-28 = 35 bodů -= dobrý
-pod 28 bodů —- nesplnil
-Při nesplnění kteréhokoliv cviku je pes diskvalifikován a zkoušku nesplníl,
-Zkoušek se zúčastnilo celkem 22 psů, 1 odstoupil, Příště by bylo vhodnější
-některé mladé psy cvičit trochu déle a na zkoušky jít, až bude mít pes i mas
+- 6 -
+
+zůstaň! a vzdálil se asi na 30-50 kroků. Pes musel zůstat na místě po celou
+dobu cvičení dalšího. Nesměl vstát, ani se plížit k majiteli. Body 10-15,
+kolonka 3.
+Hodnocení podle získaného počtu bodů - klasifikace:
+     41 - 45 bodů  - výborný
+     36 - 40 bodů  - velmi dobrý
+     28 - 35 bodů  - dobrý
+     pod 28 bodů   - nesplnil
+Při nesplnění kteréhokoliv cviku je pes diskvalifikován a zkoušku nesplnil.
+
+Zkoušek se zúčastnilo celkem 22 psů, 1 odstoupil. Příště by bylo vhodnější
+některé mladé psy cvičit trochu déle a na zkoušky jít, až bude mít pes i ma-
 jitel vše perfektně zvládnuto.
-Děkuji všem majitelům za účast a př.Vodičkové za trpělivost s námi,
-Zájemci o další zkoušky napíší na mou adresu a Já jim podle zájmu (minimál-
-ní počet psů je 10) sdělím termín, V úvahu by zatím připadala jarní výroční
+Děkuji všem majitelům za účast a př. Vodičkové za trpělivost s námi.
+
+Zájemci o další zkoušky napíší na mou adresu a já jim podle zájmu (minimál-
+ní počet psů je 10) sdělím termín. V úvahu by zatím připadala jarní výroční
 členská schůze.
-O.Kupku
-majitel - pes 1 2 3 4 5 celk, hodnocení
-VoKrejčík = Alf Velká závěj 3 8 15 10 5 41 výborný
-P.Hanzlík - Aalborg Velká závěj 5 10 15 10 5. 45 výborný
-K.Fiala - Amigo Patnáctý poledník 4 91310 3 39 velmi dobrý
-B,Loučková -= Cabina Faranda 3 815 7 4 3 welmi dobrá
-V.Krejčík = Aportos Už jedou 4 10 1510 4.43 výborný
-D.Kupková - Cácora Faranda 5 10 12 10 4 41 výborná
-J.„Svobodová - Betyna od Hrčíř. luk 5 81510 3 41 rýbarná
-J.Šanovec - Adirondak Stráž n.Než. 3 8 10 3 32. dobrj
-J„Hepnar - Alta Modrý potok 5 10 12 5 41 výbarná
-D,Fošenbauerová - Bessy Bačova koliba 5 91510 4.4 výborná
-A ,Bisenmayer - Asta Údolí Kačáku 5 915 10 4. 43 výborná
-J.Chlum - Artan od Jankova kopce 4 715 7 3. 3 velmi dobrý
-T. Konečný - Athos Podcesný mlýn 4 81510 4 41 výborný
-R.Loučka = Dar Faranda 4 813 5 3 velmi dobrý
-J.Chlum - Furka Třebon=Kopeček 5 715 9 4.40 velmi dobrá
-P.Heidenreich | = Boro z Milety 5 8 15 10 3 41 výborný
-V,Kubr - Babeta na Mělích 4 - 10 -
-J.Chlum = Cézar od Jankova kopce 4 715 9 4. 39 velmi dobrý
-V.Krejčík -= Afrodita Hradecký lev 5 915 10 4.4 výborná
-J.Chlum - Danger od Jank.kopce 5 715 9 3 39. velmi dobrý
-M.Motejlek = Alka na Mělích 3 715 3 3 velmi dobrá
-J.Chlum = Dry Severní vítr 4 510 9 3 3 dobrý
+                                                              O. Kupka
+
+
+majitel              - pes                          1  2  3  4  5  celk.  hodnocení
+
+V.Krejčík             - Alf Velká závěj              3  8 15 10  5   41   výborný
+P.Hanzlík              - Aalborg Velká závěj          5 10 15 10  5   45   výborný
+K.Fiala                - Amigo Patnáctý poledník      4  9 13 10  3   39   velmi dobrý
+E.Loučková              - Cabina Faranda               3  8 15  7  4   37   velmi dobrá
+V.Krejčík               - Aportos Už jedou             4 10 15 10  4   43   výborný
+D.Kupková               - Cácora Faranda               5 10 12 10  4   41   výborná
+J.Svobodová              - Betyna od Hrčíř. luk        5  8 15 10  3   41   výborná
+J.Šanovec                - Adirondak Stráž n.Než.       3  8 10  8  3   32   dobrý
+J.Hepnar                 - Alta Modrý potok             5 10 12  9  5   41   výborná
+D.Fošenbauerová           - Bessy Bačova koliba         5  9 15 10  4   43   výborná
+A.Eisenmayer              - Asta Údolí Kačáku           5  9 15 10  4   43   výborná
+J.Chlum                   - Artan od Jankova kopce      4  7 15  7  3   36   velmi dobrý
+I.Konečný                 - Athos Podcesný mlýn         4  8 15 10  4   41   výborný
+R.Loučka                  - Dar Faranda                 4  8 13  7  5   37   velmi dobrý
+J.Chlum                   - Furka Třeboň-Kopeček        5  7 15  9  4   40   velmi dobrá
+P.Heidenreich             - Boro z Milety               5  8 15 10  3   41   výborný
+V.Kubr                    - Babeta na Mělích            4  -    10  -   -    -
+J.Chlum                   - Cézar od Jankova kopce      4  7 15  9  4   39   velmi dobrý
+V.Krejčík                 - Afrodita Hradecký lev       5  9 15 10  4   43   výborná
+J.Chlum                   - Danger od Jank.kopce        5  7 15  9  3   39   velmi dobrý
+M.Motejlek                 - Alka na Mělích              3  7 15  8  3   36   velmi dobrá
+J.Chlum                    - Dry Severní vítr            4  5 10  9  3   31   dobrý
+
 Je zajímavé, že bez vodítka (2) chodili psi lépe než na vodítku (1). Nej-
 častější chybou bylo násilné vodění (tahání) psa na vodítku u nohy.
--

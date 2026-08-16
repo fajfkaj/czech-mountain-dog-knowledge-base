@@ -1,52 +1,60 @@
-# ZDROJ: Spřežení č. 10, rok 1988, strana nezjištěna
+# ZDROJ: Spřežení č. 10, rok 1988, s. 34
 # SOUBOR: 54-1988-08_sprezeni_c_10.pdf
 # PDF_STRANA: 36
-# TISTENA_STRANA: nezjištěna
-# OCR: tesseract-5.3.4 / ces / conf 71.4
+# TISTENA_STRANA: 34
+# OCR: vision (AI dočtení, tesseract conf pod prahem)
 ---
-1.
-(r k n pom n né M S NS ny m S o S M YY B S 0 ŠÍ E: n S S S E o S n n v n n P B E u V o V S
+- 34 -
+
 ZÁPIS ZE SCHŮZE SPORTOVNÍ KOMISE ÚOK CHOVATELŮ PSŮ
-(R M o P r E K n n m S p S P P ny r S M o n S v E n n p oj r S P S P n n n P m o o
-3.9.1988 - zasedací místnost ÚV ČSCH, Praha - Kobylisy i
-Přítomni: za předsedu —- JUDr Karel Kocourek
-za KCHPSP Ing Jiří Krejčí
-Prantišek Topinka
-Ing Václav Němec
-František Rosík
-Warian Balaj
-za KCOHŮHP —- Petr Hanzlík
-Ing Jan Klír
-Ing Jan Šanoveo
-za KCHŮSV
-ZAHÁJENÍ
-přítomní se dohodli, že komise se bude scházet pravidelně -—
-koncem dubna | - vyhodnocení uplynulé sezóny
-začátkem září - pří rava nové sezóny a sestavení termínového ka-
-endáře
-—— =
-Schůzky se uskuteční vždy v sobotu dopoledne.
-ZPRACOVÁNÍ ZÁVODNÍHO TERMÍNOVÉHO KALENDÁŘE
-viz atr. 36 -— 37.
-Bylo dohodnuto, že závodní řád bude vycházet ze závodního řádu
-ESDRA, doplněného o národní specifikace. Nadcházející sezóna bude
-řízena podle již zpracované předlohy závodního řádu, který bude
-možné na dalších jednáních sportovní komise při ÚOK díle upřesnit.
-ČLENĚNÍ ZÁVODĚ
-Závody byly rozděleny na závody MISTROVSKÉ a KVALIFIKAČNÍ. Toto
-rozdělení bylo nutné jednak z NozdíTné úrovně závodníků A Z ome-
-zených ubytovacích kapacit pořadatelů,
-Vistrovské závody budou v sezóně 1989 čtyři:
-n —— 0 m m m
-KOKAVA = | KCHŮSV
-ZADOV -  KCHŮČHP
-HARRACHOV - KCHPSP
-SV.KATEŘINA —-  KCHŮHP  — pouze skijoring
-/kat. C,B jako kvalifikační/
-7 těchto čtyř závodů bude závod na Zadově současně mistrovstvím
-ÚSSR v kategorii skijoóring /lyžař a pes/ a závod v Harrachově mis-
-trovstvím ČSSR v kategorii C,B a skandinávské - dále značení S.
-vm
-Pořádáním mistrovství ČSSR bude na sezónu 1989/90 pověřen KOHŮSV.
-Body ze všech mistrovských závodů se budou započítávat do hodnoce=-
-ní Československého poháru.
+
+3.9.1988 - zasedací místnost ÚV ČSCH, Praha - Kobylisy
+
+Přítomni:  za předsedu   - JUDr Karel Kocourek
+
+           za KCHPSP     - Ing Jiří Krejčí
+                            František Topinka
+                            Ing Václav Němec
+
+           za KCHČSV     - František Rosík
+                            Marian Balaj
+
+           za KCHČHP     - Petr Hanzlík
+                            Ing Jan Klír
+                            Ing Jan Šanovec
+
+1. ZAHÁJENÍ
+   Přítomní se dohodli, že komise se bude scházet pravidelně -
+   koncem dubna    - vyhodnocení uplynulé sezóny
+   začátkem září   - příprava nové sezóny a sestavení termínového ka-
+                       lendáře
+   Schůzky se uskuteční vždy v sobotu dopoledne.
+
+2. ZPRACOVÁNÍ ZÁVODNÍHO TERMÍNOVÉHO KALENDÁŘE
+   viz str. 36 - 37.
+
+3. ZÁVODNÍ ŘÁD
+   Bylo dohodnuto, že závodní řád bude vycházet ze závodního řádu
+   ESDRA, doplněného o národní specifikace. Nadcházející sezóna bude
+   řízena podle již zpracované předlohy závodního řádu, který bude
+   možné na dalších jednáních sportovní komise při ÚOK dále upřesnit.
+
+4. ČLENĚNÍ ZÁVODŮ
+   Závody byly rozděleny na závody MISTROVSKÉ a KVALIFIKAČNÍ. Toto
+   rozdělení bylo nutné jednak z rozdílné úrovně závodníků a z ome-
+   zených ubytovacích kapacit pořadatelů.
+   Mistrovské závody budou v sezóně 1989 čtyři:
+
+        KOKAVA        - KCHČSV
+        ZADOV         - KCHČHP
+        HARRACHOV     - KCHPSP
+        SV.KATEŘINA   - KCHČHP - pouze skijöring
+                                  /kat. C,B jako kvalifikační/
+
+   Z těchto čtyř závodů bude závod na Zadově současně mistrovstvím
+   ČSSR v kategorii skijöring /lyžař a pes/ a závod v Harrachově mis-
+   trovstvím ČSSR v kategorii C,B a skandinávské - dále značení S.
+   Pořádáním mistrovství ČSSR bude na sezónu 1989/90 pověřen KCHČSV.
+
+   Body ze všech mistrovských závodů se budou započítávat do hodnoce-
+   ní Československého poháru.

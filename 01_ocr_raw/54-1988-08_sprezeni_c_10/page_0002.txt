@@ -2,5 +2,8 @@
 # SOUBOR: 54-1988-08_sprezeni_c_10.pdf
 # PDF_STRANA: 2
 # TISTENA_STRANA: nezjištěna
-# OCR: tesseract-5.3.4 / ces / conf 0.0
+# OCR: vision (AI dočtení, tesseract conf pod prahem); celostránková fotografie bez tištěného čísla strany
 ---
+[fotografie: skupina lidí a smečka psů ČHP odpočívající na lesní cestě u vozíku]
+
+foto O. Kupka

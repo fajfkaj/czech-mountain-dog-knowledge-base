@@ -1,32 +1,40 @@
-# ZDROJ: Spřežení č. 10, rok 1988, strana nezjištěna
+# ZDROJ: Spřežení č. 10, rok 1988, s. 21
 # SOUBOR: 54-1988-08_sprezeni_c_10.pdf
 # PDF_STRANA: 23
-# TISTENA_STRANA: nezjištěna
-# OCR: tesseract-5.3.4 / ces / conf 84.2
+# TISTENA_STRANA: 21
+# OCR: vision (AI dočtení, tesseract conf pod prahem); technický nákres postroje s popisky
 ---
-= 2l =
-„.
-*
-CHOMHOVT
-ŘEMEN k UPEVNĚNÍ
-| ou
-jn
+- 21 -
+
+[technický nákres postroje pro pulku s popisky:]
+CHOMOUT
+TÝLNÍ ŘEMEN
+PODPÍNKA
+ŘEMEN K UPEVNĚNÍ OJE
+PŘESTAVITELNÝ TAŽNÝ ŘEMEN
+ZADNÍ TAŽNÉ OKO
+KOŽENÉ POLŠTAŘOVÁNÍ
+RÁKOSOVÝ OBLOUK
+PŘEDNÍ TAŽNÉ OKO
+
 ROZMĚRY OJE PRO PULKU V cm:
-0 PŘÍMA
-450
-0) PRO TANDEM S OBLOUKEM 5 s 3 E |
-290
-O PRO TANDEM PŘÍMA |
-„ BáŘ |
-20 |
-oje
-Na obrázku jsou uvedeny rozměry ojí /vodících tyčí/ pro zá-
-přah jednoho psa i tandemu.
-Ovládací lanka
+
+OJ PŘÍMÁ                      48        150
+OJ S OBLOUKEM                 48        150
+OJ PRO TANDEM S OBLOUKEM      48        150       290
+OJ PRO TANDEM PŘÍMÁ           48        290
+
+Oje
+
+Na obrázku jsou uvedeny rozměry ojí /vodících tyčí/ pro zápřah jednoho psa
+i tandemu.
+
+Ovládací lanko
+
 Ovládacím lankem je lyžař spojen s pulkou. Ve Švédsku se po-
 užívá lanko dlouhé 3,5m, je spleteno z materiálu obdobného našemu
 viskocelu. Od oka, které se připíná karabinkou k opasku psovoda
-je pevná část půl metru dlouhá, následuje l,5m dlouhý gumový tlu=
+je pevná část půl metru dlouhá, následuje 1,5m dlouhý gumový tlu-
 mič nárazů při záběru psa, opletený stejným materiálem. Pevná,
 1,5m dlouhá část je zakončena karabinkou na připnutí k přední čás-
-ti pulky. Šňůra prochází 400m vysokou anténkou z nerezového drátu
+ti pulky. Šňůra prochází 40cm vysokou anténkou z nerezového drátu
