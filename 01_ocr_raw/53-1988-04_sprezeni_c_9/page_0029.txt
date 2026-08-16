@@ -1,101 +1,73 @@
-# ZDROJ: Spřežení č. 9, rok 1988, strana nezjištěna
+# ZDROJ: Spřežení č. 9, rok 1988, s. 27
 # SOUBOR: 53-1988-04_sprezeni_c_9.pdf
 # PDF_STRANA: 29
-# TISTENA_STRANA: nezjištěna
-# OCR: tesseract-5.3.4 / ces / conf 30.9
+# TISTENA_STRANA: 27
+# OCR: vision (AI dočtení, tesseract conf pod prahem); tabulka otočená o 90°, zde přepsána v běžném čtecím pořadí
 ---
-9T:90:1
-$b2:20:T
-92*To:T
-č6+96
-2126
-LE+2S
-L2:T6
-Sz:T6
-62:69
-82+6b
-00:87
-SG:
-04:99
-5019%
-T0+9$
-VAŘ
-9018£:T
-64:16
-62196
-LT+46
-OT:+$
-80124
-66+Ly
-Tb:S+
-+6:T$
-20:1
-10:09
-986T*2*L -*9
-REEF EP
-BŘanBBBSBBBUBBS8
-- „LO
-X9ILí snu8H *0G
-AeTSTUB1G Noupdejc *6b
-Jasor x9l910x "ob
-TATC A099 "Lb
-*uos ToJvy XPTANG *94
-T9Yo Tr JogT9TY *G+b
-unoxon *bb
-UBf 28A0TABA *C+
-ABTSOUT OSBTOXTN *2b
-poazTy JekouuosTY *TP
-TEC JeTINN *0b
-XTADNT UBNDOY *6C
-Jes0f BYSSNTA *8C
-ITUfYBTA A970 *E
-ABTSOITA XoTFo0x *9C
-FTP BY1016 *SC
-wipuvg FAOTOJNLYSSTOM *TI
-wueT paojdny *OT
-e130J BAOXISING *g
-BUTIKEJ BAOXSPS *G
-BAT PAOJONOT */
-eusIT paoxyTysren *9
-wyu9eT paorvudoj *G
-BTABJ PAOJADPSETE "4
-surs035y pAOSIpUV *£
-BTTMOJGOT PAOJOSTA *Z
-W4pc PAOTOUOTUT *T
-BABBRBBBSnBaBuBBBABB3B8BHBBBA 48885
-urTyley Toulky *pC
-AGTSOITA Xe2eTOH "EE
-UBAT Áugouoy *Z£
-uer o840u8G *[C
-T948g TAUNL *0E£
-ABTSoef FIA *62
-JTOpNy PETYD
-N9uepz T9FVITBA *92-L2
-jesop fpy *92
-AETBOIBT ur“oy -G2
-A6T8018f u9,0y *pz
-Jesop TWifous *CZ
-uef JIIX *22
-1494 99TTI93S *TZ
--T384 4g0%
-eso 4938T3 *02-6T
-oxPEI FY2NOT *9T
-Jesop meudey */T
-*PeTA 6p0:19 *9T
-T390 4035TA *ST
-*af Tedvy XpTANE *PT
-T9aBg xouDOJ *ET
-1TmogwT rodoy *ZT
-1304 uoTeduepreH *TT
-3TA jesnor *OT
-80 fJsa03TA *6
-Ted TTZUEH *G
-T9vy suoyfeH */
-ITUTPPTA X9Y001 *9
-ABTSOJB( XYSBTA *S
-USAT 190 *b
-Tervy xegrany *£
-uTuojuy BSOXTS *Z
-ABTOPA EYMON "T
-Tžmí“ — FUTIOTTNS
-HSS) JALSAOHISIN -
+ZÁVOD - MISTROVSTVÍ ČSSR                                        6.- 7.2.1988
+
+Skijöring - muži
+ 1. Kůrka Václav              ČHP   30:13
+ 2. Sikora Antonín             ČHP   31:03
+ 3. Kubíček Karel              ČHP   31:05
+ 4. Kobr Ivan                  NO    32:19
+ 5. Vlasák Jaroslav            ČHP   32:27
+ 6. Pechek Vladimír            ČHP   32:30
+ 7. Rejhons Karel              ČHP   33:35
+ 8. Hanzlík Petr               AM    34:24
+ 9. Vítovský Ota               SH    34:32
+10. Fousek Vít                 ČHP   34:36
+11. Heidenreich Petr           ČHP   35:20
+12. Nogol Lubomír              AM    35:53
+13. Pechek Pavel               ČHP   35:56
+14. Bublák Karel jr.           SH    37:42
+15. Elster Petr                ČHP   37:51
+16. Středa Vlad.               ČHP   38:00
+17. Hepnar Josef               ČHP   38:12
+18. Loučka Radko               ČHP   39:50
+19-20. Elster Josef            ČHP   39:51
+       Kobr Petr               ČHP   39:51
+21. Šterlíček Petr             AM    39:57
+22. Klír Jan                   ČHP   40:26
+23. Smejkal Josef              ČHP   41:03
+24. Koten Jaroslav             ČHP   41:16
+25. Komín Jaroslav             SH    41:39
+26. Hrdý Josef                 ČHP   42:07
+27-28. Fairaisl Zdeněk         ČHP   42:35
+       Chlad Rudolf            ČHP   42:35
+29. Vrzák Jaroslav             ČHP   43:26
+30. Tunkl Pavel                kříž. 43:45
+31. Šanovec Jan                ČHP   44:09
+32. Konečný Ivan               ČHP   44:16
+33. Holeček Miroslav           ČHP   45:32
+34. Kynel Martin               SH    45:37
+
+35. Štětka Jiří                ČHP   45:44
+36. Motejlek Miroslav          ČHP   46:01
+37. Kozák Vladimír             AM    46:05
+38. Mikáska Josef              SH    46:40
+39. Kocman Ludvík              ČHP   47:55
+40. Müller Jiří                ČHP   48:00
+41. Eisenmeyer Alfred          ČHP   49:28
+42. Mikolášek Miroslav         ČHP   49:29
+43. Pavlovec Jan               ČHP   51:25
+44. Vokoun                     ČHP   51:27
+45. Kleiber Michal             ČHP   52:37
+46. Bublák Karel sen.          SH    52:52
+47. Skrbek Jiří                ČHP   56:52
+48. Matějek Josef              ČHP   1:01:26
+49. Štěpánek Stanislav         ČHP   1:02:24
+50. Hanuš Marek                SH    1:06:16
+
+Skijöring - ženy
+ 1. Emichelová Šárka           ČHP   40:07
+ 2. Fišerová Dobromila         ČHP   41:02
+ 3. Andršová Kateřina          ČHP   41:54
+ 4. Hladíková Pavla            ČHP   45:41
+ 5. Hepnarová Lenka            ČHP   47:39
+ 6. Maršálková Irena           ČHP   52:08
+ 7. Loučková Eva               AM    54:10
+ 8. Pásková Martina            SH    54:17
+ 9. Bursíková Petra            ČHP   56:29
+10. Kupková Dana               SH    57:49
+11. Weisshäutelová Sandra      SH    1:38:06

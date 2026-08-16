@@ -1,104 +1,44 @@
-# ZDROJ: Spřežení č. 9, rok 1988, strana nezjištěna
+# ZDROJ: Spřežení č. 9, rok 1988, s. 28
 # SOUBOR: 53-1988-04_sprezeni_c_9.pdf
 # PDF_STRANA: 30
-# TISTENA_STRANA: nezjištěna
-# OCR: tesseract-5.3.4 / ces / conf 32.4
+# TISTENA_STRANA: 28
+# OCR: vision (AI dočtení, tesseract conf pod prahem); tabulka otočená o 90° (pokračování ze s.27), zde přepsána v běžném čtecím pořadí; sken v kategorii B degradovaný (přesah textu/nízký kontrast) - jedna hodnota nečitelná; + fotografie
 ---
-Z TTFino4spo *CG oT4g uoTT1OD938 UDOSA 3A UDTO1ČNYIV3s MeXTOJ
-TS: 0
-91:94
-ST:T+
-44:96
-96:96
-$6rve
-ab:€£
-22:2£
-60:2£
-96106
-86:4
-92:46
-96:66
-6:06
-T207
-96:64
-26:94
-T6:6+
-Lb:tv
-Lo:€4
-89:4
-21:4
-12:0%
-60:6£
-£T:6£
-c6:1£
-SC*LE
-210£
-21:46
-BOITÉ
-(sde10youy)
-(uotgTy)
-(Akavo)
-(uo4oy)
-(c0Teg)
-(9T1sng)
-(PTPV)
-(91x10)
-(xra)
-(větovy)
-( veužejy)
-(surs3y)
-(soyzy)
-(9ue914ny)
-(4pusag)
-(Tessy)
-(usaegepTy)
-(AeiT)
-(2s8e1y)
-(suy)
-(9F00g)
-(ue1T9)
-(+Tovuv)
-(03T)
-(srTus34y)
-( XoBTA)
-(008T9)
-(343g)
-(A9uB)
-(say)
-EBBBBĚ
-B
-BS
-HS
-dFE9
-8z74g .*0T
-430g J938Ta *6
-Uef unTUD *8
-J9s0( 8B20y *L
-9z6f *g
-xegTyWe1j sfoTog *G
-ITUTPETA Xouo0g *$
-wep fuoseg *£
-uoripurr NoOPIDOS *Z
-usaI 39s *T
-a op10503wy
-eueT pAOydny +02
-uTuozuy eyTesoy *6T
-uear fusouoy *9T
-ABTOBA 835 *2T
-*0'desuep- *9T
-1TUTOVTA 'XAFUIog2 *ST
-Jessop Teudéy: *pT
-ABTSOITN-XegeToH *£T
-usf ITTX *2T
-4mmognT-89903$ *TT
-x9uepz JBTOy *OT
-ABTOVA MN *6
-MesTiueij efurdoL *9
-Te4vy UmuL */
-OXD6H EX2NOT *9
-1304 Ja0y *G
-*1( ToJsy xXpTANgS *+
-139 WoTeJuspTou *C
-UBAI Iagoy *2
-TA TOUOTUJ *T
-D oT4OJSjry
+Kategorie C
+ 1. Emichel Jiří         ČHP (Akeas)       31:08
+ 2. Kobr Ivan            ČHP (Canek)       34:12
+ 3. Heidenreich Petr     ČHP (Bert)        36:22
+ 4. Bublák Karel jr.     SH  (Cisco)       37:16
+ 5. Kobr Petr            ČHP (Black)       37:55
+ 6. Loučka Radko         ČHP (Artemis)     39:13
+ 7. Tůma Karel           AM  (Altok)       39:09
+ 8. Topinka František    SH  (Anadír)      40:21
+ 9. Kůrka Václav         ČHP (Ciran)       41:12
+10. Kolář Zdeněk         AM  (Bodie)       41:48
+11. Stočes Lubomír       AM  (Ans)         43:07
+12. Klír Jan             ČHP (Aragac)      43:47
+13. Holeček Miroslav     ČHP (Drak)        43:51
+14. Hepnar Josef         ČHP (Aldebaran)   45:37
+15. Zborník Vladimír     AM  (Assai)       45:56
+16. Jančar O.            SH  (Brandy)      48:21
+17. Kíta Václav          AM  (Huricane)    50:34
+18. Konečný Ivan         ČHP (Athos)       53:36
+19. Veselka Antonín      AM  (Ataina)      54:26
+20. Kupková Dana         ČHP (Artagnan)    54:38
+
+Kategorie B
+ 1. Síbrt Ivan           SH  (Atacama)     30:36
+ 2. Sedláček Jindřich    SH  (Dix)         32:09
+ 3. Pečený Jan           SH  (Dixie)       32:22
+ 4. Pechek Vladimír      ČHP (Adid)        33:48
+ 5. Dolejš František     SH  (Dustie)      34:34
+ 6. Ježek                SH  (Baloo)       36:36
+ 7. Nečas Josef          SH  (Acron)       41:15
+ 8. Chlum Jan            ČHP (Cavyk)       45:16
+ 9. Elster Petr          ČHP (Albion)      [nečitelné]
+10. Bříza                ČHP (Anchorage)   50:51
+
+Celkem startujících ve všech kategoriích bylo 93, odstoupili 2
+
+[fotografie: muž na běžeckých lyžích (č. 80 na dresu) tažený velkým psem na vodicí lince,
+v pozadí sněžná krajina a turistický směrový ukazatel]
