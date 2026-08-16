@@ -1,50 +1,69 @@
-# ZDROJ: Spřežení č. 8, rok 1987, strana nezjištěna
+# ZDROJ: Spřežení č. 8, rok 1987, s. 32
 # SOUBOR: 52-1987-11_sprezeni_c_8.pdf
 # PDF_STRANA: 34
-# TISTENA_STRANA: nezjištěna
-# OCR: tesseract-5.3.4 / ces / conf 77.7
+# TISTENA_STRANA: 32
+# OCR: vision (AI dočtení, tesseract conf pod prahem); obsahuje tabulku termínů závodů
 ---
--= 32 =
-TERMÍNY ZÁVODŮ 87/88
-Zápis z koordinační schůzky sportovní komise konané v Praze dne 7,11.87
-Přítomní: předseda KCHPSP
-jednatel KCHPSP
-ing Krejčí Jiří
-ing Němec Václav
-předseda KCHČHP = Hanzlík Petr
-místopředs. KCHČHP |- Kobr Ivan
-člen KCHČHP = ing Šanovec Jan .
-„ sportoved, KCHČVČ © « Balaj Marian
-ÚoK ÚV ČSCH = ač zváni, opět bez účasti '
-Program: | Zahájení , ME 59 ver =
-Vypracování termínového kalendáře závodů pro sezonu 87-88,
+- 32 -
+
+                                    TERMÍNY ZÁVODŮ 87/88
+                    Zápis z koordinační schůzky sportovní komise konané v Praze dne 7.11.87
+
+
+Přítomni:   předseda KCHPSP          - ing Krejčí Jiří
+            jednatel KCHPSP          - ing Němec Václav
+            předseda KCHČHP          - Hanzlík Petr
+            místopředs. KCHČHP       - Kobr Ivan
+            člen KCHČHP              - ing Šanovec Jan
+            sport.ved. KCHČVČ        - Balaj Marian
+ÚOK ÚV ČSCH - ač zváni, opět bez účasti
+
+Program:    Zahájení
+            Vypracování termínového kalendáře závodů pro sezónu 87-88.
+
 Bylo dohodnuto a schváleno:
-Termín Místo Pořadatel - zodpovědný vedoucí | ..
-19. = 20.12.87 Pec pod Sněžkou ČHP Ivan Kobry chata: Racek, =
-; S42 21 Pec.pod Sněžkou
-9, né 10, 1.88 Ostrava PSP Luboš Stočes, 2
-747 M Kozmice 52
-16. = 17. 1.88 Kokava čvč Marian Balaj, Fobruárového víťazstva 223
-987 01 Polt
-23. - 24. 1,88 NDR = Oberhof VKSK — Helmut Hamann, Jutorboger=Tor 21b,
-1710 Lůckemralde, PF 08/14 DDR
-30. = 31. 1.68 Sv.Kateř ina ČHP Petr Elster,
-u — 380 01 Dačice 93/1
-6. = 7. 2.88 Zadov ČHP Petr Hanzlfk Seejnna 648
-na Šumavě n ea 378 21 Kardašova. lečíce 2 :
-13. « 4. 2.83 Jizerské hory PSP © MUDr dvan Brabec, Fučíkova 9,
-= Bedřichov 46001 Libre 0
-20. = 21. 2.09 Harrachov PSP Ing Jiří Krejčí Lanová dráha, =
-27. = 28. 2,80 Moldava PSP František Dolejší
-< AVT 62 Rtyněenad Bílinou |
-T. = 13. 3.88 Memoriál ČHP Jan Chlum, Partizánská 1236
-Dr V. Vojtěcha 543 01 Vrehlábí ©
-= Krkonoše a 9
-Z toho jsou o pohár ČSSR: Pec, Kokava, SveKateřina, Zadov, Jizerské hory, Harrachov J
-ZADOV je zároven mistrovstvím ČSSR.
-Pravidla Čs „poháru
-Pohárové závody se vypisují v kategorii C 2=3 psí, B 3-6 psů a buď ski jóring ne=
-bo skandinávská, Skandinávská třída se pořádá v Jizerských horách a v Harrachově. V 0s= '
-tatních pohárových závodech a na mistrovství ČSSR se jede skijoring. Na Kokavě dvoukolověo
-V zápřahu spích teamů se ze 6 vypsaných závodů do pohéru započítávají 4 nejúspěšnější.
-Ve skijoringu ze 4 závodů 3 a ve třídě skandinávská oba.
+
+Termín              Místo                    Pořadatel   zodpovědný vedoucí
+
+19. - 20.12.87       Pec pod Sněžkou          ČHP         Ivan Kobr, chata Racek,
+                                                            542 21 Pec pod Sněžkou
+
+ 9. - 10. 1.88        Ostrava                  PSP         Luboš Stočes,
+                                                            747 11 Kozmice 52
+
+16. - 17. 1.88        Kokava                   ČvČ         Marian Balaj, Februárového víťazstva 223
+                                                            987 01 Poltár
+
+23. - 24. 1.88        NDR - Oberhof            VKSK        Helmut Hamann, Jüterboger-Tor 21b,
+                                                            1710 Lückenwalde, PF 08/14 DDR
+
+30. - 31. 1.88        Sv.Kateřina              ČHP         Petr Elster,
+                                                            380 01 Dačice 93/1
+
+ 6. -  7. 2.88        Zadov na Šumavě          ČHP         Petr Hanzlík, Smetanova 648,
+                                                            378 21 Kardašova Řečice
+
+13. - 14. 2.88        Jizerské hory - Bedřichov PSP        MUDr Ivan Brabec, Fučíkova 9,
+                                                            460 01 Liberec
+
+20. - 21. 2.88        Harrachov                PSP         Ing Jiří Krejčí, Lanová dráha,
+                                                            512 46 Harrachov
+
+27. - 28. 2.88        Moldava                  PSP         František Dolejš,
+                                                            417 62 Rtyně nad Bílinou 1
+
+11. - 13. 3.88        Memoriál Dr V. Vojtěcha  ČHP         Jan Chlum, Partizánská 1236
+                       - Krkonoše                          543 01 Vrchlabí
+
+Z toho jsou o pohár ČSSR: Pec, Kokava, Sv.Kateřina, Zadov, Jizerské hory, Harrachov
+
+ZADOV je zároveň mistrovstvím ČSSR.
+
+Pravidla Čs.poháru
+
+Pohárové závody se vypisují v kategorii C 2 - 3 psi, B 3 - 6 psů a buď skijöring ne-
+bo skandinávská. Skandinávská třída se pořádá v Jizerských horách a v Harrachově. V os-
+tatních pohárových závodech a na mistrovství ČSSR se jede skijöring. Na Kokavě dvoukolově.
+
+V zápřahu spřích teamů se ze 6 vypsaných závodů do poháru započítávají 4 nejúspěšnější.
+Ve skijöringu ze 4 závodů 3 a ve třídě skandinávská oba.

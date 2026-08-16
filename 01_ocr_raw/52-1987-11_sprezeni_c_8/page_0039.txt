@@ -1,40 +1,35 @@
-# ZDROJ: Spřežení č. 8, rok 1987, strana nezjištěna
+# ZDROJ: Spřežení č. 8, rok 1987, s. 37
 # SOUBOR: 52-1987-11_sprezeni_c_8.pdf
 # PDF_STRANA: 39
-# TISTENA_STRANA: nezjištěna
-# OCR: tesseract-5.3.4 / ces / conf 72.2
+# TISTENA_STRANA: 37
+# OCR: vision (AI dočtení, tesseract conf pod prahem); obsahuje fotografii psa
 ---
-0 j—-*
-(—
-k-
--37
-Pozvánku a propozice na první závody v NOR v Obsrhořu, konané 23. = 24, 1. 198B, dos-
-tal Petr Hanzlík, Ubytování s jídlem stojí na den 854 marek, startovné 30;=. Uzávěr=
-ka přihlášek —- do 30,11.67 L Organizační skupina: Christa Hamann, Juterboger=Tor 21b,
-V710 Luckenwalde, DDR.
-Oddíl vysokohorské turistiky TJ VŠ Praha pořádán. Lýdnu 06 5, do 13.3.88 lyžařský pře-
-jezd rumunských hor (8 = 10 osob) s 1 - 2 psími spřeženimi, Cesta bud autobusem nebo
-osobními auty. Informace a přihlášky do 1512487 na adrese: Dr Hádek, VŮRV Praha 6 = Ru-
-zyně. Tel. do zaměstnání: Praha « 36 08 51. zo
-rých nám na zakázku naohýbati oblouky k saním (madla, nárazníky) a oje
-základě požadavku mně bylo přislíbeno, že 1 pro tuto seonu ném vyhoví.
-písemných objednávek jsem osobně do JIPRa zaje), Musím ovšem tlumočit pro
-dostnou skutečnost. Tonkim byl dovážen výhradně z Malaisie jeko Surovina. V součas-
-né době další dodávky nebyly potvrzeny, protože místo suroviny budo malájet vývá-
-žet jen hotové výrobky A tak do doby vyjednání náhradního zdroje budeme muset poč-
-kat I my, Petr Hanzlík O
-V minulém roce jsem zajistil v JiPRu = Lomíce nad Lužnicí
-: +8
-j v) Ď
-LW 5 M
-t v ; " (0 o we
-j “, cr ee A hy
-j e .
-b
-“ 1 “ M
-. pe -
-' jb
-- -» =
-=: — = ZZ. bm
+- 37 -
+
+Pozvánku a propozice na první závody v NDR v Oberhofu, konané 23. - 24. 1. 1988, dos-
+tal Petr Hanzlík. Ubytování s jídlem stojí na den 85,- marek, startovné 30,-. Uzávěr-
+ka přihlášek - do 30.11.87 ! Organizační skupina: Christa Hamann, Jüterboger-Tor 21b,
+1710 Lückenwalde, DDR.
+
+
+Oddíl vysokohorské turistiky TJ VŠ Praha pořádá v týdnu od 5. do 13.3.88 lyžařský pře-
+jezd rumunských hor (8 - 10 osob) s 1 - 2 psími spřeženími. Cesta buď autobusem nebo
+osobními auty. Informace a přihlášky do 15.12.87 na adrese: Dr Hádek, VÚRV Praha 6 - Ru-
+zyně. Tel. do zaměstnání: Praha - 36 08 51.
+
+
+V minulém roce jsem zajistil v JIPRu - Lomnice nad Lužnicí tonkinové pruty, ze kte-
+rých nám na zakázku naohýbali oblouky k saním (madla, nárazníky) a oje k pulkám. Na
+základě požadavku mně bylo přislíbeno, že i pro tuto sezonu nám vyhoví. Dle vašich
+písemných objednávek jsem osobně do JIPRa zajel. Musím ovšem tlumočit pro nás nera-
+dostnou skutečnost. Tonkin byl dovážen výhradně z Malajsie jako surovina. V součas-
+né době další dodávky nebyly potvrzeny, protože místo suroviny budou malajci vyvá-
+žet jen hotové výrobky. A tak do doby vyjednání náhradního zdroje budeme muset poč-
+kat i my.
+                                                                            Petr Hanzlík
+
+
+[fotografie: pes u boudy/saní ve sněhu]
+
 Alka Faranda
-Atlas Studená=Javoř ice foto V.Švancara
+Atlas Studená-Javořice                                                     foto V.Švancara

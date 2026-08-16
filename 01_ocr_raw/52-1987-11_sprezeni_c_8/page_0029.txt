@@ -1,37 +1,40 @@
-# ZDROJ: Spřežení č. 8, rok 1987, strana nezjištěna
+# ZDROJ: Spřežení č. 8, rok 1987, s. 27
 # SOUBOR: 52-1987-11_sprezeni_c_8.pdf
 # PDF_STRANA: 29
-# TISTENA_STRANA: nezjištěna
-# OCR: tesseract-5.3.4 / ces / conf 81.2
+# TISTENA_STRANA: 27
+# OCR: vision (AI dočtení, tesseract conf pod prahem); obsahuje fotografii pulky
 ---
->
-= 2:
+- 27 -
+
 ré přišly poštou ze Švédska v dezolátním stavu, nebyla laminátová oj dodána. Na obrázku
-na předešlé straně je schematický nákros pulky v měřítku 1 + 10, na fotografii pak pul-
-ka s naším Dagem. :
+na předešlé straně je schematický nákres pulky v měřítku 1 : 10, na fotografii pak pul-
+ka s naším Dagem.
+
 Možnost amatérské výroby
-Skořepinu pulky Izo vyrobit kladením jednotlivých vrstev skelné tkaniny na formu a Im-
-pregnováním pryskyřicí obsopeko jako jsou zhotovovány sportovní lodě. Při výrobě menšího
-počtu kusů lze použít formy posítivn („kopyta“) = tkanina se na povrch tohoto „kopyta"
-pokládá, Dostaneme hladký vnitřní povrch, vnější povrch skořepiny (na tom nám záleží)
-je nutno pracně tmolit a brousite
-Pro větší počet výrobků je Výhodnější podle kopyta vyrobit formu negativní = tkanina
-se vkládá do dutiny formy, Dostáváme vnější povrch dokonale hladký, který již není nut=
-no opracovávat « , akallk s
-Pro skořepinu 0 bojštce 3 mm je třeba položit 5 vrstev, spotřebo skolná tkaniny
-V 99365 bude 4 pa spotřeba pryskyřice ChS=Polyester 104 Z kg, Při cenách z ro-
-ku 1986 21,=Kčs/m“ skelné tkaniny 2- is/ka pryskyřice (balení po 10 kg), příjde
-pulka bez Šustákovíny na 130,=Kčse © A
-měl dobu 5 hodin. Výroba formy je pracná,
-Vlastní laminování je práce nenáročná, něpřek
-vyžaduje řemeslnou zručnost a je nákladná Ovšem v rámci činnosti klubu by bylo poř íze=
-m se, že zhotovení formy pro výrobu
-nf formy pro laminování pulek rentabilní, Domm
-bude podstatně méně náročné než zhotovení klasických | spřežení. Při opatrné
-práci je forma na rozdíl od pulky nozničítelné a umožní vyrobit děsítky pulek = každému
-majiteli psa pak jozdit s pulkou, což je jednou Z náplní Čínno Jubu chovatelů CHP.
-Literatura o laminování Su ar ja -rý na
-MEP, 4.
-P. Mik: Amatérská výroba laminátových kánoí a kaj ! s 0 pia,. 1980
-M. Rejman: Co a jak s polyesterovými laminátys SMTLy 1978- 1
-E SPR Stanislav Štěpánek
+
+Skořepinu pulky lze vyrobit kladením jednotlivých vrstev skelné tkaniny na formu a im-
+pregnováním pryskyřicí obdobně jako jsou zhotovovány sportovní lodě. Při výrobě menšího
+počtu kusů lze použít formy positivní ("kopyta") - tkanina se na povrch tohoto "kopyta"
+pokládá. Dostaneme hladký vnitřní povrch, vnější povrch skořepiny (na tom nám záleží)
+je nutno pracně tmelit a brousit.
+Pro větší počet výrobků je výhodnější podle kopyta vyrobit formu negativní - tkanina
+se vkládá do dutiny formy. Dostáváme vnější povrch dokonale hladký, který již není nut-
+no opracovávat.
+Pro skořepinu o tloušťce 3 mm je třeba položit 5 vrstev, spotřeba skelné tkaniny
+v 99-365 bude 4 m² a spotřeba pryskyřice ChS-Polyester 104 2 kg. Při cenách z ro-
+ku 1986 21,-Kčs/m² skelné tkaniny a 23,50Kčs/kg pryskyřice (balení po 10 kg), přijde
+pulka bez šustákoviny na 130,-Kčs.
+Vlastní laminování je práce nenáročná, nepřekročí dobu 5 hodin. Výroba formy je pracná,
+vyžaduje řemeslnou zručnost a je nákladná. Ovšem v rámci činnosti klubu by bylo pořízení
+formy pro laminování pulek rentabilní. Domnívám se, že zhotovení formy pro výrobu
+bude podstatně méně náročné než zhotovení klasických saní pro psí spřežení. Při opatrné
+práci je forma na rozdíl od pulky nezničitelná a umožní vyrobit desítky pulek - každému
+majiteli psa pak jezdit s pulkou, což je jednou z náplní činnosti Klubu chovatelů ČHP.
+
+Literatura o laminování
+
+P. Mik: Amatérská výroba laminátových kánoí a kajaků. Olympia, 1980
+M. Rejman: Co a jak s polyesterovými lamináty. SNTL, 1972
+                                                                    Stanislav Štěpánek
+
+[fotografie: pulka na trávě se psem]

@@ -2,10 +2,14 @@
 # SOUBOR: 52-1987-11_sprezeni_c_8.pdf
 # PDF_STRANA: 40
 # TISTENA_STRANA: nezjištěna
-# OCR: tesseract-5.3.4 / ces / conf 70.2
+# OCR: vision (AI dočtení, tesseract conf pod prahem); obsahuje fotografii štěněte, poslední strana s tiráží
 ---
-Cedrana Faranda - 6 týdnů
-(OSR OAK AC NO OE 0 OU VÍ O P YO NÉ OCCC Y
+[fotografie: štěně]
+
+Cedrana Faranda - 8 týdnů                                                  foto O.Kupka
+
+
 SPŘEŽENÍ - časopis Klubu chovatelů českého horského psa vychází pouze pro členy Klubu.
-Konečnou redakci a přípravu pro tisk provádí: Oldřich Kupka, 391 76 Slapy u Tábora 45
+Konečnou redakci a přípravu pro tisk provádí:      Oldřich Kupka, 391 76 Slapy u Tábora 45
+
 Uzávěrka příštího čísla je 31.3.1988 !
